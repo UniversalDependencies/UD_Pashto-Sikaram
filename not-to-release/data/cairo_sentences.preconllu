@@ -12,7 +12,7 @@ Number=Sing|
 Poss=Yes|
 PronType=Prs|
 Reflex=Yes"	3	det
-3	ملګري	mlgri	mëlgë́ri	ملګری 	mlgry	mëlgë́ray	friend	NOUN	"Case=Acc|
+3	ملګري	mlgri	mëlgë́ri	ملګری	mlgry	mëlgë́ray	friend	NOUN	"Case=Acc|
 Gender=Masc|
 Number=Sing"	6	obl
 4	ته	th	ta	-			to	ADP	Case=Acc	3	case
@@ -28,10 +28,10 @@ Tense=Past|
 VerbForm=Fin"	0	root
 7	.	.	.	-			.	PUNCT	_	6	punct
 
-# sent_id = cairo-s2											
+# sent_id = cairo-s2
 فکر کوم چې باران ورېږي.
 fkr kwm če baran wreǧi.
-fekr kawë́m če bârấn wëreǧí.
+fekr kawë́m če bârấn wëreǧí.
 I think that it is raining.
 1	فکر	fkr	fekr	-			thought	NOUN	"Case=Nom|
 Gender=Masc|
@@ -43,7 +43,7 @@ Person=1|
 Tense=Pres|
 VerbForm=Fin"	0	root
 3	چې	če	če	-			that	SCONJ	_	5	mark
-4	باران	baran	bârấn	-			rain	NOUN	"Case=Nom|
+4	باران	baran	bârấn	-			rain	NOUN	"Case=Nom|
 Gender=Masc|
 Number=Sing"	5	nsubj
 5	ورېږي	wreǧi	wëreǧí	ورېدل	wredl	wëredë́l	rain	VERB	"Aspect=Imp|
@@ -115,7 +115,7 @@ VerbForm=Fin"	0	root
 3	لاړ	laṛ	lâṛ	تلل	tll	tlël	go	VERB	"Mood=Sub|
 Variant=Short|
 VerbForm=Inf"	1	ccomp
-4	شې	še	še	کېدل 	kedl	kedë́l	become	AUX	"Mood=Ind|
+4	شې	še	še	کېدل	kedl	kedë́l	become	AUX	"Mood=Ind|
 Number=Sing|
 Person=2|
 VerbForm=Fin"	3	aux
@@ -344,7 +344,7 @@ Gender=Masc|
 Number=Sing|
 Tense=Past|
 VerbForm=Part"	10	aux
-9	شوای	šway	šwây	کېدل 	kedl	kedë́l	become	AUX	"Aspect=Perf|
+9	شوای	šway	šwây	کېدل	kedl	kedë́l	become	AUX	"Aspect=Perf|
 Case=Nom|
 Gender=Masc|
 Number=Sing|
@@ -353,10 +353,10 @@ VerbForm=Part"	8	aux
 10	وټاکل	wṭakl	wë́ṭâkël	ټاکل	ṭakl	ṭâkë́l	select	VERB	"Aspect=Perf|
 Case=Nom|
 VerbForm=Inf"	0	root
-11	شي	ši	ši	کېدل 	kedl	kedë́l	become	AUX	"Mood=Sub|
+11	شي	ši	ši	کېدل	kedl	kedë́l	become	AUX	"Mood=Ind|
 Person=3|
-VerbForm=Fin"	12	aux:pass
-12	.	.	.	-			.	PUNCT	_	12	punct
+VerbForm=Fin"	10	aux:pass
+12	.	.	.	-			.	PUNCT	_	10	punct
 
 # sent_id = cairo-s12
 په دوی کې هیڅوک نه پوهېږي چې چا دا ولیکل.
@@ -396,7 +396,7 @@ Mood=Ind|
 Number=Plur|
 Person=3|
 Tense=Past|
-VerbForm=Part"	6	ccomp
+VerbForm=Fin"	6	ccomp
 12	.	.	.	-			.	PUNCT	_	10	punct
 
 # sent_id = cairo-s13
@@ -442,7 +442,7 @@ Gender=Masc|
 Number=Sing|
 Tense=Past|
 VerbForm=Part"	0	root
-6	شې	še	še	کېدل 	kedl	kedë́l	become	AUX	"Mood=Sub|
+6	شې	še	še	کېدل	kedl	kedë́l	become	AUX	"Mood=Ind|
 Number=Sing|
 Person=2|
 VerbForm=Fin"	5	aux
@@ -562,7 +562,7 @@ PronType=Ind"	11	det
 11	دلیل	dlyl	dâlíl	-			reason	NOUN	"Case=Acc|
 Gender=Masc|
 Number=Sing"	19	obl
-12	له	lh	la				from	ADP	Case=Acc	11	case
+12	له	lh	la	-			from	ADP	Case=Acc	11	case
 13	امله	amlh	amála	-			because of	ADP	Case=Acc	11	case
 14	یې	ye	ye	-			them	PRON	"Case=Acc|
 Person=3|
@@ -599,14 +599,14 @@ PronType=Prs"	8	nsubj
 2	ګام	gam	gâm	-			step	NOUN	"Case=Nom|
 Gender=Masc|
 Number=Sing"	8	obj
-3-4	ورسره	wrsrh	wársara	-			_	_	_	_	_
+3-4	ورسره	wrsrh	wársara	_			_	_	_	_	_
 3	ور	wr	war	-			he/she/it/they	PRON	"Person=3|
 PronType=Prs"	8	obl
 4	سره	srh	sará	-			with	ADP	Case=Acc	3	case
-5-6	ونه	wnh	wënë́	-			_	_	_	_	_
+5-6	ونه	wnh	wënë́	_			_	_	_	_	_
 5	و	w	wë	-			(perfective)	PART	Aspect=Perf	8	compound:prt
 6	نه	nh	në	-			no	PART	Polarity=Neg	8	advmod
-7	شوای	šway	šwây	کېدل 	kedl	kedë́l	become	AUX	"Aspect=Perf|
+7	شوای	šway	šwây	کېدل	kedl	kedë́l	become	AUX	"Aspect=Perf|
 Case=Nom|
 Gender=Masc|
 Number=Sing|
@@ -673,7 +673,7 @@ PronType=Prs"	11	obl
 Case=Nom|
 Gender=Masc|
 Number=Sing|
-Tense=Pres|
+Tense=Past|
 VerbForm=Part"	6	conj
 12	دی	dy	day	یم	ym	yëm	is	AUX	"Gender=Masc|
 Mood=Ind|
@@ -687,7 +687,7 @@ VerbForm=Fin"	11	aux
 په پاریس کې لویه شوې ده، د فرانسې په پلازمېنه کې.
 ph parys ke lwyh šwe dh, d franse ph plazmenh ke.
 pë pârís ke lóya šë́we da, dë frânsé pë plâzmená ke.
-She grew up in Paris, the capital of France.											
+She grew up in Paris, the capital of France.
 1	په	ph	pë	-			in	ADP	Case=Nom	2	case
 2	پاریس	parys	pârís	-			Paris	PROPN	"Case=Nom|
 Gender=Masc|
@@ -696,7 +696,7 @@ Number=Sing"	5	obl
 4	لویه	lwyh	lóya	لوی	lwy	loy	big	ADJ	"Case=Nom|
 Gender=Fem|
 Number=Sing"	5	xcomp
-5	شوې	šwe	šë́we	کېدل 	kedl	kedë́l	become	VERB	"Aspect=Perf|
+5	شوې	šwe	šë́we	کېدل	kedl	kedë́l	become	VERB	"Aspect=Perf|
 Case=Nom|
 Gender=Fem|
 Number=Sing|

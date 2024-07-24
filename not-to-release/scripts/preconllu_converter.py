@@ -88,7 +88,7 @@ class PreconnluSentence:
                     ["_", token_line[self.TRANSCRIPT], token_line[self.LEMMA_TRANSCRIPT]]:
                 gloss = f"Gloss={token_line[self.TRANSLATION]}"
             misc_items = [item for item in [translit, ltranslit, gloss] if item]
-            misc = "|".join(misc_items)
+            misc = "|".join(misc_items) if misc_items else "_"
 
             conllu_fields = [ord, form, lemma, upostag, xpostag,
                              feats, head, deprel, deps, misc]
@@ -127,8 +127,6 @@ class PreconlluConverter:
     def convert_sentences(self, file=stdout):
         for sentence in self.sentences:
             sentence.convert(file)
-            if sentence is not self.sentences[-1]:
-                print("", file=file)
 
 
 def main():
