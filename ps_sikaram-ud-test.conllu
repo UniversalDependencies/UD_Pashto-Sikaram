@@ -198,11 +198,11 @@
 # text_en = When do you think you can come?
 1	ستا	ستا	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Translit=stâ|Gloss=your (sg)
 2	په	په	ADP	_	Case=Nom	3	case	_	Translit=pë|Gloss=on/according
-3	نظر	نظر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	Translit=nazár|Gloss=thought/opinion
-4	کله	کله	ADV	_	_	7	advmod	_	Translit=kë́la|Gloss=when
-5	راتلی	راتلل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	Translit=rấtlay|LTranslit=râtlë́l|Gloss=come
+3	نظر	نظر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	Translit=nazár|Gloss=thought/opinion
+4	کله	کله	ADV	_	_	5	advmod	_	Translit=kë́la|Gloss=when
+5	راتلی	راتلل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=rấtlay|LTranslit=râtlë́l|Gloss=come
 6	شې	کېدل 	AUX	_	Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	5	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become
-7	؟	؟	PUNCT	_	_	7	punct	_	Translit=?
+7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?
 
 # sent_id = cairo-s15
 # text = هغۀ موټر واخيستۀ مګر ورور یې یوازې بایسکل.
@@ -288,7 +288,7 @@
 13	خورا	خورا	ADV	_	_	14	advmod	_	Translit=xwarấ|Gloss=too
 14	ژرژر	ژرژر	ADV	_	_	16	advmod	_	Translit=žëržë́r|Gloss=fast
 15	منډه	منډه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=më́nḍa|Gloss=run(ning)
-16	وهله	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=wahë́la|LTranslit=wahë́l|Gloss=beat
+16	وهله	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	Translit=wahë́la|LTranslit=wahë́l|Gloss=beat
 17	.	.	PUNCT	_	_	8	punct	_	
 
 # sent_id = cairo-s19
