@@ -127,6 +127,8 @@ class PreconlluConverter:
     def convert_sentences(self, file=stdout):
         for sentence in self.sentences:
             sentence.convert(file)
+            print("", file=file)
+
 
 
 def main():

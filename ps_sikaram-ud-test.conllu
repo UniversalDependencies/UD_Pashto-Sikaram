@@ -10,6 +10,7 @@
 5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|Gloss=letter
 6	ولیکه	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=write
 7	.	.	PUNCT	_	_	6	punct	_	_
+
 # sent_id = cairo-s2
 # text = فکر کوم چې باران ورېږي.
 # translit_1 = fkr kwm če baran wreǧi.
@@ -21,6 +22,7 @@
 4	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=bârấn|Gloss=rain
 5	ورېږي	ورېدل	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Translit=wëreǧí|LTranslit=wëredë́l|Gloss=rain
 6	.	.	PUNCT	_	_	2	punct	_	_
+
 # sent_id = cairo-s3
 # text = هغۀ هڅه وکړه چې د سګرېټ څکولو او د شراب څښلو مخه ونیسي.
 # translit_1 = hġə hch wkṛh če d sgreṭ ckwlw aw d šrab cx̌lw mxh wnysi.
@@ -40,6 +42,7 @@
 12	مخه	مخ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	compound	_	Translit=më́xa|LTranslit=mëx|Gloss=face
 13	ونیسي	نیول	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Translit=wë́nisi|LTranslit=niwë́l|Gloss=catch
 14	.	.	PUNCT	_	_	3	punct	_	_
+
 # sent_id = cairo-s4
 # text = غواړې چې لاړ شې؟
 # translit_1 = ġwaṛe če laṛ še?
@@ -50,6 +53,7 @@
 3	لاړ	تلل	VERB	_	Mood=Sub|Variant=Short|VerbForm=Inf	1	ccomp	_	Translit=lâṛ|LTranslit=tlël|Gloss=go
 4	شې	کېدل	AUX	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	3	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become
 5	؟	؟	PUNCT	_	_	1	punct	_	Translit=?|Gloss=.
+
 # sent_id = cairo-s5
 # text = سامه، کړکۍ وازه کړه!
 # translit_1 = samh, kṛkÿ wazh kṛh!
@@ -61,6 +65,7 @@
 4	وازه	واز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Translit=wấza|LTranslit=wâz|Gloss=open
 5	کړه	کول	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kṛa|LTranslit=kawë́l|Gloss=do
 6	!	!	PUNCT	_	_	5	punct	_	_
+
 # sent_id = cairo-s6
 # text = هغې خپل مېړه اړ کړ چې موټر پرېمینځي.
 # translit_1 = hġe xpl meṛh aṛ kṛ če mwṭr premynżi.
@@ -75,6 +80,7 @@
 7	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=moṭár|Gloss=car
 8	پرېمینځي	پرېمیننځل	VERB	_	Mood=Sub|Person=3|VerbForm=Fin	5	ccomp	_	Translit=préminżi|LTranslit=preminżë́l|Gloss=wash
 9	.	.	PUNCT	_	_	5	punct	_	_
+
 # sent_id = cairo-s7
 # text = د پیتر ګاونډي کټارې ته سور رنګ ورکړ.
 # translit_1 = d pytr gawnḍi kṭare th swr rng wrkṛ.
@@ -89,6 +95,7 @@
 7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=rang|Gloss=color
 8	ورکړ	ورکول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wárkëṛ|LTranslit=warkawë́l|Gloss=give
 9	.	.	PUNCT	_	_	8	punct	_	_
+
 # sent_id = cairo-s8
 # text = زما پلار ستا له پلار څخه ساعت تېره دی.
 # translit_1 = zma plar sta lh plar cxh sa‘t terh dy.
@@ -104,6 +111,7 @@
 8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|Gloss=spending
 9	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=day|LTranslit=yëm|Gloss=is
 10	.	.	PUNCT	_	_	8	punct	_	_
+
 # sent_id = cairo-s9
 # text = مریم برونز، پیتر سپین زر او جانې سره زر وګټله.
 # translit_1 = mrym brwnz, pytr spyn zr aw ǰane srh zr wgṭlh.
@@ -121,6 +129,7 @@
 10	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Translit=zar|Gloss=metal
 11	وګټله	ګټل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Translit=wë́gaṭëla|LTranslit=gaṭë́l|Gloss=win
 12	.	.	PUNCT	_	_	1	punct	_	_
+
 # sent_id = cairo-s10
 # text = ایګوازو لوی که کوچنی هېواد دی؟
 # translit_1 = aygwazw lwy kh kwčny hewad dy?
@@ -133,6 +142,7 @@
 5	هېواد	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=hewấd|Gloss=country
 6	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=day|LTranslit=yëm|Gloss=is
 7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?
+
 # sent_id = cairo-s11
 # text = نه پیتر سمیس او نه مریم براون کولی شوای وټاکل شي.
 # translit_1 = nh pytr smys aw nh mrym brawn kwly šway wṭakl ši.
@@ -150,6 +160,7 @@
 10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select
 11	شي	کېدل	AUX	_	Mood=Ind|Person=3|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become
 12	.	.	PUNCT	_	_	10	punct	_	_
+
 # sent_id = cairo-s12
 # text = په دوی کې هیڅوک نه پوهېږي چې چا دا ولیکل.
 # translit_1 = ph dwy ke hycwk nh pwheǧi če ča da wlykl.
@@ -168,6 +179,7 @@
 10	دا	دا	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	obj	_	Translit=dâ|Gloss=these
 11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=write
 12	.	.	PUNCT	_	_	10	punct	_	_
+
 # sent_id = cairo-s13
 # text = څه شي ته ګورې؟
 # translit_1 = ch ši th gwre?
@@ -178,6 +190,7 @@
 3	ته	ته	ADP	_	Case=Acc	2	case	_	Translit=ta|Gloss=to
 4	ګورې	کتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=goré|LTranslit=katë́l|Gloss=see/look
 5	؟	؟	PUNCT	_	_	4	punct	_	Translit=?
+
 # sent_id = cairo-s14
 # text = ستا په نظر کله راتلی شې؟
 # translit_1 = sta ph nZ̀r klh ratly še?
@@ -190,6 +203,7 @@
 5	راتلی	راتلل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=rấtlay|LTranslit=râtlë́l|Gloss=come
 6	شې	کېدل	AUX	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	5	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become
 7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?
+
 # sent_id = cairo-s15
 # text = هغۀ موټر واخيستۀ مګر ورور یې یوازې بایسکل.
 # translit_1 = hġə mwṭr waxistə mgr wrwr ye ywaze bayskl.
@@ -204,6 +218,7 @@
 7	یوازې	یوازې	ADV	_	_	8	advmod	_	Translit=yawấze|Gloss=only
 8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:nsubjobj	_	Translit=bâysíkl|Gloss=bicycle
 9	.	.	PUNCT	_	_	3	punct	_	_
+
 # sent_id = cairo-s16
 # text = پیتر او مریم یوبل په غېږ کې ونیول او بیا له کوټې څخه ووتل.
 # translit_1 = pytr aw mrym ywbl ph ġeǧ ke wnywl aw bya lh kwṭe cxh wwtl.
@@ -224,6 +239,7 @@
 13	څخه	څخه	ADP	_	Case=Acc	12	case	_	Translit=cë́xa|Gloss=from/than
 14	ووتل	وتل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	Translit=wë́watël|LTranslit=watë́l|Gloss=go out
 15	.	.	PUNCT	_	_	8	punct	_	_
+
 # sent_id = cairo-s17
 # text = هغې باید خپل وېښتان جوړ کړي وای مګر د کوم دلیل له امله یې هغه ورځ جوړ نه کړل.
 # translit_1 = hġe bayd xpl wex̌tan ǰwṛ kṛi way mgr d kwm dlyl lh amlh ye hġh wrż ǰwṛ nh kṛl.
@@ -249,6 +265,7 @@
 18	نه	نه	PART	_	Polarity=Neg	19	advmod	_	Translit=në|Gloss=no
 19	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=do
 20	.	.	PUNCT	_	_	6	punct	_	_
+
 # sent_id = cairo-s18
 # text = ما ګام ورسره ونه شوای نیولی، ځکه چې هغۀ خورا ژرژر منډه وهله.
 # translit_1 = ma gam wrsrh wnh šway nywly, żkh če hġə xwra žržr mnḍh whlh.
@@ -273,6 +290,7 @@
 15	منډه	منډه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=më́nḍa|Gloss=run(ning)
 16	وهله	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	Translit=wahë́la|LTranslit=wahë́l|Gloss=beat
 17	.	.	PUNCT	_	_	8	punct	_	_
+
 # sent_id = cairo-s19
 # text = دا لیک د پیتر له خوا دی او پرون ور رسېدلی دی.
 # translit_1 = da lyk d pytr lh xwa dy aw prwn wr rsedly dy.
@@ -291,6 +309,7 @@
 11	رسېدلی	رسېدل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	Translit=rësedë́lay|LTranslit=rësedë́l|Gloss=get/achieve
 12	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=day|LTranslit=yëm|Gloss=is
 13	.	.	PUNCT	_	_	6	punct	_	_
+
 # sent_id = cairo-s20
 # text = په پاریس کې لویه شوې ده، د فرانسې په پلازمېنه کې.
 # translit_1 = ph parys ke lwyh šwe dh, d franse ph plazmenh ke.
@@ -309,3 +328,4 @@
 11	پلازمېنه	پلازمېنه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	Translit=plâzmená|Gloss=capital
 12	کې	کې	ADP	_	Case=Nom	11	case	_	Translit=ke|Gloss=in
 13	.	.	PUNCT	_	_	5	punct	_	_
+
