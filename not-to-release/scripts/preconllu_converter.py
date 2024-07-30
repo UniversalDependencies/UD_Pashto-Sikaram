@@ -14,6 +14,7 @@ class PreconnluSentence:
     FEATS = 9
     HEAD = 10
     DEPREL = 11
+    MISC = 12
 
 
     def __init__(self, id_line):
@@ -36,9 +37,8 @@ class PreconnluSentence:
             if text_token != line_token:
                 print(self.id, version, f"*{text_token}*", f"*{line_token}*")
 
-
-
     def control(self):
+        text = self.intro_lines[0]
         original_tokens, transliteration_tokens = [], []
         transcription_tokens, translation_tokens = [], []
 
@@ -49,11 +49,27 @@ class PreconnluSentence:
             elif mwt_end:
                 if mwt_end == token_line[self.ORD]:
                     mwt_end = None
+                token_line += [""]
                 continue
             original_tokens.append(token_line[self.ORIGINAL])
             transliteration_tokens.append(token_line[self.TRANSLITER])
             transcription_tokens.append(token_line[self.TRANSCRIPT])
             translation_tokens.append(token_line[self.TRANSLATION])
+
+            # handling spaces
+            token_form = token_line[self.ORIGINAL]
+            assert text.startswith(token_form)
+            text = text.lstrip(token_form)
+            if text and text[0] != " ":
+                token_line += ["SpaceAfter=No"]
+                text = text.lstrip(" ")
+                continue
+            spaces_num = len(text) - len(text.lstrip(" "))
+            if spaces_num > 1:
+                token_line += ["\\s" * spaces_num]
+            else:
+                token_line += [""]
+                text = text.lstrip(" ")
 
         self.control_layer(self.intro_lines[0], original_tokens, "orig")
         self.control_layer(self.intro_lines[1], transliteration_tokens, "tlit")
@@ -87,7 +103,8 @@ class PreconnluSentence:
             if token_line[self.TRANSLATION] not in \
                     ["_", token_line[self.TRANSCRIPT], token_line[self.LEMMA_TRANSCRIPT]]:
                 gloss = f"Gloss={token_line[self.TRANSLATION]}"
-            misc_items = [item for item in [translit, ltranslit, gloss] if item]
+            misc_items = [item for item in [translit, ltranslit, gloss] if item] + \
+                    token_line[self.MISC].split("|")
             misc = "|".join(misc_items) if misc_items else "_"
 
             conllu_fields = [ord, form, lemma, upostag, xpostag,
