@@ -378,26 +378,26 @@ PronType=Prs"	7	nsubj
 6	پوهه	pwhh	póha	-			knowledge	NOUN	"Case=Nom|
 Gender=Fem|
 Number=Plur"	7	xcomp
-7	کېږي	keǧi	keǧí	کېدل 	kedl	kedë́l	become	VERB	"Aspect=Imp|
+7	کېږي	keǧi	keǧí	کېدل	kedl	kedë́l	become	VERB	"Aspect=Imp|
 Mood=Ind|
 Person=3|
 Tense=Pres|
 VerbForm=Fin"	0	root
-8	چې	če	če	-			that	SCONJ	_	10	mark
+8	چې	če	če	-			that	SCONJ	_	11	mark
 9	چا	ča	čâ	-			who	PRON	"Case=Acc|
-PronType=Int"	10	nsubj
+PronType=Int"	11	nsubj
 10	دا	da	dâ	-			these	PRON	"Case=Nom|
 Gender=Masc|
 Number=Plur|
-PronType=Dem"	10	obj
+PronType=Dem"	11	obj
 11	ولیکل	wlykl	wë́likël	لیکل	lykl	likë́l	write	VERB	"Aspect=Perf|
 Gender=Masc|
 Mood=Ind|
 Number=Plur|
 Person=3|
 Tense=Past|
-VerbForm=Fin"	6	ccomp
-12	.	.	.	-			.	PUNCT	_	10	punct
+VerbForm=Fin"	7	ccomp
+12	.	.	.	-			.	PUNCT	_	7	punct
 
 # sent_id = cairo-s13
 څه شي ته ګورې؟
