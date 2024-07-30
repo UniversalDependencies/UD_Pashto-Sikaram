@@ -103,8 +103,9 @@ class PreconnluSentence:
             if token_line[self.TRANSLATION] not in \
                     ["_", token_line[self.TRANSCRIPT], token_line[self.LEMMA_TRANSCRIPT]]:
                 gloss = f"Gloss={token_line[self.TRANSLATION]}"
-            misc_items = [item for item in [translit, ltranslit, gloss] if item] + \
-                    token_line[self.MISC].split("|")
+            misc_items = [item for item in [translit, ltranslit, gloss] if item]
+            if token_line[self.MISC]:
+                misc_items += token_line[self.MISC].split("|")
             misc = "|".join(misc_items) if misc_items else "_"
 
             conllu_fields = [ord, form, lemma, upostag, xpostag,
