@@ -159,7 +159,7 @@
 3	کې	کې	ADP	_	Case=Nom	2	case	_	Translit=ke|Gloss=in
 4	هیڅوک	هیڅوک	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Translit=hicók|Gloss=nobody
 5	نه	نه	PART	_	Polarity=Neg	6	advmod	_	Translit=në|Gloss=no
-6-7	پوهېږي	پوهېدل	_	_	_	_	_	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand
+6-7	پوهېږي	_	_	_	_	_	_	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand
 6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	xcomp	_	Translit=póha|Gloss=knowledge
 7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become
 8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|Gloss=that
