@@ -1,6 +1,8 @@
 from itertools import zip_longest
 from sys import stdout
 
+from annotation_controller import control_annotation
+
 class PreconnluSentence:
     ORD = 0
     ORIGINAL = 1
@@ -71,6 +73,9 @@ class PreconnluSentence:
                 token_line += [""]
                 text = text.lstrip(" ")
 
+        for token_line in self.token_lines:
+            control_annotation(self.id, token_line)
+
         self.control_layer(self.intro_lines[0], original_tokens, "orig")
         self.control_layer(self.intro_lines[1], transliteration_tokens, "tlit")
         self.control_layer(self.intro_lines[2], transcription_tokens, "tscr")
@@ -79,7 +84,7 @@ class PreconnluSentence:
     def convert(self, file):
         print(f"# sent_id = {self.id}", file=file)
         print(f"# text = {self.intro_lines[0]}", file=file)
-        print(f"# translit_1 = {self.intro_lines[1]}", file=file)
+        #print(f"# translit_1 = {self.intro_lines[1]}", file=file)
         print(f"# translit = {self.intro_lines[2]}", file=file)
         print(f"# text_en = {self.intro_lines[3]}", file=file)
 
