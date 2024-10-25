@@ -25,7 +25,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples non-fiction
+Genre: grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
