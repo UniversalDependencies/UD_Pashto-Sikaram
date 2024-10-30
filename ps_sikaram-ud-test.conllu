@@ -497,7 +497,7 @@
 # translit = hamdáġa râzkë urdú žë́be ta żir šu aw dë përmëxyún yâ përmëxtág lâmál ye wë́ceṛu, no yawâzenáy lâmál če dáġa žë́ba ye tër naṛëywấlo púlo rësawë́le, pë urdú ke dë besấro aw harâṛxízo kitâbúno žbấṛa da, če dë nulasë́me peṛë́y pë wrustë́yo ke ye sur‘át zyât šow. 
 # text_en = Likewise, if we focus on Urdu and examine the reason for its development, then the only reason, which approached this language to international borders is the translation of large and comprehensive books in Urdu which accelerated in the late nineteenth century.
 1	همدغه	همدغه	DET	_	Case=Nom|PronType=Dem	2	det	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=same
-2	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	advmod	_	Translit=râz|LTranslit=râz|Gloss=way|CorrectSpaceAfter=Yes|SpaceAfter=No|SpaceAfter=No
+2	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	advmod	_	Translit=râz|LTranslit=râz|Gloss=way|CorrectSpaceAfter=Yes|SpaceAfter=No
 3	که	کۀ	SCONJ	_	_	7	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 4	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
 5	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
