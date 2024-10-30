@@ -172,7 +172,7 @@
 # text = څۀ شي ته ګورې؟
 # translit = cë ši ta goré? 
 # text_en = What are you looking at?
-1	څۀ	څۀ	DET	_	Animacy=Inan|PronType=Int	2	det	_	Translit=cë|LTranslit=cë|Gloss=what
+1	څۀ	څۀ	DET	_	Animacy=Nhum|PronType=Int	2	det	_	Translit=cë|LTranslit=cë|Gloss=what
 2	شي	شی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Translit=ši|LTranslit=šay|Gloss=thing
 3	ته	ته	ADP	_	Case=Acc	2	case	_	Translit=ta|LTranslit=ta|Gloss=to
 4	ګورې	کتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=goré|LTranslit=katë́l|Gloss=see/look|SpaceAfter=No
@@ -410,7 +410,7 @@
 9	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
 10	توپیر	توپیر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Translit=tawpír|LTranslit=tawpír|Gloss=difference
 11	د	د	ADP	_	Case=Acc	12	case	_	Translit=dë|LTranslit=dë|Gloss=of
-12	هغوى	هغوى	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|Person=3|ProntType=Prs	15	obl	_	Translit=haġúy|LTranslit=haġúy|Gloss=them
+12	هغوى	هغوى	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	15	obl	_	Translit=haġúy|LTranslit=haġúy|Gloss=them
 13	لپاره	لپاره	ADP	_	Case=Acc	12	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
 14	کوم	کوم	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	15	det	_	Translit=kum|LTranslit=kum|Gloss=any
 15	بريد	بريد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	Translit=brid|LTranslit=brid|Gloss=attack
@@ -561,7 +561,7 @@
 6	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
 7	نژدې	نژدې	ADV	_	_	10	advmod	_	Translit=niždé|LTranslit=niždé|Gloss=near
 8	په	پۀ	ADP	_	Case=Loc	10	case	_	Translit=pë|LTranslit=pë|Gloss=at the
-9	ټوله	ټول	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronTyp=Tot	10	det	_	Translit=ṭóla|LTranslit=ṭol|Gloss=the whole
+9	ټوله	ټول	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	10	det	_	Translit=ṭóla|LTranslit=ṭol|Gloss=the whole
 10	نړۍ	نړۍ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=the world
 11	کې	کې	ADP	_	Case=Loc	10	case	_	Translit=ke|LTranslit=ke|Gloss=in
 12	خپره	خپور	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	xcomp	_	Translit=xpará|LTranslit=xpor|Gloss=published
@@ -621,7 +621,7 @@
 19	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
 20	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Translit=da|LTranslit=yëm|Gloss=is|SpaceAfter=No
 21	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
-22	ګڼ		ADJ	_	Case=Nom|Gender=Masc|Number=Sing	23	amod	_	Translit=gaṇ|LTranslit=|Gloss=big
+22	ګڼ	ګڼ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	23	amod	_	Translit=gaṇ|LTranslit=gaṇ|Gloss=big
 23	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nmod	_	Translit=šmer|LTranslit=šmer|Gloss=number
 24	ويونکي	ویونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	25	obj	_	Translit=wayúnki|LTranslit=wayúnkay|Gloss=speaker
 25	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	Translit=larí|LTranslit=larë́l|Gloss=have
@@ -899,7 +899,7 @@
 16	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing	20	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
 17	هنري	هنري	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	20	amod	_	Translit=hunarí|LTranslit=hunarí|Gloss=artistic
 18	او	او	CCONJ	_	_	19	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-19	ادبي		ADJ	_	Case=Nom|Gender=Masc|Number=Sing	17	conj	_	Translit=adabí|LTranslit=|Gloss=literary
+19	ادبي	ادبي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	17	conj	_	Translit=adabí|LTranslit=adabí|Gloss=literary
 20	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	obj	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
 21	به	بۀ	AUX	_	Tense=Fut	22	aux	_	Translit=bë|LTranslit=bë|Gloss=will
 22	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=larí|LTranslit=larë́l|Gloss=have|SpaceAfter=No
@@ -1146,7 +1146,7 @@
 36	ډېرکي	ډېرکي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	37	amod	_	Translit=ḍerakí|LTranslit=ḍerakí|Gloss=majority
 37	خلک	خلک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	Translit=xalk|LTranslit=xalk|Gloss=people
 38	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	33	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
-39	ويونکي	ويونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	30	acl:relc	_	Translit=wayúnki|LTranslit=wayúnkay|Gloss=speaker
+39	ويونکي	ويونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	30	acl:relcl	_	Translit=wayúnki|LTranslit=wayúnkay|Gloss=speaker
 40	وي	یم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	39	cop	_	Translit=wi|LTranslit=yëm|Gloss=to be|SpaceAfter=No
 41	،	،	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,|Gloss=,
 42	حکومتونه	حکومت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	48	nsubj	_	Translit=hokumatúna|LTranslit=hokumát|Gloss=governments
