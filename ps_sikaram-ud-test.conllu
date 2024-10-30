@@ -157,13 +157,13 @@
 1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=in
 2	دوی	دوی	PRON	_	Deixis=Prox|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|LTranslit=duy|Gloss=they
 3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
-4	هیڅوک	هیڅوک	PRON	_	Animacy=Anim|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
+4	هیڅوک	هیڅوک	PRON	_	Animacy=Hum|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=no
-6-7	پوهېږي	پوهېدل	_	_	_	_	_	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand
+6-7	پوهېږي	پوهېږي	_	_	_	_	_	_	Translit=poheǧí|LTranslit=poheǧí|Gloss=understand
 6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	xcomp	_	Translit=póha|LTranslit=póha|Gloss=knowledge
 7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become
 8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
-9	چا	څوک	PRON	_	Animacy=Anim|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
+9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
 10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|Number=Plur|PronType=Dem|Variant=Short	11	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these
 11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=write|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.
@@ -317,7 +317,7 @@
 # sent_id = pnt-2-2.1
 # text = ژباړه د هرې ژبې لپاره د يوې سترې روزونکې او مرستیالې په کچه ارزښت لري، هره ژبه د ژباړې په مرسته هم ژوندۍ پاتېږي، هم په پوهنیز، ټولنیز، ښوونیز او فرهنګي ډګر کې ځان ته د پرمختګ لاره اواروي.‏
 # translit = žbấṛa dë háre žë́be lapấra dë yawé stë́re rozawúnke aw mrastyấle pë káča arzë́x̌t larí, hára žë́ba dë žbấṛe pë mrásta ham žwandë́y pâteǧí, ham pë pohaníz, ṭolaníz, x̌owaníz aw farhangí ḍagár ke żân ta dë përmëxtág lấra awârawí. 
-# text_en = Translation is as important and great trainer and assistant for every language. Every language survives with the help of translation, and it also paves the way for development in the academic, social, educational and cultural fields.‏
+# text_en = Translation has value as a great trainer and helper for every language; every language survives with the help of translation, and it also paves the way for development in the academic, social, educational and cultural fields.‏
 1	ژباړه	ژباړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Translit=žbấṛa|LTranslit=žbấṛa|Gloss=translation
 2	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
 3	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	Translit=háre|LTranslit=har|Gloss=every
@@ -401,7 +401,7 @@
 # text_en = Without the religious, cultural and social difference being some kind of attack or obstacle for them.
 1	پرته	پرته	ADP	_	Case=Abl	3	case	_	Translit=práta|LTranslit=práta|Gloss=without
 2	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
-3	دې	دې	PRON	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|ProntType=Dem|Variant=Short	0	root	_	Translit=de|LTranslit=de|Gloss=this
+3	دې	دې	PRON	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	0	root	_	Translit=de|LTranslit=de|Gloss=this
 4	چې	چې	SCONJ	_	_	15	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	مذهبي	مذهبي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Translit=mazhabí|LTranslit=mazhabí|Gloss=religious|SpaceAfter=No
 6	،	،	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -569,7 +569,7 @@
 14	،	،	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,|Gloss=,
 15	اوس	اوس	ADV	_	_	16	advmod	_	Translit=os|LTranslit=os|Gloss=now
 16	شرق	شرق	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	34	parataxis	_	Translit=šarq|LTranslit=šarq|Gloss=East
-17	څه	څۀ	PRON	_	PronType=Int	16	parataxis	_	Translit=cë|LTranslit=cë|Gloss=not-only|SpaceAfter=No
+17	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	16	parataxis	_	Translit=cë|LTranslit=cë|Gloss=not-only|SpaceAfter=No
 18	،	،	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,|Gloss=,
 19	چې	چې	SCONJ	_	_	34	mark	_	Translit=če|LTranslit=če|Gloss=that
 20	په	پۀ	ADP	_	Case=Loc	21	case	_	Translit=pë|LTranslit=pë|Gloss=at the
@@ -601,7 +601,7 @@
 # translit = kë cë ham dë urdú žë́be târixí qadâmát ḍer lëǧ day, xo os dë inṭernéṭ aw kampyuṭár žë́ba da, gaṇ šmer wayúnki larí aw dë naṛë́y la muhímo žë́bo cë́xa gaṇë́l keǧí. 
 # text_en = Although the historical pastness of Urdu language is very small, but now it is the language of internet and computer, it has many speakers and it is considered as one of the important languages ​​of the world.
 1	که	کۀ	SCONJ	_	_	10	mark	_	Translit=kë|LTranslit=kë|Gloss=even
-2	څه	څۀ	PRON	_	PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
+2	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
 3	هم	هم	ADV	_	_	1	fixed	_	Translit=ham|LTranslit=ham|Gloss=also
 4	د	د	ADP	_	Case=Acc	6	case	_	Translit=dë|LTranslit=dë|Gloss=of
 5	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
@@ -1081,7 +1081,7 @@
 52	ږغیزې	ږغیز	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	50	conj	_	Translit=ǧaġíze|LTranslit=ǧaġíz|Gloss=sound
 53	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	59	nsubj	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
 54	لږ	لږ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	56	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=little
-55	څه	څۀ	PRON	_	_	54	fixed	_	Translit=cë|LTranslit=cë|Gloss=somewhat
+55	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	54	fixed	_	Translit=cë|LTranslit=cë|Gloss=somewhat
 56	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	57	amod	_	Translit=nor|LTranslit=nor|Gloss=additional
 57	پرمختګ	پرمختګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	59	obj	_	Translit=përmëxtág|LTranslit=përmëxtág|Gloss=development
 58	هم	هم	ADV	_	_	59	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
@@ -1122,10 +1122,10 @@
 12	ويل	ويل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	3	acl:relcl	_	Translit=wayë́l|LTranslit=wayë́l|Gloss=speak
 13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 14	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
-15	خو	خو	CCONJ	_	_	31	cc	_	Translit=xo|LTranslit=xo|Gloss=but
-16	هلته	هلته	ADV	_	_	31	advmod	_	Translit=hálta|LTranslit=hálta|Gloss=there
+15	خو	خو	CCONJ	_	_	21	cc	_	Translit=xo|LTranslit=xo|Gloss=but
+16	هلته	هلته	ADV	_	_	21	advmod	_	Translit=hálta|LTranslit=hálta|Gloss=there
 17	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing	18	det	_	Translit=háre|LTranslit=har|Gloss=every
-18	سیمې	سیمه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	Translit=síme|LTranslit=síma|Gloss=regions
+18	سیمې	سیمه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	Translit=síme|LTranslit=síma|Gloss=regions
 19	ته	ته	ADP	_	Case=Acc	18	case	_	Translit=ta|LTranslit=ta|Gloss=to
 20	داسې	داسې	DET	_	_	21	det	_	Translit=dấse|LTranslit=dấse|Gloss=like-this
 21	نصاب	نصاب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Translit=nisấb|LTranslit=nisấb|Gloss=curriculum|SpaceAfter=No
