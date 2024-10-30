@@ -159,7 +159,7 @@
 3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
 4	هیڅوک	هیڅوک	PRON	_	Animacy=Hum|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=no
-6-7	پوهېږي	پوهېږي	_	_	_	_	_	_	Translit=poheǧí|LTranslit=poheǧí|Gloss=understand
+6-7	پوهېږي	_	_	_	_	_	_	_	Lemma=پوهېږي|Translit=poheǧí|LTranslit=poheǧí|Gloss=understand
 6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	xcomp	_	Translit=póha|LTranslit=póha|Gloss=knowledge
 7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become
 8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
@@ -255,7 +255,7 @@
 # text_en = I wasn't able to keep up, because he ran too fast.
 1	ما	زه	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=mâ|LTranslit=zë|Gloss=I
 2	ګام	ګام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=gâm|LTranslit=gâm|Gloss=step
-3-4	ورسره	ورسره	_	_	_	_	_	_	Translit=wársara|LTranslit=wársara|Gloss=_
+3-4	ورسره	_	_	_	_	_	_	_	Lemma=ورسره|Translit=wársara|LTranslit=wársara|Gloss=_
 3	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	7	obl	_	Translit=war|LTranslit=war|Gloss=he/she/it/they
 4	سره	سره	ADP	_	Case=Acc	3	case	_	Translit=sará|LTranslit=sará|Gloss=with
 5	ونۀ	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	7	aux	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
@@ -583,7 +583,7 @@
 28	ګڼ	ګڼ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	29	amod	_	Translit=gaṇ|LTranslit=gaṇ|Gloss=high
 29	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nmod	_	Translit=šmer|LTranslit=šmer|Gloss=number
 30	وګړي	وګړی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	34	nsubj	_	Translit=wagë́ṛi|LTranslit=wagë́ṛay|Gloss=people / inhabitant
-31-32	پرې	پرې	_	_	_	_	_	_	Translit=pre|LTranslit=pre|Gloss=on-it
+31-32	پرې	_	_	_	_	_	_	_	Lemma=پرې|Translit=pre|LTranslit=pre|Gloss=on-it
 31	پر	پر	ADP	_	Case=Loc	32	case	_	Translit=për|LTranslit=për|Gloss=on
 32	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	34	obl	_	Translit=ye|LTranslit=ye|Gloss=it
 33	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	34	xcomp	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk
@@ -658,7 +658,7 @@
 16	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
 17	څومره	څومره	ADV	_	_	21	advmod	_	Translit=cúmra|LTranslit=cúmra|Gloss=how much
 18	چې	چې	SCONJ	_	_	21	mark	_	Translit=če|LTranslit=če|Gloss=that
-19-20	ورسره	ورسره	_	_	_	_	_	_	Translit=warsará|LTranslit=warsará|Gloss=with it
+19-20	ورسره	_	_	_	_	_	_	_	Lemma=ورسره|Translit=warsará|LTranslit=warsará|Gloss=with it
 19	ور	ور	PRON	_	Person=3|Variant=Dir	21	obl	_	Translit=war|LTranslit=war|Gloss=it
 20	سره	سره	ADP	_	Case=Acc	19	case	_	Translit=sará|LTranslit=sará|Gloss=with
 21	ښايي	ښایل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	Translit=x̌âyí|LTranslit=x̌âyë́l|Gloss=deserve|SpaceAfter=No
@@ -933,7 +933,7 @@
 22	تر	تر	ADP	_	Case=Abl	24	case	_	Translit=tër|LTranslit=tër|Gloss=until
 23	دې	دا	DET	_	Case=Abl|Gender=Fem|Number=Sing	24	det	_	Translit=de|LTranslit=dâ|Gloss=this
 24	دمه	دمه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	29	obl	_	Translit=dáma|LTranslit=dáma|Gloss=moment
-25-26	ترې	ترې	_	_	_	_	_	_	Translit=tre|LTranslit=tre|Gloss=from-it
+25-26	ترې	_	_	_	_	_	_	_	Lemma=ترې|Translit=tre|LTranslit=tre|Gloss=from-it
 25	تر	تر	ADP	_	Case=Abl	26	case	_	Translit=tër|LTranslit=tër|Gloss=from
 26	یې	یې	PRON	_	_	29	obl	_	Translit=ye|LTranslit=ye|Gloss=it
 27	ګټه	ګټه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	obj	_	Translit=gáṭa|LTranslit=gáṭa|Gloss=benefit
