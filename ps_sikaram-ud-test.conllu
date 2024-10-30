@@ -1121,7 +1121,7 @@
 11	کې	کې	ADP	_	Case=Loc	6	case	_	Translit=ke|LTranslit=ke|Gloss=in
 12	ويل	ويل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	3	acl:relcl	_	Translit=wayë́l|LTranslit=wayë́l|Gloss=speak
 13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-14	،	،	PUNCT	_	_	31	punct	_	Translit=,|LTranslit=,|Gloss=,
+14	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
 15	خو	خو	CCONJ	_	_	31	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 16	هلته	هلته	ADV	_	_	31	advmod	_	Translit=hálta|LTranslit=hálta|Gloss=there
 17	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing	18	det	_	Translit=háre|LTranslit=har|Gloss=every
@@ -1171,7 +1171,7 @@
 61	ته	ته	ADP	_	Case=Acc	60	case	_	Translit=ta|LTranslit=ta|Gloss=to
 62	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	63	obj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
 63	ورکړي	ورکول	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	advcl	_	Translit=warkṛí|LTranslit=warkawë́l|Gloss=give|SpaceAfter=No
-64	.‏		PUNCT	_	_	5	punct	_	Translit=.‏|LTranslit=|Gloss=.
+64	.‏	.‏	PUNCT	_	_	5	punct	_	Translit=.‏|LTranslit=.‏|Gloss=.
 
 # sent_id = pnt-20-9.3
 # text = درسي نصاب په هماغه ژبه وي، لوحې په هماغه ژبه وي او خبرې اترې هم هماغسې دود لري.‏
