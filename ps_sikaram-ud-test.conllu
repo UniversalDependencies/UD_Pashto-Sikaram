@@ -1,311 +1,1200 @@
-# sent_id = cairo-s1
-# text = نجلۍ خپل ملګري ته لیک ولیکه.
-# translit = njëlë́y xpël mëlgë́ri ta lik wë́likë.
+# sent_id = cairo-1
+# text = نجلۍ خپل ملګري ته لیک ولیکۀ.
+# translit = njëlë́y xpël mëlgë́ri ta lik wë́likë. 
 # text_en = The girl wrote a letter to her friend.
-1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|Gloss=girl
-2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|Gloss=own
-3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
-4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|Gloss=to
-5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|Gloss=letter
-6	ولیکه	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=write|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl|_
+2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own|_
+3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend|_
+4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|LTranslit=ta|Gloss=to|_
+5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|LTranslit=lik|Gloss=letter|_
+6	ولیکۀ	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=write|_
+7	.	.	PUNCT	_		6	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s2
+# sent_id = cairo-2
 # text = فکر کوم چې باران ورېږي.
-# translit = fekr kawë́m če bârấn wëreǧí.
+# translit = fekr kawë́m če bârấn wëreǧí. 
 # text_en = I think that it is raining.
-1	فکر	فکر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	Translit=fekr|Gloss=thought
-2	کوم	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kawë́m|LTranslit=kawë́l|Gloss=do
-3	چې	چې	SCONJ	_	_	5	mark	_	Translit=če|Gloss=that
-4	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=bârấn|Gloss=rain
-5	ورېږي	ورېدل	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Translit=wëreǧí|LTranslit=wëredë́l|Gloss=rain|SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
+1	فکر	فکر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	Translit=fekr|LTranslit=fekr|Gloss=thought|_
+2	کوم	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kawë́m|LTranslit=kawë́l|Gloss=do|_
+3	چې	چې	SCONJ	_		5	mark	_	Translit=če|LTranslit=če|Gloss=that|_
+4	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=bârấn|LTranslit=bârấn|Gloss=rain|_
+5	ورېږي	ورېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Translit=wëreǧí|LTranslit=wëredë́l|Gloss=rain|_
+6	.	.	PUNCT	_		2	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s3
+# sent_id = cairo-3
 # text = هغۀ هڅه وکړه چې د سګرېټ څکولو او د شراب څښلو مخه ونیسي.
-# translit = haġë́ háca wë́kṛa če dë segréṭ ckawë́lo aw dë šarấb cx̌ë́lo më́xa wë́nisi.
+# translit = haġë́ háca wë́kṛa če dë segréṭ ckawë́lo aw dë šarấb cx̌ë́lo më́xa wë́nisi. 
 # text_en = He tried to stop smoking and drinking.
-1	هغۀ	هغه	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
-2	هڅه	هڅه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	Translit=háca|Gloss=attempt/effort
-3	وکړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Long|VerbForm=Fin	0	root	_	Translit=wë́kṛa|LTranslit=kawë́l|Gloss=do
-4	چې	چې	SCONJ	_	_	13	mark	_	Translit=če|Gloss=that
-5	د	د	ADP	_	Case=Acc	7	case	_	Translit=dë|Gloss=of
-6	سګرېټ	سګرېټ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=segréṭ|Gloss=cigarette
-7	څکولو	څکول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	13	nmod	_	Translit=ckawë́lo|LTranslit=ckawë́l|Gloss=smoke
-8	او	او	CCONJ	_	_	11	cc	_	Translit=aw|Gloss=and
-9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|Gloss=of
-10	شراب	شراب	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	Translit=šarấb|Gloss=wine, alcohol
-11	څښلو	څښل	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	7	conj	_	Translit=cx̌ë́lo|LTranslit=cx̌ël|Gloss=drink
-12	مخه	مخ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	compound	_	Translit=më́xa|LTranslit=mëx|Gloss=face
-13	ونیسي	نیول	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Translit=wë́nisi|LTranslit=niwë́l|Gloss=catch|SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+1	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he|_
+2	هڅه	هڅه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	Translit=háca|LTranslit=háca|Gloss=attempt/effort|_
+3	وکړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Long|VerbForm=Fin	0	root	_	Translit=wë́kṛa|LTranslit=kawë́l|Gloss=do|_
+4	چې	چې	SCONJ	_		13	mark	_	Translit=če|LTranslit=če|Gloss=that|_
+5	د	د	ADP	_	Case=Acc	7	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+6	سګرېټ	سګرېټ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=segréṭ|LTranslit=segréṭ|Gloss=cigarette|_
+7	څکولو	څکول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	13	nmod	_	Translit=ckawë́lo|LTranslit=ckawë́l|Gloss=smoke|_
+8	او	او	CCONJ	_		11	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+10	شراب	شراب	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	Translit=šarấb|LTranslit=šarấb|Gloss=wine, alcohol|_
+11	څښلو	څښل	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	7	conj	_	Translit=cx̌ë́lo|LTranslit=cx̌ël|Gloss=drink|_
+12	مخه	مخ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	compound	_	Translit=më́xa|LTranslit=mëx|Gloss=face|_
+13	ونیسي	نیول	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Translit=wë́nisi|LTranslit=niwë́l|Gloss=catch|_
+14	.	.	PUNCT	_		3	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s4
+# sent_id = cairo-4
 # text = غواړې چې لاړ شې؟
-# translit = ġwâṛé če lâṛ še?
+# translit = ġwâṛé če lâṛ še? 
 # text_en = Do you want to go?
-1	غواړې	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ġwâṛé|LTranslit=ġox̌të́l|Gloss=want to
-2	چې	چې	SCONJ	_	_	3	mark	_	Translit=če|Gloss=that
-3	لاړ	تلل	VERB	_	Mood=Sub|Variant=Short|VerbForm=Inf	1	ccomp	_	Translit=lâṛ|LTranslit=tlël|Gloss=go
-4	شې	کېدل	AUX	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	3	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-5	؟	؟	PUNCT	_	_	1	punct	_	Translit=?|Gloss=.
+1	غواړې	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ġwâṛé|LTranslit=ġox̌të́l|Gloss=want to|_
+2	چې	چې	SCONJ	_		3	mark	_	Translit=če|LTranslit=če|Gloss=that|_
+3	لاړ	تلل	VERB	_	Mood=Sub|Variant=Short|VerbForm=Inf	1	ccomp	_	Translit=lâṛ|LTranslit=tlël|Gloss=go|_
+4	شې	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become|_
+5	؟	؟	PUNCT	_		1	punct	_	Translit=?|LTranslit=?|Gloss=.|_
 
-# sent_id = cairo-s5
+# sent_id = cairo-5
 # text = سامه، کړکۍ وازه کړه!
-# translit = sấma, këṛkë́y wấza kṛa!
+# translit = sấma, këṛkë́y wấza kṛa! 
 # text_en = Sam, open the window!
-1	سامه	سام	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Translit=sấma|LTranslit=sâm|Gloss=Sam|SpaceAfter=No
-2	،	،	PUNCT	_	_	1	punct	_	Translit=,
-3	کړکۍ	کړکۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	Translit=këṛkë́y|Gloss=window
-4	وازه	واز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Translit=wấza|LTranslit=wâz|Gloss=open
-5	کړه	کول	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kṛa|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-6	!	!	PUNCT	_	_	5	punct	_	_
+1	سامه	سام	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Translit=sấma|LTranslit=sâm|Gloss=Sam|_
+2	،	،	PUNCT	_		1	punct	_	Translit=,|LTranslit=,|Gloss=,|_
+3	کړکۍ	کړکۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	Translit=këṛkë́y|LTranslit=këṛkë́y|Gloss=window|_
+4	وازه	واز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Translit=wấza|LTranslit=wâz|Gloss=open|_
+5	کړه	کول	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kṛa|LTranslit=kawë́l|Gloss=do|_
+6	!	!	PUNCT	_		5	punct	_	Translit=!|LTranslit=!|Gloss=!|_
 
-# sent_id = cairo-s6
-# text = هغې خپل مېړه اړ کړ چې موټر پرېمینځي.
-# translit = haġé xpël meṛë́ aṛ këṛ če moṭár préminżi.
+# sent_id = cairo-6
+# text = هغې خپل مېړۀ اړ کړ چې موټر پرېمینځي.
+# translit = haġé xpël meṛë́ aṛ këṛ če moṭár préminżi. 
 # text_en = She made her husband wash the car.
-1	هغې	هغه	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she
-2	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|Gloss=own
-3	مېړه	مېړه	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=meṛë́|Gloss=husband
-4	اړ	اړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Translit=aṛ|Gloss=necessary
-5	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=do
-6	چې	چې	SCONJ	_	_	8	mark	_	Translit=če|Gloss=that
-7	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=moṭár|Gloss=car
-8	پرېمینځي	پرېمیننځل	VERB	_	Mood=Sub|Person=3|VerbForm=Fin	5	ccomp	_	Translit=préminżi|LTranslit=preminżë́l|Gloss=wash|SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
+1	هغې	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she|_
+2	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own|_
+3	مېړۀ	مېړۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=meṛë́|LTranslit=meṛë́|Gloss=husband|_
+4	اړ	اړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Translit=aṛ|LTranslit=aṛ|Gloss=necessary|_
+5	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=do|_
+6	چې	چې	SCONJ	_		8	mark	_	Translit=če|LTranslit=če|Gloss=that|_
+7	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car|_
+8	پرېمینځي	پرېمیننځل	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	5	ccomp	_	Translit=préminżi|LTranslit=preminżë́l|Gloss=wash|_
+9	.	.	PUNCT	_		5	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s7
+# sent_id = cairo-7
 # text = د پیتر ګاونډي کټارې ته سور رنګ ورکړ.
-# translit = dë pitr gâwanḍí këṭâré ta sur rang wárkëṛ.
+# translit = dë pitr gâwanḍí këṭâré ta sur rang wárkëṛ. 
 # text_en = Peter’s neighbor painted the fence red.
-1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|Gloss=of
-2	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=pitr|Gloss=Peter
-3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor
-4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence
-5	ته	ته	ADP	_	Case=Acc	4	case	_	Translit=ta|Gloss=to
-6	سور	سور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=sur|Gloss=red
-7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=rang|Gloss=color
-8	ورکړ	ورکول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wárkëṛ|LTranslit=warkawë́l|Gloss=give|SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+2	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=pitr|LTranslit=pitr|Gloss=Peter|_
+3	ګاونډي	ګاونډی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=gâwanḍí|LTranslit=gâwanḍáy|Gloss=neighbor|_
+4	کټارې	کټاره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Translit=këṭâré|LTranslit=këṭârá|Gloss=fence|_
+5	ته	ته	ADP	_	Case=Acc	4	case	_	Translit=ta|LTranslit=ta|Gloss=to|_
+6	سور	سور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=sur|LTranslit=sur|Gloss=red|_
+7	رنګ	رنګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=rang|LTranslit=rang|Gloss=color|_
+8	ورکړ	ورکول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wárkëṛ|LTranslit=warkawë́l|Gloss=give|_
+9	.	.	PUNCT	_		8	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s8
+# sent_id = cairo-8
 # text = زما پلار ستا له پلار څخه ساعت تېره دی.
-# translit = zmâ plâr stâ la plâr cë́xa sâat téra day.
+# translit = zmâ plâr stâ la plâr cë́xa sâát téra day. 
 # text_en = My dad is cooler than yours.
-1	زما	زما	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmâ|Gloss=my
-2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|Gloss=father
-3	ستا	ستا	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Translit=stâ|Gloss=your
-4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|Gloss=of
-5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|Gloss=father
-6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|Gloss=from/than
-7	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=sâat|Gloss=hour
-8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|Gloss=spending
-9	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	_
+1	زما	زما	DET	_	Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmâ|LTranslit=zmâ|Gloss=my|_
+2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father|_
+3	ستا	ستا	DET	_	Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Translit=stâ|LTranslit=stâ|Gloss=your|_
+4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=of|_
+5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father|_
+6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from/than|_
+7	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour|_
+8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending|_
+9	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=day|LTranslit=yëm|Gloss=is|_
+10	.	.	PUNCT	_		8	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s9
-# text = مریم برونز، پیتر سپین زر او جانې سره زر وګټله.
-# translit = maryám bronz, pitr spin zar aw jấne srë zar wë́gaṭëla.
+# sent_id = cairo-9
+# text = مریم برونز، پیتر سپین زر او جانې سرۀ زر وګټله.
+# translit = maryám bronz, pitr spin zar aw jấne srë zar wë́gaṭëla. 
 # text_en = Mary won bronze, Peter silver, and Jane gold.
-1	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Translit=maryám|Gloss=Mary
-2	برونز	برونز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	orphan:nsubjobj	_	Translit=bronz|Gloss=bronze|SpaceAfter=No
-3	،	،	PUNCT	_	_	4	punct	_	Translit=,
-4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Translit=pitr|Gloss=Peter
-5	سپین	سپین	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Translit=spin|Gloss=white
-6	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	orphan:nsubjobj	_	Translit=zar|Gloss=metal
-7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|Gloss=and
-8	جانې	جانه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nsubj	_	Translit=jấne|LTranslit=ǰấna|Gloss=Jane
-9	سره	سره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Translit=srë|Gloss=gold/yellow
-10	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Translit=zar|Gloss=metal
-11	وګټله	ګټل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Translit=wë́gaṭëla|LTranslit=gaṭë́l|Gloss=win|SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+1	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Translit=maryám|LTranslit=maryám|Gloss=Mary|_
+2	برونز	برونز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	orphan:nsubjobj	_	Translit=bronz|LTranslit=bronz|Gloss=bronze|_
+3	،	،	PUNCT	_		4	punct	_	Translit=,|LTranslit=,|Gloss=,|_
+4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Translit=pitr|LTranslit=pitr|Gloss=Peter|_
+5	سپین	سپین	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Translit=spin|LTranslit=spin|Gloss=white|_
+6	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	orphan:nsubjobj	_	Translit=zar|LTranslit=zar|Gloss=metal|_
+7	او	او	CCONJ	_		8	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+8	جانې	جانه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nsubj	_	Translit=jấne|LTranslit=ǰấna|Gloss=Jane|_
+9	سرۀ	سرۀ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Translit=srë|LTranslit=srë|Gloss=gold/yellow|_
+10	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Translit=zar|LTranslit=zar|Gloss=metal|_
+11	وګټله	ګټل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Translit=wë́gaṭëla|LTranslit=gaṭë́l|Gloss=win|_
+12	.	.	PUNCT	_		1	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s10
-# text = ایګوازو لوی که کوچنی هېواد دی؟
-# translit = iguâzú loj kë kučnáy hewấd day?
+# sent_id = cairo-10
+# text = ایګوازو لوی کۀ کوچنی هېواد دی؟
+# translit = iguâzú loj kë kučnáy hewấd day? 
 # text_en = Is Iguazu a big or a small country?
-1	ایګوازو	ایګوازو	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=iguâzú|Gloss=iguazu
-2	لوی	لوی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	Translit=loj|Gloss=big
-3	که	که	CCONJ	_	_	4	cc	_	Translit=kë|Gloss=or
-4	کوچنی	کوچنی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=kučnáy|Gloss=small
-5	هېواد	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=hewấd|Gloss=country
-6	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?
+1	ایګوازو	ایګوازو	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=iguâzú|LTranslit=iguâzú|Gloss=iguazu|_
+2	لوی	لوی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	Translit=loj|LTranslit=loj|Gloss=big|_
+3	کۀ	کۀ	CCONJ	_		4	cc	_	Translit=kë|LTranslit=kë|Gloss=or|_
+4	کوچنی	کوچنی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=kučnáy|LTranslit=kučnáy|Gloss=small|_
+5	هېواد	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=hewấd|LTranslit=hewấd|Gloss=country|_
+6	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=day|LTranslit=yëm|Gloss=is|_
+7	؟	؟	PUNCT	_		5	punct	_	Translit=?|LTranslit=?|Gloss=?|_
 
-# sent_id = cairo-s11
-# text = نه پیتر سمیس او نه مریم براون کولی شوای وټاکل شي.
-# translit = në pitr smis aw në maryám brâwn kawë́lay šwây wë́ṭâkël ši.
+# sent_id = cairo-11
+# text = نۀ پیتر سمیس او نۀ مریم براون کولی شوای وټاکل شي.
+# translit = në pitr smis aw në maryám brâwn kawë́lay šwây wë́ṭâkël ši. 
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
-1	نه	نه	PART	_	Polarity=Neg	2	advmod	_	Translit=në|Gloss=no
-2	پیتر	پیتر	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	Translit=pitr|Gloss=Peter
-3	سمیس	سمیس	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	Translit=smis|Gloss=Smith
-4	او	او	CCONJ	_	_	6	cc	_	Translit=aw|Gloss=and
-5	نه	نه	PART	_	Polarity=Neg	6	advmod	_	Translit=në|Gloss=no
-6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|Gloss=Mary
-7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|Gloss=Brown
-8	کولی	کول	AUX	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Translit=kawë́lay|LTranslit=kawë́l|Gloss=do
-9	شوای	کېدل	AUX	_	Mood=Pot|Tense=Past|VerbForm=Part	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
-10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select
-11	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-12	.	.	PUNCT	_	_	10	punct	_	_
+1	نۀ	نۀ	PART	_	Polarity=Neg	2	advmod	_	Translit=në|LTranslit=në|Gloss=no|_
+2	پیتر	پیتر	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	Translit=pitr|LTranslit=pitr|Gloss=Peter|_
+3	سمیس	سمیس	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	Translit=smis|LTranslit=smis|Gloss=Smith|_
+4	او	او	CCONJ	_		6	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=no|_
+6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary|_
+7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown|_
+8	کولی	کول	AUX	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Translit=kawë́lay|LTranslit=kawë́l|Gloss=do|_
+9	شوای	کېدل	AUX	_	Mood=Pot|VerbForm=Part	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become|_
+10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select|_
+11	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|_
+12	.	.	PUNCT	_		10	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s12
-# text = په دوی کې هیڅوک نه پوهېږي چې چا دا ولیکل.
-# translit = pë duy ke hicók në poheǧí če čâ dâ wë́likël.
+# sent_id = cairo-12
+# text = پۀ دوی کې هیڅوک نۀ پوهېږي چې چا دا ولیکل.
+# translit = pë duy ke hicók në poheǧí póha keǧí če čâ dâ wë́likël. 
 # text_en = They have no idea who wrote it.
-1	په	په	ADP	_	Case=Nom	2	case	_	Translit=pë|Gloss=in
-2	دوی	دوی	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|Gloss=they
-3	کې	کې	ADP	_	Case=Nom	2	case	_	Translit=ke|Gloss=in
-4	هیڅوک	هیڅوک	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Translit=hicók|Gloss=nobody
-5	نه	نه	PART	_	Polarity=Neg	6	advmod	_	Translit=në|Gloss=no
-6-7	پوهېږي	_	_	_	_	_	_	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand
-6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	xcomp	_	Translit=póha|Gloss=knowledge
-7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become
-8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|Gloss=that
-9	چا	چا	PRON	_	Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|Gloss=who
-10	دا	دا	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	11	obj	_	Translit=dâ|Gloss=these
-11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=write|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=in|_
+2	دوی	دوی	PRON	_	Deixis=Prox|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|LTranslit=duy|Gloss=they|_
+3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in|_
+4	هیڅوک	هیڅوک	PRON	_	Animacy=Anim|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody|_
+5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=no|_
+6-7	پوهېږي	پوهېدل	_	_		_	_	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand|_
+6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	xcomp	_	Translit=póha|LTranslit=póha|Gloss=knowledge|_
+7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become|_
+8	چې	چې	SCONJ	_		11	mark	_	Translit=če|LTranslit=če|Gloss=that|_
+9	چا	 څوک	PRON	_	Animacy=Anim|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who|_
+10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|Number=Plur|PronType=Dem|Variant=Short	11	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these|_
+11	ولیکل	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Translit=wë́likël|LTranslit=likë́l|Gloss=write|_
+12	.	.	PUNCT	_		7	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s13
-# text = څه شي ته ګورې؟
-# translit = cë ši ta goré?
+# sent_id = cairo-13
+# text = څۀ شي ته ګورې؟
+# translit = cë ši ta goré? 
 # text_en = What are you looking at?
-1	څه	څه	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	det	_	Translit=cë|Gloss=what
-2	شي	شی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Translit=ši|LTranslit=šay|Gloss=thing
-3	ته	ته	ADP	_	Case=Acc	2	case	_	Translit=ta|Gloss=to
-4	ګورې	کتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=goré|LTranslit=katë́l|Gloss=see/look|SpaceAfter=No
-5	؟	؟	PUNCT	_	_	4	punct	_	Translit=?
+1	څۀ	څۀ	DET	_	Animacy=Inan|PronType=Int	2	det	_	Translit=cë|LTranslit=cë|Gloss=what|_
+2	شي	شی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Translit=ši|LTranslit=šay|Gloss=thing|_
+3	ته	ته	ADP	_	Case=Acc	2	case	_	Translit=ta|LTranslit=ta|Gloss=to|_
+4	ګورې	کتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=goré|LTranslit=katë́l|Gloss=see/look|_
+5	؟	؟	PUNCT	_		4	punct	_	Translit=?|LTranslit=?|Gloss=?|_
 
-# sent_id = cairo-s14
-# text = ستا په نظر کله راتلی شې؟
-# translit = stâ pë nazár kë́la rấtlay še?
+# sent_id = cairo-14
+# text = ستا پۀ نظر کله راتلی شې؟
+# translit = stâ pë nazár kë́la rấtlay še? 
 # text_en = When do you think you can come?
-1	ستا	ستا	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Translit=stâ|Gloss=your (sg)
-2	په	په	ADP	_	Case=Nom	3	case	_	Translit=pë|Gloss=on/according
-3	نظر	نظر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	Translit=nazár|Gloss=thought/opinion
-4	کله	کله	ADV	_	_	5	advmod	_	Translit=kë́la|Gloss=when
-5	راتلی	راتلل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=rấtlay|LTranslit=râtlë́l|Gloss=come
-6	شې	کېدل	AUX	_	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	5	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?
+1	ستا	ستا	DET	_	Case=Nom|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Translit=stâ|LTranslit=stâ|Gloss=your (sg)|_
+2	پۀ	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=on/according|_
+3	نظر	نظر	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=nazár|LTranslit=nazár|Gloss=thought/opinion|_
+4	کله	کله	ADV	_		5	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when|_
+5	راتلی	راتلل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=rấtlay|LTranslit=râtlë́l|Gloss=come|_
+6	شې	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=še|LTranslit=kedë́l|Gloss=become|_
+7	؟	؟	PUNCT	_		5	punct	_	Translit=?|LTranslit=?|Gloss=?|_
 
-# sent_id = cairo-s15
+# sent_id = cairo-15
 # text = هغۀ موټر واخيستۀ مګر ورور یې یوازې بایسکل.
-# translit = haġë́ moṭár wấxistə magár wror ye yawấze bâysíkl.
+# translit = haġë́ moṭár wấxistə magár wror ye yawấze bâysíkl. 
 # text_en = He bought a car but his brother just a bike.
-1	هغۀ	هغه	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
-2	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	Translit=moṭár|Gloss=car
-3	واخيستۀ	اخيستل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wấxistə|LTranslit=axistë́l|Gloss=buy
-4	مګر	مګر	CCONJ	_	_	5	cc	_	Translit=magár|Gloss=but
-5	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Translit=wror|Gloss=brother
-6	یې	یې	PRON	_	Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Translit=ye|Gloss=his
-7	یوازې	یوازې	ADV	_	_	8	advmod	_	Translit=yawấze|Gloss=only
-8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:nsubjobj	_	Translit=bâysíkl|Gloss=bicycle|SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	_
+1	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he|_
+2	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car|_
+3	واخيستۀ	اخيستل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wấxistə|LTranslit=axistë́l|Gloss=buy|_
+4	مګر	مګر	CCONJ	_		5	cc	_	Translit=magár|LTranslit=magár|Gloss=but|_
+5	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Translit=wror|LTranslit=wror|Gloss=brother|_
+6	یې	یې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	5	nmod	_	Translit=ye|LTranslit=ye|Gloss=his|_
+7	یوازې	یوازې	ADV	_		8	advmod	_	Translit=yawấze|LTranslit=yawấze|Gloss=only|_
+8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:nsubjobj	_	Translit=bâysíkl|LTranslit=bâysíkl|Gloss=bicycle|_
+9	.	.	PUNCT	_		3	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s16
-# text = پیتر او مریم یوبل په غېږ کې ونیول او بیا له کوټې څخه ووتل.
-# translit = pitr aw maryám yë́wbël pë ġeǧ ke wë́niwël aw byâ la koṭé cë́xa wë́watël.
+# sent_id = cairo-16
+# text = پیتر او مریم یوبل پۀ غېږ کې ونیول او بیا له کوټې څخه ووتل.
+# translit = pitr aw maryám yë́wbël pë ġeǧ ke wë́niwël aw byâ la koṭé cë́xa wë́watël. 
 # text_en = Peter and Mary hugged each other and then left the room.
-1	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	Translit=pitr|Gloss=Peter
-2	او	او	CCONJ	_	_	3	cc	_	Translit=aw|Gloss=and
-3	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	Translit=maryám|Gloss=Mary
-4	یوبل	یوبل	PRON	_	PronType=Rcp	8	obj	_	Translit=yë́wbël|Gloss=each other
-5	په	په	ADP	_	Case=Nom	6	case	_	Translit=pë|Gloss=in
-6	غېږ	غېږ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	Translit=ġeǧ|Gloss=hug
-7	کې	کې	ADP	_	Case=Nom	6	case	_	Translit=ke|Gloss=in
-8	ونیول	نیول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́niwël|LTranslit=niwë́l|Gloss=catch
-9	او	او	CCONJ	_	_	14	cc	_	Translit=aw|Gloss=and
-10	بیا	بیا	ADV	_	_	14	advmod	_	Translit=byâ|Gloss=then
-11	له	له	ADP	_	Case=Acc	12	case	_	Translit=la|Gloss=from
-12	کوټې	کوټه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	Translit=koṭé|LTranslit=koṭá|Gloss=room
-13	څخه	څخه	ADP	_	Case=Acc	12	case	_	Translit=cë́xa|Gloss=from/than
-14	ووتل	وتل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	Translit=wë́watël|LTranslit=watë́l|Gloss=go out|SpaceAfter=No
-15	.	.	PUNCT	_	_	8	punct	_	_
+1	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	Translit=pitr|LTranslit=pitr|Gloss=Peter|_
+2	او	او	CCONJ	_		3	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+3	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary|_
+4	یوبل	یوبل	PRON	_	PronType=Rcp	8	obj	_	Translit=yë́wbël|LTranslit=yë́wbël|Gloss=each other|_
+5	پۀ	پۀ	ADP	_	Case=Loc	6	case	_	Translit=pë|LTranslit=pë|Gloss=in|_
+6	غېږ	غېږ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	Translit=ġeǧ|LTranslit=ġeǧ|Gloss=hug|_
+7	کې	کې	ADP	_	Case=Loc	6	case	_	Translit=ke|LTranslit=ke|Gloss=in|_
+8	ونیول	نیول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́niwël|LTranslit=niwë́l|Gloss=catch|_
+9	او	او	CCONJ	_		14	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+10	بیا	بیا	ADV	_		14	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=then|_
+11	له	له	ADP	_	Case=Acc	12	case	_	Translit=la|LTranslit=la|Gloss=from|_
+12	کوټې	کوټه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	Translit=koṭé|LTranslit=koṭá|Gloss=room|_
+13	څخه	څخه	ADP	_	Case=Acc	12	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from/than|_
+14	ووتل	وتل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	Translit=wë́watël|LTranslit=watë́l|Gloss=go out|_
+15	.	.	PUNCT	_		8	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s17
-# text = هغې باید خپل وېښتان جوړ کړي وای مګر د کوم دلیل له امله یې هغه ورځ جوړ نه کړل.
-# translit = haġé bâyad xpël wex̌tấn ǰoṛ kṛi wây magár dë kum dâlíl la amála ye háġa wraż ǰoṛ në kṛël.
+# sent_id = cairo-17
+# text = هغې باید خپل وېښتان جوړ کړي وای مګر د کوم دلیل له امله یې هغه ورځ جوړ نۀ کړل.
+# translit = haġé bâyád xpël wex̌tấn ǰoṛ kṛi wây magár dë kum dâlíl la amála ye háġa wraż ǰoṛ në kṛël. 
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
-1	هغې	هغه	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she
-2	باید	باید	PART	_	_	6	advmod	_	Translit=bâyad|Gloss=have to
-3	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|Gloss=own
-4	وېښتان	وېښته	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
-5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	xcomp	_	Translit=ǰoṛ|Gloss=well/repaired
-6	کړي	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do
-7	وای	وای	PART	_	_	6	advmod	_	Translit=wây|Gloss=(past irreal)
-8	مګر	مګر	CCONJ	_	_	17	cc	_	Translit=magár|Gloss=but
-9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|Gloss=of
-10	کوم	کوم	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Translit=kum|Gloss=which
-11	دلیل	دلیل	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	Translit=dâlíl|Gloss=reason
-12	له	له	ADP	_	Case=Abl	13	case	_	Translit=la|Gloss=from
-13	امله	امل	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	11	nmod	_	Translit=amála|LTranslit=amál|Gloss=cause
-14	یې	یې	PRON	_	Case=Acc|Person=3|PronType=Prs	19	nsubj	_	Translit=ye|Gloss=them
-15	هغه	هغه	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	Translit=háġa|Gloss=that
-16	ورځ	ورځ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	Translit=wraż|Gloss=day
-17	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	xcomp	_	Translit=ǰoṛ|Gloss=well/repaired
-18	نه	نه	PART	_	Polarity=Neg	19	advmod	_	Translit=në|Gloss=no
-19	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-20	.	.	PUNCT	_	_	6	punct	_	_
+1	هغې	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she|_
+2	باید	باید	PART	_		6	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=have to|_
+3	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|LTranslit=xpël|Gloss=own|_
+4	وېښتان	وېښته	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair|_
+5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	xcomp	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well/repaired|_
+6	کړي	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|_
+7	وای	وای	PART	_		6	advmod	_	Translit=wây|LTranslit=wây|Gloss=(past irreal)|_
+8	مګر	مګر	CCONJ	_		17	cc	_	Translit=magár|LTranslit=magár|Gloss=but|_
+9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+10	کوم	کوم	DET	_	PronType=Ind	11	det	_	Translit=kum|LTranslit=kum|Gloss=which|_
+11	دلیل	دلیل	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	Translit=dâlíl|LTranslit=dâlíl|Gloss=reason|_
+12	له	له	ADP	_	Case=Abl	13	case	_	Translit=la|LTranslit=la|Gloss=from|_
+13	امله	امل	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	11	nmod	_	Translit=amála|LTranslit=amál|Gloss=cause|_
+14	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	19	nsubj	_	Translit=ye|LTranslit=ye|Gloss=them|_
+15	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	16	det	_	Translit=háġa|LTranslit=háġa|Gloss=that|_
+16	ورځ	ورځ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	Translit=wraż|LTranslit=wraż|Gloss=day|_
+17	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	xcomp	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well/repaired|_
+18	نۀ	نۀ	PART	_	Polarity=Neg	19	advmod	_	Translit=në|LTranslit=në|Gloss=no|_
+19	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=do|_
+20	.	.	PUNCT	_		6	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s18
-# text = ما ګام ورسره ونه شوای نیولی، ځکه چې هغۀ خورا ژرژر منډه وهله.
-# translit = mâ gâm wársara wënë́ šwây niwë́lay, żë́ka če haġë́ xwarấ žëržë́r më́nḍa wahë́la.
+# sent_id = cairo-18
+# text = ما ګام ورسره ونۀ شوای نیولی، ځکه چې هغۀ خورا ژرژر منډه وهله.
+# translit = mâ gâm wársara war sará wënë́ šwây niwë́lay, żë́ka če haġë́ xwarấ žëržë́r më́nḍa wahë́la. 
 # text_en = I wasn't able to keep up, because he ran too fast.
-1	ما	زه	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=mâ|LTranslit=zë|Gloss=I
-2	ګام	ګام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=gâm|Gloss=step
-3-4	ورسره	_	_	_	_	_	_	_	Translit=wársara|LTranslit=
-3	ور	ور	PRON	_	Person=3|PronType=Prs	8	obl	_	Translit=war|Gloss=he/she/it/they
-4	سره	سره	ADP	_	Case=Acc	3	case	_	Translit=sará|Gloss=with
-5-6	ونه	_	_	_	_	_	_	_	Translit=wënë́|LTranslit=
-5	و	و	PART	_	Aspect=Perf	8	compound:prt	_	Translit=wë|Gloss=(perfective)
-6	نه	نه	PART	_	Polarity=Neg	8	advmod	_	Translit=në|Gloss=no
-7	شوای	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
-8	نیولی	نیول	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=niwë́lay|LTranslit=niwë́l|Gloss=catch|SpaceAfter=No
-9	،	،	PUNCT	_	_	16	punct	_	Translit=,
-10	ځکه	ځکه	SCONJ	_	_	16	mark	_	Translit=żë́ka|Gloss=since
-11	چې	چې	SCONJ	_	_	10	fixed	_	Translit=če|Gloss=that
-12	هغۀ	هغه	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
-13	خورا	خورا	ADV	_	_	14	advmod	_	Translit=xwarấ|Gloss=too
-14	ژرژر	ژرژر	ADV	_	_	16	advmod	_	Translit=žëržë́r|Gloss=fast
-15	منډه	منډه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=më́nḍa|Gloss=run(ning)
-16	وهله	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	Translit=wahë́la|LTranslit=wahë́l|Gloss=beat|SpaceAfter=No
-17	.	.	PUNCT	_	_	8	punct	_	_
+1	ما	زه	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=mâ|LTranslit=zë|Gloss=I|_
+2	ګام	ګام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=gâm|LTranslit=gâm|Gloss=step|_
+3-4	ورسره	ورسره	_	_		_	_	_	Translit=wársara|LTranslit=wársara|Gloss=_|_
+3	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	8	obl	_	Translit=war|LTranslit=war|Gloss=he/she/it/they|_
+4	سره	سره	ADP	_	Case=Acc	3	case	_	Translit=sará|LTranslit=sará|Gloss=with|_
+5	ونۀ	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	8	aux	_	Translit=wënë́|LTranslit=wënë́|Gloss=not|_
+6	شوای	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become|_
+7	نیولی	نیول	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=niwë́lay|LTranslit=niwë́l|Gloss=catch|_
+8	،	،	PUNCT	_		16	punct	_	Translit=,|LTranslit=,|Gloss=,|_
+9	ځکه	ځکه	SCONJ	_		16	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since|_
+10	چې	چې	SCONJ	_		10	fixed	_	Translit=če|LTranslit=če|Gloss=that|_
+11	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he|_
+12	خورا	خورا	ADV	_		14	advmod	_	Translit=xwarấ|LTranslit=xwarấ|Gloss=too|_
+13	ژرژر	ژرژر	ADV	_		16	advmod	_	Translit=žëržë́r|LTranslit=žëržë́r|Gloss=fast|_
+14	منډه	منډه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=më́nḍa|LTranslit=më́nḍa|Gloss=run(ning)|_
+15	وهله	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	Translit=wahë́la|LTranslit=wahë́l|Gloss=beat|_
+16	.	.	PUNCT	_		8	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s19
+# sent_id = cairo-19
 # text = دا لیک د پیتر له خوا دی او پرون ور رسېدلی دی.
-# translit = dâ lik dë pitr la xwâ day aw parún war rësedë́lay day.
+# translit = dâ lik dë pitr la xwâ day aw parún war rësedë́lay day. 
 # text_en = This letter is from Peter and it was delivered yesterday.
-1	دا	دا	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	Translit=dâ|Gloss=this
-2	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=lik|Gloss=letter
-3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|Gloss=of
-4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	Translit=pitr|Gloss=Peter
-5	له	له	ADP	_	Case=Abl	6	case	_	Translit=la|Gloss=from
-6	خوا	خوا	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	0	root	_	Translit=xwâ|Gloss=side
-7	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=day|LTranslit=yëm|Gloss=is
-8	او	او	CCONJ	_	_	11	cc	_	Translit=aw|Gloss=and
-9	پرون	پرون	ADV	_	_	11	advmod	_	Translit=parún|Gloss=yesterday
-10	ور	ور	PRON	_	Person=3|PronType=Prs	11	obl	_	Translit=war|Gloss=he/she/it/they
-11	رسېدلی	رسېدل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	Translit=rësedë́lay|LTranslit=rësedë́l|Gloss=get/achieve
-12	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	_
+1	دا	دا	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem|Variant=Short	2	det	_	Translit=dâ|LTranslit=dâ|Gloss=this|_
+2	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=lik|LTranslit=lik|Gloss=letter|_
+3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	Translit=pitr|LTranslit=pitr|Gloss=Peter|_
+5	له	له	ADP	_	Case=Abl	6	case	_	Translit=la|LTranslit=la|Gloss=from|_
+6	خوا	خوا	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	0	root	_	Translit=xwâ|LTranslit=xwâ|Gloss=side|_
+7	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=day|LTranslit=yëm|Gloss=is|_
+8	او	او	CCONJ	_		11	cc	_	Translit=aw|LTranslit=aw|Gloss=and|_
+9	پرون	پرون	ADV	_		11	advmod	_	Translit=parún|LTranslit=parún|Gloss=yesterday|_
+10	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	11	obl	_	Translit=war|LTranslit=war|Gloss=he/she/it/they|_
+11	رسېدلی	رسېدل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	Translit=rësedë́lay|LTranslit=rësedë́l|Gloss=get/achieve|_
+12	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=day|LTranslit=yëm|Gloss=is|_
+13	.	.	PUNCT	_		6	punct	_	Translit=.|LTranslit=.|Gloss=.|_
 
-# sent_id = cairo-s20
-# text = په پاریس کې لویه شوې ده، د فرانسې په پلازمېنه کې.
-# translit = pë pârís ke lóya šë́we da, dë frânsé pë plâzmená ke.
+# sent_id = cairo-20
+# text = پۀ پاریس کې لویه شوې ده، د فرانسې پۀ پلازمېنه کې.
+# translit = pë pârís ke lóya šë́we da, dë frânsé pë plâzmená ke. 
 # text_en = She grew up in Paris, the capital of France.
-1	په	په	ADP	_	Case=Nom	2	case	_	Translit=pë|Gloss=in
-2	پاریس	پاریس	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	Translit=pârís|Gloss=Paris
-3	کې	کې	ADP	_	Case=Nom	2	case	_	Translit=ke|Gloss=in
-4	لویه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Translit=lóya|LTranslit=loy|Gloss=big
-5	شوې	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become
-6	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=da|LTranslit=yëm|Gloss=is|SpaceAfter=No
-7	،	،	PUNCT	_	_	11	punct	_	Translit=,
-8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|Gloss=of
-9	فرانسې	فرانسه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	Translit=frânsé|LTranslit=frânsá|Gloss=France
-10	په	په	ADP	_	Case=Nom	11	case	_	Translit=pë|Gloss=in
-11	پلازمېنه	پلازمېنه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	Translit=plâzmená|Gloss=capital
-12	کې	کې	ADP	_	Case=Nom	11	case	_	Translit=ke|Gloss=in|SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	_
+1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=in|_
+2	پاریس	پاریس	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=pârís|LTranslit=pârís|Gloss=Paris|_
+3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in|_
+4	لویه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	xcomp	_	Translit=lóya|LTranslit=loy|Gloss=big|_
+5	شوې	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become|_
+6	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=da|LTranslit=yëm|Gloss=is|_
+7	،	،	PUNCT	_		11	punct	_	Translit=,|LTranslit=,|Gloss=,|_
+8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of|_
+9	فرانسې	فرانسه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	Translit=frânsé|LTranslit=frânsá|Gloss=France|_
+10	پۀ	پۀ	ADP	_	Case=Loc	11	case	_	Translit=pë|LTranslit=pë|Gloss=in|_
+11	پلازمېنه	پلازمېنه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	appos	_	Translit=plâzmená|LTranslit=plâzmená|Gloss=capital|_
+12	کې	کې	ADP	_	Case=Loc	11	case	_	Translit=ke|LTranslit=ke|Gloss=in|_
+13	.	.	PUNCT	_		5	punct	_	Translit=.|LTranslit=.|Gloss=.|_
+
+# sent_id = pnt-1.1/1
+# text = سريزه:‏
+# translit = saríza: 
+# text_en = introduction:
+1	سريزه	سريزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	root	0	_	Translit=saríza|LTranslit=saríza|Gloss=introduction
+2	:‏	:‏	PUNCT	_		punct	1	_	Translit=:‏|LTranslit=:‏|Gloss=:
+
+# sent_id = pnt-2.1/2
+# text = ژباړه د هرې ژبې لپاره د يوې سترې روزونکې او مرستیالې په کچه ارزښت لري، هره ژبه د ژباړې په مرسته هم ژوندۍ پاتېږي، هم په پوهنیز، ټولنیز، ښوونیز او فرهنګي ډګر کې ځان ته د پرمختګ لاره اواروي.‏
+# translit = žbấṛa dë háre žë́be lapấra dë yawé stë́re rozawúnke aw mrastyấle pë káča arzë́x̌t larí, hára žë́ba dë žbấṛe pë mrásta ham žwandë́y pâteǧí, ham pë pohaníz, ṭolaníz, x̌owaníz aw farhangí ḍagár ke żân ta dë përmëxtág lấra awârawí. 
+# text_en = Translation is as important and great trainer and assistant for every language. Every language survives with the help of translation, and it also paves the way for development in the academic, social, educational and cultural fields.‏
+1	ژباړه	ژباړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	15	_	Translit=žbấṛa|LTranslit=žbấṛa|Gloss=translation
+2	د	د	ADP	_	Case=Acc	case	4	_	Translit=dë|LTranslit=dë|Gloss=of
+3	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	det	4	_	Translit=háre|LTranslit=har|Gloss=every
+4	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	1	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+5	لپاره	لپاره	ADP	_	Case=Acc	case	4	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+6	د	د	ADP	_	Case=Acc	case	9	_	Translit=dë|LTranslit=dë|Gloss=of
+7	يوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	nummod	9	_	Translit=yawé|LTranslit=yaw|Gloss=one
+8	سترې	ستر	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	amod	9	_	Translit=stë́re|LTranslit=stër|Gloss=great
+9	روزونکې	روزول	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	nmod	13	_	Translit=rozawúnke|LTranslit=rozawë́l|Gloss=trainer
+10	او	او	CCONJ	_		cc	9	_	Translit=aw|LTranslit=aw|Gloss=and
+11	مرستیالې	مرستیالی	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	conj	9	_	Translit=mrastyấle|LTranslit=mrastyấlay|Gloss=helper
+12	په	پۀ	ADP	_	Case=Loc	case	13	_	Translit=pë|LTranslit=pë|Gloss=at
+13	کچه	کچه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	nmod	14	_	Translit=káča|LTranslit=káča|Gloss=form
+14	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	15	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
+15	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root	0	_	Translit=larí|LTranslit=larë́l|Gloss=has
+16	،	،	PUNCT	_		punct	25	_	Translit=,|LTranslit=,|Gloss=,
+17	هره	هر	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	det	18	_	Translit=hára|LTranslit=har|Gloss=every
+18	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	25	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+19	د	د	ADP	_	Case=Acc	case	20	_	Translit=dë|LTranslit=dë|Gloss=of
+20	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	22	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
+21	په	پۀ	ADP	_	Case=Loc	case	22	_	Translit=pë|LTranslit=pë|Gloss=at
+22	مرسته	مرسته	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	25	_	Translit=mrásta|LTranslit=mrásta|Gloss=help
+23	هم	هم	ADV	_		advmod	25	_	Translit=ham|LTranslit=ham|Gloss=too
+24	ژوندۍ	ژوندی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	xcomp	25	_	Translit=žwandë́y|LTranslit=žwandáy|Gloss=alive
+25	پاتېږي	پاتېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj	15	_	Translit=pâteǧí|LTranslit=pâtedë́l|Gloss=survives
+26	،	،	PUNCT	_		punct	43	_	Translit=,|LTranslit=,|Gloss=,
+27	هم	هم	ADV	_		advmod	43	_	Translit=ham|LTranslit=ham|Gloss=too
+28	په	پۀ	ADP	_	Case=Loc	case	36	_	Translit=pë|LTranslit=pë|Gloss=at
+29	پوهنیز	پوهنیز	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	amod	36	_	Translit=pohaníz|LTranslit=pohaníz|Gloss=academic
+30	،	،	PUNCT	_		punct	31	_	Translit=,|LTranslit=,|Gloss=,
+31	ټولنیز	ټولنیز	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	conj	29	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
+32	،	،	PUNCT	_		punct	33	_	Translit=,|LTranslit=,|Gloss=,
+33	ښوونیز	ښوونیز	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	conj	29	_	Translit=x̌owaníz|LTranslit=x̌owaníz|Gloss=educational
+34	او	او	CCONJ	_		cc	35	_	Translit=aw|LTranslit=aw|Gloss=and
+35	فرهنګي	فرهنګي	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	conj	29	_	Translit=farhangí|LTranslit=farhangí|Gloss=cultural
+36	ډګر	ډګر	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	43	_	Translit=ḍagár|LTranslit=ḍagár|Gloss=field
+37	کې	کې	ADP	_	Case=Loc	case	36	_	Translit=ke|LTranslit=ke|Gloss=in
+38	ځان	ځان	PRON	_	PronType=Prs|Reflex=Yes	obl	43	_	Translit=żân|LTranslit=żân|Gloss=self
+39	ته	ته	ADP	_	Case=Acc	case	38	_	Translit=ta|LTranslit=ta|Gloss=to
+40	د	د	ADP	_	Case=Acc	case	41	_	Translit=dë|LTranslit=dë|Gloss=of
+41	پرمختګ	پرمختګ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	42	_	Translit=përmëxtág|LTranslit=përmëxtág|Gloss=development
+42	لاره	لار	NOUN	_	Case=??|Gender=Fem|Number=Sing	obj	43	_	Translit=lấra|LTranslit=lâr|Gloss=way
+43	اواروي	اوارول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj	15	_	Translit=awârawí|LTranslit=awârawë́l|Gloss=take over
+44	.‏	.‏	PUNCT	_		punct	15	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-2.2/3
+# text = اوس ځینې ملتونه د ژباړې د ارزښت له مخې دومره ويښ او هڅاند شوي، چې هر ارزښتمن کتاب په خپله ژبه ژباړي او خپروي يې.‏
+# translit = os żíne milatúna dë žbấṛe dë arzë́x̌t la më́xe dúmra wix̌ aw hacấnd šë́wi, če har arzëx̌tmán kitấb pë xpë́la žë́ba žbâṛí aw xparawí ye. 
+# text_en = Now, some nations are so awakened and encouraged to the importance of translation that they translate and publish every valuable book in their own language.
+1	اوس	اوس	ADV	_		advmod	14	_	Translit=os|LTranslit=os|Gloss=now
+2	ځینې	ځینې	DET	_	Case=Nom|PronType=Ind	det	3	_	Translit=żíne|LTranslit=żíne|Gloss=some
+3	ملتونه	ملت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	nsubj	14	_	Translit=milatúna|LTranslit=milát|Gloss=nations
+4	د	د	ADP	_	Case=Acc	case	5	_	Translit=dë|LTranslit=dë|Gloss=of
+5	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	7	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
+6	د	د	ADP	_	Case=Acc	case	7	_	Translit=dë|LTranslit=dë|Gloss=of
+7	ارزښت	ارزښت	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	9	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
+8	له	له	ADP	_	Case=Abl	case	9	_	Translit=la|LTranslit=la|Gloss=from
+9	مخې	مخه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	obl	14	_	Translit=më́xe|LTranslit=më́xa|Gloss=side
+10	دومره	دومره	ADV	_		advmod	11	_	Translit=dúmra|LTranslit=dúmra|Gloss=so-much
+11	ويښ	ويښ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	xcomp	14	_	Translit=wix̌|LTranslit=wix̌|Gloss=woke-up
+12	او	او	CCONJ	_		cc	13	_	Translit=aw|LTranslit=aw|Gloss=and
+13	هڅاند	هڅاند	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	conj	11	_	Translit=hacấnd|LTranslit=hacấnd|Gloss=encouraged
+14	شوي	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	root	0	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=become
+15	،	،	PUNCT	_		punct	23	_	Translit=,|LTranslit=,|Gloss=,
+16	چې	چې	SCONJ	_		mark	23	_	Translit=če|LTranslit=če|Gloss=that
+17	هر	هر	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	det	19	_	Translit=har|LTranslit=har|Gloss=every
+18	ارزښتمن	ارزښتمن	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	19	_	Translit=arzëx̌tmán|LTranslit=arzëx̌tmán|Gloss=valuable
+19	کتاب	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	23	_	Translit=kitấb|LTranslit=kitấb|Gloss=book
+20	په	پۀ	ADP	_	Case=Loc	case	22	_	Translit=pë|LTranslit=pë|Gloss=at
+21	خپله	خپل	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	det	22	_	Translit=xpë́la|LTranslit=xpël|Gloss=own
+22	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	23	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+23	ژباړي	ژباړل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	advcl	14	_	Translit=žbâṛí|LTranslit=žbâṛë́l|Gloss=translate
+24	او	او	CCONJ	_		cc	24	_	Translit=aw|LTranslit=aw|Gloss=and
+25	خپروي	خپرول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj	23	_	Translit=xparawí|LTranslit=xparawë́l|Gloss=publish
+26	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	obj	25	_	Translit=ye|LTranslit=ye|Gloss=it
+27	.‏	.‏	PUNCT	_		punct	14	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-2.3/4
+# text = پرته له دې چې مذهبي، فرهنګي او ټولنیز توپیر د هغوى لپاره کوم بريد او خنډ وي.‏
+# translit = práta la de če mazhabí, farhangí aw ṭolaníz tawpír dë haġúy lapấra kum brid aw xanḍ wi. 
+# text_en = Without the religious, cultural and social difference being some kind of attack or obstacle for them.
+1	پرته	پرته	ADP	_	Case=Abl	case	3	_	Translit=práta|LTranslit=práta|Gloss=without
+2	له	له	ADP	_	Case=Abl	case	3	_	Translit=la|LTranslit=la|Gloss=from
+3	دې	دې	PRON	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|ProntType=Dem|Variant=Short	root	0	_	Translit=de|LTranslit=de|Gloss=this
+4	چې	چې	SCONJ	_		mark	15	_	Translit=če|LTranslit=če|Gloss=that
+5	مذهبي	مذهبي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	10	_	Translit=mazhabí|LTranslit=mazhabí|Gloss=religious
+6	،	،	PUNCT	_		punct	7	_	Translit=,|LTranslit=,|Gloss=,
+7	فرهنګي	فرهنګي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	conj	5	_	Translit=farhangí|LTranslit=farhangí|Gloss=cultural
+8	او	او	CCONJ	_		cc	9	_	Translit=aw|LTranslit=aw|Gloss=and
+9	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	conj	5	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
+10	توپیر	توپیر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	15	_	Translit=tawpír|LTranslit=tawpír|Gloss=difference
+11	د	د	ADP	_	Case=Acc	case	12	_	Translit=dë|LTranslit=dë|Gloss=of
+12	هغوى	هغوى	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|Person=3|ProntType=Prs	obl	15	_	Translit=haġúy|LTranslit=haġúy|Gloss=them
+13	لپاره	لپاره	ADP	_	Case=Acc	case	12	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+14	کوم	کوم	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	det	15	_	Translit=kum|LTranslit=kum|Gloss=any
+15	بريد	بريد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	acl	3	_	Translit=brid|LTranslit=brid|Gloss=attack
+16	او	او	CCONJ	_		cc	17	_	Translit=aw|LTranslit=aw|Gloss=and
+17	خنډ	خنډ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	conj	15	_	Translit=xanḍ|LTranslit=xanḍ|Gloss=obstacle
+18	وي	يم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	cop	15	_	Translit=wi|LTranslit=yëm|Gloss=to be
+19	.‏	.‏	PUNCT	_		punct	15	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-3.1/5
+# text = ښه بېلګه يې په امريکا کې هغه نوى لیکل شوى اثر دى، چې لا يې اصلي مسوده نه وه چاپ شوې، چې د ايرانۍ ژباړې زېري يې د ايرانیانو غوږونو ته ورسېد.‏
+# translit = x̌a bélga ye pë amrikấ ke háġa në́way likë́l šë́way asár day, če lâ ye aslí musawwáda në wa čâp šë́we, če dë irânë́y žbấṛe zéri ye dë irânyấno ġwaǧúno ta wë́rësed. 
+# text_en = A good example of it is the new work written in America, the original draft of which has not yet been published, and the news of the Iranian translation has reached the ears of Iranians.
+1	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	2	_	Translit=x̌a|LTranslit=x̌ë|Gloss=good
+2	بېلګه	بېلګه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	root	0	_	Translit=bélga|LTranslit=bélga|Gloss=example
+3	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	2	_	Translit=ye|LTranslit=ye|Gloss=its
+4	په	پۀ	ADP	_	Case=Loc	case	5	_	Translit=pë|LTranslit=pë|Gloss=at
+5	امريکا	امريکا	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	obl	2	_	Translit=amrikấ|LTranslit=amrikấ|Gloss=America
+6	کې	کې	ADP	_	Case=Loc	case	5	_	Translit=ke|LTranslit=ke|Gloss=in
+7	هغه	هغه	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	11	_	Translit=háġa|LTranslit=háġa|Gloss=that
+8	نوى	نوى	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	11	_	Translit=në́way|LTranslit=në́way|Gloss=new
+9	لیکل	لیکل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	amod	11	_	Translit=likë́l|LTranslit=likë́l|Gloss=written
+10	شوى	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	aux	9	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become
+11	اثر	اثر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	2	_	Translit=asár|LTranslit=asár|Gloss=work
+12	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop	2	_	Translit=day|LTranslit=yëm|Gloss=is
+13	،	،	PUNCT	_		punct	21	_	Translit=,|LTranslit=,|Gloss=,
+14	چې	چې	PRON	_	PronType=Rel	nmod	18	_	Translit=če|LTranslit=če|Gloss=which
+15	لا	لا	ADV	_		advmod	21	_	Translit=lâ|LTranslit=lâ|Gloss=yet
+16	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	14	_	Translit=ye|LTranslit=ye|Gloss=its
+17	اصلي	اصلي	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	18	_	Translit=aslí|LTranslit=aslí|Gloss=original
+18	مسوده	مسوده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	21	_	Translit=musawwáda|LTranslit=musawwáda|Gloss=draft
+19	نه	نۀ	PART	_	Polarity=Neg	advmod	21	_	Translit=në|LTranslit=në|Gloss=not
+20	وه	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	cop	21	_	Translit=wa|LTranslit=yëm|Gloss=was
+21	چاپ	چاپ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	22	_	Translit=čâp|LTranslit=čâp|Gloss=print
+22	شوې	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	acl:relcl	11	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become
+23	،	،	PUNCT	_		punct	34	_	Translit=,|LTranslit=,|Gloss=,
+24	چې	چې	PRON	_	PronType=Rel	nmod	27	_	Translit=če|LTranslit=če|Gloss=which
+25	د	د	ADP	_	Case=Acc	case	27	_	Translit=dë|LTranslit=dë|Gloss=of
+26	ايرانۍ	ايرانی	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	amod	27	_	Translit=irânë́y|LTranslit=irânáy|Gloss=Iranian
+27	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	28	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
+28	زېري	?	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	34	_	Translit=zéri|LTranslit=|Gloss=good-news
+29	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	24	_	Translit=ye|LTranslit=ye|Gloss=its
+30	د	د	ADP	_	Case=Acc	case	31	_	Translit=dë|LTranslit=dë|Gloss=of
+31	ايرانیانو	ایرانی	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	32	_	Translit=irânyấno|LTranslit=irânáy|Gloss=Iranians
+32	غوږونو	غوږ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	obl	34	_	Translit=ġwaǧúno|LTranslit=ġwaǧ|Gloss=ears
+33	ته	ته	ADP	_	Case=Acc	case	32	_	Translit=ta|LTranslit=ta|Gloss=to
+34	ورسېد	رسېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	acl:relcl	18	_	Translit=wë́rësed|LTranslit=rësedë́l|Gloss=arrived
+35	.‏	.‏	PUNCT	_		punct	11	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-3.2/6
+# text = که چېرې په ايراني فرهنګ او ادب کې د ژباړې ونډه يوې خوا ته کړو، نو له ژباړې پرته به دغه ژبه ډېره غني ونه برېښي.‏
+# translit = kë čére pë irâní farháng aw adáb ke dë žbấṛe wánḍa yawé xwâ ta kṛu, no la žbấṛe práta bë dáġa žë́ba ḍéra ġaní wë́në brex̌í. 
+# text_en = If we leave aside the role of translation in Iranian culture and literature, then this language will not appear very rich.
+1	که	کۀ	SCONJ	_		mark	15	_	Translit=kë|LTranslit=kë|Gloss=if
+2	چېرې	چېرې	ADV	_		advmod	15	_	Translit=čére|LTranslit=čére|Gloss=somewhere
+3	په	پۀ	ADP	_	Case=Loc	case	5	_	Translit=pë|LTranslit=pë|Gloss=at
+4	ايراني	ايراني	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	amod	5	_	Translit=irâní|LTranslit=irâní|Gloss=Iranian
+5	فرهنګ	فرهنګ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	nmod	11	_	Translit=farháng|LTranslit=farháng|Gloss=culture
+6	او	او	CCONJ	_		cc	6	_	Translit=aw|LTranslit=aw|Gloss=and
+7	ادب	ادب	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	conj	5	_	Translit=adáb|LTranslit=adáb|Gloss=literature
+8	کې	کې	ADP	_	Case=Loc	case	5	_	Translit=ke|LTranslit=ke|Gloss=in
+9	د	د	ADP	_	Case=Acc	case	10	_	Translit=dë|LTranslit=dë|Gloss=of
+10	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	11	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
+11	ونډه	ونډه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	15	_	Translit=wánḍa|LTranslit=wánḍa|Gloss=contribution
+12	يوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	nummod	13	_	Translit=yawé|LTranslit=yaw|Gloss=one
+13	خوا	خوا	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	15	_	Translit=xwâ|LTranslit=xwâ|Gloss=side
+14	ته	ته	ADP	_	Case=Acc	case	13	_	Translit=ta|LTranslit=ta|Gloss=to
+15	کړو	کول	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	advcl	27	_	Translit=kṛu|LTranslit=kawë́l|Gloss=we-do
+16	،	،	PUNCT	_		punct	27	_	Translit=,|LTranslit=,|Gloss=,
+17	نو	نو	ADV	_		advmod	27	_	Translit=no|LTranslit=no|Gloss=then
+18	له	له	ADP	_	Case=Abl	case	19	_	Translit=la|LTranslit=la|Gloss=from
+19	ژباړې	ژباړه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	obl	27	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
+20	پرته	پرته	ADP	_	Case=Abl	case	19	_	Translit=práta|LTranslit=práta|Gloss=except
+21	به	بۀ	AUX	_	Tense=Fut	aux	22	_	Translit=bë|LTranslit=bë|Gloss=will
+22	دغه		DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	det	22	_	Translit=dáġa|LTranslit=|Gloss=this
+23	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	27	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+24	ډېره	ډېر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	advmod	25	_	Translit=ḍéra|LTranslit=ḍer|Gloss=a-lot
+25	غني	غني	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	xcomp	27	_	Translit=ġaní|LTranslit=ġaní|Gloss=rich
+26	ونه	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	aux	27	_	Translit=wë́në|LTranslit=wë́në|Gloss=not
+27	برېښي	برېښل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root	0	_	Translit=brex̌í|LTranslit=brex̌ë́l|Gloss=appears
+28	.‏	.‏	PUNCT	_		punct	27	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-3.3/7
+# text = همدغه رازکه اردو ژبې ته ځیر شو او د پرمخیون يا پرمختـګ لامل يې وڅېړو، نو يوازېنى لامل چې دغه ژبه يې تر نړيوالو پولو رسولې، په اردو کې د بېسارو او هراړخیزو کتابونو ژباړه ده، چې د نولسمې پېړۍ په وروستیو کې يې سرعت زيات شو.‏
+# translit = hamdáġa râzkë urdú žë́be ta żir šu aw dë përmëxyún yâ përmëxtág lâmál ye wë́ceṛu, no yawâzenáy lâmál če dáġa žë́ba ye tër naṛëywấlo púlo rësawë́le, pë urdú ke dë besấro aw harâṛxízo kitâbúno žbấṛa da, če dë nulasë́me peṛë́y pë wrustë́yo ke ye sur‘át zyât šow. 
+# text_en = Likewise, if we focus on Urdu and examine the reason for its development, then the only reason, which approached this language to international borders is the translation of large and comprehensive books in Urdu which accelerated in the late nineteenth century.
+1	همدغه	همدغه	DET	_	Case=Nom|PronType=Dem	det	2	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=same
+2	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	advmod	20	_	Translit=râz|LTranslit=râz|Gloss=way|CorrectSpaceAfter=Yes|SpaceAfter=No
+3	که	کۀ	SCONJ	_		mark	7	_	Translit=kë|LTranslit=kë|Gloss=if
+4	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	5	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+5	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	7	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+6	ته	ته	ADP	_	Case=Acc	case	5	_	Translit=ta|LTranslit=ta|Gloss=to
+7	ځیر	ځیر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	8	_	Translit=żir|LTranslit=żir|Gloss=focus
+8	شو	کېدل	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	advcl	20	_	Translit=šu|LTranslit=kedë́l|Gloss=we-become
+9	او	او	CCONJ	_		cc	16	_	Translit=aw|LTranslit=aw|Gloss=and
+10	د	د	ADP	_	Case=Acc	case	11	_	Translit=dë|LTranslit=dë|Gloss=of
+11	پرمخیون	پرمخیون	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	14	_	Translit=përmëxyún|LTranslit=përmëxyún|Gloss=progress
+12	يا	يا	CCONJ	_		cc	13	_	Translit=yâ|LTranslit=yâ|Gloss=or
+13	پرمختـګ	پرمختـګ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	conj	11	_	Translit=përmëxtág|LTranslit=përmëxtág|Gloss=development
+14	لامل	لامل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	16	_	Translit=lâmál|LTranslit=lâmál|Gloss=cause
+15	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	11	_	Translit=ye|LTranslit=ye|Gloss=its
+16	وڅېړو	څېړل	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	conj	7	_	Translit=wë́ceṛu|LTranslit=ceṛë́l|Gloss=we-investigate
+17	،	،	PUNCT	_		punct	20	_	Translit=,|LTranslit=,|Gloss=,
+18	نو	نو	ADV	_		advmod	20	_	Translit=no|LTranslit=no|Gloss=then
+19	يوازېنى	يوازېنى	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	20	_	Translit=yawâzenáy|LTranslit=yawâzenáy|Gloss=the only one
+20	لامل	لامل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	root	0	_	Translit=lâmál|LTranslit=lâmál|Gloss=reason
+21	چې	چې	PRON	_	PronType=Rel	nsubj	28	_	Translit=če|LTranslit=če|Gloss=which
+22	دغه	دغه	DET	_	Case=Nom|Gender=Fem|Number=Sing	det	23	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+23	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	28	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
+24	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nmod	21	_	Translit=ye|LTranslit=ye|Gloss=it
+25	تر	تر	ADP	_	Case=Abl	case	27	_	Translit=tër|LTranslit=tër|Gloss=until
+26	نړيوالو	نړيوال	ADJ	_	Case=Abl|Gender=Fem|Number=Plur	amod	27	_	Translit=naṛëywấlo|LTranslit=naṛëywấl|Gloss=international
+27	پولو	پوله	NOUN	_	Case=Abl|Gender=Fem|Number=Plur	obl	28	_	Translit=púlo|LTranslit=púla|Gloss=the border
+28	رسولې	رسول	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	acl	20	_	Translit=rësawë́le|LTranslit=rësawë́l|Gloss=reached
+29	،	،	PUNCT	_		punct	38	_	Translit=,|LTranslit=,|Gloss=,
+30	په	پۀ	ADP	_	Case=Loc	case	31	_	Translit=pë|LTranslit=pë|Gloss=at
+31	اردو	اردو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	nmod	38	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+32	کې	کې	ADP	_	Case=Loc	case	31	_	Translit=ke|LTranslit=ke|Gloss=in
+33	د	د	ADP	_	Case=Acc	case	37	_	Translit=dë|LTranslit=dë|Gloss=of
+34	بېسارو	بېسار	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	37	_	Translit=besấro|LTranslit=besấr|Gloss=countless
+35	او	او	CCONJ	_		cc	36	_	Translit=aw|LTranslit=aw|Gloss=and
+36	هراړخیزو	هراړخیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	conj	34	_	Translit=harâṛxízo|LTranslit=harâṛxíz|Gloss=versatile
+37	کتابونو	کتاب	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	38	_	Translit=kitâbúno|LTranslit=kitấb|Gloss=the books
+38	ژباړه	ژباړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	20	_	Translit=žbấṛa|LTranslit=žbấṛa|Gloss=translation
+39	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop	38	_	Translit=da|LTranslit=yëm|Gloss=is
+40	،	،	PUNCT	_		punct	50	_	Translit=,|LTranslit=,|Gloss=,
+41	چې	چې	PRON	_	PronType=Rel	nmod	49	_	Translit=če|LTranslit=če|Gloss=which
+42	د	د	ADP	_	Case=Acc	case	44	_	Translit=dë|LTranslit=dë|Gloss=of
+43	نولسمې	نولسم	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	amod	44	_	Translit=nulasë́me|LTranslit=nulasám|Gloss=nineteenth
+44	پېړۍ	پېړۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	46	_	Translit=peṛë́y|LTranslit=peṛë́y|Gloss=century
+45	په	پۀ	ADP	_	Case=Loc	case	46	_	Translit=pë|LTranslit=pë|Gloss=at
+46	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	obl	44	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=end
+47	کې	کې	ADP	_	Case=Loc	case	46	_	Translit=ke|LTranslit=ke|Gloss=in
+48	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	41	_	Translit=ye|LTranslit=ye|Gloss=its
+49	سرعت	سرعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	50	_	Translit=sur‘át|LTranslit=sur‘át|Gloss=speed
+50	زيات	زيات	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	51	_	Translit=zyât|LTranslit=zyât|Gloss=increase
+51	شو	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	acl:relcl	38	_	Translit=šow|LTranslit=kedë́l|Gloss=become
+52	.‏		PUNCT	_		punct	20	_	Translit=.‏|LTranslit=|Gloss=.
+
+# sent_id = pnt-3.4/8
+# text = خو شلمې پېړۍ، دغه ژبه نژدې په ټوله نړۍ کې خپره کړه، اوس شرق څه، چې په غرب او نورو خلیجي هېوادونو کې هم ګڼ شمېر وګړي پرې خبرې کوي او ان چې پالي يې هم.‏
+# translit = xo šlë́me peṛë́y, dáġa žë́ba niždé pë ṭóla naṛë́y ke xpará kṛa, os šarq cë, če pë ġarb aw nóro xaliǰí hewâdúno ke ham gaṇ šmer wagë́ṛi pre për ye xabë́re kawí aw ân če pâlí ye ham. 
+# text_en = But the 20th century expreaded this language almost all over the world, now not only in the East but in the West and in other Gulf countries, high number of people also speak this language and respect it.
+1	خو	خو	CCONJ	_		cc	13	_	Translit=xo|LTranslit=xo|Gloss=but
+2	شلمې	شلم	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	amod	3	_	Translit=šlë́me|LTranslit=šlëm|Gloss=the twentieth
+3	پېړۍ	پېړۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nsubj	13	_	Translit=peṛë́y|LTranslit=peṛë́y|Gloss=century
+4	،	،	PUNCT	_		punct	3/13	_	Translit=,|LTranslit=,|Gloss=,
+5	دغه	دغه	DET	_	Case=Nom|Gender=Fem|Number=Sing	det	6	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+6	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	13	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
+7	نژدې	نژدې	ADV	_		advmod	10	_	Translit=niždé|LTranslit=niždé|Gloss=near
+8	په	پۀ	ADP	_	Case=Loc	case	10	_	Translit=pë|LTranslit=pë|Gloss=at the
+9	ټوله	ټول	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronTyp=Tot	det	10	_	Translit=ṭóla|LTranslit=ṭol|Gloss=the whole
+10	نړۍ	نړۍ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	13	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=the world
+11	کې	کې	ADP	_	Case=Loc	case	10	_	Translit=ke|LTranslit=ke|Gloss=in
+12	خپره	خپور	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	xcomp	13	_	Translit=xpará|LTranslit=xpor|Gloss=published
+13	کړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	root	0	_	Translit=kṛa|LTranslit=kawë́l|Gloss=did it
+14	،	،	PUNCT	_		punct	34	_	Translit=,|LTranslit=,|Gloss=,
+15	اوس	اوس	ADV	_		advmod	16	_	Translit=os|LTranslit=os|Gloss=now
+16	شرق	شرق	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	???	34	_	Translit=šarq|LTranslit=šarq|Gloss=East
+17	څه	څۀ	PRON	_	PronType=Int	???	16	_	Translit=cë|LTranslit=cë|Gloss=not only
+18	،	،	PUNCT	_		punct	21	_	Translit=,|LTranslit=,|Gloss=,
+19	چې	چې	SCONJ	_		mark	34	_	Translit=če|LTranslit=če|Gloss=that
+20	په	پۀ	ADP	_	Case=Loc	case	21	_	Translit=pë|LTranslit=pë|Gloss=at the
+21	غرب	غرب	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	34	_	Translit=ġarb|LTranslit=ġarb|Gloss=west
+22	او	او	CCONJ	_		cc	25	_	Translit=aw|LTranslit=aw|Gloss=and
+23	نورو	نور	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	amod	25	_	Translit=nóro|LTranslit=nor|Gloss=others
+24	خلیجي	خلیجي	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	amod	25	_	Translit=xaliǰí|LTranslit=xaliǰí|Gloss=Gulf
+25	هېوادونو	هېواد	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	conj	21	_	Translit=hewâdúno|LTranslit=hewấd|Gloss=countries
+26	کې	کې	ADP	_	Case=Loc	case	21	_	Translit=ke|LTranslit=ke|Gloss=in
+27	هم	هم	ADV	_		advmod	21	_	Translit=ham|LTranslit=ham|Gloss=too
+28	ګڼ	ګڼ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	29	_	Translit=gaṇ|LTranslit=gaṇ|Gloss=high
+29	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	30	_	Translit=šmer|LTranslit=šmer|Gloss=number
+30	وګړي	وګړی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	nsubj	34	_	Translit=wagë́ṛi|LTranslit=wagë́ṛay|Gloss=people / inhabitant
+31-32	پرې	پرې	_	_		_	_	_	Translit=pre|LTranslit=pre|Gloss=on-it
+31	پر	پر	ADP	_	Case=Loc	case	32	_	Translit=për|LTranslit=për|Gloss=on
+32	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	obl	34	_	Translit=ye|LTranslit=ye|Gloss=it
+33	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	xcomp	34	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk
+34	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	advcl	13	_	Translit=kawí|LTranslit=kawë́l|Gloss=does
+35	او	او	CCONJ	_		cc	38	_	Translit=aw|LTranslit=aw|Gloss=and
+36	ان	ان	ADV	_		advmod	38	_	Translit=ân|LTranslit=ân|Gloss=even
+37	چې	چې	SCONJ	_		mark	38	_	Translit=če|LTranslit=če|Gloss=that
+38	پالي	پالل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj	34	_	Translit=pâlí|LTranslit=pâlë́l|Gloss=respect
+39	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	obj	38	_	Translit=ye|LTranslit=ye|Gloss=it
+40	هم	هم	ADV	_		advmod	38	_	Translit=ham|LTranslit=ham|Gloss=too
+41	.‏	.‏	PUNCT	_		punct	13	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-4.1/9
+# text = که څه هم د اردو ژبې تاريخي قدامت ډېر لږ دى، خو اوس د انټرنټ او کمپیوټر ژبه ده، ګڼ شمېر ويونکي لري او د نړۍ له مهمو ژبو څخه ګڼل کېږي.‏
+# translit = kë cë ham dë urdú žë́be târixí qadâmát ḍer lëǧ day, xo os dë inṭernéṭ aw kampyuṭár žë́ba da, gaṇ šmer wayúnki larí aw dë naṛë́y la muhímo žë́bo cë́xa gaṇë́l keǧí. 
+# text_en = Although the historical pastness of Urdu language is very small, but now it is the language of internet and computer, it has many speakers and it is considered as one of the important languages ​​of the world.
+1	که	کۀ	SCONJ	_		mark	10	_	Translit=kë|LTranslit=kë|Gloss=even
+2	څه	څۀ	PRON	_	PronType=Int	fixed	1	_	Translit=cë|LTranslit=cë|Gloss=what
+3	هم	هم	ADV	_		fixed	1	_	Translit=ham|LTranslit=ham|Gloss=also
+4	د	د	ADP	_	Case=Acc	case	6	_	Translit=dë|LTranslit=dë|Gloss=of
+5	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	6	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+6	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	8	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+7	تاريخي	تاريخي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	8	_	Translit=târixí|LTranslit=târixí|Gloss=historical
+8	قدامت	قدامت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	10	_	Translit=qadâmát|LTranslit=qadâmát|Gloss=old works
+9	ډېر	ډېر	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	advmod	10	_	Translit=ḍer|LTranslit=ḍer|Gloss=the most
+10	لږ	لږ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	advcl	19	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
+11	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux	10	_	Translit=day|LTranslit=yëm|Gloss=is
+12	،	،	PUNCT	_		punct	19	_	Translit=,|LTranslit=,|Gloss=,
+13	خو	خو	CCONJ	_		cc	19	_	Translit=xo|LTranslit=xo|Gloss=but
+14	اوس	اوس	ADV	_		advmod	19	_	Translit=os|LTranslit=os|Gloss=now
+15	د	د	ADP	_	Case=Acc	case	16	_	Translit=dë|LTranslit=dë|Gloss=of
+16	انټرنټ	انټرنټ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	19	_	Translit=inṭernéṭ|LTranslit=inṭernéṭ|Gloss=Internet
+17	او	او	CCONJ	_		cc	18	_	Translit=aw|LTranslit=aw|Gloss=and
+18	کمپیوټر	کمپیوټر	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	conj	16	_	Translit=kampyuṭár|LTranslit=kampyuṭár|Gloss=the computer
+19	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	root	0	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
+20	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop	19	_	Translit=da|LTranslit=yëm|Gloss=is
+21	،	،	PUNCT	_		punct	33	_	Translit=,|LTranslit=,|Gloss=,
+22	ګڼ		ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	23	_	Translit=gaṇ|LTranslit=|Gloss=big
+23	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	24	_	Translit=šmer|LTranslit=šmer|Gloss=number
+24	ويونکي	ویونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	obj	25	_	Translit=wayúnki|LTranslit=wayúnkay|Gloss=speaker
+25	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj	19	_	Translit=larí|LTranslit=larë́l|Gloss=have
+26	او	او	CCONJ	_		cc	33	_	Translit=aw|LTranslit=aw|Gloss=and
+27	د	د	ADP	_	Case=Acc	case	28	_	Translit=dë|LTranslit=dë|Gloss=of
+28	نړۍ	نړۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	31	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=the world
+29	له	له	ADP	_	Case=Acc	case	31	_	Translit=la|LTranslit=la|Gloss=from the
+30	مهمو	مهم	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	amod	31	_	Translit=muhímo|LTranslit=muhím|Gloss=important
+31	ژبو	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	obl	33	_	Translit=žë́bo|LTranslit=žë́ba|Gloss=languages
+32	څخه	څخه	ADP	_	Case=Acc	case	31	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+33	ګڼل	ګڼل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	conj	19	_	Translit=gaṇë́l|LTranslit=gaṇë́l|Gloss=considered
+34	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	auxcop	33	_	Translit=keǧí|LTranslit=kedë́l|Gloss=is done
+35	.‏	.‏	PUNCT	_		punct	19	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-5.1/10
+# text = له بده مرغه چې کله کله خو يوې ژبې ته هغه ارزښت نه ورکول کېږي، څومره چې ورسره ښايي.‏
+# translit = la báda më́rġa če kë́la kë́la xo yawé žë́be ta háġa arzë́x̌t në warkawë́l keǧí, cúmra če warsará war sará x̌âyí. 
+# text_en = Unfortunately, sometimes a language is not valued as much as it could be.
+1	له	له	ADP	_	Case=Abl	case	3	_	Translit=la|LTranslit=la|Gloss=from the
+2	بده	بد	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	amod	3	_	Translit=báda|LTranslit=bad|Gloss=bad
+3	مرغه	مرغ	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	obl	14	_	Translit=më́rġa|LTranslit=mërġ|Gloss=fortune
+4	چې	چې	SCONJ	_		mark	14	_	Translit=če|LTranslit=če|Gloss=that
+5	کله	کله	ADV	_		advmod	14	_	Translit=kë́la|LTranslit=kë́la|Gloss=some time
+6	کله	کله	ADV	_		fixed	5	_	Translit=kë́la|LTranslit=kë́la|Gloss=some time
+7	خو	خو	CCONJ	_		cc	14	_	Translit=xo|LTranslit=xo|Gloss=but
+8	يوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	nummod	9	_	Translit=yawé|LTranslit=yaw|Gloss=one
+9	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	14	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+10	ته	ته	ADP	_	Case=Acc	case	9	_	Translit=ta|LTranslit=ta|Gloss=to
+11	هغه	هغه	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	12	_	Translit=háġa|LTranslit=háġa|Gloss=that
+12	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	14	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
+13	نه	نۀ	PART	_	Polarity=Neg	advmod	14	_	Translit=në|LTranslit=në|Gloss=no
+14	ورکول	ورکول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	root	0	_	Translit=warkawë́l|LTranslit=warkawë́l|Gloss=to give
+15	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux	14	_	Translit=keǧí|LTranslit=kedë́l|Gloss=is done
+16	،	،	PUNCT	_		punct	21	_	Translit=,|LTranslit=,|Gloss=,
+17	څومره	څومره	ADV	_		advmod	21	_	Translit=cúmra|LTranslit=cúmra|Gloss=how much
+18	چې	چې	SCONJ	_		mark	21	_	Translit=če|LTranslit=če|Gloss=that
+19-20	ورسره	ورسره	_	_		_	_	_	Translit=warsará|LTranslit=warsará|Gloss=with it
+19	ور	ور	PRON	_	Person=3|Variant=Dir	obl	21	_	Translit=war|LTranslit=war|Gloss=it
+20	سره	سره	ADP	_	Case=Acc	case	19	_	Translit=sará|LTranslit=sará|Gloss=with
+21	ښايي	ښایل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	advcl	14	_	Translit=x̌âyí|LTranslit=x̌âyë́l|Gloss=deserve
+22	.‏	.‏	PUNCT	_		punct	14	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-5.2/11
+# text = وايي: ټیګور خپل شهکار اثر ګیتانجلي په بنګالۍ ژبه ولیکه، خو په پیل کې يې يوازې د ګوتو په شمېر مینه وال ځان ته رامات کړل، کله چې ټیګور دغه اثر په انګرېزۍ راوژباړه، نو د نوبل نړيواله ادبي جايزه يې ترلاسه کړه او په دې توګه د نړيوالو نوماندو (مشهورو) لیکوالو په ډله کې وشمېرل شو، هغه هنري متره يې هم په نړيواله کچه مطرح شوه، ځکه خو يې د خپلو څو رخه ګرو (حريفانو) په وړاندې ويلي وو:‏
+# translit = wâyí: ṭigúr xpël šahkấr asár gitânǰëlí pë bangâlë́y žë́ba wë́likë, xo pë payl ke ye yawấze dë gwë́to pë šmer mína wâl żân ta râmất kṛël, kë́la če ṭigúr dáġa asár pë angrezë́y râwë́žbâṛa, no dë nóbël naṛëywấla adabí ǰâyíza ye tërlấsa kṛa aw pë de tóga dë naṛëywấlo nomấndo (mašhúro) likwấlo pë ḍála ke wë́šmerël šow, háġa hunarí matrá ye ham pë naṛëywấla káča matráh šwa, żë́ka xo ye dë xpë́lo co rë́xa gáro (harifấno) pë wṛấnde wayë́li wu: 
+# text_en = Says: Tagore wrote his masterpiece Gitanjali in Bengali language, but at the beginning he atracted only a handful of fans. When Tagore translated this work into English, he won the Nobel Prize for the Literature. And in this way, he was included in the group of international candidate (famous) writers, his artistic style was also discussed on the international level, for this reason he said in front of his many-faceted opponents (rivals):
+1	وايي	ویل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	root	0	_	Translit=wâyí|LTranslit=wayë́l|Gloss=it is said
+2	:	:	PUNCT	_		punct	11	_	Translit=:|LTranslit=:|Gloss=:
+3	ټیګور	ټیګور	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	nsubj	11	_	Translit=ṭigúr|LTranslit=ṭigúr|Gloss=Tagore
+4	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	det	6	_	Translit=xpël|LTranslit=xpël|Gloss=own
+5	شهکار	شهکار	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	6	_	Translit=šahkấr|LTranslit=šahkấr|Gloss=master
+6	اثر	اثر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	11	_	Translit=asár|LTranslit=asár|Gloss=piece (work)
+7	ګیتانجلي	ګیتانجلي	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	6	_	Translit=gitânǰëlí|LTranslit=gitânǰëlí|Gloss=Gitanjali
+8	په	پۀ	ADP	_	Case=Loc	case	10	_	Translit=pë|LTranslit=pë|Gloss=at the
+9	بنګالۍ	بنګالی	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	amod	10	_	Translit=bangâlë́y|LTranslit=bangâláy|Gloss=Bengal
+10	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	11	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=the language
+11	ولیکه	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	ccomp	1	_	Translit=wë́likë|LTranslit=likë́l|Gloss=wrote
+12	،	،	PUNCT	_		punct	28	_	Translit=,|LTranslit=,|Gloss=,
+13	خو	خو	CCONJ	_		cc	28	_	Translit=xo|LTranslit=xo|Gloss=but
+14	په	پۀ	ADP	_	Case=Loc	case	15	_	Translit=pë|LTranslit=pë|Gloss=at the
+15	پیل	پیل	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	28	_	Translit=payl|LTranslit=payl|Gloss=begining
+16	کې	کې	ADP	_	Case=Loc	case	15	_	Translit=ke|LTranslit=ke|Gloss=in
+17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	28	_	Translit=ye|LTranslit=ye|Gloss=it
+18	يوازې	يوازې	ADV	_		advmod	20	_	Translit=yawấze|LTranslit=yawấze|Gloss=only
+19	د	د	ADP	_	Case=Acc	case	20	_	Translit=dë|LTranslit=dë|Gloss=of
+20	ګوتو	ګوته	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	nmod	22	_	Translit=gwë́to|LTranslit=gwë́ta|Gloss=fingers
+21	په	پۀ	ADP	_	Case=Loc	case	22	_	Translit=pë|LTranslit=pë|Gloss=at the
+22	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	24	_	Translit=šmer|LTranslit=šmer|Gloss=number
+23	مینه	مینه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nmod	24	_	Translit=mína|LTranslit=mína|Gloss=love
+24	وال	وال	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	obj	28	_	Translit=wâl|LTranslit=wâl|Gloss=owning
+25	ځان	ځان	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	obl	28	_	Translit=żân|LTranslit=żân|Gloss=self
+26	ته	ته	ADP	_	Case=Acc	case	25	_	Translit=ta|LTranslit=ta|Gloss=to 
+27	رامات	رامات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	xcomp	28	_	Translit=râmất|LTranslit=râmất|Gloss=attract
+28	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	conj	11	_	Translit=kṛël|LTranslit=kawë́l|Gloss=did
+29	،	،	PUNCT	_		punct	37	_	Translit=,|LTranslit=,|Gloss=,
+30	کله	کله	SCONJ	_		mark	37	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
+31	چې	چې	SCONJ	_		fixed	30	_	Translit=če|LTranslit=če|Gloss=that
+32	ټیګور	ټیګور	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	37	_	Translit=ṭigúr|LTranslit=ṭigúr|Gloss=Tagore
+33	دغه	دغه	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	34	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+34	اثر	اثر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	37	_	Translit=asár|LTranslit=asár|Gloss=work
+35	په	پۀ	ADP	_	Case=Loc	case	36	_	Translit=pë|LTranslit=pë|Gloss=at the
+36	انګرېزۍ	انګرېزۍ	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	obl	37	_	Translit=angrezë́y|LTranslit=angrezë́y|Gloss=english
+37	راوژباړه	راژباړل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	advcl	48	_	Translit=râwë́žbâṛa|LTranslit=râžbâṛë́l|Gloss=translate
+38	،	،	PUNCT	_		punct	48	_	Translit=,|LTranslit=,|Gloss=,
+39	نو	نو	ADV	_		advmod	48	_	Translit=no|LTranslit=no|Gloss=then
+40	د	د	ADP	_	Case=Acc	case	41	_	Translit=dë|LTranslit=dë|Gloss=of
+41	نوبل	نوبل	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	44	_	Translit=nóbël|LTranslit=nóbël|Gloss=Noble
+42	نړيواله	نړيوال	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	44	_	Translit=naṛëywấla|LTranslit=naṛëywấl|Gloss=international
+43	ادبي	ادبي	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	44	_	Translit=adabí|LTranslit=adabí|Gloss=Literary
+44	جايزه	جايزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	48	_	Translit=ǰâyíza|LTranslit=ǰâyíza|Gloss=award
+45	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	48	_	Translit=ye|LTranslit=ye|Gloss=he
+46	تر	تر	ADP	_	Case=Abl	case	47	_	Translit=tër|LTranslit=tër|Gloss=to
+47	لاسه	لاس	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	obl	48	_	Translit=lấsa|LTranslit=lâs|Gloss=hand
+48	کړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	conj	11	_	Translit=kṛa|LTranslit=kawë́l|Gloss=did it
+49	او	او	CCONJ	_		cc	63	_	Translit=aw|LTranslit=aw|Gloss=and
+50	په	پۀ	ADP	_	Case=Loc	case	52	_	Translit=pë|LTranslit=pë|Gloss=on
+51	دې	دې	DET	_		det	52	_	Translit=de|LTranslit=de|Gloss=this
+52	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	63	_	Translit=tóga|LTranslit=tóga|Gloss=way
+53	د	د	ADP	_	Case=Acc	case	59	_	Translit=dë|LTranslit=dë|Gloss=of
+54	نړيوالو	نړيوال	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	59	_	Translit=naṛëywấlo|LTranslit=naṛëywấl|Gloss=international
+55	نوماندو	نوماند	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	59	_	Translit=nomấndo|LTranslit=nomấnd|Gloss=Candidates
+56	(	(	PUNCT	_		punct	57	_	Translit=(|LTranslit=(|Gloss=(
+57	مشهورو	مشهور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	59	_	Translit=mašhúro|LTranslit=mašhúr|Gloss=famous
+58	)	)	PUNCT	_		punct	57	_	Translit=)|LTranslit=)|Gloss=)
+59	لیکوالو	لیکوال	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	61	_	Translit=likwấlo|LTranslit=likwấl|Gloss=the writers
+60	په	پۀ	ADP	_	Case=Loc	case	61	_	Translit=pë|LTranslit=pë|Gloss=at the
+61	ډله	ډله	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	63	_	Translit=ḍála|LTranslit=ḍála|Gloss=group
+62	کې	کې	ADP	_	Case=Loc	case	61	_	Translit=ke|LTranslit=ke|Gloss=in
+63	وشمېرل	شمېرل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	conj	48	_	Translit=wë́šmerël|LTranslit=šmerë́l|Gloss=counted
+64	شو	کېدل	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	aux	63	_	Translit=šow|LTranslit=kedë́l|Gloss=become
+65	،	،	PUNCT	_		punct	75	_	Translit=,|LTranslit=,|Gloss=,
+66	هغه	هغه	DET	_	Case=Nom|Gender=Fem|Number=Sing	det	68	_	Translit=háġa|LTranslit=háġa|Gloss=that
+67	هنري	هنري	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	68	_	Translit=hunarí|LTranslit=hunarí|Gloss=art
+68	متره	متره	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	75	_	Translit=matrá|LTranslit=matrá|Gloss=style
+69	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	68	_	Translit=ye|LTranslit=ye|Gloss=its
+70	هم	هم	ADV	_		advmod	75	_	Translit=ham|LTranslit=ham|Gloss=too
+71	په	پۀ	ADP	_	Case=Loc	case	73	_	Translit=pë|LTranslit=pë|Gloss=at the
+72	نړيواله	نړيوال	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	amod	73	_	Translit=naṛëywấla|LTranslit=naṛëywấl|Gloss=international
+73	کچه	کچه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	75	_	Translit=káča|LTranslit=káča|Gloss=level
+74	مطرح	مطرح	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	xcomp	75	_	Translit=matráh|LTranslit=matráh|Gloss=discussed
+75	شوه	کېدل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	conj	11	_	Translit=šwa|LTranslit=kedë́l|Gloss=became
+76	،	،	PUNCT	_		punct	90	_	Translit=,|LTranslit=,|Gloss=,
+77	ځکه	ځکه	ADV	_		advmod	90	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=therefore
+78	خو	خو	CCONJ	_		cc	90	_	Translit=xo|LTranslit=xo|Gloss=but
+79	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	90	_	Translit=ye|LTranslit=ye|Gloss=he
+80	د	د	ADP	_	Case=Acc	case	84	_	Translit=dë|LTranslit=dë|Gloss=of
+81	خپلو	خپل	DET	_	Case=Acc|Gender=Masc|Number=Plur	det	84	_	Translit=xpë́lo|LTranslit=xpël|Gloss=own
+82	څو	څو	DET	_		advmod	84	_	Translit=co|LTranslit=co|Gloss=several
+83	رخه	رخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nmod	84	_	Translit=rë́xa|LTranslit=rë́xa|Gloss=envy
+84	ګرو	ګر	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	nmod	89	_	Translit=gáro|LTranslit=gar|Gloss=person
+85	(	(	PUNCT	_		punct	86	_	Translit=(|LTranslit=(|Gloss=(
+86	حريفانو	حریف	NOUN	_	Case=Acc|Gender=Masc|Number=plur	parataxis	84	_	Translit=harifấno|LTranslit=haríf|Gloss=rivals
+87	)	)	PUNCT	_		punct	86	_	Translit=)|LTranslit=)|Gloss=)
+88	په	پۀ	ADP	_	Case=Loc	case	89	_	Translit=pë|LTranslit=pë|Gloss=in
+89	وړاندې	وړاندې	ADV	_		obl	90	_	Translit=wṛấnde|LTranslit=wṛấnde|Gloss=front
+90	ويلي	ویل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	conj	75	_	Translit=wayë́li|LTranslit=wayë́l|Gloss=said
+91	وو	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	aux	90	_	Translit=wu|LTranslit=yëm|Gloss=has been
+92	:‏	:‏	PUNCT	_		punct	1	_	Translit=:‏|LTranslit=:‏|Gloss=:
+
+# sent_id = pnt-6.1/12
+# text = د مینې هغه خداى چې ما په شرق کې لټاوه، له غرب څخه د مینې لاسونه راوغزول.‏
+# translit = dë míne háġa xudấy če mâ pë šarq ke lëṭâwë́, la ġarb cë́xa dë míne lâsúna râwë́ġëzawël. 
+# text_en = The God of love that I sought in the east, extended the hands of love from the west.
+1	د	د	ADP	_	Case=Acc	case	2	_	Translit=dë|LTranslit=dë|Gloss=of
+2	مینې	مینه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	4	_	Translit=míne|LTranslit=míne|Gloss=love
+3	هغه	هغه	DET	_	Case=Nom	det	4	_	Translit=háġa|LTranslit=háġa|Gloss=that
+4	خداى	خداى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	18	_	Translit=xudấy|LTranslit=xudấy|Gloss=god
+5	چې	چې	PRON	_	PronType=Rel	obj	10	_	Translit=če|LTranslit=če|Gloss=which
+6	ما	زۀ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	nsubj	10	_	Translit=mâ|LTranslit=zë|Gloss=me
+7	په	پۀ	ADP	_	Case=Loc	case	8	_	Translit=pë|LTranslit=pë|Gloss=at the
+8	شرق	شرق	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	10	_	Translit=šarq|LTranslit=šarq|Gloss=East
+9	کې	کې	ADP	_	Case=Loc	case	8	_	Translit=ke|LTranslit=ke|Gloss=in
+10	لټاوه	لټول	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	acl:relcl	4	_	Translit=lëṭâwë́|LTranslit=lëṭâwë́l|Gloss=was looking for
+11	،	،	PUNCT	_		punct	10	_	Translit=,|LTranslit=,|Gloss=,
+12	له	له	ADP	_	Case=Acc	case	13	_	Translit=la|LTranslit=la|Gloss=from the
+13	غرب	غرب	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	obl	18	_	Translit=ġarb|LTranslit=ġarb|Gloss=west
+14	څخه	څخه	ADP	_	Case=Acc	case	13	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+15	د	د	ADP	_	Case=Acc	case	16	_	Translit=dë|LTranslit=dë|Gloss=of
+16	مینې	مینه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	17	_	Translit=míne|LTranslit=mína|Gloss=love
+17	لاسونه	لاس	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	obj	18	_	Translit=lâsúna|LTranslit=lâs|Gloss=the hands
+18	راوغزول	غزول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	root	0	_	Translit=râwë́ġëzawël|LTranslit=ġëzawë́l|Gloss=extended
+19	.‏	.‏	PUNCT	_		punct	18	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-7.1/13
+# text = ستره ستونزه همدغه ده چې کله-کله چاپېريال نامساعد وي او د فرهنګیانو، ادبپالو او هنرپالو لاسونو ته زيندۍ وراچوي، ګنې شهکار اثر که په هره ژبه کې وي، خپل هنري ارزښت يې خوندي او پټ وي.‏
+# translit = stë́ra stúnza hamdáġa da če kë́la-kë́la čâperyấl nâmësâ‘ë́d wi aw dë farhangyấno, adabpấlo aw hunarpấlo lâsúno ta zindë́y waračawí, gáne šahkấr asár kë pë hára žë́ba ke wi, xpël hunarí arzë́x̌t ye xwandí aw pëṭ wi. 
+# text_en = The biggest problem is that sometimes the environment is unfavorable and gives handcuffs to the hands of cultured people, writers and artists; if a great work is in any language, its artistic value is protected and hidden.
+1	ستره	ستر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	2	_	Translit=stë́ra|LTranslit=stër|Gloss=big
+2	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	root	0	_	Translit=stúnza|LTranslit=stúnza|Gloss=problem
+3	همدغه		PRON	_	Case=Nom|PronType=Dem	nsubj	2	_	Translit=hamdáġa|LTranslit=|Gloss=this
+4	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop	2	_	Translit=da|LTranslit=yëm|Gloss=is
+5	چې		SCONJ	_		mark	10	_	Translit=če|LTranslit=|Gloss=that
+6	کله		ADV	_		advmod	10	_	Translit=kë́la|LTranslit=|Gloss=some
+7	-		PUNCT	_		punct	6	_	Translit=-|LTranslit=|Gloss=-
+8	کله		ADV	_		fixed	6	_	Translit=kë́la|LTranslit=|Gloss=times
+9	چاپېريال	چاپېريال	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	10	_	Translit=čâperyấl|LTranslit=čâperyấl|Gloss=environment
+10	نامساعد	نامساعد	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	??	?	_	Translit=nâmësâ‘ë́d|LTranslit=nâmësâ‘ë́d|Gloss=unfavorable
+11	وي	یم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	cop	10	_	Translit=wi|LTranslit=yëm|Gloss=is
+12	او		CCONJ	_		cc	22	_	Translit=aw|LTranslit=|Gloss=and
+13	د		ADP	_	Case=Acc	case	14	_	Translit=dë|LTranslit=|Gloss=of
+14	فرهنګیانو	فرهنګي	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	nmod	19	_	Translit=farhangyấno|LTranslit=farhangí|Gloss=cultured
+15	،		PUNCT	_		punct	16	_	Translit=,|LTranslit=|Gloss=,
+16	ادبپالو	ادبپال	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	conj	14	_	Translit=adabpấlo|LTranslit=adabpấl|Gloss=writers
+17	او		CCONJ	_		cc	18	_	Translit=aw|LTranslit=|Gloss=and
+18	هنرپالو	هنرپال	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	conj	14	_	Translit=hunarpấlo|LTranslit=hunarpấl|Gloss=artists
+19	لاسونو	لاس	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	obl	22	_	Translit=lâsúno|LTranslit=lâs|Gloss=hands
+20	ته		ADP	_	Case=Acc	case	19	_	Translit=ta|LTranslit=|Gloss=to
+21	زيندۍ	زيندۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	obj	22	_	Translit=zindë́y|LTranslit=zindë́y|Gloss=handcuffs
+22	وراچوي	وراچول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj	10	_	Translit=waračawí|LTranslit=waračawë́l|Gloss=give
+23	،		PUNCT	_		punct	38	_	Translit=,|LTranslit=|Gloss=,
+24	ګنې	ګن	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	26	_	Translit=gáne|LTranslit=gan|Gloss=big
+25	شهکار	شهکار	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	26	_	Translit=šahkấr|LTranslit=šahkấr|Gloss=master
+26	اثر	اثر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	30	_	Translit=asár|LTranslit=asár|Gloss=piece (work)
+27	که	کۀ	SCONJ	_		mark	30	_	Translit=kë|LTranslit=kë|Gloss=if
+28	په	پۀ	ADP	_	Case=Loc	case	30	_	Translit=pë|LTranslit=pë|Gloss=at
+29	هره	هره	DET	_	Case=Loc|Gender=Fem|Number=Sing	det	30	_	Translit=hára|LTranslit=har|Gloss=each
+30	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	advcl	38	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+31	کې	کې	ADP	_	Case=Loc	case	30	_	Translit=ke|LTranslit=ke|Gloss=in
+32	وي	یم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	cop	30	_	Translit=wi|LTranslit=yëm|Gloss=to be
+33	،	،	PUNCT	_		punct	30	_	Translit=,|LTranslit=,|Gloss=,
+34	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	36	_	Translit=xpël|LTranslit=xpël|Gloss=own
+35	هنري	هنري	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	36	_	Translit=hunarí|LTranslit=hunarí|Gloss=artistical
+36	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	38	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
+37	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	36	_	Translit=ye|LTranslit=ye|Gloss=its
+38	خوندي		ADJ	_	Case=Nom|Gender=Masc|Number=Sing	conj	2	_	Translit=xwandí|LTranslit=|Gloss=protected
+39	او	او	CCONJ	_		cc	40	_	Translit=aw|LTranslit=aw|Gloss=and
+40	پټ	پټ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	conj	38	_	Translit=pëṭ|LTranslit=pëṭ|Gloss=hidden
+41	وي	یم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	cop	38	_	Translit=wi|LTranslit=yëm|Gloss=to be
+42	.‏		PUNCT	_		punct	2	_	Translit=.‏|LTranslit=|Gloss=
+
+# sent_id = pnt-7.2/14
+# text = بېنوايان که په پاړسي ژبه ژباړل شوى، بیا هم زياتو کسانو لوستى، د اټکل له مخې استاد حبیبي په طلوع افغان ورځپاڼه کې برخې- برخې خپور کړى هم دى، چې لا راټول شوى نه دى.‏
+# translit = benawâyấn kë pë pâṛsí žë́ba žbâṛë́l šë́way, byâ ham zyấto kasấno lwástay, dë aṭkál la më́xe ustấd habibí pë tuló afġấn wrażpấṇa ke bárxe- bárxe xpor kë́ṛay ham day, če lâ râṭól šë́way në day. 
+# text_en = Even though Benawayan has been translated into Persian language, many people have read it; according to the estimation, Ustad Habibi has also published parts of it in Tolo Afghan newspaper, which has not been collected yet.
+1	بېنوايان	بینوا	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	nsubj	6	_	Translit=benawâyấn|LTranslit=benawấ|Gloss=Les-Misérables
+2	که	کۀ	SCONJ	_		mark	6	_	Translit=kë|LTranslit=kë|Gloss=if
+3	په	پۀ	ADP	_	Case=Loc	case	5	_	Translit=pë|LTranslit=pë|Gloss=at
+4	پاړسي	پاړسي	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	amod	5	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Persian
+5	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	6	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+6	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	advcl	13	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
+7	شوى	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	aux	6	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become
+8	،	،	PUNCT	_		punct	6	_	Translit=,|LTranslit=,|Gloss=,
+9	بیا	بیا	ADV	_		advmod	13	_	Translit=byâ|LTranslit=byâ|Gloss=even
+10	هم	هم	ADV	_		advmod	13	_	Translit=ham|LTranslit=ham|Gloss=too
+11	زياتو	زيات	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	12	_	Translit=zyấto|LTranslit=zyât|Gloss=more
+12	کسانو	کس	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	obl:agent	13	_	Translit=kasấno|LTranslit=kas|Gloss=people
+13	لوستى	لوستل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part	root	0	_	Translit=lwástay|LTranslit=lwastë́l|Gloss=read
+14	،		PUNCT	_		punct	30	_	Translit=,|LTranslit=|Gloss=,
+15	د	د	ADP	_	Case=Acc	case	16	_	Translit=dë|LTranslit=dë|Gloss=of the
+16	اټکل	اټکل	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	obl	30	_	Translit=aṭkál|LTranslit=aṭkál|Gloss=estimate
+17	له	له	ADP	_	Case=Abl	case	18	_	Translit=la|LTranslit=la|Gloss=from the
+18	مخې	مخ	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	nmod	16	_	Translit=më́xe|LTranslit=mëx|Gloss=face
+19	استاد	استاد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	30	_	Translit=ustấd|LTranslit=ustấd|Gloss=teacher
+20	حبیبي	حبیبي	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	flat	19	_	Translit=habibí|LTranslit=habibí|Gloss=Habibi
+21	په	پۀ	ADP	_	Case=Loc	case	24	_	Translit=pë|LTranslit=pë|Gloss=at the
+22	طلوع	طلوع	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	24	_	Translit=tuló|LTranslit=tuló|Gloss=Tolo
+23	افغان	افغان	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	flat	22	_	Translit=afġấn|LTranslit=afġấn|Gloss=Afghan
+24	ورځپاڼه	ورځپاڼه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	30	_	Translit=wrażpấṇa|LTranslit=wrażpấṇa|Gloss=newspaper
+25	کې	کې	ADP	_	Case=Loc	case	24	_	Translit=ke|LTranslit=ke|Gloss=in
+26	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	obj	30	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts
+27	-	-	PUNCT	_		punct	26	_	Translit=-|LTranslit=-|Gloss=-
+28	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	fixed	26	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts
+29	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	30	_	Translit=xpor|LTranslit=xpor|Gloss=published
+30	کړى	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	conj	13	_	Translit=kë́ṛay|LTranslit=kawë́l|Gloss=did
+31	هم	هم	ADV	_		advmod	30	_	Translit=ham|LTranslit=ham|Gloss=too
+32	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux	30	_	Translit=day|LTranslit=yëm|Gloss=is
+33	،	،	PUNCT	_		punct	37	_	Translit=,|LTranslit=,|Gloss=,
+34	چې	چې	PRON	_	PronType=Rel	nsubj	37	_	Translit=če|LTranslit=če|Gloss=that
+35	لا	لا	ADV	_		advmod	37	_	Translit=lâ|LTranslit=lâ|Gloss=still
+36	راټول	راټول	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	37	_	Translit=râṭól|LTranslit=râṭól|Gloss=collected
+37	شوى	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	acl:relcl	?	_	Translit=šë́way|LTranslit=kedë́l|Gloss=done
+38	نه	نۀ	PART	_	Polarity=Neg	advmod	37	_	Translit=në|LTranslit=në|Gloss=no
+39	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux	37	_	Translit=day|LTranslit=yëm|Gloss=is
+40	.‏		PUNCT	_		punct	13	_	Translit=.‏|LTranslit=|Gloss=.
+
+# sent_id = pnt-7.3/15
+# text = خو که هر وخت راټول او د يوه بېل کتاب په بڼه چاپ شي، خپل هنري او ادبي ارزښت به لري.‏
+# translit = xo kë har waxt râṭól aw dë yawë́ bel kitấb pë báṇa čâp ši, xpël hunarí aw adabí arzë́x̌t bë larí. 
+# text_en = But if they are collected any time and published in the form of a separate book, it will have its own artistic and literary value.
+1	خو	خو	CCONJ	_		cc	14	_	Translit=xo|LTranslit=xo|Gloss=but
+2	که	کۀ	SCONJ	_		mark	14	_	Translit=kë|LTranslit=kë|Gloss=If
+3	هر	هر	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	4	_	Translit=har|LTranslit=har|Gloss=any
+4	وخت	وخت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obl	14	_	Translit=waxt|LTranslit=waxt|Gloss=time
+5	راټول	راټول	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	14	_	Translit=râṭól|LTranslit=râṭól|Gloss=collected
+6	او	او	CCONJ	_		cc	13	_	Translit=aw|LTranslit=aw|Gloss=and
+7	د	د	ADP	_	Case=Acc	case	10	_	Translit=dë|LTranslit=dë|Gloss=of
+8	يوه	یو	NUM	_	Case=Acc|Gender=Masc|NumType=Card	nummod	10	_	Translit=yawë́|LTranslit=yaw|Gloss=one
+9	بېل	بېل	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	amod	10	_	Translit=bel|LTranslit=bel|Gloss=different
+10	کتاب	کتاب	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	12	_	Translit=kitấb|LTranslit=kitấb|Gloss=book
+11	په	پۀ	ADP	_	Case=Loc	case	12	_	Translit=pë|LTranslit=pë|Gloss=at
+12	بڼه	بڼه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	nmod	13	_	Translit=báṇa|LTranslit=báṇa|Gloss=form
+13	چاپ	چاپ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	conj	5	_	Translit=čâp|LTranslit=čâp|Gloss=print
+14	شي	کېدل	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	advcl	22	_	Translit=ši|LTranslit=kedë́l|Gloss=become
+15	،	،	PUNCT	_		punct	14	_	Translit=,|LTranslit=,|Gloss=,
+16	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing	det	20	_	Translit=xpël|LTranslit=xpël|Gloss=own
+17	هنري	هنري	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	20	_	Translit=hunarí|LTranslit=hunarí|Gloss=artistic
+18	او	او	CCONJ	_		cc	19	_	Translit=aw|LTranslit=aw|Gloss=and
+19	ادبي		ADJ	_	Case=Nom|Gender=Masc|Number=Sing	conj	17	_	Translit=adabí|LTranslit=|Gloss=literary
+20	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	22	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
+21	به	بۀ	AUX	_	Tense=Fut	aux	22	_	Translit=bë|LTranslit=bë|Gloss=will
+22	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root	0	_	Translit=larí|LTranslit=larë́l|Gloss=have
+23	.‏	.‏	PUNCT	_		punct	22	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-8.1/16
+# text = ژبه د پوهونې- راپوهونې تر ټولو ښه او اغېزناکه وسیله ګڼل کېږي، چې انسانانو د خپل ژوند له پیله تر دې دمه ترې ګټه اوچته کړې ده.‏
+# translit = žë́ba dë pohawë́ne- râpohawë́ne tër ṭólo x̌a aw aġeznấka wasíla gaṇë́l keǧí, če insânấno dë xpël žwënd la páyla tër de dáma tre tër ye gáṭa učáta kë́ṛe da. 
+# text_en = Language is considered to be the best and most effective means of mutual understanding, which humans have used since the beginning of their lives.
+1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	nsubj	12	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+2	د	د	ADP	_	Case=Acc	case	3	_	Translit=dë|LTranslit=dë|Gloss=of
+3	پوهونې	پوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	11	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education
+4	-	-	PUNCT	_		punct	3	_	Translit=-|LTranslit=-|Gloss=-
+5	راپوهونې	راپوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	fixed	3	_	Translit=râpohawë́ne|LTranslit=râpohawë́na|Gloss=study
+6	تر	تر	ADP	_	Case=Abl	case	7	_	Translit=tër|LTranslit=tër|Gloss=from
+7	ټولو	ټول	PRON	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	nmod	8	_	Translit=ṭólo|LTranslit=ṭol|Gloss=all
+8	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	11	_	Translit=x̌a|LTranslit=x̌ë|Gloss=good
+9	او	او	CCONJ	_		cc	10	_	Translit=aw|LTranslit=aw|Gloss=and
+10	اغېزناکه	اغېزناک	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	conj	8	_	Translit=aġeznấka|LTranslit=aġeznấk|Gloss=effective
+11	وسیله	وسیله	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obl:arg	12	_	Translit=wasíla|LTranslit=wasíla|Gloss=instrument
+12	ګڼل	ګڼل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	root	0	_	Translit=gaṇë́l|LTranslit=gaṇë́l|Gloss=considered
+13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux	12	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes
+14	،	،	PUNCT	_		punct	29	_	Translit=,|LTranslit=,|Gloss=,
+15	چې	چې	PRON	_	PronType=Rel	obj	29	_	Translit=če|LTranslit=če|Gloss=which
+16	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nsubj	29	_	Translit=insânấno|LTranslit=insấn|Gloss=human 
+17	د	د	ADP	_	Case=Acc	case	19	_	Translit=dë|LTranslit=dë|Gloss=of
+18	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing	det	19	_	Translit=xpël|LTranslit=xpël|Gloss=own
+19	ژوند	ژوند	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	21	_	Translit=žwënd|LTranslit=žwënd|Gloss=life
+20	له	له	ADP	_	Case=Abl	case	21	_	Translit=la|LTranslit=la|Gloss=from
+21	پیله	پیل	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	obl	29	_	Translit=páyla|LTranslit=payl|Gloss=beginning
+22	تر	تر	ADP	_	Case=Abl	case	24	_	Translit=tër|LTranslit=tër|Gloss=until
+23	دې	دا	DET	_	Case=Abl|Gender=Fem|Number=Sing	det	24	_	Translit=de|LTranslit=dâ|Gloss=this
+24	دمه	دمه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	obl	29	_	Translit=dáma|LTranslit=dáma|Gloss=moment
+25-26	ترې	ترې	_	_		_	_	_	Translit=tre|LTranslit=tre|Gloss=from-it
+25	تر	تر	ADP	_	Case=Abl	case	26	_	Translit=tër|LTranslit=tër|Gloss=from
+26	یې	یې	PRON	_		obl	29	_	Translit=ye|LTranslit=ye|Gloss=it
+27	ګټه	ګټه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	29	_	Translit=gáṭa|LTranslit=gáṭa|Gloss=benefit
+28	اوچته	اوچت	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	xcomp	29	_	Translit=učáta|LTranslit=učát|Gloss=taken
+29	کړې	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	acl:relcl	11	_	Translit=kë́ṛe|LTranslit=kawë́l|Gloss=done
+30	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop	29	_	Translit=da|LTranslit=yëm|Gloss=is
+31	.‏	.‏	PUNCT	_		punct	12	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-8.2/17
+# text = يوه زمانه به انسانانو د خبرو- اترو لپاره کره او سمه ژبه نه درلوده، د خطر په وخت کې به يې یو ډول ږغ کاوه، د خوښۍ په وخت کې به يې ځانګړې نارې او کوکې وهلې، د خواشینۍ لپاره به يې بېل اوازونه کښل، همدغو ږغیزو توکو (موادو) د خلکو ترمنځ دود وموند، چې وروسته يې ږغیزه يا د خبرو- اترو اوسنۍ ژبه دود کړه.‏
+# translit = yawá zamấna bë insânấno dë xabë́ro- atë́ro lapấra kára aw sáma žë́ba në dërlówda, dë xatár pë waxt ke bë ye yaw ḍawl ǧaġ kâwë́, dë xwax̌ë́y pë waxt ke bë ye żângë́ṛe nâré aw kuké wahë́le, dë xwâšinë́y lapấra bë ye bel awâzúna kx̌ël, hamdáġo ǧaġízo túko (mawấdo) dë xálko tërmánż dod wëmúnd, če wrústa ye ǧaġíza yâ dë xabë́ro- atë́ro osanë́y žë́ba dod kṛa. 
+# text_en = Once upon a time, people didn't have a proper language to communicate, they used to make a kind of sound when they were in danger, when they were happy they used to scream and shout, and when they were sad, they used to make different sounds. These sound items (materials) found a tradition among the people, which later became the sound or the current language of conversation.
+1	يوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	nummod	2	_	Translit=yawá|LTranslit=yaw|Gloss=one
+2	زمانه	زمانه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obl	15	_	Translit=zamấna|LTranslit=zamấna|Gloss=time
+3	به	بۀ	AUX	_	Mood=Sub	aux	15	_	Translit=bë|LTranslit=bë|Gloss=would
+4	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nsubj	15	_	Translit=insânấno|LTranslit=insấn|Gloss=human beings
+5	د	د	ADP	_	Case=Acc	case	6	_	Translit=dë|LTranslit=dë|Gloss=of 
+6	خبرو	خبره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	obl	15	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talk
+7	-	-	PUNCT	_		punct	6	_	Translit=-|LTranslit=-|Gloss=-
+8	اترو	اتره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	fixed	6	_	Translit=atë́ro|LTranslit=atë́ra|Gloss=talk
+9	لپاره	لپاره	ADP	_	Case=Acc	case	6	_	Translit=lapấra|LTranslit=lapấra|Gloss=for 
+10	کره	کر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	13	_	Translit=kára|LTranslit=kar|Gloss=correct
+11	او	او	CCONJ	_		cc	12	_	Translit=aw|LTranslit=aw|Gloss=and
+12	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	conj	10	_	Translit=sáma|LTranslit=sam|Gloss=right
+13	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	15	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+14	نه	نۀ	PART	_	Polarity=Neg	advmod	15	_	Translit=në|LTranslit=në|Gloss=no
+15	درلوده	درلودل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	root	0	_	Translit=dërlówda|LTranslit=dërlowdë́l|Gloss=had
+16	،	،	PUNCT	_		punct	27	_	Translit=,|LTranslit=,|Gloss=,
+17	د	د	ADP	_	Case=Acc	case	18	_	Translit=dë|LTranslit=dë|Gloss=of 
+18	خطر	خطر	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	20	_	Translit=xatár|LTranslit=xatár|Gloss=danger
+19	په	پۀ	ADP	_	Case=Loc	case	20	_	Translit=pë|LTranslit=pë|Gloss=at
+20	وخت	وخت	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	27	_	Translit=waxt|LTranslit=waxt|Gloss=time
+21	کې	کې	ADP	_	Case=Loc	case	20	_	Translit=ke|LTranslit=ke|Gloss=in
+22	به	بۀ	AUX	_	Mood=Sub	aux	27	_	Translit=bë|LTranslit=bë|Gloss=would
+23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	27	_	Translit=ye|LTranslit=ye|Gloss=they
+24	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	nummod	25	_	Translit=yaw|LTranslit=yaw|Gloss=one
+25	ډول	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nmod	26	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=type
+26	ږغ	ږغ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	27	_	Translit=ǧaġ|LTranslit=ǧaġ|Gloss=voice
+27	کاوه	کول	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	conj	15	_	Translit=kâwë́|LTranslit=kawë́l|Gloss=do
+28	،	،	PUNCT	_		punct	40	_	Translit=,|LTranslit=,|Gloss=,
+29	د	د	ADP	_	Case=Acc	case	30	_	Translit=dë|LTranslit=dë|Gloss=of 
+30	خوښۍ	خوښۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	32	_	Translit=xwax̌ë́y|LTranslit=xwax̌ë́y|Gloss=happiness
+31	په	پۀ	ADP	_	Case=Loc	case	32	_	Translit=pë|LTranslit=pë|Gloss=at 
+32	وخت	وخت	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	40	_	Translit=waxt|LTranslit=waxt|Gloss=time
+33	کې	کې	ADP	_	Case=Loc	case	32	_	Translit=ke|LTranslit=ke|Gloss=in
+34	به	بۀ	AUX	_	Mood=Sub	aux	40	_	Translit=bë|LTranslit=bë|Gloss=would
+35	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	40	_	Translit=ye|LTranslit=ye|Gloss=they
+36	ځانګړې	ځانګړی	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	amod	37	_	Translit=żângë́ṛe|LTranslit=żângë́ṛay|Gloss=special
+37	نارې	ناره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	obj	40	_	Translit=nâré|LTranslit=nârá|Gloss=slogans
+38	او	او	CCONJ	_		cc	39	_	Translit=aw|LTranslit=aw|Gloss=and
+39	کوکې	کوکه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	conj	37	_	Translit=kuké|LTranslit=kuká|Gloss=sounds
+40	وهلې	وهل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	conj	15	_	Translit=wahë́le|LTranslit=wahë́l|Gloss=gave
+41	،	،	PUNCT	_		punct	49	_	Translit=,|LTranslit=,|Gloss=,
+42	د	د	ADP	_	Case=Acc	case	43	_	Translit=dë|LTranslit=dë|Gloss=of 
+43	خواشینۍ	خواشینۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	49	_	Translit=xwâšinë́y|LTranslit=xwâšinë́y|Gloss=sorry
+44	لپاره	لپاره	ADP	_	Case=Acc	case	43	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+45	به	بۀ	AUX	_	Mood=Sub	aux	49	_	Translit=bë|LTranslit=bë|Gloss=would
+46	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	49	_	Translit=ye|LTranslit=ye|Gloss=they
+47	بېل	بېل	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	amod	48	_	Translit=bel|LTranslit=bel|Gloss=different
+48	اوازونه	اواز	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	obj	49	_	Translit=awâzúna|LTranslit=awấz|Gloss=voices
+49	کښل	کښل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	conj	15	_	Translit=kx̌ël|LTranslit=kx̌ël|Gloss=gave
+50	،	،	PUNCT	_		punct	61	_	Translit=,|LTranslit=,|Gloss=,
+51	همدغو	همدغه	DET	_	Case=Acc|Number=Plur|PronType=Dem	det	53	_	Translit=hamdáġo|LTranslit=hamdáġa|Gloss=same
+52	ږغیزو	ږغیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	53	_	Translit=ǧaġízo|LTranslit=ǧaġíz|Gloss=sounds
+53	توکو	توکه	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nsubj	61	_	Translit=túko|LTranslit=túka|Gloss=stuff
+54	(	(	PUNCT	_		punct	55	_	Translit=(|LTranslit=(|Gloss=(
+55	موادو	مواد	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	parataxis	53	_	Translit=mawấdo|LTranslit=mawấd|Gloss=Material
+56	)	)	PUNCT	_		punct	55	_	Translit=)|LTranslit=)|Gloss=)
+57	د	د	ADP	_	Case=Acc	case	58	_	Translit=dë|LTranslit=dë|Gloss=of the
+58	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	obl	61	_	Translit=xálko|LTranslit=xalk|Gloss=people
+59	ترمنځ	ترمنځ	ADP	_	Case=Acc	case	58	_	Translit=tërmánż|LTranslit=tërmánż|Gloss=among
+60	دود	دود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	61	_	Translit=dod|LTranslit=dod|Gloss=tradition
+61	وموند	موندل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	conj	15	_	Translit=wëmúnd|LTranslit=mundë́l|Gloss=found
+62	،	،	PUNCT	_		punct	75	_	Translit=,|LTranslit=,|Gloss=,
+63	چې	چې	PRON	_	PronType=Rel	nsubj	?	_	Translit=če|LTranslit=če|Gloss=which
+64	وروسته	وروسته	ADV	_		advmod	75	_	Translit=wrústa|LTranslit=wrústa|Gloss=later
+65	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	?	_	Translit=ye|LTranslit=ye|Gloss=they
+66	ږغیزه	ږغیز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	73	_	Translit=ǧaġíza|LTranslit=ǧaġíz|Gloss=sound
+67	يا	يا	CCONJ	_		cc	69	_	Translit=yâ|LTranslit=yâ|Gloss=or
+68	د	د	ADP	_	Case=Acc	case	69	_	Translit=dë|LTranslit=dë|Gloss=of 
+69	خبرو	خبره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	conj/nmod	66	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talk
+70	-	-	PUNCT	_		punct	69	_	Translit=-|LTranslit=-|Gloss=-
+71	اترو	اتره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	fixed	69	_	Translit=atë́ro|LTranslit=atë́ra|Gloss=talk
+72	اوسنۍ	اوسنۍ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	conj/amod	66	_	Translit=osanë́y|LTranslit=osanë́y|Gloss=current
+73	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	75	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+74	دود	دود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	xcomp	75	_	Translit=dod|LTranslit=dod|Gloss=tradition
+75	کړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	acl:relcl	53	_	Translit=kṛa|LTranslit=kawë́l|Gloss=did 
+76	.‏	.‏	PUNCT	_		punct		_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-9.1/18
+# text = د ځینو لرغونو پاچايانو او ټولواکانو په وخت کې چې لیکنۍ ژبه لا نه وه دود شوې، نو انځورګرانو به د ونو پر ډډونو، دېوالونو يا ښويو ډبرو انځورونه کښل، د انځورونو په واسطه به يې خپل نور ملګري يا هملاري پوهول، خو کله چې لیکنۍ او ږغیزې ژبې لږ څه نور پرمختګ هم وکړ، لیکدود رامنځته شو، چې اوس د نړۍ ټولې ژبې ځانګړى لیکدود او لیکلار لري.‏
+# translit = dë żíno larġúno pâčâyấno aw ṭolwâkấno pë waxt ke če likanë́y žë́ba lâ në wa dod šë́we, no anżurgarấno bë dë wë́no për ḍaḍúno, dewâlúno yâ x̌wë́yo ḍabáro anżurúna kx̌ël, dë anżurúno pë wâsetá bë ye xpël nor malgë́ri yâ hamlấri pohawë́l, xo kë́la če likanë́y aw ǧaġíze žë́be lëǧ cë nor përmëxtág ham wë́këṛ, likdód râmánżta šow, če os dë naṛë́y ṭóle žë́be żângëṛí likdód aw liklấr larí. 
+# text_en = During the time of some ancient kings and princes, when the written language was not yet customary, painters would draw pictures on tree trunks, walls or rocks; through pictures, they would inform their friends or colleagues, but when writing and the phonetic language progressed a little more, the script was created, and now all the languages ​​of the world have special scripts and scripts.
+1	د	د	ADP	_	Case=Acc	case	4	_	Translit=dë|LTranslit=dë|Gloss=of 
+2	ځینو	ځینې	DET	_	Case=Acc|Number=Plur	det	4	_	Translit=żíno|LTranslit=żíne|Gloss=some
+3	لرغونو	لرغونی	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	amod	4	_	Translit=larġúno|LTranslit=larġúnay|Gloss=ancient
+4	پاچايانو	پاچا	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	8	_	Translit=pâčâyấno|LTranslit=pâčấ|Gloss=kings
+5	او	او	CCONJ	_		cc	6	_	Translit=aw|LTranslit=aw|Gloss=and
+6	ټولواکانو	ټولواک	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	conj	4	_	Translit=ṭolwâkấno|LTranslit=ṭolwấk|Gloss=owners
+7	په	پۀ	ADP	_	Case=Loc	case	8	_	Translit=pë|LTranslit=pë|Gloss=at
+8	وخت	وخت	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	obl	32	_	Translit=waxt|LTranslit=waxt|Gloss=time
+9	کې	کې	ADP	_	Case=Loc	case	8	_	Translit=ke|LTranslit=ke|Gloss=in
+10	چې	چې	SCONJ	_		mark	17	_	Translit=če|LTranslit=če|Gloss=when
+11	لیکنۍ	لیکنی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	amod	12	_	Translit=likanë́y|LTranslit=likanáy|Gloss=writing
+12	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	17	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+13	لا	لا	ADV	_		advmod	17	_	Translit=lâ|LTranslit=lâ|Gloss=yet
+14	نه	نۀ	PART	_	Polarity=Neg	advmod	17	_	Translit=në|LTranslit=në|Gloss=not
+15	وه	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	aux	17	_	Translit=wa|LTranslit=yëm|Gloss=was
+16	دود	دود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obl:arg	17	_	Translit=dod|LTranslit=dod|Gloss=tradition
+17	شوې	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	acl	8	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become
+18	،	،	PUNCT	_		punct	17	_	Translit=,|LTranslit=,|Gloss=,
+19	نو	نو	ADV	_		advmod	32	_	Translit=no|LTranslit=no|Gloss=so
+20	انځورګرانو	انڅورګر	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nsubj	32	_	Translit=anżurgarấno|LTranslit=anżurgár|Gloss=painters
+21	به	بۀ	AUX	_	Mood=Sub	aux	32	_	Translit=bë|LTranslit=bë|Gloss=would
+22	د	د	ADP	_	Case=Acc	case	23	_	Translit=dë|LTranslit=dë|Gloss=of the
+23	ونو	ونه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	nmod	25	_	Translit=wë́no|LTranslit=wë́na|Gloss=the trees
+24	پر	پر	ADP	_	Case=Loc	case	25	_	Translit=për|LTranslit=për|Gloss=on
+25	ډډونو	ډډ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	obl	32	_	Translit=ḍaḍúno|LTranslit=ḍaḍ|Gloss=stalks
+26	،	،	PUNCT	_		punct	27	_	Translit=,|LTranslit=,|Gloss=,
+27	دېوالونو	دېوال	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	conj	25	_	Translit=dewâlúno|LTranslit=dewấl|Gloss=walls
+28	يا	يا	CCONJ	_		cc	30	_	Translit=yâ|LTranslit=yâ|Gloss=or
+29	ښويو	ښوی	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	amod	30	_	Translit=x̌wë́yo|LTranslit=x̌way|Gloss=smoth
+30	ډبرو	ډبره	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	conj	25	_	Translit=ḍabáro|LTranslit=ḍabára|Gloss=rocks
+31	انځورونه	انڅور	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	obj	32	_	Translit=anżurúna|LTranslit=anżúr|Gloss=pictures
+32	کښل	کښل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	root	0	_	Translit=kx̌ël|LTranslit=kx̌ël|Gloss=draw
+33	،	،	PUNCT	_		punct	45	_	Translit=,|LTranslit=,|Gloss=,
+34	د	د	ADP	_	Case=Acc	case	35	_	Translit=dë|LTranslit=dë|Gloss=of
+35	انځورونو	انڅور	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	37	_	Translit=anżurúno|LTranslit=anżúr|Gloss=pictures
+36	په	پۀ	ADP	_	Case=Loc	case	37	_	Translit=pë|LTranslit=pë|Gloss=at
+37	واسطه	واسطه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	45	_	Translit=wâsetá|LTranslit=wâsetá|Gloss=mediation
+38	به	بۀ	AUX	_	Mood=Sub	aux	45	_	Translit=bë|LTranslit=bë|Gloss=would
+39	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	nsubj	45	_	Translit=ye|LTranslit=ye|Gloss=they
+40	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|Reflex=Yes	det	42	_	Translit=xpël|LTranslit=xpël|Gloss=own
+41	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	amod	42	_	Translit=nor|LTranslit=nor|Gloss=other
+42	ملګري	ملګری	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	obj	45	_	Translit=malgë́ri|LTranslit=malgë́ray|Gloss=friends
+43	يا	يا	CCONJ	_		cc	44	_	Translit=yâ|LTranslit=yâ|Gloss=or
+44	هملاري	هملاری	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	conj	42	_	Translit=hamlấri|LTranslit=hamlấray|Gloss=fellow-travelar
+45	پوهول	پوهول	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	conj	32	_	Translit=pohawë́l|LTranslit=pohawë́l|Gloss=inform
+46	،	،	PUNCT	_		punct	63	_	Translit=,|LTranslit=,|Gloss=,
+47	خو	خو	CCONJ	_		cc	63	_	Translit=xo|LTranslit=xo|Gloss=but
+48	کله	کله	ADV	_		advmod	59	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
+49	چې	چې	SCONJ	_		mark	59	_	Translit=če|LTranslit=če|Gloss=that
+50	لیکنۍ	لیکنی	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	amod	53	_	Translit=likanë́y|LTranslit=likanáy|Gloss=writing
+51	او	او	CCONJ	_		cc	52	_	Translit=aw|LTranslit=aw|Gloss=and
+52	ږغیزې	ږغیز	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	conj	50	_	Translit=ǧaġíze|LTranslit=ǧaġíz|Gloss=sound
+53	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nsubj	59	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
+54	لږ	لږ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	advmod	56	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=little
+55	څه	څۀ	PRON	_		fixed	54	_	Translit=cë|LTranslit=cë|Gloss=somewhat
+56	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	57	_	Translit=nor|LTranslit=nor|Gloss=additional
+57	پرمختګ	پرمختګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	59	_	Translit=përmëxtág|LTranslit=përmëxtág|Gloss=development
+58	هم	هم	ADV	_		advmod	59	_	Translit=ham|LTranslit=ham|Gloss=also
+59	وکړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Long|VerbForm=Fin	advcl	63	_	Translit=wë́këṛ|LTranslit=kawë́l|Gloss=did
+60	،	،	PUNCT	_		punct	59	_	Translit=,|LTranslit=,|Gloss=,
+61	لیکدود	لیکدود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	63	_	Translit=likdód|LTranslit=likdód|Gloss=writing-tradition
+62	رامنځته	رامنځته	ADV	_		advmod	63	_	Translit=râmánżta|LTranslit=râmánżta|Gloss=togather
+63	شو	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	conj	32	_	Translit=šow|LTranslit=kedë́l|Gloss=become
+64	،	،	PUNCT	_		punct	75	_	Translit=,|LTranslit=,|Gloss=,
+65	چې	چې	SCONJ	_		mark	75	_	Translit=če|LTranslit=če|Gloss=that
+66	اوس	اوس	ADV	_		advmod	75	_	Translit=os|LTranslit=os|Gloss=now
+67	د	د	ADP	_	Case=Acc	case	68	_	Translit=dë|LTranslit=dë|Gloss=of
+68	نړۍ	نړۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	70	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=world
+69	ټولې	ټول	DET	_	Case=Acc|Gender=Fem|Number=Plur	det	70	_	Translit=ṭóle|LTranslit=ṭol|Gloss=all
+70	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	nsubj	75	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
+71	ځانګړى	ځانګړى	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	72	_	Translit=żângëṛí|LTranslit=żângëṛí|Gloss=special
+72	لیکدود	لیکدود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	75	_	Translit=likdód|LTranslit=likdód|Gloss=writing-tradition
+73	او	او	CCONJ	_		cc	74	_	Translit=aw|LTranslit=aw|Gloss=and
+74	لیکلار	لیکلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	conj	72	_	Translit=liklấr|LTranslit=liklấr|Gloss=writing-method
+75	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	advcl	63	_	Translit=larí|LTranslit=larë́l|Gloss=have
+76	.‏	.‏	PUNCT	_		punct	32	_	Translit=.‏|LTranslit=.‏|Gloss=.
+
+# sent_id = pnt-9.2/19
+# text = ان داسې هېوادونه هم شته چې څو ژوندۍ ژبې په کې ويل کېږي، خو هلته هرې سیمې ته داسې نصاب، اداري نظام او د خلکو ژبه هماغه ژبه وي، چې د سیمې ډېرکي خلک يې ويونکي وي، حکومتونه هم هرې ژبې ته برابر ورکوي او کوښښ کوي، چې د خپل هېواد او سیمې هرې ژبې ته وده ورکړي.‏
+# translit = ân dấse hewâdúna ham šta če co žwëndë́y žë́be pë ke wayë́l keǧí, xo hálta háre síme ta dấse nisấb, idârí nizấm aw dë xálko žë́ba hamấġa žë́ba wi, če dë síme ḍerakí xalk ye wayúnki wi, hokumatúna ham háre žë́be ta barâbár warkawí aw kox̌ë́x̌ kawí, če dë xpël hewấd aw síme háre žë́be ta wáda warkṛí. 
+# text_en = Even there are countries where several living languages are spoken, but each region has such a curriculum, administrative system and the language on that the majority of the people of the region speak; the governments give equality to each language and try to promote every language of his country and region.
+1	ان	ان	ADV	_		advmod	5	_	Translit=ân|LTranslit=ân|Gloss=even
+2	داسې	داسې	DET	_		det	3	_	Translit=dấse|LTranslit=dấse|Gloss=like-this
+3	هېوادونه	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	nsubj	5	_	Translit=hewâdúna|LTranslit=hewấd|Gloss=countries
+4	هم	هم	ADV	_		advmod	5	_	Translit=ham|LTranslit=ham|Gloss=also
+5	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	root	0	_	Translit=šta|LTranslit=šta|Gloss=there-is
+6	چې	چې	PRON	_	PronType=Rel	obl	12	_	Translit=če|LTranslit=če|Gloss=which
+7	څو	څو	DET	_	PronType=Ind	det	9	_	Translit=co|LTranslit=co|Gloss=several
+8	ژوندۍ	ژوندی	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	amod	9	_	Translit=žwëndë́y|LTranslit=žwëndáy|Gloss=alive
+9	ژبې	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	nsubj	12	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
+10	په	پۀ	ADP	_	Case=Loc	case	6	_	Translit=pë|LTranslit=pë|Gloss=at
+11	کې	کې	ADP	_	Case=Loc	case	6	_	Translit=ke|LTranslit=ke|Gloss=in
+12	ويل	ويل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	acl:relcl	3	_	Translit=wayë́l|LTranslit=wayë́l|Gloss=speak 
+13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	aux	12	_	Translit=keǧí|LTranslit=kedë́l|Gloss=become
+14	،	،	PUNCT	_		punct	31	_	Translit=,|LTranslit=,|Gloss=,
+15	خو	خو	CCONJ	_		cc	31	_	Translit=xo|LTranslit=xo|Gloss=but
+16	هلته	هلته	ADV	_		advmod	31	_	Translit=hálta|LTranslit=hálta|Gloss=there
+17	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing	det	18	_	Translit=háre|LTranslit=har|Gloss=every
+18	سیمې	سیمه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	31	_	Translit=síme|LTranslit=síma|Gloss=regions
+19	ته	ته	ADP	_	Case=Acc	case	18	_	Translit=ta|LTranslit=ta|Gloss=to
+20	داسې	داسې	DET	_		det	21	_	Translit=dấse|LTranslit=dấse|Gloss=like-this
+21	نصاب	نصاب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	31	_	Translit=nisấb|LTranslit=nisấb|Gloss=curriculum
+22	،	،	PUNCT	_		punct	24	_	Translit=,|LTranslit=,|Gloss=,
+23	اداري	اداري	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	24	_	Translit=idârí|LTranslit=idârí|Gloss=administrative
+24	نظام	نظام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	conj	21	_	Translit=nizấm|LTranslit=nizấm|Gloss=system
+25	او	او	CCONJ	_		cc	28	_	Translit=aw|LTranslit=aw|Gloss=and
+26	د	د	ADP	_	Case=Acc	case	27	_	Translit=dë|LTranslit=dë|Gloss=of
+27	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	nmod	28	_	Translit=xálko|LTranslit=xalk|Gloss=people
+28	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	conj	211	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+29	هماغه	هماغه	DET	_	Case=Nom	det	30	_	Translit=hamấġa|LTranslit=hamấġa|Gloss=same
+30	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	??	?	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+31	وي	یم	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	conj	5	_	Translit=wi|LTranslit=yëm|Gloss=to be
+32	،	،	PUNCT	_		punct	39	_	Translit=,|LTranslit=,|Gloss=,
+33	چې	چې	PRON	_	PronType=Rel	nmod	39	_	Translit=če|LTranslit=če|Gloss=which
+34	د	د	ADP	_	Case=Acc	case	35	_	Translit=dë|LTranslit=dë|Gloss=of
+35	سیمې	سیمه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	nmod	37	_	Translit=síme|LTranslit=síma|Gloss=regions
+36	ډېرکي	ډېرکي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	37	_	Translit=ḍerakí|LTranslit=ḍerakí|Gloss=majority
+37	خلک	خلک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	39	_	Translit=xalk|LTranslit=xalk|Gloss=people
+38	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	nmod	33	_	Translit=ye|LTranslit=ye|Gloss=its
+39	ويونکي	ويونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	acl:relc	30	_	Translit=wayúnki|LTranslit=wayúnkay|Gloss=speaker
+40	وي	یم	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	cop	39	_	Translit=wi|LTranslit=yëm|Gloss=to be
+41	،	،	PUNCT	_		punct	48	_	Translit=,|LTranslit=,|Gloss=,
+42	حکومتونه	حکومت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	nsubj	48	_	Translit=hokumatúna|LTranslit=hokumát|Gloss=governments
+43	هم	هم	ADV	_		advmod	48	_	Translit=ham|LTranslit=ham|Gloss=too
+44	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing	det	45	_	Translit=háre|LTranslit=har|Gloss=every
+45	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	45	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+46	ته	ته	ADP	_	Case=Acc	case	45	_	Translit=ta|LTranslit=ta|Gloss=to
+47	برابر	برابر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	45	_	Translit=barâbár|LTranslit=barâbár|Gloss=equivalence
+48	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj	5	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=give
+49	او	او	CCONJ	_		cc	51	_	Translit=aw|LTranslit=aw|Gloss=and
+50	کوښښ	کوښښ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	51	_	Translit=kox̌ë́x̌|LTranslit=kox̌ë́x̌|Gloss=effort
+51	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj	48	_	Translit=kawí|LTranslit=kawë́l|Gloss=does
+52	،	،	PUNCT	_		punct	63	_	Translit=,|LTranslit=,|Gloss=,
+53	چې	چې	SCONJ	_		mark	63	_	Translit=če|LTranslit=če|Gloss=that
+54	د	د	ADP	_	Case=Acc	case	56	_	Translit=dë|LTranslit=dë|Gloss=of
+55	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing	det	56	_	Translit=xpël|LTranslit=xpël|Gloss=own
+56	هېواد	هېواد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	nmod	60	_	Translit=hewấd|LTranslit=hewấd|Gloss=country
+57	او	او	CCONJ	_		cc	58	_	Translit=aw|LTranslit=aw|Gloss=and
+58	سیمې	سیمه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	conj	56	_	Translit=síme|LTranslit=síma|Gloss=regions
+59	هرې	هر	DET	_	Case=Acc|Gender=Fem|Number=Sing	det	60	_	Translit=háre|LTranslit=har|Gloss=every
+60	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	obl	63	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
+61	ته	ته	ADP	_	Case=Acc	case	60	_	Translit=ta|LTranslit=ta|Gloss=to
+62	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	obj	63	_	Translit=wáda|LTranslit=wáda|Gloss=growth
+63	ورکړي	ورکول	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	advcl	51	_	Translit=warkṛí|LTranslit=warkawë́l|Gloss=give
+64	.‏		PUNCT	_		punct	5	_	Translit=.‏|LTranslit=|Gloss=.
+
+# sent_id = pnt-9.3/20
+# text = درسي نصاب په هماغه ژبه وي، لوحې په هماغه ژبه وي او خبرې اترې هم هماغسې دود لري.‏
+# translit = darsí nisấb pë hamấġa žë́ba wi, lawhé pë hamấġa žë́ba wi aw xabë́re atë́re ham hamấġase dod larí. 
+# text_en = The curriculum is in the same language, the boards are in the same language and the conversation has the same tradition.
+1	درسي	درسي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	amod	2	_	Translit=darsí|LTranslit=darsí|Gloss=lesson
+2	نصاب	نصاب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	nsubj	6	_	Translit=nisấb|LTranslit=nisấb|Gloss=curriculum
+3	په	پۀ	ADP	_	Case=Loc	case	5	_	Translit=pë|LTranslit=pë|Gloss=at
+4	هماغه	هماغه	DET	_	Case=Loc	det	5	_	Translit=hamấġa|LTranslit=hamấġa|Gloss=same
+5	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	6	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+6	وي	وي	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	root	0	_	Translit=wi|LTranslit=wi|Gloss=is
+7	،	،	PUNCT	_		punct	12	_	Translit=,|LTranslit=,|Gloss=,
+8	لوحې	لوحه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	nsubj	12	_	Translit=lawhé|LTranslit=lawhá|Gloss=signs
+9	په	پۀ	ADP	_	Case=Loc	case	11	_	Translit=pë|LTranslit=pë|Gloss=at
+10	هماغه	هماغه	DET	_	Case=Loc	det	11	_	Translit=hamấġa|LTranslit=hamấġa|Gloss=same
+11	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	obl	12	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+12	وي	وي	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	conj	6	_	Translit=wi|LTranslit=wi|Gloss=is
+13	او	او	CCONJ	_		cc	19	_	Translit=aw|LTranslit=aw|Gloss=and
+14	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	nsubj	19	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talks
+15	اترې	اتره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	fixed	14	_	Translit=atë́re|LTranslit=atë́ra|Gloss=talks
+16	هم	هم	ADV	_		advmod	19	_	Translit=ham|LTranslit=ham|Gloss=too
+17	هماغسې	هماغسې	DET	_		det	18	_	Translit=hamấġase|LTranslit=hamấġase|Gloss=like-that
+18	دود	دود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	obj	19	_	Translit=dod|LTranslit=dod|Gloss=tradition
+19	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj	6	_	Translit=larí|LTranslit=larë́l|Gloss=have
+20	.‏	.‏	PUNCT	_		punct	6	_	Translit=.‏|LTranslit=.‏|Gloss=.
 
