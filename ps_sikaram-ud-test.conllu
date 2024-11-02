@@ -234,7 +234,7 @@
 4	وېښتان	وېښتۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
 5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	xcomp	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
 6	کړي	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=kë́ṛi|LTranslit=kawë́l|Gloss=did
-7	وای	یم	AUX	_	Mood=Pot|VerbForm=Fin	6	advmod	_	Translit=wây|LTranslit=yëm|Gloss=would
+7	وای	یم	AUX	_	Mood=Pot|VerbForm=Fin	6	aux	_	Translit=wây|LTranslit=yëm|Gloss=would
 8	مګر	مګر	CCONJ	_	_	19	cc	_	Translit=magár|LTranslit=magár|Gloss=but
 9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of
 10	کوم	کوم	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Translit=kum|LTranslit=kum|Gloss=some

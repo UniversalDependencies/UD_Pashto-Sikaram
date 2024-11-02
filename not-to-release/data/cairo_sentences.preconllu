@@ -559,7 +559,7 @@ Number=Plur|
 Tense=Past|
 VerbForm=Part"	0	root
 7	وای	way	wây	یم	ym	yëm	would	AUX	"Mood=Pot|
-VerbForm=Fin"	6	advmod
+VerbForm=Fin"	6	aux
 8	مګر	mgr	magár	-			but	CCONJ	_	19	cc
 9	د	d	dë	-			of	ADP	Case=Acc	11	case
 10	کوم	kwm	kum	-			some	DET	"Case=Acc|
