@@ -1,0 +1,910 @@
+# sent_id = pnt-1-1.1
+# text = سريزه:‏
+# transliter = sryzh:‏
+# transcript =
+# text_en = introduction:
+1	سريزه	saríza	_		introduction	NOUN	root	0		Nom	Fem		Sing
+2	:‏	:‏	_		:	PUNCT	punct	1
+
+# sent_id = pnt-2-2.1
+# text = ژباړه د هرې ژبې لپاره د يوې سترې روزونکې او مرستیالې په کچه ارزښت لري، هره ژبه د ژباړې په مرسته هم ژوندۍ پاتېږي، هم په پوهنیز، ټولنیز، ښوونیز او فرهنګي ډګر کې ځان ته د پرمختګ لاره اواروي.‏
+# transliter = žbaṛh d hre žbe lparh d iwe stre rwzwnke aw mrstyale ph kčh arzx̌t lri, hrh žbh d žbaṛe ph mrsth hm žwndý pateǧi, hm ph pwhnyz, ṭwlnyz, x̌wwnyz aw frhngi ḍgr ke żan th d prmxtـg larh awarwi.‏
+# transcript =
+# text_en = Translation has value as a great supervisor and helper for any language; every language survives with the help of translation and also paves the way for development in academic, social, educational and cultural fields.‏
+1	ژباړه	žbấṛa	_		translation	NOUN	nsubj	15		Nom	Fem		Sing
+2	د	dë	_		of	ADP	case	4		Acc
+3	هرې	háre	هر	har	every	DET	det	4		Acc	Fem						PronType=Tot
+4	ژبې	žë́be	ژبه	žë́ba	language	NOUN	nmod	1		Acc	Fem		Sing
+5	لپاره	lapấra	_		for	ADP	case	4		Acc
+6	د	dë	_		of	ADP	case	9		Acc
+7	يوې	yawé	یو	yaw	one	NUM	nummod	9		Acc	Fem						NumType=Card
+8	سترې	stë́re	ستر	stër	great	ADJ	amod	9		Acc	Fem		Sing
+9	روزونکې	rozawúnke	روزول	rozawë́l	trainer	VERB	nmod	13	Imp	Acc	Fem		Sing		Pres	Part
+10	او	aw	_		and	CCONJ	cc	9
+11	مرستیالې	mrastyấle	مرستیالی	mrastyấlay	helper	ADJ	conj	9		Acc	Fem		Sing
+12	په	pë	پۀ	pë	at	ADP	case	13		Loc
+13	کچه	káča	_		form	NOUN	nmod	14		Loc	Fem		Sing
+14	ارزښت	arzë́x̌t	_		value	NOUN	obj	15		Nom	Masc		Sing
+15	لري	larí	لرل	larë́l	has	VERB	root	0	Imp			Ind	Sing	3	Pres	Fin
+16	،	,	_		,	PUNCT	punct	25
+17	هره	hára	هر	har	every	DET	det	18		Nom	Fem						PronType=Tot
+18	ژبه	žë́ba	_		language	NOUN	nsubj	25		Nom	Fem		Sing
+19	د	dë	_		of	ADP	case	20		Acc
+20	ژباړې	žbấṛe	ژباړه	žbấṛa	translation	NOUN	nmod	22		Acc	Fem		Sing
+21	په	pë	پۀ	pë	with	ADP	case	22		Loc
+22	مرسته	mrásta	_		help	NOUN	obl	25		Loc	Fem		Sing
+23	هم	ham	_		also	ADV	advmod	25
+24	ژوندۍ	žwandë́y	ژوندی	žwandáy	alive	ADJ	xcomp	25		Nom	Fem		Sing
+25	پاتېږي	pâteǧí	پاتېدل	pâtedë́l	survives	VERB	conj	15	Imp			Ind	Sing	3	Pres	Fin
+26	،	,	_		,	PUNCT	punct	43
+27	هم	ham	_		also	ADV	advmod	43
+28	په	pë	پۀ	pë	at	ADP	case	36		Loc
+29	پوهنیز	pohaníz	_		academic	ADJ	amod	36		Loc	Masc		Sing
+30	،	,	_		,	PUNCT	punct	31
+31	ټولنیز	ṭolaníz	_		social	ADJ	conj	29		Loc	Masc		Sing
+32	،	,	_		,	PUNCT	punct	33
+33	ښوونیز	x̌owaníz	_		educational	ADJ	conj	29		Loc	Masc		Sing
+34	او	aw	_		and	CCONJ	cc	35
+35	فرهنګي	farhangí	_		cultural	ADJ	conj	29		Loc	Masc		Sing
+36	ډګر	ḍagár	_		field	NOUN	obl	43		Loc	Masc		Sing
+37	کې	ke	_		in	ADP	case	36		Loc
+38	ځان	żân	_		self	PRON	obl	43									PronType=Prs|Reflex=Yes
+39	ته	ta	_		to	ADP	case	38		Acc
+40	د	dë	_		of	ADP	case	41		Acc
+41	پرمختګ	përmëxtág	_		development	NOUN	nmod	42		Acc	Masc		Sing
+42	لاره	lấra	لار	lâr	way	NOUN	obj	43		Nom	Fem		Sing				Typo=Yes	CorrectForm=لار
+43	اواروي	awârawí	اوارول	awârawë́l	smooths	VERB	conj	15	Imp			Ind	Sing	3	Pres	Fin
+44	.‏	.‏	_		.	PUNCT	punct	15
+
+# sent_id = pnt-3-2.2
+# text = اوس ځینې ملتونه د ژباړې د ارزښت له مخې دومره ويښ او هڅاند شوي، چې هر ارزښتمن کتاب په خپله ژبه ژباړي او خپروي يې.‏
+# transliter = aws żyne mltwnh d žbaṛe d arzx̌t lـh mxe dwmrh wix̌ aw hcand šwi, če hr arzx̌tmn ktab ph xplh žbh žbaṛi aw xprwi ie.‏
+# transcript =
+# text_en = Now, some nations are so awakened and encouraged to the importance of translation that they translate and publish every valuable book in their own language.
+1	اوس	os	_		now	ADV	advmod	14
+2	ځینې	żíne	_		some	DET	det	3		Nom			Plur				PronType=Ind
+3	ملتونه	milatúna	ملت	milát	nations	NOUN	nsubj	14		Nom	Masc		Plur
+4	د	dë	_		of	ADP	case	5		Acc
+5	ژباړې	žbấṛe	ژباړه	žbấṛa	translation	NOUN	nmod	7		Acc	Fem		Sing
+6	د	dë	_		of	ADP	case	7		Acc
+7	ارزښت	arzë́x̌t	_		value	NOUN	nmod	9		Acc	Masc		Sing
+8	له	la	_		from	ADP	case	9		Abl
+9	مخې	më́xe	مخه	më́xa	side	NOUN	obl	14		Abl	Fem		Sing
+10	دومره	dúmra	_		so-much	ADV	advmod	11
+11	ويښ	wix̌	_		awake	ADJ	xcomp	14		Nom	Masc		Plur
+12	او	aw	_		and	CCONJ	cc	13
+13	هڅاند	hacấnd	_		encouraged	ADJ	conj	11		Nom	Masc		Plur
+14	شوي	šë́wi	کېدل	kedë́l	become	VERB	root	0	Perf	Nom	Masc		Plur		Past	Part
+15	،	,	_		,	PUNCT	punct	23
+16	چې	če	_		that	SCONJ	mark	23
+17	هر	har	_		every	DET	det	19		Nom	Masc						PronType=Tot
+18	ارزښتمن	arzëx̌tmán	_		valuable	ADJ	amod	19		Nom	Masc		Sing
+19	کتاب	kitấb	_		book	NOUN	obj	23		Nom	Masc		Sing
+20	په	pë	پۀ	pë	at	ADP	case	22		Loc
+21	خپله	xpë́la	خپل	xpël	own	DET	det	22		Loc	Fem		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+22	ژبه	žë́ba	_		language	NOUN	obl	23		Loc	Fem		Sing
+23	ژباړي	žbâṛí	ژباړل	žbâṛë́l	translate	VERB	advcl	14	Imp			Ind	Plur	3	Pres	Fin
+24	او	aw	_		and	CCONJ	cc	25
+25	خپروي	xparawí	خپرول	xparawë́l	publish	VERB	conj	23	Imp			Ind	Plur	3	Pres	Fin
+26	يې	ye	_		it	PRON	obj	25						3			PronType=Prs|Variant=Weak
+27	.‏	.‏	_		.	PUNCT	punct	14
+
+# sent_id = pnt-4-2.3
+# text = پرته له دې چې مذهبي، فرهنګي او ټولنیز توپیر د هغوى لپاره کوم بريد او خنډ وي.‏
+# transliter = prth lh de če mZhbi, frhngi aw ṭwlnyz twpyr d hġwy lparh kwm brid aw xnḍ wi.‏
+# transcript =
+# text_en = Without the religious, cultural and social difference being some kind of attack or obstacle for them.
+1	پرته	práta	_		without	ADP	case	3		Abl
+2	له	la	_		from	ADP	case	3		Abl
+3	دې	de	_		this	PRON	root	0		Abl	Fem		Sing				Deixis=Prox|PronType=Dem|Variant=Short
+4	چې	če	_		that	SCONJ	mark	15
+5	مذهبي	mazhabí	_		religious	ADJ	amod	10		Nom	Masc		Sing
+6	،	,	_		,	PUNCT	punct	7
+7	فرهنګي	farhangí	_		cultural	ADJ	conj	5		Nom	Masc		Sing
+8	او	aw	_		and	CCONJ	cc	9
+9	ټولنیز	ṭolaníz	_		social	ADJ	conj	5		Nom	Masc		Sing
+10	توپیر	tawpír	_		difference	NOUN	nsubj	15		Nom	Masc		Sing
+11	د	dë	_		of	ADP	case	12		Acc
+12	هغوى	haġúy	_		them	PRON	obl	15		Acc			Plur	3			Deixis=Remt|PronType=Prs
+13	لپاره	lapấra	_		for	ADP	case	12		Acc
+14	کوم	kum	_		any	DET	det	15		Nom	Masc		Sing				PronType=Ind
+15	بريد	brid	_		attack	NOUN	acl	3		Nom	Masc		Sing
+16	او	aw	_		and	CCONJ	cc	17
+17	خنډ	xanḍ	_		obstacle	NOUN	conj	15		Nom	Masc		Sing
+18	وي	wi	یم	yëm	would-be	AUX	cop	15				Sub	Sing	3		Fin
+19	.‏	.‏	_		.	PUNCT	punct	15
+
+# sent_id = pnt-5-3.1
+# text = ښه بېلګه يې په امريکا کې هغه نوى لیکل شوى اثر دى، چې لا يې اصلي مسوده نه وه چاپ شوې، چې د ايرانۍ ژباړې زېري يې د ايرانیانو غوږونو ته ورسېد.‏
+# transliter = x̌h belgh ie ph amrika ke hġh nwy lykl šwy aSr dy, če la ie aŚli mswdh nh wh čap šwe, če d airaný žbaṛe zeri ie d airanyanw ġwǧwnw th wrsed.‏
+# transcript =
+# text_en = A good example of this is the new work written in America, the original version of which has not yet been published, and the news of its translation into the Iranian language has reached the ears of Iranians.
+1	ښه	x̌a	ښۀ	x̌ë	good	ADJ	amod	2		Nom	Fem		Sing
+2	بېلګه	bélga	_		example	NOUN	root	0		Nom	Fem		Sing
+3	يې	ye	_		its	PRON	nmod	2						3			Poss=Yes|PronType=Prs|Variant=Weak
+4	په	pë	پۀ	pë	at	ADP	case	5		Loc
+5	امريکا	amrikấ	_		America	PROPN	obl	2		Loc	Fem		Sing
+6	کې	ke	_		in	ADP	case	5		Loc
+7	هغه	háġa	_		that	DET	det	11		Nom							Deixis=Remt|PronType=Dem
+8	نوى	në́way	_		new	ADJ	amod	11		Nom	Masc		Sing
+9	لیکل	likë́l	_		written	VERB	amod	11	Imp	Nom						Inf
+10	شوى	šë́way	کېدل	kedë́l	become	AUX	aux	9	Perf	Nom	Masc		Sing		Past	Part
+11	اثر	asár	_		work	NOUN	nsubj	2		Nom	Masc		Sing
+12	دى	day	یم	yëm	is	AUX	cop	2			Masc	Ind	Sing	3	Pres	Fin
+13	،	,	_		,	PUNCT	punct	21
+14	چې	če	_		which	PRON	nmod	18									PronType=Rel
+15	لا	lâ	_		yet	ADV	advmod	21
+16	يې	ye	_		its	PRON	nmod	14						3			Poss=Yes|PronType=Prs|Variant=Weak
+17	اصلي	aslí	_		original	ADJ	amod	18		Nom	Fem		Sing
+18	مسوده	musawwáda	_		draft	NOUN	nsubj	21		Nom	Fem		Sing
+19	نه	në	نۀ	në	not	PART	advmod	21									Polarity=Neg
+20	وه	wa	یم	yëm	was	AUX	cop	21			Fem	Ind	Sing	3	Past	Fin
+21	چاپ	čâp	_		print	NOUN	xcomp	22		Nom	Masc		Sing
+22	شوې	šë́we	کېدل	kedë́l	become	VERB	acl:relcl	11	Perf	Nom	Fem		Sing		Past	Part
+23	،	,	_		,	PUNCT	punct	34
+24	چې	če	_		which	PRON	nmod	27									PronType=Rel
+25	د	dë	_		of	ADP	case	27		Acc
+26	ايرانۍ	irânë́y	ايرانی	irânáy	Iranian	ADJ	amod	27		Acc	Fem		Sing
+27	ژباړې	žbấṛe	ژباړه	žbấṛa	translation	NOUN	nmod	28		Acc	Fem		Sing
+28	زېري	zéri	زېری	zéray	good-news	NOUN	nsubj	34		Nom	Masc		Sing				Typo=Yes	CorrectForm=زېری
+29	يې	ye	_		its	PRON	nmod	24						3			Poss=Yes|PronType=Prs|Variant=Weak
+30	د	dë	_		of	ADP	case	31		Acc
+31	ايرانیانو	irânyấno	ایرانی	irânáy	Iranians	PROPN	nmod	32		Acc	Masc		Plur
+32	غوږونو	ġwaǧúno	غوږ	ġwaǧ	ears	NOUN	obl	34		Acc	Masc		Plur
+33	ته	ta	_		to	ADP	case	32		Acc
+34	ورسېد	wë́rësed	رسېدل	rësedë́l	arrived	VERB	acl:relcl	18	Perf		Masc	Ind	Sing	3	Past	Fin
+35	.‏	.‏	_		.	PUNCT	punct	2
+
+# sent_id = pnt-6-3.2
+# text = که چېرې په ايراني فرهنګ او ادب کې د ژباړې ونډه يوې خوا ته کړو، نو له ژباړې پرته به دغه ژبه ډېره غني ونه برېښي.‏
+# transliter = kh čere ph airani frhnـg aw adb ke d žbaṛe wnḍh iwe xwa th kṛw, nw lـh žbaṛe prth bh dġh žbh ḍerh ġni wnh brex̌i.‏
+# transcript =
+# text_en = If we leave aside the role of translation in Iranian culture and literature, then this language will not appear very rich.
+1	که	kë	کۀ	kë	if	SCONJ	mark	15
+2	چېرې	čére	_		somewhere	ADV	advmod	15
+3	په	pë	پۀ	pë	at	ADP	case	5		Loc
+4	ايراني	irâní	_		Iranian	ADJ	amod	5		Loc	Masc		Sing
+5	فرهنګ	farháng	_		culture	NOUN	nmod	11		Loc	Masc		Sing
+6	او	aw	_		and	CCONJ	cc	7
+7	ادب	adáb	_		literature	NOUN	conj	5		Loc	Masc		Sing
+8	کې	ke	_		in	ADP	case	5		Loc
+9	د	dë	_		of	ADP	case	10		Acc
+10	ژباړې	žbấṛe	ژباړه	žbấṛa	translation	NOUN	nmod	11		Acc	Fem		Sing
+11	ونډه	wánḍa	_		contribution	NOUN	obj	15		Nom	Fem		Sing
+12	يوې	yawé	یو	yaw	one	NUM	nummod	13		Acc	Fem						NumType=Card
+13	خوا	xwâ	_		side	NOUN	obl	15		Acc	Fem		Sing
+14	ته	ta	_		to	ADP	case	13		Acc
+15	کړو	kṛu	کول	kawë́l	we-do	VERB	advcl	27	Perf			Ind	Plur	1	Pres	Fin
+16	،	,	_		,	PUNCT	punct	27
+17	نو	no	_		then	ADV	advmod	27
+18	له	la	_		from	ADP	case	19		Abl
+19	ژباړې	žbấṛe	ژباړه	žbấṛa	translation	NOUN	obl	27		Abl	Fem		Sing
+20	پرته	práta	_		except	ADP	case	19		Abl
+21	به	bë	بۀ	bë	will	AUX	aux	27							Fut
+22	دغه	dáġa	_		this	DET	det	23		Nom							Deixis=Prox|PronType=Dem
+23	ژبه	žë́ba	_		language	NOUN	nsubj	27		Nom	Fem		Sing
+24	ډېره	ḍéra	ډېر	ḍer	very	ADJ	advmod	25		Nom	Fem		Sing
+25	غني	ġaní	_		rich	ADJ	xcomp	27		Nom	Fem		Sing
+26	ونه	wë́në	ونۀ	wë́në	not	AUX	aux	27	Perf								Polarity=Neg
+27	برېښي	brex̌í	برېښل	brex̌ë́l	appears	VERB	root	0	Imp			Ind	Sing	3	Pres	Fin
+28	.‏	.‏	_		.	PUNCT	punct	27
+
+# sent_id = pnt-7-3.3
+# text = همدغه رازکه اردو ژبې ته ځیر شو او د پرمخیون يا پرمختـګ لامل يې وڅېړو، نو يوازېنى لامل چې دغه ژبه يې تر نړيوالو پولو رسولې، په اردو کې د بېسارو او هراړخیزو کتابونو ژباړه ده، چې د نولسمې پېړۍ په وروستیو کې يې سرعت زيات شو.‏
+# transliter = hmdġh razkh ardw žbe th żyr šw aw d prmxywn ia prmxtـg laml ie wceṛw, nw iwazeny laml če dġh žbh ie tr nṛiwalw pwlw rswle, ph ardw ke d besarw aw hraṛxyzw ktabwnw žbaṛh dh, če d nwlsme peṛý ph wrwstyw ke ie sr‘t ziat šw.‏
+# transcript =
+# text_en = Likewise, if we focus on Urdu and examine the reason for its development, then the only reason that brought this language closer to the international borders is the translation of large and comprehensive books into Urdu, which accelerated in the late nineteenth century.
+1	همدغه	hamdáġa	_		same	DET	det	2		Nom							Deixis=Prox|PronType=Dem
+2	راز	râz	_		manner	NOUN	obl	20		Nom	Masc		Sing					CorrectSpaceAfter=Yes|SpaceAfter=No
+3	که	kë	کۀ	kë	if	SCONJ	mark	7
+4	اردو	urdú	_		Urdu	PROPN	nmod	5		Acc	Fem		Sing
+5	ژبې	žë́be	ژبه	žë́ba	language	NOUN	obl	7		Acc	Fem		Sing
+6	ته	ta	_		to	ADP	case	5		Acc
+7	ځیر	żir	_		focus	NOUN	xcomp	8		Nom	Masc		Sing
+8	شو	šu	کېدل	kedë́l	we-become	VERB	advcl	20	Perf			Ind	Plur	1	Pres	Fin
+9	او	aw	_		and	CCONJ	cc	16
+10	د	dë	_		of	ADP	case	11		Acc
+11	پرمخیون	përmëxyún	_		progress	NOUN	nmod	14		Acc	Fem		Sing
+12	يا	yâ	_		or	CCONJ	cc	13
+13	پرمختـګ	përmëxtág	_		development	NOUN	conj	11		Acc	Masc		Sing
+14	لامل	lâmál	_		cause	NOUN	obj	16		Nom	Masc		Sing
+15	يې	ye	_		its	PRON	nmod	11						3			Poss=Yes|PronType=Prs|Variant=Weak
+16	وڅېړو	wë́ceṛu	څېړل	ceṛë́l	we-investigate	VERB	conj	8	Perf			Ind	Plur	1	Pres	Fin
+17	،	,	_		,	PUNCT	punct	20
+18	نو	no	_		then	ADV	advmod	20
+19	يوازېنى	yawâzenáy	_		only	ADJ	amod	20		Nom	Masc		Sing
+20	لامل	lâmál	_		reason	NOUN	root	0		Nom	Masc		Sing
+21	چې	če	_		which	PRON	nsubj	28									PronType=Rel
+22	دغه	dáġa	_		this	DET	det	23		Nom							Deixis=Prox|PronType=Dem
+23	ژبه	žë́ba	_		language	NOUN	obj	28		Nom	Fem		Sing
+24	يې	ye	_		it	PRON	nmod	21						3			PronType=Prs|Variant=Weak
+25	تر	tër	_		until	ADP	case	27		Abl
+26	نړيوالو	naṛëywấlo	نړيوال	naṛëywấl	international	ADJ	amod	27		Abl	Fem		Plur
+27	پولو	púlo	پوله	púla	border	NOUN	obl	28		Abl	Fem		Plur
+28	رسولې	rësawë́le	رسول	rësawë́l	made-reach	VERB	acl	20	Imp	Nom	Fem		Sing		Past	Part
+29	،	,	_		,	PUNCT	punct	38
+30	په	pë	پۀ	pë	at	ADP	case	31		Loc
+31	اردو	urdú	_		Urdu	PROPN	nmod	38		Loc	Fem		Sing
+32	کې	ke	_		in	ADP	case	31		Loc
+33	د	dë	_		of	ADP	case	37		Acc
+34	بېسارو	besấro	بېسار	besấr	countless	ADJ	amod	37		Acc	Masc		Plur
+35	او	aw	_		and	CCONJ	cc	36
+36	هراړخیزو	harâṛxízo	هراړخیز	harâṛxíz	versatile	ADJ	conj	34		Acc	Masc		Plur
+37	کتابونو	kitâbúno	کتاب	kitấb	books	NOUN	nmod	38		Acc	Masc		Plur
+38	ژباړه	žbấṛa	_		translation	NOUN	nsubj	20		Nom	Fem		Sing
+39	ده	da	یم	yëm	is	AUX	cop	38			Fem	Ind	Sing	3	Pres	Fin
+40	،	,	_		,	PUNCT	punct	51
+41	چې	če	_		which	PRON	nmod	49									PronType=Rel
+42	د	dë	_		of	ADP	case	44		Acc
+43	نولسمې	nulasë́me	نولسم	nulasám	nineteenth	ADJ	amod	44		Acc	Fem		Sing
+44	پېړۍ	peṛë́y	_		century	NOUN	nmod	46		Acc	Fem		Sing
+45	په	pë	پۀ	pë	at	ADP	case	46		Loc
+46	وروستیو	wrustë́yo	وروستی	wrustáy	end	ADJ	obl	51		Loc	Masc		Plur
+47	کې	ke	_		in	ADP	case	46		Loc
+48	يې	ye	_		its	PRON	nmod	41						3			Poss=Yes|PronType=Prs|Variant=Weak
+49	سرعت	sur‘át	_		speed	NOUN	nsubj	50		Nom	Masc		Sing
+50	زيات	zyât	_		more	ADJ	xcomp	51		Nom	Masc		Sing
+51	شو	šow	کېدل	kedë́l	become	VERB	acl:relcl	38	Perf		Masc	Ind	Sing	3	Past	Fin
+52	.‏	.‏	_		.	PUNCT	punct	20
+
+# sent_id = pnt-8-3.4
+# text = خو شلمې پېړۍ، دغه ژبه نژدې په ټوله نړۍ کې خپره کړه، اوس شرق څه، چې په غرب او نورو خلیجي هېوادونو کې هم ګڼ شمېر وګړي پرې خبرې کوي او ان چې پالي يې هم.‏
+# transliter = xw šlme peṛý, dġh žbh nžde ph ṭwlh nṛý ke xprh kṛh, aws šrq ch, če ph ġrb aw nwrw xlyǰi hewadwnw ke hm gṇ šmer wgṛi pre xbre kwi aw an če pali ie hm.‏
+# transcript =
+# text_en = But the twentieth century spread this language almost all over the world; now it is spoken and also respected by a large number of people not only in the East, but also in the West and in other countries of the Persian Gulf.
+1	خو	xo	_		but	CCONJ	cc	13
+2	شلمې	šlë́me	شلم	šlëm	twentieth	ADJ	amod	3		Acc	Fem		Sing
+3	پېړۍ	peṛë́y	_		century	NOUN	nsubj	13		Acc	Fem		Sing
+4	،	,	_		,	PUNCT	punct	13
+5	دغه	dáġa	_		this	DET	det	6		Nom							Deixis=Prox|PronType=Dem
+6	ژبه	žë́ba	_		language	NOUN	obj	13		Nom	Fem		Sing
+7	نژدې	niždé	_		nearly	ADV	advmod	10
+8	په	pë	پۀ	pë	at	ADP	case	10		Loc
+9	ټوله	ṭóla	ټول	ṭol	whole	DET	det	10		Loc	Fem		Sing				PronType=Tot
+10	نړۍ	naṛë́y	_		world	NOUN	obl	13		Loc	Fem		Sing
+11	کې	ke	_		in	ADP	case	10		Loc
+12	خپره	xpará	خپور	xpor	spread	ADJ	xcomp	13		Nom	Fem		Sing
+13	کړه	kṛa	کول	kawë́l	did	VERB	root	0	Perf		Fem	Ind	Sing	3	Past	Fin
+14	،	,	_		,	PUNCT	punct	34
+15	اوس	os	_		now	ADV	advmod	16
+16	شرق	šarq	_		East	NOUN	parataxis	34		Nom	Masc		Sing
+17	څه	cë	څۀ	cë	not-only	PRON	parataxis	16									Animacy=Nhum|PronType=Int
+18	،	,	_		,	PUNCT	punct	34
+19	چې	če	_		that	SCONJ	mark	34
+20	په	pë	پۀ	pë	at	ADP	case	21		Loc
+21	غرب	ġarb	_		west	NOUN	obl	34		Loc	Masc		Sing
+22	او	aw	_		and	CCONJ	cc	25
+23	نورو	nóro	نور	nor	others	ADJ	amod	25		Loc	Masc		Plur
+24	خلیجي	xaliǰí	_		Gulf	ADJ	amod	25		Loc	Masc		Plur
+25	هېوادونو	hewâdúno	هېواد	hewấd	countries	NOUN	conj	21		Loc	Masc		Plur
+26	کې	ke	_		in	ADP	case	21		Loc
+27	هم	ham	_		also	ADV	advmod	21
+28	ګڼ	gaṇ	_		high	ADJ	amod	29		Nom	Masc		Sing
+29	شمېر	šmer	_		number	NOUN	nmod	30		Nom	Masc		Sing
+30	وګړي	wagë́ṛi	وګړی	wagë́ṛay	people	NOUN	nsubj	34		Nom	Masc		Plur
+31-32	پرې	pre	_		on-it	_	_	_
+31	پر	për	_		on	ADP	case	32		Loc
+32	يې	ye	_		it	PRON	obl	34						3			PronType=Prs|Variant=Weak
+33	خبرې	xabë́re	خبره	xabë́ra	talk	NOUN	xcomp	34		Nom	Fem		Plur
+34	کوي	kawí	کول	kawë́l	does	VERB	advcl	13	Imp			Ind	Plur	3	Pres	Fin
+35	او	aw	_		and	CCONJ	cc	38
+36	ان	ân	_		even	ADV	advmod	38
+37	چې	če	_		that	SCONJ	mark	38
+38	پالي	pâlí	پالل	pâlë́l	respect	VERB	conj	34	Imp			Ind	Plur	3	Pres	Fin
+39	يې	ye	_		it	PRON	obj	38						3			PronType=Prs|Variant=Weak
+40	هم	ham	_		also	ADV	advmod	38
+41	.‏	.‏	_		.	PUNCT	punct	13
+
+# sent_id = pnt-9-4.1
+# text = که څه هم د اردو ژبې تاريخي قدامت ډېر لږ دى، خو اوس د انټرنټ او کمپیوټر ژبه ده، ګڼ شمېر ويونکي لري او د نړۍ له مهمو ژبو څخه ګڼل کېږي.‏
+# transliter = kh ch hm d ardw žbe tarixi qdamt ḍer lǧ dy, xw aws d anṭrnṭ aw kmpywṭr žbh dh, gṇ šmer wiwnki lri aw d nṛý lh mhmw žbw cxh gṇl keǧi.‏
+# transcript =
+# text_en = Although the ancient works in Urdu are very few, now it is the language of the Internet and computers, it has many speakers and is considered as one of the important languages ​​of the world.
+1	که	kë	کۀ	kë	even	SCONJ	mark	10
+2	څه	cë	څۀ	cë	what	PRON	fixed	1									Animacy=Nhum|PronType=Int
+3	هم	ham	_		also	ADV	fixed	1
+4	د	dë	_		of	ADP	case	6		Acc
+5	اردو	urdú	_		Urdu	PROPN	nmod	6		Acc	Fem		Sing
+6	ژبې	žë́be	ژبه	žë́ba	language	NOUN	nmod	8		Acc	Fem		Sing
+7	تاريخي	târixí	_		historical	ADJ	amod	8		Nom	Masc		Sing
+8	قدامت	qadâmát	_		ancient-works	NOUN	nsubj	10		Nom	Masc		Sing
+9	ډېر	ḍer	_		very	ADJ	advmod	10		Nom	Masc		Sing
+10	لږ	lëǧ	_		less	ADJ	advcl	19		Nom	Masc		Sing
+11	دى	day	یم	yëm	is	AUX	aux	10			Masc	Ind	Sing	3	Pres	Fin
+12	،	,	_		,	PUNCT	punct	19
+13	خو	xo	_		but	CCONJ	cc	19
+14	اوس	os	_		now	ADV	advmod	19
+15	د	dë	_		of	ADP	case	16		Acc
+16	انټرنټ	inṭernéṭ	_		Internet	NOUN	nmod	19		Acc	Masc		Sing
+17	او	aw	_		and	CCONJ	cc	18
+18	کمپیوټر	kampyuṭár	_		computer	NOUN	conj	16		Acc	Masc		Sing
+19	ژبه	žë́ba	_		language	NOUN	root	0		Nom	Fem		Sing
+20	ده	da	یم	yëm	is	AUX	cop	19			Fem	Ind	Sing	3	Pres	Fin
+21	،	,	_		,	PUNCT	punct	25
+22	ګڼ	gaṇ	_		big	ADJ	amod	23		Nom	Masc		Sing
+23	شمېر	šmer	_		number	NOUN	nmod	24		Nom	Masc		Sing
+24	ويونکي	wayúnki	ویونکی	wayúnkay	speakers	NOUN	obj	25		Nom	Masc		Plur
+25	لري	larí	لرل	larë́l	has	VERB	conj	19	Imp			Ind	Sing	3	Pres	Fin
+26	او	aw	_		and	CCONJ	cc	33
+27	د	dë	_		of	ADP	case	28		Acc
+28	نړۍ	naṛë́y	_		world	NOUN	nmod	31		Acc	Fem		Sing
+29	له	la	_		from	ADP	case	31		Acc
+30	مهمو	muhímo	مهم	muhím	important	ADJ	amod	31		Acc	Fem		Plur
+31	ژبو	žë́bo	ژبه	žë́ba	languages	NOUN	obl	33		Acc	Fem		Plur
+32	څخه	cë́xa	_		from	ADP	case	31		Acc
+33	ګڼل	gaṇë́l	_		considered	VERB	conj	19	Imp	Nom						Inf
+34	کېږي	keǧí	کېدل	kedë́l	become	AUX	aux	33	Imp			Ind	Sing	3	Pres	Fin
+35	.‏	.‏	_		.	PUNCT	punct	19
+
+# sent_id = pnt-10-5.1
+# text = له بده مرغه چې کله کله خو يوې ژبې ته هغه ارزښت نه ورکول کېږي، څومره چې ورسره ښايي.‏
+# transliter = lh bdh mrġh če klh klh xw iwe žbe th hġh arzx̌t nh wrkwl keǧi, cwmrh če wrsrh x̌aii.‏
+# transcript =
+# text_en = Unfortunately, sometimes the language is not appreciated as much as it deserves.
+1	له	la	_		from	ADP	case	3		Abl
+2	بده	báda	بد	bad	bad	ADJ	amod	3		Abl	Masc		Sing
+3	مرغه	më́rġa	مرغ	mërġ	fortune	NOUN	obl	14		Abl	Masc		Sing
+4	چې	če	_		that	SCONJ	mark	14
+5	کله	kë́la	_		when	ADV	advmod	14
+6	کله	kë́la	_		when	ADV	fixed	5
+7	خو	xo	_		but	CCONJ	cc	14
+8	يوې	yawé	یو	yaw	one	NUM	nummod	9		Acc	Fem						NumType=Card
+9	ژبې	žë́be	ژبه	žë́ba	language	NOUN	obl	14		Acc	Fem		Sing
+10	ته	ta	_		to	ADP	case	9		Acc
+11	هغه	háġa	_		that	DET	det	12		Nom							Deixis=Remt|PronType=Dem
+12	ارزښت	arzë́x̌t	_		value	NOUN	nsubj	14		Nom	Masc		Sing
+13	نه	në	نۀ	në	not	PART	advmod	14									Polarity=Neg
+14	ورکول	warkawë́l	_		given	VERB	root	0	Imp	Nom						Inf
+15	کېږي	keǧí	کېدل	kedë́l	is	AUX	aux	14	Imp			Ind	Sing	3	Pres	Fin
+16	،	,	_		,	PUNCT	punct	21
+17	څومره	cúmra	_		how-much	ADV	advmod	21
+18	چې	če	_		that	SCONJ	mark	21
+19-20	ورسره	warsará	_		with-it	_	_	_
+19	ور	war	_		it	PRON	obl	21						3			PronType=Prs|Variant=Dir
+20	سره	sará	_		with	ADP	case	19		Acc
+21	ښايي	x̌âyí	ښایل	x̌âyë́l	deserves	VERB	advcl	14	Imp			Ind	Sing	3	Pres	Fin
+22	.‏	.‏	_		.	PUNCT	punct	14
+
+# sent_id = pnt-11-5.2
+# text = وايي: ټیګور خپل شهکار اثر ګیتانجلي په بنګالۍ ژبه ولیکه، خو په پیل کې يې يوازې د ګوتو په شمېر مینه وال ځان ته رامات کړل، کله چې ټیګور دغه اثر په انګرېزۍ راوژباړه، نو د نوبل نړيواله ادبي جايزه يې ترلاسه کړه او په دې توګه د نړيوالو نوماندو (مشهورو) لیکوالو په ډله کې وشمېرل شو، هغه هنري متره يې هم په نړيواله کچه مطرح شوه، ځکه خو يې د خپلو څو رخه ګرو (حريفانو) په وړاندې ويلي وو:‏
+# transliter = waii: ṭygwr xpl šhkar aSr gytanǰli ph bngalý žbh wlykh, xw ph pyl ke ie iwaze d gwtw ph šmer mynh wal żan th ramat kṛl, klh če ṭygwr dġh aSr ph angrezý rawžbaṛh, nw d nwbl nṛiwalh adbi ǰaizh ie trlash kṛh aw ph de twgh d nṛiwalw nwmandw (mšhwrw) lykwalw ph ḍlh ke wšmerl šw, hġh hnri mtrh ie hm ph nṛiwalh kčh mTrH šwh, żkh xw ie d xplw cw rxh grw (Hrifanw) ph wṛande wili ww:‏
+# transcript =
+# text_en = It is said: Tagore wrote his masterpiece Gitanjali in Bengali, but initially attracted only a handful of fans; when Tagore translated this work into English, he won the Nobel Prize in Literature and thus he was included in the group of well-known international writers; his artistic style was also discussed at the international level, therefore in front of some of his rivals he said:
+1	وايي	wâyí	ویل	wayë́l	they-say	VERB	root	0	Imp			Ind	Plur	3	Pres	Fin
+2	:	:	_		:	PUNCT	punct	11
+3	ټیګور	ṭigúr	_		Tagore	PROPN	nsubj	11		Acc	Masc		Sing
+4	خپل	xpël	_		own	DET	det	6		Nom	Masc		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+5	شهکار	šahkấr	_		master	ADJ	amod	6		Nom	Masc		Sing
+6	اثر	asár	_		work	NOUN	obj	11		Nom	Masc		Sing
+7	ګیتانجلي	gitânǰëlí	_		Gitanjali	PROPN	nmod	6		Nom	Masc		Sing
+8	په	pë	پۀ	pë	at	ADP	case	10		Loc
+9	بنګالۍ	bangâlë́y	بنګالی	bangâláy	Bengali	ADJ	amod	10		Loc	Fem		Sing
+10	ژبه	žë́ba	_		language	NOUN	obl	11		Loc	Fem		Sing
+11	ولیکه	wë́likë	لیکل	likë́l	wrote	VERB	ccomp	1	Perf		Masc	Ind	Sing	3	Past	Fin
+12	،	,	_		,	PUNCT	punct	28
+13	خو	xo	_		but	CCONJ	cc	28
+14	په	pë	پۀ	pë	at	ADP	case	15		Loc
+15	پیل	payl	_		beginning	NOUN	obl	28		Loc	Masc		Sing
+16	کې	ke	_		in	ADP	case	15		Loc
+17	يې	ye	_		it	PRON	nsubj	28						3			PronType=Prs|Variant=Weak
+18	يوازې	yawấze	_		only	ADV	advmod	20
+19	د	dë	_		of	ADP	case	20		Acc
+20	ګوتو	gwë́to	ګوته	gwë́ta	fingers	NOUN	nmod	22		Acc	Fem		Plur
+21	په	pë	پۀ	pë	at	ADP	case	22		Loc
+22	شمېر	šmer	_		number	NOUN	nmod	24		Loc	Masc		Sing
+23	مینه	mína	_		love	NOUN	nmod	24		Nom	Fem		Sing
+24	وال	wâl	_		owning	ADJ	obj	28		Loc	Masc		Plur
+25	ځان	żân	_		self	PRON	obl	28									PronType=Prs|Reflex=Yes
+26	ته	ta	_		to	ADP	case	25		Acc
+27	رامات	râmất	_		attract	ADJ	xcomp	28		Nom	Masc		Plur
+28	کړل	kṛël	کول	kawë́l	did	VERB	conj	11	Perf		Masc	Ind	Plur	3	Past	Fin
+29	،	,	_		,	PUNCT	punct	37
+30	کله	kë́la	_		when	SCONJ	mark	37
+31	چې	če	_		that	SCONJ	fixed	30
+32	ټیګور	ṭigúr	_		Tagore	PROPN	nsubj	37		Nom	Masc		Sing
+33	دغه	dáġa	_		this	DET	det	34		Nom							Deixis=Prox|PronType=Dem
+34	اثر	asár	_		work	NOUN	obj	37		Nom	Masc		Sing
+35	په	pë	پۀ	pë	at	ADP	case	36		Loc
+36	انګرېزۍ	angrezë́y	_		english	PROPN	obl	37		Loc	Fem		Sing
+37	راوژباړه	râwë́žbâṛa	راژباړل	râžbâṛë́l	translated	VERB	advcl	48	Perf		Masc	Ind	Sing	3	Past	Fin
+38	،	,	_		,	PUNCT	punct	48
+39	نو	no	_		then	ADV	advmod	48
+40	د	dë	_		of	ADP	case	41		Acc
+41	نوبل	nóbël	_		Noble	PROPN	nmod	44		Acc	Masc		Sing
+42	نړيواله	naṛëywấla	نړيوال	naṛëywấl	international	ADJ	amod	44		Nom	Fem		Sing
+43	ادبي	adabí	_		literary	ADJ	amod	44		Nom	Fem		Sing
+44	جايزه	ǰâyíza	_		award	NOUN	obj	48		Nom	Fem		Sing
+45	يې	ye	_		he	PRON	nsubj	48						3			PronType=Prs|Variant=Weak
+46	تر	tër	_		to	ADP	case	47		Abl
+47	لاسه	lấsa	لاس	lâs	hand	NOUN	obl	48		Abl	Masc		Sing
+48	کړه	kṛa	کول	kawë́l	did	VERB	conj	11	Perf		Fem	Ind	Sing	3	Past	Fin
+49	او	aw	_		and	CCONJ	cc	63
+50	په	pë	پۀ	pë	on	ADP	case	52		Loc
+51	دې	de	_		this	DET	det	52
+52	توګه	tóga	_		way	NOUN	obl	63		Loc	Fem		Sing
+53	د	dë	_		of	ADP	case	59		Acc
+54	نړيوالو	naṛëywấlo	نړيوال	naṛëywấl	international	ADJ	amod	59		Acc	Masc		Plur
+55	نوماندو	nomấndo	نوماند	nomấnd	candidates	ADJ	amod	59		Acc	Masc		Plur
+56	(	(	_		(	PUNCT	punct	57
+57	مشهورو	mašhúro	مشهور	mašhúr	famous	ADJ	appos	55		Acc	Masc		Plur
+58	)	)	_		)	PUNCT	punct	57
+59	لیکوالو	likwấlo	لیکوال	likwấl	writers	NOUN	nmod	61		Acc	Masc		Plur
+60	په	pë	پۀ	pë	at	ADP	case	61		Loc
+61	ډله	ḍála	_		group	NOUN	obl	63		Loc	Fem		Sing
+62	کې	ke	_		in	ADP	case	61		Loc
+63	وشمېرل	wë́šmerël	شمېرل	šmerë́l	counted	VERB	conj	48	Perf	Nom						Inf
+64	شو	šow	کېدل	kedë́l	become	AUX	aux	63	Perf		Masc	Ind	Sing	3	Past	Fin
+65	،	,	_		,	PUNCT	punct	75
+66	هغه	háġa	_		that	DET	det	68		Nom							Deixis=Remt|PronType=Dem
+67	هنري	hunarí	_		art	ADJ	amod	68		Nom	Fem		Sing
+68	متره	matrá	_		style	NOUN	nsubj	75		Nom	Fem		Sing
+69	يې	ye	_		its	PRON	nmod	68						3			Poss=Yes|PronType=Prs|Variant=Weak
+70	هم	ham	_		also	ADV	advmod	75
+71	په	pë	پۀ	pë	at	ADP	case	73		Loc
+72	نړيواله	naṛëywấla	نړيوال	naṛëywấl	international	ADJ	amod	73		Loc	Fem		Sing
+73	کچه	káča	_		level	NOUN	obl	75		Loc	Fem		Sing
+74	مطرح	matráh	_		discussed	ADJ	xcomp	75		Nom	Fem		Sing
+75	شوه	šwa	کېدل	kedë́l	became	VERB	conj	11	Perf		Fem	Ind	Sing	3	Past	Fin
+76	،	,	_		,	PUNCT	punct	90
+77	ځکه	żë́ka	_		therefore	ADV	advmod	90
+78	خو	xo	_		but	CCONJ	cc	90
+79	يې	ye	_		he	PRON	nsubj	90						3			PronType=Prs|Variant=Weak
+80	د	dë	_		of	ADP	case	84		Acc
+81	خپلو	xpë́lo	خپل	xpël	own	DET	det	84		Acc	Masc		Plur				Poss=Yes|PronType=Prs|Reflex=Yes
+82	څو	co	_		several	DET	det	84									PronType=Ind
+83	رخه	rë́xa	_		envy	NOUN	nmod	84		Nom	Fem		Sing
+84	ګرو	gáro	ګر	gar	people	ADJ	nmod	89		Acc	Masc		Plur
+85	(	(	_		(	PUNCT	punct	86
+86	حريفانو	harifấno	حریف	haríf	rivals	NOUN	appos	84		Acc	Masc		Plur
+87	)	)	_		)	PUNCT	punct	86
+88	په	pë	پۀ	pë	at	ADP	case	89		Loc
+89	وړاندې	wṛấnde	_		front	ADV	advmod	90
+90	ويلي	wayë́li	ویل	wayë́l	said	VERB	conj	75	Imp	Nom	Masc		Plur		Past	Part
+91	وو	wu	یم	yëm	has	AUX	aux	90			Masc	Ind	Plur	3	Past	Fin
+92	:‏	:‏	_		:	PUNCT	punct	1
+
+# sent_id = pnt-12-6.1
+# text = د مینې هغه خداى چې ما په شرق کې لټاوه، له غرب څخه د مینې لاسونه راوغزول.‏
+# transliter = d myne hġh xday če ma ph šrq ke lṭawh, lh ġrb cxh d myne laswnh rawġzwl.‏
+# transcript =
+# text_en = The God of love I sought in the East, streched out the hands of love from the West.
+1	د	dë	_		of	ADP	case	2		Acc
+2	مینې	míne	مینه	míne	love	NOUN	nmod	4		Acc	Fem		Sing
+3	هغه	háġa	_		that	DET	det	4		Nom							Deixis=Remt|PronType=Dem
+4	خداى	xudấy	_		god	NOUN	nsubj	18		Nom	Masc		Sing
+5	چې	če	_		which	PRON	obj	10									PronType=Rel
+6	ما	mâ	زۀ	zë	I	PRON	nsubj	10		Acc			Sing	1			PronType=Prs
+7	په	pë	پۀ	pë	at	ADP	case	8		Loc
+8	شرق	šarq	_		East	NOUN	obl	10		Loc	Masc		Sing
+9	کې	ke	_		in	ADP	case	8		Loc
+10	لټاوه	lëṭâwë́	لټول	lëṭâwë́l	was-looking-for	VERB	acl:relcl	4	Imp		Masc	Ind	Sing	3	Past	Fin
+11	،	,	_		,	PUNCT	punct	10
+12	له	la	_		from	ADP	case	13		Acc
+13	غرب	ġarb	_		West	NOUN	obl	18		Acc	Masc		Sing
+14	څخه	cë́xa	_		from	ADP	case	13		Acc
+15	د	dë	_		of	ADP	case	16		Acc
+16	مینې	míne	مینه	mína	love	NOUN	nmod	17		Acc	Fem		Sing
+17	لاسونه	lâsúna	لاس	lâs	hands	NOUN	obj	18		Nom	Masc		Plur
+18	راوغزول	râwë́ġëzawël	غزول	ġëzawë́l	extended	VERB	root	0	Perf		Masc	Ind	Plur	3	Past	Fin
+19	.‏	.‏	_		.	PUNCT	punct	18
+
+# sent_id = pnt-13-7.1
+# text = ستره ستونزه همدغه ده چې کله-کله چاپېريال نامساعد وي او د فرهنګیانو، ادبپالو او هنرپالو لاسونو ته زيندۍ وراچوي، ګنې شهکار اثر که په هره ژبه کې وي، خپل هنري ارزښت يې خوندي او پټ وي.‏
+# transliter = strh stwnzh hmdġh dh če klh-klh čaperial namsa‘d wi aw d frhngyanw, adbpalw aw hnrpalw laswnw th zindý wračwi, gne šhkar aSr kh ph hrh žbh ke wi, xpl hnri arzx̌t ie xwndi aw pṭ wi.‏
+# transcript =
+# text_en = The biggest problem is that sometimes circumstances are unfavorable and tie the hands of cultured people, writers and artists; if there is a great work in any language, its artistic value is obscure and hidden.
+1	ستره	stë́ra	ستر	stër	big	ADJ	amod	2		Nom	Fem		Sing
+2	ستونزه	stúnza	_		problem	NOUN	root	0		Nom	Fem		Sing
+3	همدغه	hamdáġa	_		this	PRON	nsubj	2		Nom							Deixis=Prox|PronType=Dem
+4	ده	da	یم	yëm	is	AUX	cop	2			Fem	Ind	Sing	3	Pres	Fin
+5	چې	če	_		that	SCONJ	mark	10
+6	کله	kë́la	_		when	ADV	advmod	10
+7	-	-	_		-	PUNCT	punct	6
+8	کله	kë́la	_		when	ADV	fixed	6
+9	چاپېريال	čâperyấl	_		environment	NOUN	nsubj	10		Nom	Masc		Sing
+10	نامساعد	nâmësâ‘ë́d	_		unfavorable	ADJ	acl	3		Nom	Masc		Sing
+11	وي	wi	یم	yëm	is	AUX	cop	10				Sub	Sing	3		Fin
+12	او	aw	_		and	CCONJ	cc	22
+13	د	dë	_		of	ADP	case	14		Acc
+14	فرهنګیانو	farhangyấno	فرهنګي	farhangí	cultured	ADJ	nmod	19		Acc	Masc		Plur
+15	،	,	_		,	PUNCT	punct	16
+16	ادبپالو	adabpấlo	ادبپال	adabpấl	writers	NOUN	conj	14		Acc	Masc		Plur
+17	او	aw	_		and	CCONJ	cc	18
+18	هنرپالو	hunarpấlo	هنرپال	hunarpấl	artists	NOUN	conj	14		Acc	Masc		Plur
+19	لاسونو	lâsúno	لاس	lâs	hands	NOUN	obl	22		Acc	Masc		Plur
+20	ته	ta	_		to	ADP	case	19		Acc
+21	زيندۍ	zindë́y	_		handcuffs	NOUN	obj	22		Nom	Fem		Plur
+22	وراچوي	waračawí	وراچول	waračawë́l	gives	VERB	conj	10	Imp			Ind	Sing	3	Pres	Fin
+23	،	,	_		,	PUNCT	punct	38
+24	ګنې	gáne	ګن	gan	big	ADJ	amod	26		Nom	Masc		Sing
+25	شهکار	šahkấr	_		master	ADJ	amod	26		Nom	Masc		Sing
+26	اثر	asár	_		work	NOUN	nsubj	30		Nom	Masc		Sing
+27	که	kë	کۀ	kë	if	SCONJ	mark	30
+28	په	pë	پۀ	pë	at	ADP	case	30		Loc
+29	هره	hára	هره	har	each	DET	det	30		Loc	Fem		Sing
+30	ژبه	žë́ba	_		language	NOUN	advcl	38		Loc	Fem		Sing
+31	کې	ke	_		in	ADP	case	30		Loc
+32	وي	wi	یم	yëm	is	AUX	cop	30				Sub	Sing	3		Fin
+33	،	,	_		,	PUNCT	punct	30
+34	خپل	xpël	_		own	DET	det	36		Nom	Masc		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+35	هنري	hunarí	_		artistical	ADJ	amod	36		Nom	Masc		Sing
+36	ارزښت	arzë́x̌t	_		value	NOUN	nsubj	38		Nom	Masc		Sing
+37	يې	ye	_		its	PRON	nmod	36						3			Poss=Yes|PronType=Prs|Variant=Weak
+38	خوندي	xwandí	_		protected	ADJ	conj	2		Nom	Masc		Sing
+39	او	aw	_		and	CCONJ	cc	40
+40	پټ	pëṭ	_		hidden	ADJ	conj	38		Nom	Masc		Sing
+41	وي	wi	یم	yëm	is	AUX	cop	38				Sub	Sing	3		Fin
+42	.‏	.‏	_			PUNCT	punct	2
+
+# sent_id = pnt-14-7.2
+# text = بېنوايان که په پاړسي ژبه ژباړل شوى، بیا هم زياتو کسانو لوستى، د اټکل له مخې استاد حبیبي په طلوع افغان ورځپاڼه کې برخې- برخې خپور کړى هم دى، چې لا راټول شوى نه دى.‏
+# transliter = benwaian kh ph paṛsi žbh žbaṛl šwy, bya hm ziatw ksanw lwsty, d aṭkl lh mxe astad Hbybi ph Tlw‘ afġan wrżpaṇh ke brxe- brxe xpwr kṛy hm dy, če la raṭwl šwy nh dy.‏
+# transcript =
+# text_en = Although Les-Misérables was translated into Persian, many people read it; it is believed that Ustad Habibi also published parts of it in the Afghan newspaper Tolo, however it has not been completed yet.
+1	بېنوايان	benawâyấn	بینوا	benawấ	Les-Misérables	NOUN	nsubj	6		Nom	Masc		Plur
+2	که	kë	کۀ	kë	if	SCONJ	mark	6
+3	په	pë	پۀ	pë	at	ADP	case	5		Loc
+4	پاړسي	pâṛsí	_		Persian	ADJ	amod	5		Loc	Fem		Sing
+5	ژبه	žë́ba	_		language	NOUN	obl	6		Loc	Fem		Sing
+6	ژباړل	žbâṛë́l	_		translate	VERB	advcl	13	Imp	Nom						Inf
+7	شوى	šë́way	کېدل	kedë́l	become	AUX	aux	6	Perf	Nom	Masc		Sing		Past	Part
+8	،	,	_		,	PUNCT	punct	6
+9	بیا	byâ	_		even	ADV	advmod	13
+10	هم	ham	_		also	ADV	advmod	13
+11	زياتو	zyấto	زيات	zyât	many	ADJ	amod	12		Acc	Masc		Plur
+12	کسانو	kasấno	کس	kas	people	NOUN	obl:agent	13		Acc	Masc		Plur
+13	لوستى	lwástay	لوستل	lwastë́l	read	VERB	root	0	Imp	Nom	Masc		Sing		Past	Part	Variant=Short
+14	،	,	_		,	PUNCT	punct	30
+15	د	dë	_		of	ADP	case	16		Acc
+16	اټکل	aṭkál	_		estimate	NOUN	obl	30		Acc	Masc		Sing
+17	له	la	_		from	ADP	case	18		Abl
+18	مخې	më́xe	مخ	mëx	face	NOUN	nmod	16		Abl	Masc		Sing
+19	استاد	ustấd	_		teacher	NOUN	nsubj	30		Nom	Masc		Sing
+20	حبیبي	habibí	_		Habibi	PROPN	flat	19		Nom	Masc		Sing
+21	په	pë	پۀ	pë	at	ADP	case	24		Loc
+22	طلوع	tuló	_		Tolo	PROPN	nmod	24		Nom	Masc		Sing
+23	افغان	afġấn	_		Afghan	PROPN	flat	22		Nom	Masc		Sing
+24	ورځپاڼه	wrażpấṇa	_		newspaper	NOUN	obl	30		Loc	Fem		Sing
+25	کې	ke	_		in	ADP	case	24		Loc
+26	برخې	bárxe	برخه	bárxa	parts	NOUN	obj	30		Nom	Fem		Plur
+27	-	-	_		-	PUNCT	punct	26
+28	برخې	bárxe	برخه	bárxa	parts	NOUN	fixed	26		Nom	Fem		Plur
+29	خپور	xpor	_		published	ADJ	xcomp	30		Nom	Masc		Sing
+30	کړى	kë́ṛay	کول	kawë́l	did	VERB	conj	13	Perf	Nom	Masc		Sing		Past	Part
+31	هم	ham	_		also	ADV	advmod	30
+32	دى	day	یم	yëm	is	AUX	aux	30			Masc	Ind	Sing	3	Pres	Fin
+33	،	,	_		,	PUNCT	punct	37
+34	چې	če	_		which	PRON	nsubj	37									PronType=Rel
+35	لا	lâ	_		still	ADV	advmod	37
+36	راټول	râṭól	_		collected	ADJ	xcomp	37		Nom	Masc		Sing
+37	شوى	šë́way	کېدل	kedë́l	become	VERB	acl:relcl	26	Perf	Nom	Masc		Sing		Past	Part
+38	نه	në	نۀ	në	not	PART	advmod	37									Polarity=Neg
+39	دى	day	یم	yëm	is	AUX	aux	37			Masc	Ind	Sing	3	Pres	Fin
+40	.‏	.‏	_		.	PUNCT	punct	13
+
+# sent_id = pnt-15-7.3
+# text = خو که هر وخت راټول او د يوه بېل کتاب په بڼه چاپ شي، خپل هنري او ادبي ارزښت به لري.‏
+# transliter = xw kh hr wxt raṭwl aw d iwh bel ktab ph bṇh čap ši, xpl hnri aw adbi arzx̌t bh lri.‏
+# transcript =
+# text_en = But if it is ever collated and published as a separate book, it will have its own artistic and literary value.
+1	خو	xo	_		but	CCONJ	cc	14
+2	که	kë	کۀ	kë	if	SCONJ	mark	14
+3	هر	har	_		any	DET	det	4		Nom	Masc						PronType=Tot
+4	وخت	waxt	_		time	NOUN	obl	14		Nom	Masc		Sing
+5	راټول	râṭól	_		collated	ADJ	xcomp	14		Nom	Masc		Sing
+6	او	aw	_		and	CCONJ	cc	13
+7	د	dë	_		of	ADP	case	10		Acc
+8	يوه	yawë́	یو	yaw	one	NUM	nummod	10		Acc	Masc						NumType=Card
+9	بېل	bel	_		different	ADJ	amod	10		Acc	Masc		Sing
+10	کتاب	kitấb	_		book	NOUN	nmod	12		Acc	Masc		Sing
+11	په	pë	پۀ	pë	at	ADP	case	12		Loc
+12	بڼه	báṇa	_		form	NOUN	nmod	13		Loc	Fem		Sing
+13	چاپ	čâp	_		print	NOUN	conj	5		Nom	Masc		Sing
+14	شي	ši	کېدل	kedë́l	become	VERB	advcl	22	Perf			Ind	Sing	3	Pres	Fin
+15	،	,	_		,	PUNCT	punct	14
+16	خپل	xpël	_		own	DET	det	20		Nom	Masc		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+17	هنري	hunarí	_		artistic	ADJ	amod	20		Nom	Masc		Sing
+18	او	aw	_		and	CCONJ	cc	19
+19	ادبي	adabí	_		literary	ADJ	conj	17		Nom	Masc		Sing
+20	ارزښت	arzë́x̌t	_		value	NOUN	obj	22		Nom	Masc		Sing
+21	به	bë	بۀ	bë	will	AUX	aux	22							Fut
+22	لري	larí	لرل	larë́l	have	VERB	root	0	Imp			Ind	Sing	3	Pres	Fin
+23	.‏	.‏	_		.	PUNCT	punct	22
+
+# sent_id = pnt-16-8.1
+# text = ژبه د پوهونې- راپوهونې تر ټولو ښه او اغېزناکه وسیله ګڼل کېږي، چې انسانانو د خپل ژوند له پیله تر دې دمه ترې ګټه اوچته کړې ده.‏
+# transliter = žbh d pwhwne- rapwhwne tr ṭwlw x̌h aw aġeznakh wsylh gṇl keǧi, če ansananw d xpl žwnd lh pylh tr de dmh tre gṭh awčth kṛe dh.‏
+# transcript =
+# text_en = Language is considered to be the best and most effective tool of mutual understanding, which humans have used since the beginning of their lives.
+1	ژبه	žë́ba	_		language	NOUN	nsubj	12		Nom	Fem		Sing
+2	د	dë	_		of	ADP	case	3		Acc
+3	پوهونې	pohawë́ne	پوهونه	pohawë́na	education	NOUN	nmod	11		Acc	Fem		Sing
+4	-	-	_		-	PUNCT	punct	3
+5	راپوهونې	râpohawë́ne	راپوهونه	râpohawë́na	study	NOUN	fixed	3		Acc	Fem		Sing
+6	تر	tër	_		from	ADP	case	7		Abl
+7	ټولو	ṭólo	ټول	ṭol	all	PRON	nmod	8		Abl	Masc		Plur				PronType=Tot
+8	ښه	x̌a	ښۀ	x̌ë	good	ADJ	amod	11		Nom	Fem		Sing
+9	او	aw	_		and	CCONJ	cc	10
+10	اغېزناکه	aġeznấka	اغېزناک	aġeznấk	effective	ADJ	conj	8		Nom	Fem		Sing
+11	وسیله	wasíla	_		instrument	NOUN	obl:arg	12		Nom	Fem		Sing
+12	ګڼل	gaṇë́l	_		considered	VERB	root	0	Imp	Nom						Inf
+13	کېږي	keǧí	کېدل	kedë́l	becomes	AUX	aux	12	Imp			Ind	Sing	3	Pres	Fin
+14	،	,	_		,	PUNCT	punct	29
+15	چې	če	_		which	PRON	obj	29									PronType=Rel
+16	انسانانو	insânấno	انسان	insấn	human	NOUN	nsubj	29		Acc	Masc		Plur
+17	د	dë	_		of	ADP	case	19		Acc
+18	خپل	xpël	_		own	DET	det	19		Acc	Masc		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+19	ژوند	žwënd	_		life	NOUN	nmod	21		Acc	Masc		Sing
+20	له	la	_		from	ADP	case	21		Abl
+21	پیله	páyla	پیل	payl	beginning	NOUN	obl	29		Abl	Masc		Sing
+22	تر	tër	_		until	ADP	case	24		Abl
+23	دې	de	دا	dâ	this	DET	det	24		Abl	Fem		Sing				Deixis=Prox|PronType=Dem|Variant=Short
+24	دمه	dáma	_		moment	NOUN	obl	29		Abl	Fem		Sing
+25-26	ترې	tre	_		from-it	_	_	_
+25	تر	tër	_		from	ADP	case	26		Abl
+26	یې	ye	_		it	PRON	obl	29						3			PronType=Prs|Variant=Weak
+27	ګټه	gáṭa	_		benefit	NOUN	obj	29		Nom	Fem		Sing
+28	اوچته	učáta	اوچت	učát	taken	ADJ	xcomp	29		Nom	Fem		Sing
+29	کړې	kë́ṛe	کول	kawë́l	done	VERB	acl:relcl	11	Perf	Nom	Fem		Sing		Past	Part
+30	ده	da	یم	yëm	is	AUX	cop	29			Fem	Ind	Sing	3	Pres	Fin
+31	.‏	.‏	_		.	PUNCT	punct	12
+
+# sent_id = pnt-17-8.2
+# text = يوه زمانه به انسانانو د خبرو- اترو لپاره کره او سمه ژبه نه درلوده، د خطر په وخت کې به يې یو ډول ږغ کاوه، د خوښۍ په وخت کې به يې ځانګړې نارې او کوکې وهلې، د خواشینۍ لپاره به يې بېل اوازونه کښل، همدغو ږغیزو توکو (موادو) د خلکو ترمنځ دود وموند، چې وروسته يې ږغیزه يا د خبرو- اترو اوسنۍ ژبه دود کړه.‏
+# transliter = iwh zmanh bh ansananw d xbrw- atrw lparh krh aw smh žbh nh drlwdh, d xTr ph wxt ke bh ie iw ḍwl ǧġ kawh, d xwx̌ý ph wxt ke bh ie żangṛe nare aw kwke whle, d xwašyný lparh bh ie bel awazwnh kx̌l, hmdġw ǧġyzw twkw (mwadw) d xlkw trmnż dwd wmwnd, če wrwsth ie ǧġyzh ia d xbrw- atrw awsný žbh dwd kṛh.‏
+# transcript =
+# text_en = Once upon a time, people did not have a proper language to communicate, they would make a kind of sound when they were in danger, when they were happy they would exult and shout and when they were sad they would make different sounds; these sound items gave rise to a tradition among people that later became the colloquial or contemporary language of conversation.
+1	يوه	yawá	یو	yaw	one	NUM	nummod	2		Nom	Fem						NumType=Card
+2	زمانه	zamấna	_		time	NOUN	obl	15		Nom	Fem		Sing
+3	به	bë	بۀ	bë	would	AUX	aux	15				Sub
+4	انسانانو	insânấno	انسان	insấn	people	NOUN	nsubj	15		Acc	Masc		Plur
+5	د	dë	_		of	ADP	case	6		Acc
+6	خبرو	xabë́ro	خبره	xabë́ra	talks	NOUN	obl	15		Acc	Fem		Plur
+7	-	-	_		-	PUNCT	punct	6
+8	اترو	atë́ro	اتره	atë́ra	talks	NOUN	fixed	6		Acc	Fem		Plur
+9	لپاره	lapấra	_		for	ADP	case	6		Acc
+10	کره	kára	کر	kar	correct	ADJ	amod	13		Nom	Fem		Sing
+11	او	aw	_		and	CCONJ	cc	12
+12	سمه	sáma	سم	sam	right	ADJ	conj	10		Nom	Fem		Sing
+13	ژبه	žë́ba	_		language	NOUN	obj	15		Nom	Fem		Sing
+14	نه	në	نۀ	në	not	PART	advmod	15									Polarity=Neg
+15	درلوده	dërlówda	درلودل	dërlowdë́l	had	VERB	root	0	Imp		Fem	Ind	Sing	3	Past	Fin
+16	،	,	_		,	PUNCT	punct	27
+17	د	dë	_		of	ADP	case	18		Acc
+18	خطر	xatár	_		danger	NOUN	nmod	20		Acc	Masc		Sing
+19	په	pë	پۀ	pë	at	ADP	case	20		Loc
+20	وخت	waxt	_		time	NOUN	obl	27		Loc	Masc		Sing
+21	کې	ke	_		in	ADP	case	20		Loc
+22	به	bë	بۀ	bë	would	AUX	aux	27				Sub
+23	يې	ye	_		they	PRON	nsubj	27						3			PronType=Prs|Variant=Weak
+24	یو	yaw	_		one	NUM	nummod	25		Nom	Masc						NumType=Card
+25	ډول	ḍawl	_		type	NOUN	nmod	26		Nom	Masc		Sing
+26	ږغ	ǧaġ	_		voice	NOUN	obj	27		Nom	Masc		Sing
+27	کاوه	kâwë́	کول	kawë́l	do	VERB	conj	15	Imp		Masc	Ind	Sing	3	Past	Fin
+28	،	,	_		,	PUNCT	punct	40
+29	د	dë	_		of	ADP	case	30		Acc
+30	خوښۍ	xwax̌ë́y	_		happiness	NOUN	nmod	32		Acc	Fem		Sing
+31	په	pë	پۀ	pë	at	ADP	case	32		Loc
+32	وخت	waxt	_		time	NOUN	obl	40		Loc	Masc		Sing
+33	کې	ke	_		in	ADP	case	32		Loc
+34	به	bë	بۀ	bë	would	AUX	aux	40				Sub
+35	يې	ye	_		they	PRON	nsubj	40						3			PronType=Prs|Variant=Weak
+36	ځانګړې	żângë́ṛe	ځانګړی	żângë́ṛay	special	ADJ	amod	37		Nom	Fem		Plur
+37	نارې	nâré	ناره	nârá	calls	NOUN	obj	40		Nom	Fem		Plur
+38	او	aw	_		and	CCONJ	cc	39
+39	کوکې	kuké	کوکه	kuká	sounds	NOUN	conj	37		Nom	Fem		Plur
+40	وهلې	wahë́le	وهل	wahë́l	gave	VERB	conj	15	Imp		Fem	Ind	Plur	3	Past	Fin
+41	،	,	_		,	PUNCT	punct	49
+42	د	dë	_		of	ADP	case	43		Acc
+43	خواشینۍ	xwâšinë́y	_		sorry	NOUN	obl	49		Acc	Fem		Sing
+44	لپاره	lapấra	_		for	ADP	case	43		Acc
+45	به	bë	بۀ	bë	would	AUX	aux	49				Sub
+46	يې	ye	_		they	PRON	nsubj	49						3			PronType=Prs|Variant=Weak
+47	بېل	bel	_		different	ADJ	amod	48		Nom	Masc		Plur
+48	اوازونه	awâzúna	اواز	awấz	voices	NOUN	obj	49		Nom	Masc		Plur
+49	کښل	kx̌ël	_		gave	VERB	conj	15	Imp		Masc	Ind	Plur	3	Past	Fin
+50	،	,	_		,	PUNCT	punct	61
+51	همدغو	hamdáġo	همدغه	hamdáġa	same	DET	det	53		Acc			Plur				Deixis=Prox|PronType=Dem
+52	ږغیزو	ǧaġízo	ږغیز	ǧaġíz	sounds	ADJ	amod	53		Acc	Masc		Plur
+53	توکو	túko	توکه	túka	stuff	NOUN	nsubj	61		Acc	Masc		Plur
+54	(	(	_		(	PUNCT	punct	55
+55	موادو	mawấdo	مواد	mawấd	material	NOUN	appos	53		Acc	Masc		Plur
+56	)	)	_		)	PUNCT	punct	55
+57	د	dë	_		of	ADP	case	58		Acc
+58	خلکو	xálko	خلک	xalk	people	NOUN	obl	61		Acc	Masc		Plur
+59	ترمنځ	tërmánż	_		among	ADP	case	58		Acc
+60	دود	dod	_		tradition	NOUN	obj	61		Nom	Masc		Sing
+61	وموند	wëmúnd	موندل	mundë́l	found	VERB	conj	15	Perf		Masc	Ind	Sing	3	Past	Fin
+62	،	,	_		,	PUNCT	punct	75
+63	چې	če	_		which	PRON	nsubj	75									PronType=Rel
+64	وروسته	wrústa	_		later	ADV	advmod	75
+65	يې	ye	_		they	PRON	nmod	63						3			PronType=Prs|Variant=Weak
+66	ږغیزه	ǧaġíza	ږغیز	ǧaġíz	sound	ADJ	amod	73		Nom	Fem		Sing
+67	يا	yâ	_		or	CCONJ	cc	69
+68	د	dë	_		of	ADP	case	69		Acc
+69	خبرو	xabë́ro	خبره	xabë́ra	talk	NOUN	conj	66		Acc	Fem		Plur
+70	-	-	_		-	PUNCT	punct	69
+71	اترو	atë́ro	اتره	atë́ra	talk	NOUN	fixed	69		Acc	Fem		Plur
+72	اوسنۍ	osanë́y	_		current	ADJ	conj	66		Nom	Fem		Sing
+73	ژبه	žë́ba	_		language	NOUN	obj	75		Nom	Fem		Sing
+74	دود	dod	_		tradition	NOUN	xcomp	75		Nom	Masc		Sing
+75	کړه	kṛa	کول	kawë́l	did	VERB	acl:relcl	60	Perf		Fem	Ind	Sing	3	Past	Fin
+76	.‏	.‏	_		.	PUNCT	punct	15
+
+# sent_id = pnt-18-9.1
+# text = د ځینو لرغونو پاچايانو او ټولواکانو په وخت کې چې لیکنۍ ژبه لا نه وه دود شوې، نو انځورګرانو به د ونو پر ډډونو، دېوالونو يا ښويو ډبرو انځورونه کښل، د انځورونو په واسطه به يې خپل نور ملګري يا هملاري پوهول، خو کله چې لیکنۍ او ږغیزې ژبې لږ څه نور پرمختګ هم وکړ، لیکدود رامنځته شو، چې اوس د نړۍ ټولې ژبې ځانګړى لیکدود او لیکلار لري.‏
+# transliter = d żynw lrġwnw pačaianw aw ṭwlwakanw ph wxt ke če lykný žbh la nh wh dwd šwe, nw anżwrgranw bh d wnw pr ḍḍwnw, dewalwnw ia x̌wiw ḍbrw anżwrwnh kx̌l, d anżwrwnw ph wasTh bh ie xpl nwr mlgri ia hmlari pwhwl, xw klh če lykný aw ǧġyze žbe lǧ ch nwr prmxtg hm wkṛ, lykdwd ramnżth šw, če aws d nṛý ṭwle žbe żangṛy lykdwd aw lyklar lri.‏
+# transcript =
+# text_en = During the time of some ancient kings and princes, when written language was not yet common, painters drew pictures on tree trunks, walls or smooth rocks; through pictures they informed their friends or fellow-travellers, but when writing and phonetic language advanced a bit more, writing tradition was created and now all the languages ​​of the world have their specific tradition and writing method.
+1	د	dë	_		of	ADP	case	4		Acc
+2	ځینو	żíno	ځینې	żíne	some	DET	det	4		Acc			Plur				PronType=Ind
+3	لرغونو	larġúno	لرغونی	larġúnay	ancient	ADJ	amod	4		Acc	Masc		Plur
+4	پاچايانو	pâčâyấno	پاچا	pâčấ	kings	NOUN	nmod	8		Acc	Masc		Plur
+5	او	aw	_		and	CCONJ	cc	6
+6	ټولواکانو	ṭolwâkấno	ټولواک	ṭolwấk	owners	NOUN	conj	4		Acc	Masc		Plur
+7	په	pë	پۀ	pë	at	ADP	case	8		Loc
+8	وخت	waxt	_		time	NOUN	obl	32		Loc	Masc		Sing
+9	کې	ke	_		in	ADP	case	8		Loc
+10	چې	če	_		when	SCONJ	mark	17
+11	لیکنۍ	likanë́y	لیکنی	likanáy	written	ADJ	amod	12		Nom	Fem		Sing
+12	ژبه	žë́ba	_		language	NOUN	nsubj	17		Nom	Fem		Sing
+13	لا	lâ	_		yet	ADV	advmod	17
+14	نه	në	نۀ	në	not	PART	advmod	17									Polarity=Neg
+15	وه	wa	یم	yëm	was	AUX	aux	17			Fem	Ind	Sing	3	Past	Fin
+16	دود	dod	_		tradition	NOUN	obl:arg	17		Nom	Masc		Sing
+17	شوې	šë́we	کېدل	kedë́l	become	VERB	acl	8	Perf	Nom	Fem		Sing		Past	Part
+18	،	,	_		,	PUNCT	punct	17
+19	نو	no	_		so	ADV	advmod	32
+20	انځورګرانو	anżurgarấno	انڅورګر	anżurgár	painters	NOUN	nsubj	32		Acc	Masc		Plur
+21	به	bë	بۀ	bë	would	AUX	aux	32				Sub
+22	د	dë	_		of	ADP	case	23		Acc
+23	ونو	wë́no	ونه	wë́na	trees	NOUN	nmod	25		Acc	Fem		Plur
+24	پر	për	_		on	ADP	case	25		Loc
+25	ډډونو	ḍaḍúno	ډډ	ḍaḍ	stalks	NOUN	obl	32		Loc	Masc		Plur
+26	،	,	_		,	PUNCT	punct	27
+27	دېوالونو	dewâlúno	دېوال	dewấl	walls	NOUN	conj	25		Loc	Masc		Plur
+28	يا	yâ	_		or	CCONJ	cc	30
+29	ښويو	x̌wë́yo	ښوی	x̌way	smoth	ADJ	amod	30		Loc	Fem		Plur
+30	ډبرو	ḍabáro	ډبره	ḍabára	rocks	NOUN	conj	25		Loc	Fem		Plur
+31	انځورونه	anżurúna	انڅور	anżúr	pictures	NOUN	obj	32		Loc	Masc		Plur
+32	کښل	kx̌ël	_		draw	VERB	root	0	Imp		Masc	Ind	Plur	3	Past	Fin
+33	،	,	_		,	PUNCT	punct	45
+34	د	dë	_		of	ADP	case	35		Acc
+35	انځورونو	anżurúno	انڅور	anżúr	pictures	NOUN	nmod	37		Acc	Masc		Plur
+36	په	pë	پۀ	pë	at	ADP	case	37		Loc
+37	واسطه	wâsetá	_		mediation	NOUN	obl	45		Loc	Fem		Sing
+38	به	bë	بۀ	bë	would	AUX	aux	45				Sub
+39	يې	ye	_		they	PRON	nsubj	45						3			PronType=Prs|Variant=Weak
+40	خپل	xpël	_		own	DET	det	42		Nom	Masc		Plur				Poss=Yes|PronType=Prs|Reflex=Yes
+41	نور	nor	_		other	ADJ	amod	42		Nom	Masc		Plur
+42	ملګري	malgë́ri	ملګری	malgë́ray	friends	NOUN	obj	45		Nom	Masc		Plur
+43	يا	yâ	_		or	CCONJ	cc	44
+44	هملاري	hamlấri	هملاری	hamlấray	fellow-travellers	NOUN	conj	42		Nom	Masc		Plur
+45	پوهول	pohawë́l	_		inform	VERB	conj	32	Imp		Masc	Ind	Plur	3	Past	Fin
+46	،	,	_		,	PUNCT	punct	63
+47	خو	xo	_		but	CCONJ	cc	63
+48	کله	kë́la	_		when	ADV	advmod	59
+49	چې	če	_		that	SCONJ	mark	59
+50	لیکنۍ	likanë́y	لیکنی	likanáy	writing	ADJ	amod	53		Acc	Fem		Sing
+51	او	aw	_		and	CCONJ	cc	52
+52	ږغیزې	ǧaġíze	ږغیز	ǧaġíz	sound	ADJ	conj	50		Acc	Fem		Sing
+53	ژبې	žë́be	ژبه	žë́ba	languages	NOUN	nsubj	59		Acc	Fem		Sing
+54	لږ	lëǧ	_		little	ADJ	advmod	56		Nom	Masc		Sing
+55	څه	cë	څۀ	cë	somewhat	PRON	fixed	54									Animacy=Nhum|PronType=Int
+56	نور	nor	_		additional	ADJ	amod	57		Nom	Masc		Sing
+57	پرمختګ	përmëxtág	_		development	NOUN	obj	59		Nom	Masc		Sing
+58	هم	ham	_		also	ADV	advmod	59
+59	وکړ	wë́këṛ	کول	kawë́l	did	VERB	advcl	63	Perf		Masc	Ind	Sing	3	Past	Fin	Variant=Long
+60	،	,	_		,	PUNCT	punct	59
+61	لیکدود	likdód	_		writing-tradition	NOUN	nsubj	63		Nom	Masc		Sing
+62	رامنځته	râmánżta	_		togather	ADV	advmod	63
+63	شو	šow	کېدل	kedë́l	become	VERB	conj	32	Perf		Masc	Ind	Sing	3	Past	Fin
+64	،	,	_		,	PUNCT	punct	75
+65	چې	če	_		that	SCONJ	mark	75
+66	اوس	os	_		now	ADV	advmod	75
+67	د	dë	_		of	ADP	case	68		Acc
+68	نړۍ	naṛë́y	_		world	NOUN	nmod	70		Acc	Fem		Sing
+69	ټولې	ṭóle	ټول	ṭol	all	DET	det	70		Nom	Fem		Plur				PronType=Tot
+70	ژبې	žë́be	ژبه	žë́ba	languages	NOUN	nsubj	75		Nom	Fem		Plur
+71	ځانګړى	żângëṛí	_		special	ADJ	amod	72		Nom	Masc		Sing
+72	لیکدود	likdód	_		writing-tradition	NOUN	obj	75		Nom	Masc		Sing
+73	او	aw	_		and	CCONJ	cc	74
+74	لیکلار	liklấr	_		writing-method	NOUN	conj	72		Nom	Masc		Sing
+75	لري	larí	لرل	larë́l	have	VERB	advcl	63	Imp			Ind	Plur	3	Pres	Fin
+76	.‏	.‏	_		.	PUNCT	punct	32
+
+# sent_id = pnt-19-9.2
+# text = ان داسې هېوادونه هم شته چې څو ژوندۍ ژبې په کې ويل کېږي، خو هلته هرې سیمې ته داسې نصاب، اداري نظام او د خلکو ژبه هماغه ژبه وي، چې د سیمې ډېرکي خلک يې ويونکي وي، حکومتونه هم هرې ژبې ته برابر ورکوي او کوښښ کوي، چې د خپل هېواد او سیمې هرې ژبې ته وده ورکړي.‏
+# transliter = an dase hewadwnh hm šth če cw žwndý žbe ph ke wil keǧi, xw hlth hre syme th dase nŚab, adari nZ̀am aw d xlkw žbh hmaġh žbh wi, če d syme ḍerki xlk ie wiwnki wi, Hkwmtwnh hm hre žbe th brabr wrkwi aw kwx̌x̌ kwi, če d xpl hewad aw syme hre žbe th wdh wrkṛi.‏
+# transcript =
+# text_en = There are even countries where several living languages ​​are spoken, but each region has its own curriculum, administrative system, and language spoken by the majority of the region's population; governments give equality to every language and try to promote each language of their country and region.
+1	ان	ân	_		even	ADV	advmod	5
+2	داسې	dấse	_		such	DET	det	3									Deixis=Prox|PronType=Dem|Variant=Short
+3	هېوادونه	hewâdúna	هېواد	hewấd	countries	NOUN	nsubj	5		Nom	Masc		Plur
+4	هم	ham	_		also	ADV	advmod	5
+5	شته	šta	_		there-are	VERB	root	0						3	Pres	Fin
+6	چې	če	_		which	PRON	obl	12									PronType=Rel
+7	څو	co	_		several	DET	det	9									PronType=Ind
+8	ژوندۍ	žwëndë́y	ژوندی	žwëndáy	alive	ADJ	amod	9		Nom	Fem		Plur
+9	ژبې	žë́be	ژبه	žë́ba	languages	NOUN	nsubj	12		Nom	Fem		Plur
+10	په	pë	پۀ	pë	at	ADP	case	6		Loc
+11	کې	ke	_		in	ADP	case	6		Loc
+12	ويل	wayë́l	_		speak	VERB	acl:relcl	3	Perf	Nom						Inf
+13	کېږي	keǧí	کېدل	kedë́l	become	AUX	aux	12	Imp			Ind	Plur	3	Pres	Fin
+14	،	,	_		,	PUNCT	punct	21
+15	خو	xo	_		but	CCONJ	cc	21
+16	هلته	hálta	_		there	ADV	advmod	21
+17	هرې	háre	هر	har	every	DET	det	18		Acc	Fem						PronType=Tot
+18	سیمې	síme	سیمه	síma	region	NOUN	obl	21		Acc	Fem		Sing
+19	ته	ta	_		to	ADP	case	18		Acc
+20	داسې	dấse	_		such	DET	det	21									Deixis=Prox|PronType=Dem|Variant=Short
+21	نصاب	nisấb	_		curriculum	NOUN	conj	5		Nom	Masc		Sing
+22	،	,	_		,	PUNCT	punct	24
+23	اداري	idârí	_		administrative	ADJ	amod	24		Nom	Masc		Sing
+24	نظام	nizấm	_		system	NOUN	conj	21		Nom	Masc		Sing
+25	او	aw	_		and	CCONJ	cc	28
+26	د	dë	_		of	ADP	case	27		Acc
+27	خلکو	xálko	خلک	xalk	people	NOUN	nmod	28		Acc	Masc		Plur
+28	ژبه	žë́ba	_		language	NOUN	conj	21		Nom	Fem		Sing
+29	هماغه	hamấġa	_		same	DET	det	30		Nom							Deixis=Remt|PronType=Dem
+30	ژبه	žë́ba	_		language	NOUN	nsubj	28		Nom	Fem		Sing
+31	وي	wi	یم	yëm	is	AUX	aux	21				Sub	Sing	3		Fin
+32	،	,	_		,	PUNCT	punct	39
+33	چې	če	_		which	PRON	nmod	39									PronType=Rel
+34	د	dë	_		of	ADP	case	35		Acc
+35	سیمې	síme	سیمه	síma	region	NOUN	nmod	37		Acc	Fem		Sing
+36	ډېرکي	ḍerakí	_		majority	ADJ	amod	37		Nom	Masc		Sing
+37	خلک	xalk	_		people	NOUN	nsubj	39		Nom	Masc		Sing
+38	يې	ye	_		its	PRON	nmod	33						3			Poss=Yes|PronType=Prs|Variant=Weak
+39	ويونکي	wayúnki	ويونکی	wayúnkay	speaker	NOUN	acl:relcl	30		Nom	Masc		Plur
+40	وي	wi	یم	yëm	is	AUX	cop	39				Sub	Sing	3		Fin
+41	،	,	_		,	PUNCT	punct	48
+42	حکومتونه	hokumatúna	حکومت	hokumát	governments	NOUN	nsubj	48		Nom	Masc		Plur
+43	هم	ham	_		also	ADV	advmod	48
+44	هرې	háre	هر	har	every	DET	det	45		Acc	Fem						PronType=Tot
+45	ژبې	žë́be	ژبه	žë́ba	language	NOUN	obl	48		Acc	Fem		Sing
+46	ته	ta	_		to	ADP	case	45		Acc
+47	برابر	barâbár	_		equivalence	NOUN	obj	48		Nom	Masc		Sing
+48	ورکوي	warkawí	ورکول	warkawë́l	give	VERB	conj	5	Imp			Ind	Plur	3	Pres	Fin
+49	او	aw	_		and	CCONJ	cc	51
+50	کوښښ	kox̌ë́x̌	_		effort	NOUN	obj	51		Nom	Masc		Sing
+51	کوي	kawí	کول	kawë́l	do	VERB	conj	48	Imp			Ind	Plur	3	Pres	Fin
+52	،	,	_		,	PUNCT	punct	63
+53	چې	če	_		that	SCONJ	mark	63
+54	د	dë	_		of	ADP	case	56		Acc
+55	خپل	xpël	_		own	DET	det	56		Acc	Masc		Sing				Poss=Yes|PronType=Prs|Reflex=Yes
+56	هېواد	hewấd	_		country	NOUN	nmod	60		Acc	Masc		Sing
+57	او	aw	_		and	CCONJ	cc	58
+58	سیمې	síme	سیمه	síma	region	NOUN	conj	56		Nom	Fem		Sing
+59	هرې	háre	هر	har	every	DET	det	60		Acc	Fem						PronType=Tot
+60	ژبې	žë́be	ژبه	žë́ba	language	NOUN	obl	63		Acc	Fem		Sing
+61	ته	ta	_		to	ADP	case	60		Acc
+62	وده	wáda	_		growth	NOUN	obj	63		Nom	Fem		Sing
+63	ورکړي	warkṛí	ورکول	warkawë́l	give	VERB	advcl	51	Perf			Ind	Plur	3	Pres	Fin
+64	.‏	.‏	_		.	PUNCT	punct	5
+
+# sent_id = pnt-20-9.3
+# text = درسي نصاب په هماغه ژبه وي، لوحې په هماغه ژبه وي او خبرې اترې هم هماغسې دود لري.‏
+# transliter = drsi nŚab ph hmaġh žbh wi, lwHe ph hmaġh žbh wi aw xbre atre hm hmaġse dwd lri.‏
+# transcript =
+# text_en = The curriculum is in that language, the banners are in that language and the conversation has the same tradition.
+1	درسي	darsí	_		lesson	ADJ	amod	2		Nom	Masc		Sing
+2	نصاب	nisấb	_		curriculum	NOUN	nsubj	6		Nom	Masc		Sing
+3	په	pë	پۀ	pë	at	ADP	case	5		Loc
+4	هماغه	hamấġa	_		same	DET	det	5		Loc							Deixis=Remt|PronType=Dem
+5	ژبه	žë́ba	_		language	NOUN	obl	6		Loc	Fem		Sing
+6	وي	wi	_		is	VERB	root	0				Sub	Sing	3		Fin
+7	،	,	_		,	PUNCT	punct	12
+8	لوحې	lawhé	لوحه	lawhá	signs	NOUN	nsubj	12		Nom	Fem		Plur
+9	په	pë	پۀ	pë	at	ADP	case	11		Loc
+10	هماغه	hamấġa	_		same	DET	det	11		Loc							Deixis=Remt|PronType=Dem
+11	ژبه	žë́ba	_		language	NOUN	obl	12		Loc	Fem		Sing
+12	وي	wi	_		is	VERB	conj	6				Sub	Sing	3		Fin
+13	او	aw	_		and	CCONJ	cc	19
+14	خبرې	xabë́re	خبره	xabë́ra	talks	NOUN	nsubj	19		Nom	Fem		Plur
+15	اترې	atë́re	اتره	atë́ra	talks	NOUN	fixed	14		Nom	Fem		Plur
+16	هم	ham	_		also	ADV	advmod	19
+17	هماغسې	hamấġase	_		such	DET	det	18									Deixis=Remt|PronType=Dem
+18	دود	dod	_		tradition	NOUN	obj	19		Nom	Masc		Sing
+19	لري	larí	لرل	larë́l	have	VERB	conj	6	Imp			Ind	Sing	3	Pres	Fin
+20	.‏	.‏	_		.	PUNCT	punct	6										

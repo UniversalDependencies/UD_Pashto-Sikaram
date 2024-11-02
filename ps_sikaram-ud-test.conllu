@@ -145,14 +145,14 @@
 6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
 7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown
 8	کولی	کول	AUX	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Translit=kawë́lay|LTranslit=kawë́l|Gloss=done
-9	شوای	کېدل	AUX	_	Mood=Pot|VerbForm=Part	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
+9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select
 11	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 # sent_id = cairo-12
 # text = پۀ دوی کې هیڅوک نۀ پوهېږي چې چا دا ولیکل.
-# translit = pë duy ke hicók në poheǧí póha keǧí če čâ dâ wë́likël. 
+# translit = pë duy ke hicók në poheǧí če čâ dâ wë́likël. 
 # text_en = They have no idea who wrote it.
 1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	دوی	دوی	PRON	_	Case=Loc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|LTranslit=duy|Gloss=they
@@ -226,15 +226,15 @@
 
 # sent_id = cairo-17
 # text = هغې باید خپل وېښتان جوړ کړي وای مګر د کوم دلیل له امله یې هغه ورځ جوړ نۀ کړل.
-# translit = haġé bâyád xpël wex̌tấn ǰoṛ kṛi wây magár dë kum dâlíl la amála ye háġa wraż ǰoṛ në kṛël. 
+# translit = haġé bâyád xpël wex̌tấn ǰoṛ kë́ṛi wây magár dë kum dâlíl la amála ye háġa wraż ǰoṛ në kṛël. 
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 1	هغې	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she
 2	باید	باید	PART	_	_	6	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=must
-3	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
+3	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
 4	وېښتان	وېښتۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
 5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	xcomp	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
-6	کړي	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	0	root	_	Translit=kṛi|LTranslit=kawë́l|Gloss=did
-7	وای	وای	PART	_	_	6	advmod	_	Translit=wây|LTranslit=wây|Gloss=would
+6	کړي	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=kë́ṛi|LTranslit=kawë́l|Gloss=did
+7	وای	یم	AUX	_	Mood=Pot|VerbForm=Fin	6	advmod	_	Translit=wây|LTranslit=yëm|Gloss=would
 8	مګر	مګر	CCONJ	_	_	19	cc	_	Translit=magár|LTranslit=magár|Gloss=but
 9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of
 10	کوم	کوم	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Translit=kum|LTranslit=kum|Gloss=some
@@ -251,7 +251,7 @@
 
 # sent_id = cairo-18
 # text = ما ګام ورسره ونۀ شوای نیولی، ځکه چې هغۀ خورا ژرژر منډه وهله.
-# translit = mâ gâm wársara war sará wënë́ šwây niwë́lay, żë́ka če haġë́ xwarấ žëržë́r më́nḍa wahë́la. 
+# translit = mâ gâm wársara wënë́ šwây niwë́lay, żë́ka če haġë́ xwarấ žëržë́r më́nḍa wahë́la. 
 # text_en = I wasn't able to keep up, because he ran too fast.
 1	ما	زۀ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=mâ|LTranslit=zë|Gloss=I
 2	ګام	ګام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=gâm|LTranslit=gâm|Gloss=step
@@ -259,7 +259,7 @@
 3	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	7	obl	_	Translit=war|LTranslit=war|Gloss=him
 4	سره	سره	ADP	_	Case=Acc	3	case	_	Translit=sará|LTranslit=sará|Gloss=with
 5	ونۀ	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	7	aux	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
-6	شوای	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
+6	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	7	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 7	نیولی	نیول	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=niwë́lay|LTranslit=niwë́l|Gloss=caught|SpaceAfter=No
 8	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
 9	ځکه	ځکه	SCONJ	_	_	15	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since
@@ -551,7 +551,7 @@
 
 # sent_id = pnt-8-3.4
 # text = خو شلمې پېړۍ، دغه ژبه نژدې په ټوله نړۍ کې خپره کړه، اوس شرق څه، چې په غرب او نورو خلیجي هېوادونو کې هم ګڼ شمېر وګړي پرې خبرې کوي او ان چې پالي يې هم.‏
-# translit = xo šlë́me peṛë́y, dáġa žë́ba niždé pë ṭóla naṛë́y ke xpará kṛa, os šarq cë, če pë ġarb aw nóro xaliǰí hewâdúno ke ham gaṇ šmer wagë́ṛi pre për ye xabë́re kawí aw ân če pâlí ye ham. 
+# translit = xo šlë́me peṛë́y, dáġa žë́ba niždé pë ṭóla naṛë́y ke xpará kṛa, os šarq cë, če pë ġarb aw nóro xaliǰí hewâdúno ke ham gaṇ šmer wagë́ṛi pre xabë́re kawí aw ân če pâlí ye ham. 
 # text_en = But the twentieth century spread this language almost all over the world; now it is spoken and also respected by a large number of people not only in the East, but also in the West and in other countries of the Persian Gulf.
 1	خو	خو	CCONJ	_	_	13	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 2	شلمې	شلم	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	Translit=šlë́me|LTranslit=šlëm|Gloss=twentieth
@@ -638,7 +638,7 @@
 
 # sent_id = pnt-10-5.1
 # text = له بده مرغه چې کله کله خو يوې ژبې ته هغه ارزښت نه ورکول کېږي، څومره چې ورسره ښايي.‏
-# translit = la báda më́rġa če kë́la kë́la xo yawé žë́be ta háġa arzë́x̌t në warkawë́l keǧí, cúmra če warsará war sará x̌âyí. 
+# translit = la báda më́rġa če kë́la kë́la xo yawé žë́be ta háġa arzë́x̌t në warkawë́l keǧí, cúmra če warsará x̌âyí. 
 # text_en = Unfortunately, sometimes the language is not appreciated as much as it deserves.
 1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
 2	بده	بد	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	3	amod	_	Translit=báda|LTranslit=bad|Gloss=bad
@@ -689,7 +689,7 @@
 19	د	د	ADP	_	Case=Acc	20	case	_	Translit=dë|LTranslit=dë|Gloss=of
 20	ګوتو	ګوته	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	22	nmod	_	Translit=gwë́to|LTranslit=gwë́ta|Gloss=fingers
 21	په	پۀ	ADP	_	Case=Loc	22	case	_	Translit=pë|LTranslit=pë|Gloss=at
-22	شمېر	شمېر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nmod	_	Translit=šmer|LTranslit=šmer|Gloss=number
+22	شمېر	شمېر	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	Translit=šmer|LTranslit=šmer|Gloss=number
 23	مینه	مینه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	nmod	_	Translit=mína|LTranslit=mína|Gloss=love
 24	وال	وال	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	28	obj	_	Translit=wâl|LTranslit=wâl|Gloss=owning
 25	ځان	ځان	PRON	_	PronType=Prs|Reflex=Yes	28	obl	_	Translit=żân|LTranslit=żân|Gloss=self
@@ -907,7 +907,7 @@
 
 # sent_id = pnt-16-8.1
 # text = ژبه د پوهونې- راپوهونې تر ټولو ښه او اغېزناکه وسیله ګڼل کېږي، چې انسانانو د خپل ژوند له پیله تر دې دمه ترې ګټه اوچته کړې ده.‏
-# translit = žë́ba dë pohawë́ne- râpohawë́ne tër ṭólo x̌a aw aġeznấka wasíla gaṇë́l keǧí, če insânấno dë xpël žwënd la páyla tër de dáma tre tër ye gáṭa učáta kë́ṛe da. 
+# translit = žë́ba dë pohawë́ne- râpohawë́ne tër ṭólo x̌a aw aġeznấka wasíla gaṇë́l keǧí, če insânấno dë xpël žwënd la páyla tër de dáma tre gáṭa učáta kë́ṛe da. 
 # text_en = Language is considered to be the best and most effective tool of mutual understanding, which humans have used since the beginning of their lives.
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -1038,7 +1038,7 @@
 9	کې	کې	ADP	_	Case=Loc	8	case	_	Translit=ke|LTranslit=ke|Gloss=in
 10	چې	چې	SCONJ	_	_	17	mark	_	Translit=če|LTranslit=če|Gloss=when
 11	لیکنۍ	لیکنی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	Translit=likanë́y|LTranslit=likanáy|Gloss=written
-12	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+12	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 13	لا	لا	ADV	_	_	17	advmod	_	Translit=lâ|LTranslit=lâ|Gloss=yet
 14	نه	نۀ	PART	_	Polarity=Neg	17	advmod	_	Translit=në|LTranslit=në|Gloss=not
 15	وه	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	Translit=wa|LTranslit=yëm|Gloss=was
@@ -1066,7 +1066,7 @@
 37	واسطه	واسطه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	45	obl	_	Translit=wâsetá|LTranslit=wâsetá|Gloss=mediation
 38	به	بۀ	AUX	_	Mood=Sub	45	aux	_	Translit=bë|LTranslit=bë|Gloss=would
 39	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	45	nsubj	_	Translit=ye|LTranslit=ye|Gloss=they
-40	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	42	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
+40	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	42	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
 41	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	42	amod	_	Translit=nor|LTranslit=nor|Gloss=other
 42	ملګري	ملګری	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	45	obj	_	Translit=malgë́ri|LTranslit=malgë́ray|Gloss=friends
 43	يا	يا	CCONJ	_	_	44	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
