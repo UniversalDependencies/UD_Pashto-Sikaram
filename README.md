@@ -4,9 +4,13 @@ The Pashto-Sikaram treebank is a native UD treebank with manually annotated text
 
 # Introduction
 
-The corpus contains manual annotations of the 20 [Cairo CICLing](https://github.com/UniversalDependencies/cairo)
-sentences with interesting syntactic constructions. In the future, the corpus will
-be populated with native Pashto sentences, mainly from academic publications and news articles.
+The treebank contains manual annotations of 40 created natively in UD. This includes:
+* 20 [Cairo CICLing](https://github.com/UniversalDependencies/cairo) sentences with interesting syntactic constructions translated from English
+* 20 original Pashto sentences from the book "Pashto and the Need for Translation" (Salih Mohammad Salih)
+In the future, the treebank will be populated with more sentences from the book and hopefully also news articles.
+
+Apart from the manual native annotation of lemmas, universal Part-of-Speech tags and dependency relations,
+the Pashto-Sikaram treebank contains transliteration of forms and lemmas into Latin alphabet and English translation and glosses.
 
 
 # Acknowledgments
