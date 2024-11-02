@@ -186,6 +186,7 @@ class PreconlluConverter:
     def control_sentences(self):
         for sentence in self.sentences:
             sentence.control()
+        self.controller.final_dictionary_control()
 
     def convert_sentences(self, file=stdout):
         for sentence in self.sentences:

@@ -4,6 +4,7 @@ import re
 class Controller:
     def __init__(self):
         self.translit_table = {}
+        self.noun_dict = {}
 
     def check_attributes(self, info, form, upostag, feats, correct_attributes, possible_attributes=None):
         if possible_attributes is None:
@@ -69,8 +70,13 @@ class Controller:
         elif feats["VerbForm"] == "Part":
             self.check_attributes(info, form, upostag, feats, ("Aspect", "Case", "Gender", "Number", "Tense", "VerbForm"), ("Variant",)) # Tense?
 
-    def control_nominal(self, info, form, _, upostag, feats):
+    def control_nominal(self, info, form, lemma, upostag, feats):
         self.check_attributes(info, form, upostag, feats, ("Case", "Gender", "Number"))
+        if upostag == "NOUN" and "Gender" in feats:
+            gender = feats["Gender"]
+            if lemma not in self.noun_dict:
+                self.noun_dict[lemma] = {"Masc": [], "Fem": []}
+            self.noun_dict[lemma][gender].append(info)
 
     def control_pronoun(self, info, form, lemma, upostag, feats):
         return
@@ -250,3 +256,13 @@ class Controller:
         lemma_transcription = token_line.trans["LEMMA_TRANSCRIPT"]
         if lemma != form or lemma_transcription != transcription:
             self.control_sigle_transcription(info, lemma, lemma_transcription)
+
+    def final_dictionary_control(self):
+        for lemma in self.noun_dict:
+            masc = self.noun_dict[lemma]["Masc"]
+            fem = self.noun_dict[lemma]["Fem"]
+
+            if len(masc) * len(fem) > 1:
+                less = fem if len(fem) <= len(masc) else masc
+                print(f"Gender disagreement: {lemma} M={len(masc)}, F={len(fem)}")
+                print(less)
