@@ -26,7 +26,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.14
+Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples nonfiction
