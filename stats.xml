@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>40</sentences><tokens>990</tokens><words>995</words><fused>5</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>40</sentences><tokens>990</tokens><words>995</words><fused>5</fused></test>
+  </size>
+  <lemmas unique="366" /><!-- ،, د, او, پۀ, چې, ژبه, کېدل, یم, يې, کې, .‏, کول, ., ته, له -->
+  <forms unique="440" /><!-- ،, د, او, په, چې, يې, کې, .‏, ژبه, ., ته, له, هم, خپل, ژبې -->
+  <fusions unique="4" /><!-- ورسره, ترې, پرې, پوهېږي -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">101</tag><!-- نړيوال, فرهنګي, نور, هنري, ږغیز, ادبي, بېل, جوړ, خپور, راټول -->
+    <tag name="ADP">146</tag><!-- د, پۀ, کې, ته, له, تر, لپاره, څخه, سره, پر -->
+    <tag name="ADV">47</tag><!-- هم, کله, اوس, نو, لا, ان, بیا, خورا, دومره, رامنځته -->
+    <tag name="AUX">46</tag><!-- یم, کېدل, بۀ, ونۀ, کول -->
+    <tag name="CCONJ">50</tag><!-- او, خو, يا, مګر, کۀ -->
+    <tag name="DET">51</tag><!-- خپل, هر, هغه, دغه, هماغه, دا, داسې, ستا, همدغه, ټول -->
+    <tag name="NOUN">232</tag><!-- ژبه, ژباړه, ارزښت, اثر, خبره, دود, هېواد, وخت, اتره, خلک -->
+    <tag name="NUM">6</tag><!-- یو -->
+    <tag name="PART">10</tag><!-- نۀ, باید -->
+    <tag name="PRON">57</tag><!-- يې, چې, هغه, ور, څۀ, یې, زۀ, ځان, دا, دوی -->
+    <tag name="PROPN">28</tag><!-- پیتر, اردو, مریم, ټیګور, افغان, امريکا, انګرېزۍ, ایرانی, ایګوازو, براون -->
+    <tag name="PUNCT">105</tag><!-- ،, .‏, ., -, ؟, (, ), :‏, !, : -->
+    <tag name="SCONJ">26</tag><!-- چې, کۀ, ځکه, کله -->
+    <tag name="VERB">90</tag><!-- کول, کېدل, لرل, لیکل, ورکول, نیول, رسېدل, وهل, وي, ویل -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="46">
+    <feat name="Animacy" value="Hum" upos="PRON">2</feat><!-- هیڅوک, چا -->
+    <feat name="Animacy" value="Nhum" upos="DET,PRON">4</feat><!-- څه, څۀ -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">49</feat><!-- لري, کېږي, کوي, کښل, ګڼل, اواروي, برېښي, خپروي, درلوده, راتلی -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">52</feat><!-- شو, کړه, شوى, شوې, شوای, شي, شې, کړل, راوغزول, راوژباړه -->
+    <feat name="Case" value="Abl" upos="ADJ,ADP,DET,NOUN,PRON">30</feat><!-- له, تر, دې, مخې, پرته, امله, بده, خوا, دمه, لاسه -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">205</feat><!-- د, ته, ژبې, له, لپاره, هرې, پیتر, څخه, ژباړې, خپل -->
+    <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,PRON,PROPN">113</feat><!-- په, کې, ژبه, پۀ, وخت, هماغه, پر, کچه, ادب, اردو -->
+    <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">248</feat><!-- ژبه, خپل, هغه, اثر, ارزښت, دغه, دود, شوى, شوې, هنري -->
+    <feat name="Case" value="Voc" upos="PROPN">1</feat><!-- سامه -->
+    <feat name="Deixis" value="Prox" upos="DET,PRON">14</feat><!-- دغه, دا, داسې, دې, همدغه, دوی, همدغو -->
+    <feat name="Deixis" value="Remt" upos="DET,PRON">15</feat><!-- هغه, هغۀ, هماغه, هغې, هغوى, هماغسې -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">187</feat><!-- ژبه, ژبې, ده, ژباړې, هرې, اردو, سیمې, شوې, مریم, نړۍ -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">277</feat><!-- خپل, ارزښت, پیتر, اثر, دود, دى, دی, وخت, شمېر, شو -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- کړه -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">83</feat><!-- ده, لري, کېږي, دى, دی, شو, کړه, شي, شې, وه -->
+    <feat name="Mood" value="Pot" upos="AUX">3</feat><!-- شوای, وای -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">16</feat><!-- وي, به, لاړ, پرېمینځي -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">120</feat><!-- اترو, انسانانو, برخې, جوړ, خبرو, خبرې, خلکو, خپل, نړيوالو, ويونکي -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">383</feat><!-- ژبه, وي, خپل, ژبې, ارزښت, ده, پیتر, ژباړې, اثر, دود -->
+    <feat name="Number[psor]" value="Sing" upos="DET">3</feat><!-- ستا, زما -->
+    <feat name="NumType" value="Card" upos="NUM">6</feat><!-- يوې, يوه, یو -->
+    <feat name="Person" value="1" upos="DET,PRON,VERB">7</feat><!-- ما, زما, شو, وڅېړو, کوم, کړو -->
+    <feat name="Person" value="2" upos="AUX,DET,VERB">7</feat><!-- ستا, شې, غواړې, کړه, ګورې -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">118</feat><!-- يې, وي, ده, لري, کېږي, دى, دی, شو, هغۀ, ور -->
+    <feat name="Polarity" value="Neg" upos="AUX,PART">11</feat><!-- نه, نۀ, ونه, ونۀ -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">23</feat><!-- خپل, يې, ستا, خپله, خپلو, زما, یې -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">22</feat><!-- هغه, دغه, هماغه, دا, داسې, دې, همدغه, هماغسې, همدغو -->
+    <feat name="PronType" value="Ind" upos="DET">6</feat><!-- څو, کوم, ځینو, ځینې -->
+    <feat name="PronType" value="Int" upos="DET,PRON">5</feat><!-- څه, څۀ, چا -->
+    <feat name="PronType" value="Neg" upos="PRON">1</feat><!-- هیڅوک -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">51</feat><!-- يې, خپل, هغۀ, ور, یې, ستا, ما, هغې, ځان, خپله -->
+    <feat name="PronType" value="Rcp" upos="PRON">1</feat><!-- یوبل -->
+    <feat name="PronType" value="Rel" upos="PRON">10</feat><!-- چې -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">10</feat><!-- هرې, هر, هره, ټوله, ټولو, ټولې -->
+    <feat name="Reflex" value="Yes" upos="DET,PRON">13</feat><!-- خپل, ځان, خپله, خپلو -->
+    <feat name="Tense" value="Fut" upos="AUX">2</feat><!-- به -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">52</feat><!-- شو, شوى, شوې, کړه, وه, کړل, کښل, درلوده, راتلی, راوغزول -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">51</feat><!-- ده, لري, کېږي, دى, دی, شي, شې, کوي, اواروي, برېښي -->
+    <feat name="Typo" value="Yes" upos="NOUN">2</feat><!-- زېري, لاره -->
+    <feat name="Variant" value="Dir" upos="PRON">3</feat><!-- ور -->
+    <feat name="Variant" value="Long" upos="VERB">2</feat><!-- وکړ, وکړه -->
+    <feat name="Variant" value="Short" upos="DET,PRON,VERB">8</feat><!-- دا, داسې, دې, لاړ, لوستى -->
+    <feat name="Variant" value="Weak" upos="PRON">23</feat><!-- يې, یې -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">97</feat><!-- وي, ده, لري, کېږي, دى, دی, شو, کړه, شوای, شي -->
+    <feat name="VerbForm" value="Inf" upos="VERB">11</feat><!-- ګڼل, لاړ, لیکل, ورکول, وشمېرل, ويل, وټاکل, څښلو, څکولو, ژباړل -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">18</feat><!-- شوى, شوې, راتلی, رسولې, رسېدلی, روزونکې, شوي, لوستى, نیولی, ويلي -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl">4</dep>
+    <dep name="acl:relcl">9</dep>
+    <dep name="advcl">13</dep>
+    <dep name="advmod">57</dep>
+    <dep name="amod">59</dep>
+    <dep name="appos">4</dep>
+    <dep name="aux">31</dep>
+    <dep name="aux:pass">1</dep>
+    <dep name="case">146</dep>
+    <dep name="cc">50</dep>
+    <dep name="ccomp">7</dep>
+    <dep name="compound">2</dep>
+    <dep name="conj">68</dep>
+    <dep name="cop">14</dep>
+    <dep name="det">51</dep>
+    <dep name="fixed">12</dep>
+    <dep name="flat">4</dep>
+    <dep name="mark">24</dep>
+    <dep name="nmod">73</dep>
+    <dep name="nsubj">69</dep>
+    <dep name="nsubj:pass">1</dep>
+    <dep name="nummod">6</dep>
+    <dep name="obj">49</dep>
+    <dep name="obl">66</dep>
+    <dep name="obl:agent">1</dep>
+    <dep name="obl:arg">2</dep>
+    <dep name="orphan:nsubjobj">3</dep>
+    <dep name="parataxis">2</dep>
+    <dep name="punct">105</dep>
+    <dep name="root">40</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">21</dep>
+  </deps>
+</treebank>
