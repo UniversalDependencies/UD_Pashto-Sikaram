@@ -1625,7 +1625,7 @@
 32	د	د	ADP	_	Case=Acc	33	case	_	Translit=dë|LTranslit=dë|Gloss=of
 33	ودې	وده	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=wáde|LTranslit=wáda|Gloss=growth
 34	لارې	لار	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Plur	37	nsubj	_	Translit=lấre|LTranslit=lâr|Gloss=ways
-35	چارې	چاره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	fixed	_	Translit=čâré|LTranslit=čârá|Gloss=options
+35	چارې	چاره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	34	fixed	_	Translit=čâré|LTranslit=čârá|Gloss=options
 36	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	34	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
 37	هرڅه	هرڅۀ	PRON	_	_	30	conj	_	Translit=hárcë|LTranslit=hárcë|Gloss=whatever
 38	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	37	cop	_	Translit=wi|LTranslit=wël|Gloss=are|SpaceAfter=No
@@ -1892,7 +1892,7 @@
 15	موندلاى	موندل	VERB	_	Aspect=Imp|Mood=Pot|VerbForm=Fin	2	csubj	_	Translit=mundë́lây|LTranslit=mundë́l|Gloss=found|SpaceAfter=No
 16	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
 17	خامخا	خامخا	ADV	_	_	21	advmod	_	Translit=xâmaxấ|LTranslit=xâmaxấ|Gloss=of-course
-18	به	بۀ	PART	_	Tense=Fut	21	aux	_	Translit=bë|LTranslit=bë|Gloss=will
+18	به	بۀ	AUX	_	Tense=Fut	21	aux	_	Translit=bë|LTranslit=bë|Gloss=will
 19	له	له	ADP	_	Case=Abl	20	case	_	Translit=la|LTranslit=la|Gloss=from
 20	دوده	دود	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	21	obl	_	Translit=dóda|LTranslit=dod|Gloss=tradition
 21	لوېږي	لوېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	Translit=lweǧí|LTranslit=lwedë́l|Gloss=fall
@@ -1938,8 +1938,8 @@
 61	ځپل	ځپل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	2	conj	_	Translit=żapë́l|LTranslit=żapë́l|Gloss=hit
 62	شوي	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	61	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=done|SpaceAfter=No
 63	،	،	PUNCT	_	_	64	punct	_	Translit=,|LTranslit=,|Gloss=,
-64	سپک	سپک	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	Translit=spëk|LTranslit=spëk|Gloss=light
-65	شوي	کېدل	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	64	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=done
+64	سپک	سپک	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	65	xcomp	_	Translit=spëk|LTranslit=spëk|Gloss=light
+65	شوي	کېدل	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=done
 66	او	او	CCONJ	_	_	67	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 67	رټل	رټل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	2	conj	_	Translit=raṭë́l|LTranslit=raṭë́l|Gloss=abase
 68	شوي	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	67	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=done|SpaceAfter=No
@@ -1958,8 +1958,8 @@
 1	تر	تر	ADP	_	Case=Abl	3	case	_	Translit=tër|LTranslit=tër|Gloss=until
 2	هغه	هغه	DET	_	Case=Abl|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 3	وخته	وخت	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	22	obl	_	Translit=wáxta|LTranslit=waxt|Gloss=time
-4	چې	چې	SCONJ	_	_	15	mark	_	Translit=če|LTranslit=če|Gloss=that
-5	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
+4	چې	چې	SCONJ	_	_	17	mark	_	Translit=če|LTranslit=če|Gloss=that
+5	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 6	د	د	ADP	_	Case=Acc	7	case	_	Translit=dë|LTranslit=dë|Gloss=of
 7	دفتر	دفتر	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	Translit=daftár|LTranslit=daftár|Gloss=office
 8	او	او	CCONJ	_	_	10	cc	_	Translit=aw|LTranslit=aw|Gloss=and
@@ -1969,9 +1969,9 @@
 12	دربار	دربار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	Translit=darbấr|LTranslit=darbấr|Gloss=court
 13	او	او	CCONJ	_	_	14	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 14	دولت	دولت	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	Translit=dawlát|LTranslit=dawlát|Gloss=state
-15	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	acl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-16	نه	نۀ	PART	_	Polarity=Neg	15	advmod	_	Translit=në|LTranslit=në|Gloss=not
-17	شي	کېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	15	aux	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+15	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	17	xcomp	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+16	نه	نۀ	PART	_	Polarity=Neg	17	advmod	_	Translit=në|LTranslit=në|Gloss=not
+17	شي	کېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	acl	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 18	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
 19	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
 20	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	19	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
@@ -1985,7 +1985,7 @@
 # translit = x̌a dâ da če xpë́la âr (ásla) skâló (mawzó) la co aṛxúno wë́ceṛu aw wë́goru če ǰafâkấro kúme nấdode warsará kë́ṛi, hamdáġa râz ye dë žbấṛe la áṛxa ye dë wáde aw prâxtyấ kúme lấre čâré awârawë́lây šu?
 # text_en = It is good to examine our ar (principle) scala (subject) from several aspects and see what mistakes the oppressors have made with it, as well as what ways of its growth and development can be found in terms of translation?
 1	ښه	ښه	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=x̌a|LTranslit=x̌a|Gloss=good
-2	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	1	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
+2	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	1	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
 3	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=da|LTranslit=wël|Gloss=is
 4	چې	چې	SCONJ	_	_	17	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	خپله	خپل	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	Translit=xpë́la|LTranslit=xpël|Gloss=own
@@ -2282,7 +2282,7 @@
 # text = دا چې پښتو دومره وروسته پاتې ده او په نړۍ، يا نورو ملتونو کې دومره مطرح نه ده، وجه يې همدا ده چې ټولنیزې اړيکې يې کمزورې دي، تر اوسه د پښتنو د ټولنیزو چارو کوم اړوند کتاب په انګرېزۍ نه دى ژباړل شوى، چې نړۍ يې ولولي او ځان پرې خبر کړي.
 # translit = dâ če pax̌tó dúmra wrústa pấte da aw pë naṛë́y, yâ nóro milatúno ke dúmra matráh në da, wáǰa ye hamdấ da če ṭolaníze aṛíke ye kamzóre di, tër ósa dë pëx̌táno dë ṭolanízo čâró kum aṛúnd kitấb pë angrezë́y në dëy žbâṛë́l šë́way, če naṛë́y ye wë́lwali aw żân pre xabár kṛi.
 # text_en = The reason that Pashto is so backward and is not discussed in the world or other nations is because its social relations are weak. So far, no book related to Pashtun social affairs has been translated into English for the world to read and inform itself about.
-1	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	21	det	_	Translit=dâ|LTranslit=dâ|Gloss=this
+1	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	21	det	_	Translit=dâ|LTranslit=dâ|Gloss=this
 2	چې	چې	SCONJ	_	_	6	mark	_	Translit=če|LTranslit=če|Gloss=that
 3	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 4	دومره	دومره	ADV	_	_	6	advmod	_	Translit=dúmra|LTranslit=dúmra|Gloss=so-much
@@ -2304,7 +2304,7 @@
 20	،	،	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,|Gloss=,
 21	وجه	وجه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=wáǰa|LTranslit=wáǰa|Gloss=reason
 22	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	21	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
-23	همدا	همدا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	21	nsubj	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=this
+23	همدا	همدا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	21	nsubj	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=this
 24	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	Translit=da|LTranslit=wël|Gloss=is
 25	چې	چې	SCONJ	_	_	29	mark	_	Translit=če|LTranslit=če|Gloss=that
 26	ټولنیزې	ټولنیزې	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	27	amod	_	Translit=ṭolaníze|LTranslit=ṭolaníze|Gloss=social
@@ -2376,7 +2376,7 @@
 27	ته	ته	ADP	_	Case=Acc	22	case	_	Translit=ta|LTranslit=ta|Gloss=to
 28	پام	پام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	obj	_	Translit=pâm|LTranslit=pâm|Gloss=attention
 29	نه	نۀ	PART	_	Polarity=Neg	30	advmod	_	Translit=në|LTranslit=në|Gloss=not
-30	کړي	کول	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
+30	کړي	کول	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 31	،	،	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,|Gloss=,
 32	راولاړېږي	راولاړېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=râwalâṛeǧí|LTranslit=râwalâṛedë́l|Gloss=comes-up
 33	او	او	CCONJ	_	_	37	cc	_	Translit=aw|LTranslit=aw|Gloss=and
@@ -2446,7 +2446,7 @@
 25	لويه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	26	amod	_	Translit=lóya|LTranslit=loy|Gloss=big
 26	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	Translit=móxa|LTranslit=móxa|Gloss=purpose
 27	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	26	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
-28	همدا	همدا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	26	nsubj	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=this
+28	همدا	همدا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	26	nsubj	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=this
 29	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	Translit=da|LTranslit=wël|Gloss=is
 30	چې	چې	SCONJ	_	_	36	mark	_	Translit=če|LTranslit=če|Gloss=that
 31	غیردولتي	غیردولتي	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	32	amod	_	Translit=ġayridawlatí|LTranslit=ġayridawlatí|Gloss=non-governmental
@@ -2652,7 +2652,7 @@
 # translit = dë de lapấra če irânyấn pë xpël ṭolaníz žwand ke la kúme mumkína stúnze aw wrëkấwi sará mëx në ši, no aksára brošërúna, xabërí pấṇe aw ilânúna dë haġúy pë xpë́la žë́ba žbâṛë́l šë́wi, ân për dârugấno, tawlidí tóko aw nóro mahsulấto ham pë irânë́y žë́be likë́ne šta, če dë haġúy yaw mâšúm ham pre poheǧí, irânyấn de ta në maǰbureǧí če wëyípânga warpësé râwấxli, yâ ham bë́la žë́ba warpësé zda kṛi.
 # text_en = In order for Iranians not to face any possible problems or shortcomings in their social life, most brochures, newspapers, and advertisements are translated into their own language. Even medicines, manufactured goods, and other products have inscriptions in Iranian, which even their child can understand. Iranians are not forced to take a dictunary for it or learn another language.
 1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
-2	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem|Variant=Short	35	obl	_	Translit=de|LTranslit=dâ|Gloss=this
+2	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem	35	obl	_	Translit=de|LTranslit=dâ|Gloss=this
 3	لپاره	لپاره	ADP	_	Case=Acc	2	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
 4	چې	چې	SCONJ	_	_	20	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	ايرانیان	ايرانیانی	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	Translit=irânyấn|LTranslit=irânáy|Gloss=Iranians
@@ -2716,7 +2716,7 @@
 62	پوهېږي	پوهېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	52	advcl	_	Translit=poheǧí|LTranslit=pohedë́l|Gloss=understand|SpaceAfter=No
 63	،	،	PUNCT	_	_	68	punct	_	Translit=,|LTranslit=,|Gloss=,
 64	ايرانیان	ايرانی	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	68	nsubj	_	Translit=irânyấn|LTranslit=irânáy|Gloss=Iranians
-65	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem|Variant=Short	68	obl	_	Translit=de|LTranslit=dâ|Gloss=this
+65	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem	68	obl	_	Translit=de|LTranslit=dâ|Gloss=this
 66	ته	ته	ADP	_	Case=Acc	65	case	_	Translit=ta|LTranslit=ta|Gloss=to
 67	نه	نۀ	PART	_	Polarity=Neg	68	advmod	_	Translit=në|LTranslit=në|Gloss=not
 68	مجبورېږي	مجبورېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	conj	_	Translit=maǰbureǧí|LTranslit=maǰburedë́l|Gloss=are-forced
@@ -2725,7 +2725,7 @@
 71-72	ورپسې	_	_	_	_	_	_	_	Lemma=ورپسې|Translit=warpësé|LTranslit=warpësé|Gloss=for-it
 71	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	73	obl	_	Translit=war|LTranslit=war|Gloss=it
 72	پسې	پسې	ADP	_	Case=Acc	71	case	_	Translit=pësé|LTranslit=pësé|Gloss=for
-73	راواخلي	راخيستل	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	68	advmod	_	Translit=râwấxli|LTranslit=râxistë́l|Gloss=take|SpaceAfter=No
+73	راواخلي	راخيستل	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	68	advcl	_	Translit=râwấxli|LTranslit=râxistë́l|Gloss=take|SpaceAfter=No
 74	،	،	PUNCT	_	_	82	punct	_	Translit=,|LTranslit=,|Gloss=,
 75	يا	يا	CCONJ	_	_	82	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 76	هم	هم	ADV	_	_	82	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
@@ -2925,7 +2925,7 @@
 71	وربخښي	وربخښل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	Translit=wërbaxx̌í|LTranslit=wërbaxx̌ë́l|Gloss=provide|SpaceAfter=No
 72	،	،	PUNCT	_	_	84	punct	_	Translit=,|LTranslit=,|Gloss=,
 73	د	د	ADP	_	Case=Acc	74	case	_	Translit=dë|LTranslit=dë|Gloss=of
-74	دې	دا	PRON	_	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	84	obl	_	Translit=de|LTranslit=dâ|Gloss=this
+74	دې	دا	PRON	_	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	84	obl	_	Translit=de|LTranslit=dâ|Gloss=this
 75	ترڅنګ	ترڅنګ	ADP	_	Case=Acc	74	case	_	Translit=tërcáng|LTranslit=tërcáng|Gloss=besides
 76	د	د	ADP	_	Case=Acc	78	case	_	Translit=dë|LTranslit=dë|Gloss=of
 77	ټولنیز	ټولنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	78	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
