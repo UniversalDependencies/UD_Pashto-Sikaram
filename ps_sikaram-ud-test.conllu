@@ -262,7 +262,7 @@
 6	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	7	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 7	نیولای	نیول	VERB	_	Aspect=Imp|Mood=Pot|VerbForm=Fin	0	root	_	Translit=niwë́lây|LTranslit=niwë́l|Gloss=caught|SpaceAfter=No
 8	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
-9	ځکه	ځکه	SCONJ	_	_	15	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since
+9	ځکه	ځکه	SCONJ	_	ExtPos=SCONJ	15	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since
 10	چې	چې	SCONJ	_	_	9	fixed	_	Translit=če|LTranslit=če|Gloss=that
 11	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
 12	خورا	خورا	ADV	_	_	13	advmod	_	Translit=xwarấ|LTranslit=xwarấ|Gloss=too-much
@@ -309,14 +309,14 @@
 
 # sent_id = pnt-1-1.1
 # text = سريزه:
-# translit = saríza: 
+# translit = saríza:
 # text_en = introduction:
 1	سريزه	سريزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=saríza|LTranslit=saríza|Gloss=introduction|SpaceAfter=No
 2	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:|Gloss=:
 
 # sent_id = pnt-2-2.1
 # text = ژباړه د هرې ژبې لپاره د یوې سترې روزونکې او مرستیالې په کچه ارزښت لري، هره ژبه د ژباړې په مرسته هم ژوندۍ پاتېږي، هم په پوهنیز، ټولنیز، ښوونیز او فرهنګي ډګر کې ځان ته د پرمختګ لاره اواروي.
-# translit = žbấṛa dë háre žë́be lapấra dë yawé stë́re rozawúnke aw mrastyấle pë káča arzë́x̌t larí, hára žë́ba dë žbấṛe pë mrásta ham žwandë́y pâteǧí, ham pë pohaníz, ṭolaníz, x̌owaníz aw farhangí ḍagár ke żân ta dë përmëxtág lấra awârawí. 
+# translit = žbấṛa dë háre žë́be lapấra dë yawé stë́re rozawúnke aw mrastyấle pë káča arzë́x̌t larí, hára žë́ba dë žbấṛe pë mrásta ham žwandë́y pâteǧí, ham pë pohaníz, ṭolaníz, x̌owaníz aw farhangí ḍagár ke żân ta dë përmëxtág lấra awârawí.
 # text_en = Translation has value as a great supervisor and helper for any language; every language survives with the help of translation and also paves the way for development in academic, social, educational and cultural fields.
 1	ژباړه	ژباړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Translit=žbấṛa|LTranslit=žbấṛa|Gloss=translation
 2	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -365,7 +365,7 @@
 
 # sent_id = pnt-3-2.2
 # text = اوس ځینې ملتونه د ژباړې د ارزښت له مخې دومره ويښ او هڅاند شوي، چې هر ارزښتمن کتاب په خپله ژبه ژباړي او خپروي يې.
-# translit = os żíne milatúna dë žbấṛe dë arzë́x̌t la më́xe dúmra wix̌ aw hacấnd šë́wi, če har arzëx̌tmán kitấb pë xpë́la žë́ba žbâṛí aw xparawí ye. 
+# translit = os żíne milatúna dë žbấṛe dë arzë́x̌t la më́xe dúmra wix̌ aw hacấnd šë́wi, če har arzëx̌tmán kitấb pë xpë́la žë́ba žbâṛí aw xparawí ye.
 # text_en = Now, some nations are so awakened and encouraged to the importance of translation that they translate and publish every valuable book in their own language.
 1	اوس	اوس	ADV	_	_	14	advmod	_	Translit=os|LTranslit=os|Gloss=now
 2	ځینې	ځینې	DET	_	Case=Nom|Number=Plur|PronType=Ind	3	det	_	Translit=żíne|LTranslit=żíne|Gloss=some
@@ -397,7 +397,7 @@
 
 # sent_id = pnt-4-2.3
 # text = پرته له دې چې مذهبي، فرهنګي او ټولنیز توپیر د هغوى لپاره کوم بريد او خنډ وي.
-# translit = práta la de če mazhabí, farhangí aw ṭolaníz tawpír dë haġúy lapấra kum brid aw xanḍ wi. 
+# translit = práta la de če mazhabí, farhangí aw ṭolaníz tawpír dë haġúy lapấra kum brid aw xanḍ wi.
 # text_en = Without the religious, cultural and social difference being some kind of attack or obstacle for them.
 1	پرته	پرته	ADP	_	Case=Abl	3	case	_	Translit=práta|LTranslit=práta|Gloss=without
 2	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
@@ -421,7 +421,7 @@
 
 # sent_id = pnt-5-3.1
 # text = ښه بېلګه يې په امريکا کې هغه نوى لیکل شوى اثر دى، چې لا يې اصلي مسوده نه وه چاپ شوې، چې د ايرانۍ ژباړې زېري يې د ايرانیانو غوږونو ته ورسېد.
-# translit = x̌a bélga ye pë amrikấ ke háġa në́way likë́l šë́way asár dëy, če lâ ye aslí musawída në́ wa čâp šë́we, če dë irânë́y žbấṛe zéri ye dë irânyấno ġwaǧúno ta wë́rësed. 
+# translit = x̌a bélga ye pë amrikấ ke háġa në́way likë́l šë́way asár dëy, če lâ ye aslí musawída në́ wa čâp šë́we, če dë irânë́y žbấṛe zéri ye dë irânyấno ġwaǧúno ta wë́rësed.
 # text_en = A good example of this is the new work written in America, the original version of which has not yet been published, and the news of its translation into the Iranian language has reached the ears of Iranians.
 1	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=x̌a|LTranslit=x̌ë|Gloss=good
 2	بېلګه	بېلګه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=bélga|LTranslit=bélga|Gloss=example
@@ -461,7 +461,7 @@
 
 # sent_id = pnt-6-3.2
 # text = که چېرې په ايراني فرهنګ او ادب کې د ژباړې ونډه یوې خوا ته کړو، نو له ژباړې پرته به دغه ژبه ډېره غني ونه برېښي.
-# translit = kë čére pë irâní farháng aw adáb ke dë žbấṛe wánḍa yawé xwâ ta kṛu, no la žbấṛe práta bë dáġa žë́ba ḍéra ġaní wënë́ brex̌i. 
+# translit = kë čére pë irâní farháng aw adáb ke dë žbấṛe wánḍa yawé xwâ ta kṛu, no la žbấṛe práta bë dáġa žë́ba ḍéra ġaní wënë́ brex̌i.
 # text_en = If we leave aside the role of translation in Iranian culture and literature, then this language will not appear very rich.
 1	که	کۀ	SCONJ	_	_	15	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 2	چېرې	چېرې	ADV	_	_	15	advmod	_	Translit=čére|LTranslit=čére|Gloss=somewhere
@@ -494,7 +494,7 @@
 
 # sent_id = pnt-7-3.3
 # text = همدغه رازکه اردو ژبې ته ځیر شو او د پرمخیون يا پرمختـګ لامل يې وڅېړو، نو یوازېنى لامل چې دغه ژبه يې تر نړیوالو پولو رسولې، په اردو کې د بېسارو او هراړخیزو کتابونو ژباړه ده، چې د نولسمې پېړۍ په وروستیو کې يې سرعت زيات شو.
-# translit = hamdáġa râzkë urdú žë́be ta żir šu aw dë përmëxyún yâ përmëxtág lâmál ye wë́ceṛu, no yawâzenáy lâmál če dáġa žë́ba ye tër naṛëywấlo púlo rësawë́le, pë urdú ke dë besấro aw harâṛxízo kitâbúno žbấṛa da, če dë nulasë́me peṛë́y pë wrustë́yo ke ye sur‘át zyât šu. 
+# translit = hamdáġa râzkë urdú žë́be ta żir šu aw dë përmëxyún yâ përmëxtág lâmál ye wë́ceṛu, no yawâzenáy lâmál če dáġa žë́ba ye tër naṛëywấlo púlo rësawë́le, pë urdú ke dë besấro aw harâṛxízo kitâbúno žbấṛa da, če dë nulasë́me peṛë́y pë wrustë́yo ke ye sur‘át zyât šu.
 # text_en = Likewise, if we focus on Urdu and examine the reason for its development, then the only reason that brought this language closer to the international borders is the translation of large and comprehensive books into Urdu, which accelerated in the late nineteenth century.
 1	همدغه	همدغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem	2	det	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=same
 2	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obl	_	Translit=râz|LTranslit=râz|Gloss=manner|CorrectSpaceAfter=Yes|SpaceAfter=No
@@ -551,7 +551,7 @@
 
 # sent_id = pnt-8-3.4
 # text = خو شلمې پېړۍ، دغه ژبه نژدې په ټوله نړۍ کې خپره کړه، اوس شرق څه، چې په غرب او نورو خلیجي هېوادونو کې هم ګڼ شمېر وګړي پرې خبرې کوي او ان چې پالي يې هم.
-# translit = xo šlë́me peṛë́y, dáġa žë́ba niždé pë ṭóla naṛë́y ke xpará kṛa, os šarq cë, če pë ġarb aw nóro xaliǰí hewâdúno ke ham gaṇ šmer wagë́ṛi pre xabë́re kawí aw ân če pâlí ye ham. 
+# translit = xo šlë́me peṛë́y, dáġa žë́ba niždé pë ṭóla naṛë́y ke xpará kṛa, os šarq cë, če pë ġarb aw nóro xaliǰí hewâdúno ke ham gaṇ šmer wagë́ṛi pre xabë́re kawí aw ân če pâlí ye ham.
 # text_en = But the twentieth century spread this language almost all over the world; now it is spoken and also respected by a large number of people not only in the East, but also in the West and in other countries of the Persian Gulf.
 1	خو	خو	CCONJ	_	_	13	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 2	شلمې	شلم	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	Translit=šlë́me|LTranslit=šlëm|Gloss=twentieth
@@ -598,10 +598,10 @@
 
 # sent_id = pnt-9-4.1
 # text = که څه هم د اردو ژبې تاريخي قدامت ډېر لږ دى، خو اوس د انټرنټ او کمپیوټر ژبه ده، ګڼ شمېر ویونکي لري او د نړۍ له مهمو ژبو څخه ګڼل کېږي.
-# translit = kë cë ham dë urdú žë́be târixí qadâmát ḍer lëǧ dëy, xo os dë inṭernéṭ aw kampyuṭár žë́ba da, gaṇ šmer wayúnki larí aw dë naṛë́y la muhímo žë́bo cë́xa gaṇë́l keǧí. 
+# translit = kë cë ham dë urdú žë́be târixí qadâmát ḍer lëǧ dëy, xo os dë inṭernéṭ aw kampyuṭár žë́ba da, gaṇ šmer wayúnki larí aw dë naṛë́y la muhímo žë́bo cë́xa gaṇë́l keǧí.
 # text_en = Although the ancient works in Urdu are very few, now it is the language of the Internet and computers, it has many speakers and is considered as one of the important languages ​​of the world.
-1	که	کۀ	SCONJ	_	_	10	mark	_	Translit=kë|LTranslit=kë|Gloss=even
-2	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
+1	که	کۀ	SCONJ	_	_	10	mark	_	Translit=kë|LTranslit=kë|Gloss=if
+2	څه	څۀ	PRON	_	Animacy=Nhum|ExtPos=SCONJ|PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
 3	هم	هم	ADV	_	_	1	fixed	_	Translit=ham|LTranslit=ham|Gloss=also
 4	د	د	ADP	_	Case=Acc	6	case	_	Translit=dë|LTranslit=dë|Gloss=of
 5	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
@@ -638,13 +638,13 @@
 
 # sent_id = pnt-10-5.1
 # text = له بده مرغه چې کله کله خو یوې ژبې ته هغه ارزښت نه ورکول کېږي، څومره چې ورسره ښايي.
-# translit = la báda më́rġa če kë́la kë́la xo yawé žë́be ta háġa arzë́x̌t në́ warkawël keǧí, cúmra če warsará x̌âyí. 
+# translit = la báda më́rġa če kë́la kë́la xo yawé žë́be ta háġa arzë́x̌t në́ warkawël keǧí, cúmra če warsará x̌âyí.
 # text_en = Unfortunately, sometimes the language is not appreciated as much as it deserves.
 1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
 2	بده	بد	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	3	amod	_	Translit=báda|LTranslit=bad|Gloss=bad
 3	مرغه	مرغ	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	Translit=më́rġa|LTranslit=mërġ|Gloss=fortune
 4	چې	چې	SCONJ	_	_	14	mark	_	Translit=če|LTranslit=če|Gloss=that
-5	کله	کله	ADV	_	_	14	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
+5	کله	کله	ADV	_	ExtPos=ADV	14	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
 6	کله	کله	ADV	_	_	5	fixed	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
 7	خو	خو	CCONJ	_	_	14	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 8	یوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	9	nummod	_	Translit=yawé|LTranslit=yaw|Gloss=one
@@ -666,7 +666,7 @@
 
 # sent_id = pnt-11-5.2
 # text = وايي: ټیګور خپل شهکار اثر ګیتانجلي په بنګالۍ ژبه ولیکه، خو په پیل کې يې یوازې د ګوتو په شمېر مینه وال ځان ته رامات کړل، کله چې ټیګور دغه اثر په انګرېزۍ راوژباړه، نو د نوبل نړیواله ادبي جايزه يې ترلاسه کړه او په دې توګه د نړیوالو نوماندو (مشهورو) لیکوالو په ډله کې وشمېرل شو، هغه هنري متره يې هم په نړیواله کچه مطرح شوه، ځکه خو يې د خپلو څو رخه ګرو (حريفانو) په وړاندې ويلي وو:
-# translit = wâyí: ṭigúr xpël šahkấr asár gitânǰëlí pë bangâlë́y žë́ba wë́likë, xo pë payl ke ye yawấze dë gwë́to pë šmer mína wâl żân ta râmất kṛël, kë́la če ṭigúr dáġa asár pë angrezë́y râwë́žbâṛa, no dë nóbël naṛëywấla adabí ǰâyizá ye tërlấsa kṛa aw pë de tóga dë naṛëywấlo nomấndo (mašhúro) likwấlo pë ḍála ke wë́šmerël šu, háġa hunarí matrá ye ham pë naṛëywấla káča matráh šwa, żë́ka xo ye dë xpë́lo co rë́xa gáro (harifấno) pë wṛấnde wayë́li wu: 
+# translit = wâyí: ṭigúr xpël šahkấr asár gitânǰëlí pë bangâlë́y žë́ba wë́likë, xo pë payl ke ye yawấze dë gwë́to pë šmer mína wâl żân ta râmất kṛël, kë́la če ṭigúr dáġa asár pë angrezë́y râwë́žbâṛa, no dë nóbël naṛëywấla adabí ǰâyizá ye tërlấsa kṛa aw pë de tóga dë naṛëywấlo nomấndo (mašhúro) likwấlo pë ḍála ke wë́šmerël šu, háġa hunarí matrá ye ham pë naṛëywấla káča matráh šwa, żë́ka xo ye dë xpë́lo co rë́xa gáro (harifấno) pë wṛấnde wayë́li wu:
 # text_en = It is said: Tagore wrote his masterpiece Gitanjali in Bengali, but initially attracted only a handful of fans; when Tagore translated this work into English, he won the Nobel Prize in Literature and thus he was included in the group of well-known international writers; his artistic style was also discussed at the international level, therefore in front of some of his rivals he said:
 1	وايي	ویل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=wâyí|LTranslit=wayë́l|Gloss=they-say|SpaceAfter=No
 2	:	:	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:|Gloss=:
@@ -697,7 +697,7 @@
 27	رامات	رامات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	28	xcomp	_	Translit=râmất|LTranslit=râmất|Gloss=attract
 28	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
 29	،	،	PUNCT	_	_	37	punct	_	Translit=,|LTranslit=,|Gloss=,
-30	کله	کله	SCONJ	_	_	37	mark	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
+30	کله	کله	SCONJ	_	ExtPos=SCONJ	37	mark	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
 31	چې	چې	SCONJ	_	_	30	fixed	_	Translit=če|LTranslit=če|Gloss=that
 32	ټیګور	ټیګور	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	Translit=ṭigúr|LTranslit=ṭigúr|Gloss=Tagore
 33	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem	34	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
@@ -763,7 +763,7 @@
 
 # sent_id = pnt-12-6.1
 # text = د مینې هغه خداى چې ما په شرق کې لټاوه، له غرب څخه د مینې لاسونه راوغزول.
-# translit = dë míne háġa xudấy če mâ pë šarq ke lëṭâwë́, la ġarb cë́xa dë míne lâsúna râwë́ġëzawël. 
+# translit = dë míne háġa xudấy če mâ pë šarq ke lëṭâwë́, la ġarb cë́xa dë míne lâsúna râwë́ġëzawël.
 # text_en = The God of love I sought in the East, streched out the hands of love from the West.
 1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	مینې	مینه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	Translit=míne|LTranslit=míne|Gloss=love
@@ -787,14 +787,14 @@
 
 # sent_id = pnt-13-7.1
 # text = ستره ستونزه همدغه ده چې کله-کله چاپېريال نامساعد وي او د فرهنګیانو، ادبپالو او هنرپالو لاسونو ته زيندۍ وراچوي، ګنې شهکار اثر که په هره ژبه کې وي، خپل هنري ارزښت يې خوندي او پټ وي.
-# translit = stë́ra stúnza hamdáġa da če kë́la-kë́la čâperyấl nâmusâ‘íd wi aw dë farhangyấno, adabpấlo aw hunarpấlo lâsúno ta zindë́y waračawí, gáne šahkấr asár kë pë hára žë́ba ke wi, xpël hunarí arzë́x̌t ye xwandí aw pëṭ wi. 
+# translit = stë́ra stúnza hamdáġa da če kë́la-kë́la čâperyấl nâmusâ‘íd wi aw dë farhangyấno, adabpấlo aw hunarpấlo lâsúno ta zindë́y waračawí, gáne šahkấr asár kë pë hára žë́ba ke wi, xpël hunarí arzë́x̌t ye xwandí aw pëṭ wi.
 # text_en = The biggest problem is that sometimes circumstances are unfavorable and tie the hands of cultured people, writers and artists; if there is a great work in any language, its artistic value is obscure and hidden.
 1	ستره	ستر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=stë́ra|LTranslit=stër|Gloss=big
 2	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=stúnza|LTranslit=stúnza|Gloss=problem
 3	همدغه	همدغه	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	2	nsubj	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=this
 4	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=da|LTranslit=wël|Gloss=is
 5	چې	چې	SCONJ	_	_	10	mark	_	Translit=če|LTranslit=če|Gloss=that
-6	کله	کله	ADV	_	_	10	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when|SpaceAfter=No
+6	کله	کله	ADV	_	ExtPos=ADV	10	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when|SpaceAfter=No
 7	-	-	PUNCT	_	_	6	punct	_	Translit=-|LTranslit=-|Gloss=-|SpaceAfter=No
 8	کله	کله	ADV	_	_	6	fixed	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
 9	چاپېريال	چاپېريال	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=čâperyấl|LTranslit=čâperyấl|Gloss=environment
@@ -834,7 +834,7 @@
 
 # sent_id = pnt-14-7.2
 # text = بېنوايان که په پاړسي ژبه ژباړل شوى، بیا هم زياتو کسانو لوستى، د اټکل له مخې استاد حبیبي په طلوع افغان ورځپاڼه کې برخې- برخې خپور کړى هم دى، چې لا راټول شوى نه دى.
-# translit = benawâyấn kë pë pâṛsí žë́ba žbâṛë́l šë́way, byâ ham zyấto kasấno lwástay, dë aṭkál la më́xe ustấd habibí pë tuló afġấn wrażpấṇa ke bárxe- bárxe xpor kë́ṛay ham dëy, če lâ râṭól šë́way në dëy. 
+# translit = benawâyấn kë pë pâṛsí žë́ba žbâṛë́l šë́way, byâ ham zyấto kasấno lwástay, dë aṭkál la më́xe ustấd habibí pë tuló afġấn wrażpấṇa ke bárxe- bárxe xpor kë́ṛay ham dëy, če lâ râṭól šë́way në dëy.
 # text_en = Although Les-Misérables was translated into Persian, many people read it; it is believed that Ustad Habibi also published parts of it in the Afghan newspaper Tolo, however it has not been completed yet.
 1	بېنوايان	بینوا	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj:pass	_	Translit=benawâyấn|LTranslit=benawấ|Gloss=Les-Misérables
 2	که	کۀ	SCONJ	_	_	6	mark	_	Translit=kë|LTranslit=kë|Gloss=if
@@ -861,7 +861,7 @@
 23	افغان	افغان	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	22	flat	_	Translit=afġấn|LTranslit=afġấn|Gloss=Afghan
 24	ورځپاڼه	ورځپاڼه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	30	obl	_	Translit=wrażpấṇa|LTranslit=wrażpấṇa|Gloss=newspaper
 25	کې	کې	ADP	_	Case=Loc	24	case	_	Translit=ke|LTranslit=ke|Gloss=in
-26	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	30	obj	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts|SpaceAfter=No
+26	برخې	برخه	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Plur	30	obj	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts|SpaceAfter=No
 27	-	-	PUNCT	_	_	26	punct	_	Translit=-|LTranslit=-|Gloss=-
 28	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	fixed	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts
 29	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	30	xcomp	_	Translit=xpor|LTranslit=xpor|Gloss=published
@@ -879,7 +879,7 @@
 
 # sent_id = pnt-15-7.3
 # text = خو که هر وخت راټول او د یوه بېل کتاب په بڼه چاپ شي، خپل هنري او ادبي ارزښت به لري.
-# translit = xo kë har waxt râṭól aw dë yawë́ bel kitấb pë báṇa čâp ši, xpël hunarí aw adabí arzë́x̌t bë larí. 
+# translit = xo kë har waxt râṭól aw dë yawë́ bel kitấb pë báṇa čâp ši, xpël hunarí aw adabí arzë́x̌t bë larí.
 # text_en = But if it is ever collated and published as a separate book, it will have its own artistic and literary value.
 1	خو	خو	CCONJ	_	_	14	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 2	که	کۀ	SCONJ	_	_	14	mark	_	Translit=kë|LTranslit=kë|Gloss=if
@@ -907,11 +907,11 @@
 
 # sent_id = pnt-16-8.1
 # text = ژبه د پوهونې-راپوهونې تر ټولو ښه او اغېزناکه وسیله ګڼل کېږي، چې انسانانو د خپل ژوند له پیله تر دې دمه ترې ګټه اوچته کړې ده.
-# translit = žë́ba dë pohawë́ne-râpohawë́ne tër ṭólo x̌a aw aġeznấka wasíla gaṇë́l keǧí, če insânấno dë xpël žwand la páyla tër de dáma tre gáṭa učáta kë́ṛe da. 
+# translit = žë́ba dë pohawë́ne-râpohawë́ne tër ṭólo x̌a aw aġeznấka wasíla gaṇë́l keǧí, če insânấno dë xpël žwand la páyla tër de dáma tre gáṭa učáta kë́ṛe da.
 # text_en = Language is considered to be the best and most effective tool of mutual understanding, which humans have used since the beginning of their lives.
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
-3	پوهونې	پوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education|SpaceAfter=No
+3	پوهونې	پوهونه	NOUN	_	Case=Acc|ExtPos=NOUN|Gender=Fem|Number=Sing	11	nmod	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education|SpaceAfter=No
 4	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|Gloss=-|SpaceAfter=No
 5	راپوهونې	راپوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	fixed	_	Translit=râpohawë́ne|LTranslit=râpohawë́na|Gloss=study
 6	تر	تر	ADP	_	Case=Abl	7	case	_	Translit=tër|LTranslit=tër|Gloss=from
@@ -944,14 +944,14 @@
 
 # sent_id = pnt-17-8.2
 # text = یوه زمانه به انسانانو د خبرو-اترو لپاره کره او سمه ژبه نه درلوده، د خطر په وخت کې به يې یو ډول ږغ کاوه، د خوښۍ په وخت کې به يې ځانګړې نارې او کوکې وهلې، د خواشینۍ لپاره به يې بېل اوازونه کښل، همدغو ږغیزو توکو (موادو) د خلکو ترمنځ دود وموند، چې وروسته يې ږغیزه يا د خبرو- اترو اوسنۍ ژبه دود کړه.
-# translit = yawá zamấna bë insânấno dë xabë́ro-atë́ro lapấra kára aw sáma žë́ba në darlówda, dë xatár pë waxt ke bë ye yaw ḍawl ǧaġ kâwë́, dë xwax̌ë́y pë waxt ke bë ye żângë́ṛe nâré aw kúke wahë́le, dë xwâšinë́y lapấra bë ye bel awâzúna kx̌ël, hamdáġo ǧaġízo tóko (mawấdo) dë xálko tërmánż dod wëmúnd, če wrústa ye ǧaġíza yâ dë xabë́ro- atë́ro osanë́y žë́ba dod kṛa. 
+# translit = yawá zamấna bë insânấno dë xabë́ro-atë́ro lapấra kára aw sáma žë́ba në darlówda, dë xatár pë waxt ke bë ye yaw ḍawl ǧaġ kâwë́, dë xwax̌ë́y pë waxt ke bë ye żângë́ṛe nâré aw kúke wahë́le, dë xwâšinë́y lapấra bë ye bel awâzúna kx̌ël, hamdáġo ǧaġízo tóko (mawấdo) dë xálko tërmánż dod wëmúnd, če wrústa ye ǧaġíza yâ dë xabë́ro- atë́ro osanë́y žë́ba dod kṛa.
 # text_en = Once upon a time, people did not have a proper language to communicate, they would make a kind of sound when they were in danger, when they were happy they would exult and shout and when they were sad they would make different sounds; these sound items gave rise to a tradition among people that later became the colloquial or contemporary language of conversation.
 1	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	2	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 2	زمانه	زمانه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obl	_	Translit=zamấna|LTranslit=zamấna|Gloss=time
 3	به	بۀ	AUX	_	Mood=Sub	15	aux	_	Translit=bë|LTranslit=bë|Gloss=would
 4	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	nsubj	_	Translit=insânấno|LTranslit=insấn|Gloss=people
 5	د	د	ADP	_	Case=Acc	6	case	_	Translit=dë|LTranslit=dë|Gloss=of
-6	خبرو	خبره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	obl	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talks|SpaceAfter=No
+6	خبرو	خبره	NOUN	_	Case=Acc|ExtPos=NOUN|Gender=Fem|Number=Plur	15	obl	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talks|SpaceAfter=No
 7	-	-	PUNCT	_	_	6	punct	_	Translit=-|LTranslit=-|Gloss=-|SpaceAfter=No
 8	اترو	اتره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	fixed	_	Translit=atë́ro|LTranslit=atë́ra|Gloss=talks
 9	لپاره	لپاره	ADP	_	Case=Acc	6	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
@@ -1014,7 +1014,7 @@
 66	ږغیزه	ږغیز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	73	amod	_	Translit=ǧaġíza|LTranslit=ǧaġíz|Gloss=sound
 67	يا	يا	CCONJ	_	_	69	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 68	د	د	ADP	_	Case=Acc	69	case	_	Translit=dë|LTranslit=dë|Gloss=of
-69	خبرو	خبره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	66	conj	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talk|SpaceAfter=No
+69	خبرو	خبره	NOUN	_	Case=Acc|ExtPos=NOUN|Gender=Fem|Number=Plur	66	conj	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talk|SpaceAfter=No
 70	-	-	PUNCT	_	_	69	punct	_	Translit=-|LTranslit=-|Gloss=-
 71	اترو	اتره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	69	fixed	_	Translit=atë́ro|LTranslit=atë́ra|Gloss=talk
 72	اوسنۍ	اوسنۍ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	73	amod	_	Translit=osanë́y|LTranslit=osanë́y|Gloss=current
@@ -1025,7 +1025,7 @@
 
 # sent_id = pnt-18-9.1
 # text = د ځینو لرغونو پاچايانو او ټولواکانو په وخت کې چې لیکنۍ ژبه لا نه وه دود شوې، نو انځورګرانو به د ونو پر ډډونو، دېوالونو يا ښویو ډبرو انځورونه کښل، د انځورونو په واسطه به يې خپل نور ملګري يا هملاري پوهول، خو کله چې لیکنۍ او ږغیزې ژبې لږ څه نور پرمختګ هم وکړ، لیکدود رامنځته شو، چې اوس د نړۍ ټولې ژبې ځانګړى لیکدود او لیکلار لري.
-# translit = dë żíno larġúno pâčâyấno aw ṭolwâkấno pë waxt ke če likanë́y žë́ba lâ në wa dod šë́we, no anżurgarấno bë dë wë́no për ḍaḍúno, dewâlúno yâ x̌wë́yo ḍabáro anżurúna kx̌ël, dë anżurúno pë wâsitá bë ye xpël nor malgë́ri yâ hamlấri pohawë́l, xo kë́la če likanë́y aw ǧaġíze žë́be lëǧ cë nor përmëxtág ham wë́këṛ, likdód râmánżta šu, če os dë naṛë́y ṭóle žë́be żângëṛí likdód aw liklấr larí. 
+# translit = dë żíno larġúno pâčâyấno aw ṭolwâkấno pë waxt ke če likanë́y žë́ba lâ në wa dod šë́we, no anżurgarấno bë dë wë́no për ḍaḍúno, dewâlúno yâ x̌wë́yo ḍabáro anżurúna kx̌ël, dë anżurúno pë wâsitá bë ye xpël nor malgë́ri yâ hamlấri pohawë́l, xo kë́la če likanë́y aw ǧaġíze žë́be lëǧ cë nor përmëxtág ham wë́këṛ, likdód râmánżta šu, če os dë naṛë́y ṭóle žë́be żângëṛí likdód aw liklấr larí.
 # text_en = During the time of some ancient kings and princes, when written language was not yet common, painters drew pictures on tree trunks, walls or smooth rocks; through pictures they informed their friends or fellow-travellers, but when writing and phonetic language advanced a bit more, writing tradition was created and now all the languages ​​of the world have their specific tradition and writing method.
 1	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	ځینو	ځینې	DET	_	Case=Acc|Number=Plur|PronType=Ind	4	det	_	Translit=żíno|LTranslit=żíne|Gloss=some
@@ -1080,7 +1080,7 @@
 51	او	او	CCONJ	_	_	52	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 52	ږغیزې	ږغیز	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	50	conj	_	Translit=ǧaġíze|LTranslit=ǧaġíz|Gloss=sound
 53	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	59	nsubj	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
-54	لږ	لږ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	56	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=little
+54	لږ	لږ	ADJ	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	56	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=little
 55	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	54	fixed	_	Translit=cë|LTranslit=cë|Gloss=somewhat
 56	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	57	amod	_	Translit=nor|LTranslit=nor|Gloss=additional
 57	پرمختګ	پرمختګ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	59	obj	_	Translit=përmëxtág|LTranslit=përmëxtág|Gloss=development
@@ -1106,7 +1106,7 @@
 
 # sent_id = pnt-19-9.2
 # text = ان داسې هېوادونه هم شته چې څو ژوندۍ ژبې په کې ويل کېږي، خو هلته هرې سیمې ته داسې نصاب، اداري نظام او د خلکو ژبه هماغه ژبه وي، چې د سیمې ډېرکي خلک يې ویونکي وي، حکومتونه هم هرې ژبې ته برابر ورکوي او کوښښ کوي، چې د خپل هېواد او سیمې هرې ژبې ته وده ورکړي.
-# translit = ân dấse hewâdúna ham šta če co žwandë́y žë́be pë ke wayë́l keǧí, xo hálta háre síme ta dấse nisấb, idârí nizấm aw dë xálko žë́ba hamấġa žë́ba wi, če dë síme ḍerakí xalk ye wayúnki wi, hokumatúna ham háre žë́be ta barâbár warkawí aw kox̌ë́x̌ kawí, če dë xpël hewấd aw síme háre žë́be ta wáda warkṛí. 
+# translit = ân dấse hewâdúna ham šta če co žwandë́y žë́be pë ke wayë́l keǧí, xo hálta háre síme ta dấse nisấb, idârí nizấm aw dë xálko žë́ba hamấġa žë́ba wi, če dë síme ḍerakí xalk ye wayúnki wi, hokumatúna ham háre žë́be ta barâbár warkawí aw kox̌ë́x̌ kawí, če dë xpël hewấd aw síme háre žë́be ta wáda warkṛí.
 # text_en = There are even countries where several living languages ​​are spoken, but each region has its own curriculum, administrative system, and language spoken by the majority of the region's population; governments give equality to every language and try to promote each language of their country and region.
 1	ان	آن	ADV	_	_	5	advmod	_	Translit=ân|LTranslit=ân|Gloss=even
 2	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
@@ -1175,7 +1175,7 @@
 
 # sent_id = pnt-20-9.3
 # text = درسي نصاب په هماغه ژبه وي، لوحې په هماغه ژبه وي او خبرې اترې هم هماغسې دود لري.
-# translit = darsí nisấb pë hamấġa žë́ba wi, lawhé pë hamấġa žë́ba wi aw xabë́re atë́re ham hamấġase dod larí. 
+# translit = darsí nisấb pë hamấġa žë́ba wi, lawhé pë hamấġa žë́ba wi aw xabë́re atë́re ham hamấġase dod larí.
 # text_en = The curriculum is in that language, the banners are in that language and the conversation has the same tradition.
 1	درسي	درسي	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Translit=darsí|LTranslit=darsí|Gloss=lesson
 2	نصاب	نصاب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=nisấb|LTranslit=nisấb|Gloss=curriculum
@@ -1190,7 +1190,7 @@
 11	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	12	obl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 12	وي	وي	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	6	conj	_	Translit=wi|LTranslit=wi|Gloss=is
 13	او	او	CCONJ	_	_	19	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-14	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talks
+14	خبرې	خبره	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Plur	19	nsubj	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talks
 15	اترې	اتره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	14	fixed	_	Translit=atë́re|LTranslit=atë́ra|Gloss=talks
 16	هم	هم	ADV	_	_	19	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 17	هماغسې	هماغسې	DET	_	Deixis=Remt|PronType=Dem	18	det	_	Translit=hamấġase|LTranslit=hamấġase|Gloss=such
@@ -1200,9 +1200,9 @@
 
 # sent_id = pnt-21-10.1
 # text = د پښتو یوه ستونزه دا ده چې په لره خوا کې د اردو ژبې تر ښکېلاک لاندې ساه کاږي او بل پلو يې بیا د پاړسي، په ځانګړې توګه د ايران کلتوري ستم زياه ځپلې ده.
-# translit = dë pax̌tó yawá stúnza dâ da če pë lë́ra xwâ ke dë urdú žë́be tër x̌kelấk lấnde sâh kâǧí aw bël paláw ye byâ dë pâṛsí, pë żângë́ṛe tóga dë irấn kulturí setám zyâh żapë́le da. 
+# translit = dë pax̌tó yawá stúnza dâ da če pë lë́ra xwâ ke dë urdú žë́be tër x̌kelấk lấnde sâh kâǧí aw bël paláw ye byâ dë pâṛsí, pë żângë́ṛe tóga dë irấn kulturí setám zyâh żapë́le da.
 # text_en = One of the problems of Pashto is that it is suffocating under the influence of Urdu language in the lower region and on the other side it suffered from Parsi, especially the oppression of cultural cruelty of Iran.
-1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of 
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	پښتو	پښتو	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 3	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	4	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 4	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=stúnza|LTranslit=stúnza|Gloss=problem
@@ -1213,7 +1213,7 @@
 9	لره	لر	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	10	amod	_	Translit=lë́ra|LTranslit=lër|Gloss=lower
 10	خوا	خوا	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	19	obl	_	Translit=xwâ|LTranslit=xwâ|Gloss=side
 11	کې	کې	ADP	_	Case=Loc	10	case	_	Translit=ke|LTranslit=ke|Gloss=in
-12	د	د	ADP	_	Case=Acc	14	case	_	Translit=dë|LTranslit=dë|Gloss=of 
+12	د	د	ADP	_	Case=Acc	14	case	_	Translit=dë|LTranslit=dë|Gloss=of
 13	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
 14	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	nmod	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
 15	تر	تر	ADP	_	Case=Acc	16	case	_	Translit=tër|LTranslit=tër|Gloss=until
@@ -1226,26 +1226,26 @@
 22	پلو	پلو	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	obl	_	Translit=paláw|LTranslit=paláw|Gloss=side
 23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	36	obj	_	Translit=ye|LTranslit=ye|Gloss=it
 24	بیا	بیا	ADV	_	_	36	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=then
-25	د	د	ADP	_	Case=Acc	26	case	_	Translit=dë|LTranslit=dë|Gloss=of 
+25	د	د	ADP	_	Case=Acc	26	case	_	Translit=dë|LTranslit=dë|Gloss=of
 26	پاړسي	پاړسي	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Parsi|SpaceAfter=No
 27	،	،	PUNCT	_	_	35	punct	_	Translit=,|LTranslit=,|Gloss=,
-28	په	پۀ	ADP	_	Case=Loc	30	case	_	Translit=pë|LTranslit=pë|Gloss=at 
+28	په	پۀ	ADP	_	Case=Loc	30	case	_	Translit=pë|LTranslit=pë|Gloss=at
 29	ځانګړې	ځانګړی	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	30	amod	_	Translit=żângë́ṛe|LTranslit=żângë́ṛay|Gloss=specific
 30	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	34	nmod	_	Translit=tóga|LTranslit=tóga|Gloss=way
-31	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of 
+31	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of
 32	ايران	ايران	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	Translit=irấn|LTranslit=irấn|Gloss=Iran
 33	کلتوري	کلتوري	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	34	amod	_	Translit=kulturí|LTranslit=kulturí|Gloss=cultural
 34	ستم	ستم	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	nmod	_	Translit=setám|LTranslit=setám|Gloss=cruelty
-35	زياه	زياه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	Translit=zyâh|LTranslit=zyâh|Gloss=oppression 
+35	زياه	زياه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	Translit=zyâh|LTranslit=zyâh|Gloss=oppression
 36	ځپلې	ځپل	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	Translit=żapë́le|LTranslit=żapë́l|Gloss=suffered
 37	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	Translit=da|LTranslit=wël|Gloss=has|SpaceAfter=No
 38	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 # sent_id = pnt-22-10.2
 # text = په کوټه، ږوب، لورلايي، پښین، ږوب، ان تر پېښوره پورې یوه لوحه هم په پښتو نه ده راژباړل شوې، که شته، هم د څومره والي له مخې لږې دي.
-# translit = pë kwáṭa, ǧob, lorlâyí, pix̌ín, ǧob, ân tër pex̌awë́ra póre yawá lawhá ham pë pax̌tó në da râžbâṛë́l šë́we, kë šta, ham dë cúmra wâlí la më́xe lë́ǧe di. 
+# translit = pë kwáṭa, ǧob, lorlâyí, pix̌ín, ǧob, ân tër pex̌awë́ra póre yawá lawhá ham pë pax̌tó në da râžbâṛë́l šë́we, kë šta, ham dë cúmra wâlí la më́xe lë́ǧe di.
 # text_en = There is no single tablet that has been translated into Pashto in Kota, Zhob, Lorelai, Pazhin, Zhob, even up to Peshawar, if there are some, their number is low.
-1	په	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at 
+1	په	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	کوټه	کوټه	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	Translit=kwáṭa|LTranslit=kwáṭa|Gloss=Quetta|SpaceAfter=No
 3	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
 4	ږوب	ږوب	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	2	conj	_	Translit=ǧob|LTranslit=ǧob|Gloss=Zhob|SpaceAfter=No
@@ -1263,7 +1263,7 @@
 16	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	17	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 17	لوحه	لوحه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	nsubj:pass	_	Translit=lawhá|LTranslit=lawhá|Gloss=sign
 18	هم	هم	ADV	_	_	20	advmod	_	Translit=ham|LTranslit=ham|Gloss=too
-19	په	پۀ	ADP	_	Case=Loc	20	case	_	Translit=pë|LTranslit=pë|Gloss=at 
+19	په	پۀ	ADP	_	Case=Loc	20	case	_	Translit=pë|LTranslit=pë|Gloss=at
 20	پښتو	پښتو	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 21	نه	نۀ	PART	_	Polarity=Neg	23	advmod	_	Translit=në|LTranslit=në|Gloss=no
 22	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	Translit=da|LTranslit=wël|Gloss=is
@@ -1274,7 +1274,7 @@
 27	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	Translit=šta|LTranslit=šta|Gloss=there-is|SpaceAfter=No
 28	،	،	PUNCT	_	_	27	punct	_	Translit=,|LTranslit=,|Gloss=,
 29	هم	هم	ADV	_	_	35	advmod	_	Translit=ham|LTranslit=ham|Gloss=too
-30	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of 
+30	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of
 31	څومره	څومره	ADV	_	_	32	advmod	_	Translit=cúmra|LTranslit=cúmra|Gloss=how-much
 32	والي	والي	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	Translit=wâlí|LTranslit=wâlí|Gloss=quantitative
 33	له	له	ADP	_	Case=Abl	34	case	_	Translit=la|LTranslit=la|Gloss=from
@@ -1285,7 +1285,7 @@
 
 # sent_id = pnt-23-10.3
 # text = یو ښوونځى هم پښتو لوست نه ورکوي.
-# translit = yaw x̌owanżáy ham pax̌tó lwast në warkawí. 
+# translit = yaw x̌owanżáy ham pax̌tó lwast në warkawí.
 # text_en = Not a single school teaches Pashto.
 1	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	2	nummod	_	Translit=yaw|LTranslit=yaw|Gloss=one
 2	ښوونځى	ښوونځى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Translit=x̌owanżáy|LTranslit=x̌owanżáy|Gloss=school
@@ -1298,7 +1298,7 @@
 
 # sent_id = pnt-24-10.4
 # text = نو پښتو به څنګه وده وکړي؟
-# translit = saríza:no pax̌tó bë cë́nga wáda wë́kṛi? 
+# translit = saríza:no pax̌tó bë cë́nga wáda wë́kṛi?
 # text_en = How then will Pashto develop?
 # transliter = nw px̌tw bh cngh wdh wkṛi?				_	_			_	Translit=saríza|LTranslit=saríza|Gloss=|SpaceAfter=No
 # transcript =				_	_			_	Translit=:|LTranslit=:|Gloss=|SpaceAfter=No
@@ -1312,7 +1312,7 @@
 
 # sent_id = pnt-25-11.1
 # text = په ټوله سیمه کې واکمن دولت اجازه نه ورکوي، چې په ښوونځیو کې دې پښتو لوست ورکړل شي.
-# translit = pë ṭóla síma ke wâkmán dawlát iǰâzá në warkawí, če pë x̌owanżë́yo ke de pax̌tó lwast warkṛë́l ši. 
+# translit = pë ṭóla síma ke wâkmán dawlát iǰâzá në warkawí, če pë x̌owanżë́yo ke de pax̌tó lwast warkṛë́l ši.
 # text_en = In the entire region, the ruling government does not allow Pashto to be taught in schools.
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	ټوله	ټول	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	Translit=ṭóla|LTranslit=ṭol|Gloss=whole
@@ -1337,7 +1337,7 @@
 
 # sent_id = pnt-26-11.2
 # text = دولت اجازه نه ورکوي، چې کومه لوحه دې په پښتو واړول شي.
-# translit = dawlát iǰâzá në warkawí, če kúma lawhá de pë pax̌tó wâṛawë́l ši. 
+# translit = dawlát iǰâzá në warkawí, če kúma lawhá de pë pax̌tó wâṛawë́l ši.
 # text_en = The government does not allow any tablet to be translated into Pashto.
 1	دولت	دولت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=dawlát|LTranslit=dawlát|Gloss=state
 2	اجازه	اجازه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Translit=iǰâzá|LTranslit=iǰâzá|Gloss=permission
@@ -1356,7 +1356,7 @@
 
 # sent_id = pnt-27-12.1
 # text = په لره خوا کې هم د کابل او هرات غوندې نور ولايتونو يا ښارونه د پښتنو او پښتو هديره ګڼل کېږي، په دې دوو لسیزو کې د چا نه يادېږي، چې په کابل يا هرات کې دې د پاړسي کتابونو په اندازه دې پښتو کتابونه چاپ شوي وي.
-# translit = pë lë́ra xwâ ke ham dë kâbë́l aw herất ġwë́nde nor wilâyatúno yâ x̌ârúna dë pëx̌tanó aw pax̌tó hadirá gaṇë́l keǧí, pë de dwo lasízo ke dë čâ në yâdeǧí, če pë kâbë́l yâ herất ke de dë pâṛsí kitâbúno pë andâzá de pax̌tó kitâbúna čâp šë́wi wi. 
+# translit = pë lë́ra xwâ ke ham dë kâbë́l aw herất ġwë́nde nor wilâyatúno yâ x̌ârúna dë pëx̌tanó aw pax̌tó hadirá gaṇë́l keǧí, pë de dwo lasízo ke dë čâ në yâdeǧí, če pë kâbë́l yâ herất ke de dë pâṛsí kitâbúno pë andâzá de pax̌tó kitâbúna čâp šë́wi wi.
 # text_en = In the lower region, other provinces or cities like Kabul and Herat are considered the graveyard of Pashtuns and Pashtos. In these two decades, no one remembers that Pashto books would be printed in Kabul or Herat as much as the Persian books.
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	لره	لر	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	3	amod	_	Translit=lë́ra|LTranslit=lër|Gloss=lower
@@ -1412,7 +1412,7 @@
 
 # sent_id = pnt-28-13.1
 # text = په سیمه کې تر پنجابیانو وروسته پښتانه غوڅ اکثريت دي، خو ستونزه دا ده چې په د پاکستان په ځینو ښارونو او هندوستان کې پښتانه یوازې په دې پېژندل کېږي، چې له خپل نوم سره د (خان) تورى لیکي، په هند کې خو ډېرکي پښتانه نه په پښتو خبرې کولاى شي، نه هم پښتو لوستلاى شي.
-# translit = pë síma ke tër panǰâbyấno wrústa pëx̌tânë́ ġwëc aksaryát di, xo stúnza dâ da če pë dë pâkistấn pë żíno x̌ârúno aw hindustấn ke pëx̌tânë́ yawấze pë de pežandë́l keǧí, če la xpël num sará dë (xân) tóray likí, pë hind ke xo ḍerakí pëx̌tânë́ në pë pax̌tó xabë́re kawë́lây ši, në ham pax̌tó lwastë́lây ši. 
+# translit = pë síma ke tër panǰâbyấno wrústa pëx̌tânë́ ġwëc aksaryát di, xo stúnza dâ da če pë dë pâkistấn pë żíno x̌ârúno aw hindustấn ke pëx̌tânë́ yawấze pë de pežandë́l keǧí, če la xpël num sará dë (xân) tóray likí, pë hind ke xo ḍerakí pëx̌tânë́ në pë pax̌tó xabë́re kawë́lây ši, në ham pax̌tó lwastë́lây ši.
 # text_en = Pashtuns are the majority in the region after Punjabis, but the problem is that in some cities of Pakistan and in India, Pashtuns are known only by the fact that they write (Khan) syllable with their name, there are majority of Pashtuns in India who cannot speak Pashto or read Pashto.
 1	په	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	سیمه	سیمه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	Translit=síma|LTranslit=síma|Gloss=area
@@ -1480,7 +1480,7 @@
 
 # sent_id = pnt-29-13.2
 # text = زموږ موخه د ژباړې له اړخه د پښتو پیاوړي کول دي، غوره به دا وي، چې پر نورو خواوو زياتې څرګندونې ونه کړو.
-# translit = zmuǧ múxa dë žbấṛe la áṛxa dë pax̌tó pyâwë́ṛi kawë́l di, ġwë́ra bë dâ wi, če për nóro xwấwo zyấte cërgandawë́ne wënë́ kṛu. 
+# translit = zmuǧ múxa dë žbấṛe la áṛxa dë pax̌tó pyâwë́ṛi kawë́l di, ġwë́ra bë dâ wi, če për nóro xwấwo zyấte cërgandawë́ne wënë́ kṛu.
 # text_en = Our aim is to strengthen Pashto in terms of translation, it would be better not to comment on other parties.
 1	زموږ	زموږ	DET	_	Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmuǧ|LTranslit=zmuǧ|Gloss=our
 2	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=múxa|LTranslit=múxa|Gloss=purpose
@@ -1511,7 +1511,7 @@
 
 # sent_id = pnt-30-14.1
 # text = که چېرې پښتو ته د ژباړې لپاره د کار و زيار تیارى نیول کېږي، تر هرڅه لومړى بايد د پوهنتونونو او ښوونځیو درسي کتابونه په نوي میتود او له نویو پوهنیزو معیارونو سره سم برابر، بیا دې چاپ او ووېشل شي.
-# translit = kë čére pax̌tó ta dë žbấṛe lapấra dë kâr wë zyâr tayâráy niwë́l keǧí, tër hárcë lumṛáy bâyád dë pohantunúno aw x̌owanżë́yo darsí kitâbúna pë në́wi me/itód aw la në́wiyo pohanízo miyârúno sará sam barâbár, byâ de čâp aw wë́wešël ši. 
+# translit = kë čére pax̌tó ta dë žbấṛe lapấra dë kâr wë zyâr tayâráy niwë́l keǧí, tër hárcë lumṛáy bâyád dë pohantunúno aw x̌owanżë́yo darsí kitâbúna pë në́wi me/itód aw la në́wiyo pohanízo miyârúno sará sam barâbár, byâ de čâp aw wë́wešël ši.
 # text_en = If efforts are being made to translate it into Pashto, first of all, the textbooks of universities and schools should be updated according to the new method and according to the new academic standards, then they should be printed and distributed.
 1	که	کۀ	SCONJ	_	_	13	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 2	چېرې	چېرې	ADV	_	_	13	advmod	_	Translit=čére|LTranslit=čére|Gloss=somewhere
@@ -1560,7 +1560,7 @@
 
 # sent_id = pnt-31-14.2
 # text = خو د پوهنتوني کتابونو د ژباړې په برخه کې هم زياتې ستونزې شته، چې وروسته به يې پر خپل ځاى وڅېړو.
-# translit = xo dë pohantuní kitâbúno dë žbấṛe pë bárxa ke ham zyấte stúnze šta, če wrústa bë ye për xpël żây wë́ceṛu. 
+# translit = xo dë pohantuní kitâbúno dë žbấṛe pë bárxa ke ham zyấte stúnze šta, če wrústa bë ye për xpël żây wë́ceṛu.
 # text_en = However, there are many problems in the translation of university books, which we will discuss later.
 1	خو	خو	CCONJ	_	_	13	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 2	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -1588,7 +1588,7 @@
 
 # sent_id = pnt-32-15.1
 # text = پښتو یوازې په دې وده نه کوي، چې هرڅوک دې ورباندې پوه شي او پښتو خبرې دې وکولاى شي، بلکې پښتو که په هره توګه وده کوي او د ودې لارې چارې يې هرڅه وي، یو ارزښتمن اړخ يې د پوهنیزو کتابونو ژباړه ده، چې دغه کار د ژبې په بډايتوب او وده کې ستر اغېز لري.
-# translit = pax̌tó yawấze pë de wáda në kawí, če hárcok de warbấnde poh ši aw pax̌tó xabë́re de wë́kawëlây ši, bálke pax̌tó kë pë hára tóga wáda kawí aw dë wáde lấre čâré ye hárcë wi, yaw arzëx̌tmán aṛx ye dë pohanízo kitâbúno žbấṛa da, če dáġa kâr dë žë́be pë baḍâytób aw wáda ke stër aġéz larí. 
+# translit = pax̌tó yawấze pë de wáda në kawí, če hárcok de warbấnde poh ši aw pax̌tó xabë́re de wë́kawëlây ši, bálke pax̌tó kë pë hára tóga wáda kawí aw dë wáde lấre čâré ye hárcë wi, yaw arzëx̌tmán aṛx ye dë pohanízo kitâbúno žbấṛa da, če dáġa kâr dë žë́be pë baḍâytób aw wáda ke stër aġéz larí.
 # text_en = Pashto does not develop only because everyone should understand it and can speak Pashto, however if Pashto developes in any way and whatever its development mehods are, one of its important aspects is the translation of educational books, where this work has a great impact on the richness and development of the language.
 1	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 2	یوازې	یوازې	ADV	_	_	7	advmod	_	Translit=yawấze|LTranslit=yawấze|Gloss=only
@@ -1624,7 +1624,7 @@
 31	او	او	CCONJ	_	_	38	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 32	د	د	ADP	_	Case=Acc	33	case	_	Translit=dë|LTranslit=dë|Gloss=of
 33	ودې	وده	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=wáde|LTranslit=wáda|Gloss=growth
-34	لارې	لار	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	37	nsubj	_	Translit=lấre|LTranslit=lâr|Gloss=ways
+34	لارې	لار	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Plur	37	nsubj	_	Translit=lấre|LTranslit=lâr|Gloss=ways
 35	چارې	چاره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	fixed	_	Translit=čâré|LTranslit=čârá|Gloss=options
 36	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	34	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
 37	هرڅه	هرڅۀ	PRON	_	_	30	conj	_	Translit=hárcë|LTranslit=hárcë|Gloss=whatever
@@ -1657,7 +1657,7 @@
 
 # sent_id = pnt-33-15.2
 # text = خو د پښتو بدمرغي همدا ده چې پوهنیز کتابونه يې لږ دي او د ژباړې تله يې درنه نه ده، د پښتو د علمي کولو لپاره یوه داسې اقدام ته ضرورت شته، چې وکولاى شي په ټوله سیمه کې مېشت پښتانه د پردیو له کلتوري ستم څخه راوباسي، یوه اېډیولوژيکه تګلاره دې ورباندې پلې کړي، چې شعوري خلک کار او پراخو هڅو ته اړ کړي.
-# translit = xo dë pax̌tó badmërġí hamdấ da če pohaníz kitâbúna ye lëǧ di aw dë žbấṛe të́la ye draná në da, dë pax̌tó dë ilmí kawë́lo lapấra ywë dấse iqdấm ta zarurát šta, če wë́kawëlây ši pë ṭóla síma ke mešt pëx̌tânë́ dë pradë́yo la kulturí setám cë́xa râwë́bâsi, yawá ayḍyuložíka taglấra de warbấnde pále kṛi, če šëurí xalk kâr aw përấxo háco ta aṛ kṛi. 
+# translit = xo dë pax̌tó badmërġí hamdấ da če pohaníz kitâbúna ye lëǧ di aw dë žbấṛe të́la ye draná në da, dë pax̌tó dë ilmí kawë́lo lapấra ywë dấse iqdấm ta zarurát šta, če wë́kawëlây ši pë ṭóla síma ke mešt pëx̌tânë́ dë pradë́yo la kulturí setám cë́xa râwë́bâsi, yawá ayḍyuložíka taglấra de warbấnde pále kṛi, če šëurí xalk kâr aw përấxo háco ta aṛ kṛi.
 # text_en = But the misfortune of Pashto is that its educational books are few and its translation is not very heavy. To make Pashto academic, there is a need for a measure that can free the Pashtuns living in the entire region from the cultural oppression of foreigners, and implement an ideological strategy that will force conscious people to work and make extensive efforts.
 1	خو	خو	CCONJ	_	_	4	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -1734,7 +1734,7 @@
 
 # sent_id = pnt-34-15.3
 # text = هسې خو هم ويل کېږي، چې پښتو په مړو ژبو کې راځي او تر څو کلونو وروسته به له خلکو هېره وي، هغه د چا خبره د مړو شویو ژبو په کتار کې به راځي.
-# translit = háse xo ham wayë́l keǧí, če pax̌tó pë mṛo žë́bo ke râżí aw tër co kalúno wrústa bë la xálko héra wi, háġa dë čâ xabë́ra dë mṛo šë́wyo žë́bo pë katấr ke bë râżí. 
+# translit = háse xo ham wayë́l keǧí, če pax̌tó pë mṛo žë́bo ke râżí aw tër co kalúno wrústa bë la xálko héra wi, háġa dë čâ xabë́ra dë mṛo šë́wyo žë́bo pë katấr ke bë râżí.
 # text_en = It is also said that Pashto is counted among dead languages and it will be forgotten by the people after a few years, as it is said, it will be included in the line of dead language
 1	هسې	هسې	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	_	Translit=háse|LTranslit=háse|Gloss=so
 2	خو	خو	CCONJ	_	_	4	cc	_	Translit=xo|LTranslit=xo|Gloss=but
@@ -1777,7 +1777,7 @@
 
 # sent_id = pnt-35-16.1
 # text = ژبه په دوه ډوله ده: یوه هغه چې ژوندۍ ده، هغه ژبه چې د یوه يا څو ملتونو وګړي پرې خبرې او لیک- لوست کوي، بايد هر څوک ورباندې وپوهېږي.
-# translit = žë́ba pë dwa ḍáwla da: yawá háġa če žwandë́y da, háġa žë́ba če dë yawë́ yâ co milatúno wagë́ṛi pre xabë́re aw lik- lwast kawí, bâyád har cok warbấnde wë́poheǧi. 
+# translit = žë́ba pë dwa ḍáwla da: yawá háġa če žwandë́y da, háġa žë́ba če dë yawë́ yâ co milatúno wagë́ṛi pre xabë́re aw lik- lwast kawí, bâyád har cok warbấnde wë́poheǧi.
 # text_en = There are two types of language: one is a living language, which is spoken, read and written by the people of one or more nations, and everyone should understand it.
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -1805,7 +1805,7 @@
 23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	15	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
 24	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	29	obj	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk
 25	او	او	CCONJ	_	_	26	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-26	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	Translit=lik|LTranslit=lik|Gloss=writing|SpaceAfter=No
+26	لیک	لیک	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Sing	24	conj	_	Translit=lik|LTranslit=lik|Gloss=writing|SpaceAfter=No
 27	-	-	PUNCT	_	_	26	punct	_	Translit=-|LTranslit=-|Gloss=-
 28	لوست	لوست	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	26	fixed	_	Translit=lwast|LTranslit=lwast|Gloss=reading
 29	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	Translit=kawí|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
@@ -1821,7 +1821,7 @@
 
 # sent_id = pnt-36-17.1
 # text = دويم ډول هغه ژبه ده، چې په هغې باندې د خبرو اړتیا نه پېښېږي، دا ژبه مړه ده، نه سم اسلوب او ژبني قوانین لري، نه به هم په ورځني ژوند کې کارول کېږي.
-# translit = dwayám ḍawl háġa žë́ba da, če pë háġe bấnde dë xabë́ro aṛtyấ në pex̌eǧí, dâ žë́ba mṛa da, në sam uslúb aw žëbaní qawânín larí, në bë ham pë wrażaní žwand ke kârawë́l keǧí. 
+# translit = dwayám ḍawl háġa žë́ba da, če pë háġe bấnde dë xabë́ro aṛtyấ në pex̌eǧí, dâ žë́ba mṛa da, në sam uslúb aw žëbaní qawânín larí, në bë ham pë wrażaní žwand ke kârawë́l keǧí.
 # text_en = The second type is the language that does not need to be spoken, this language is dead, it does not have proper style and linguistic rules, nor will it be used in daily life.
 1	دويم	دويم	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Translit=dwayám|LTranslit=dwayám|Gloss=second
 2	ډول	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=type
@@ -1873,7 +1873,7 @@
 
 # sent_id = pnt-38-18.1
 # text = څرګنده خبره ده چې نه کارېدونکې ژبه پايښت، محبوبیت او پیاوړتیا نه شي موندلاى، خامخا به له دوده لوېږي او له کارونې څخه لوېدلې ژبه نه له نورو سیالو ژبو سره سیالي کولاى شي، نه هم له پوهنیزو شتو څخه برخمنېدلاى شي، له پښتو سره هم همدغه د میرې سلوک شوى، پښتانه په دې ګناه ځپل شوي، سپک شوي او رټل شوي، چې په پښتو خبرې کوي.
-# translit = cargánda xabë́ra da če në kâredúnke žë́ba pâyë́x̌t, mahbubyát aw pyâwëṛtyấ në ši mundë́lây, xâmaxấ bë la dóda lweǧí aw la kârawë́ne cë́xa lwedë́le žë́ba në la nóro syấlo žë́bo sará syâlí kawë́lây ši, në ham la pohanízo što cë́xa barxmanedë́lây ši, la pax̌tó sará ham hamdáġa dë mayré sëlúk šë́way, pëx̌tânë́  pë de gunấh żapë́l šë́wi, spëk šë́wi aw raṭë́l šë́wi, če pë pax̌tó xabë́re kawí. 
+# translit = cargánda xabë́ra da če në kâredúnke žë́ba pâyë́x̌t, mahbubyát aw pyâwëṛtyấ në ši mundë́lây, xâmaxấ bë la dóda lweǧí aw la kârawë́ne cë́xa lwedë́le žë́ba në la nóro syấlo žë́bo sará syâlí kawë́lây ši, në ham la pohanízo što cë́xa barxmanedë́lây ši, la pax̌tó sará ham hamdáġa dë mayré sëlúk šë́way, pëx̌tânë́  pë de gunấh żapë́l šë́wi, spëk šë́wi aw raṭë́l šë́wi, če pë pax̌tó xabë́re kawí.
 # text_en = It is clear that a language that is not used cannot find sustainability, popularity, or strength. It will surely fall into disuse. A language that has fallen into disuse cannot compete with other competing languages, nor can it benefit from educational resources. The same stepmother treatment has been given to Pashto. Pashtuns have been persecuted, humiliated, and abased for the sin of speaking Pashto.
 1	څرګنده	څرګنده	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=cargánda|LTranslit=cargánda|Gloss=obvious
 2	خبره	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=xabë́ra|LTranslit=xabë́ra|Gloss=thing
@@ -1953,7 +1953,7 @@
 
 # sent_id = pnt-39-19.1
 # text = تر هغه وخته چې پښتو د دفتر او رسمي ادارو، دربار او دولت ژبه نه شي، وده يې هم ناشونې ده.
-# translit = tër háġa wáxta če pax̌tó dë daftár aw rasmí idâró, darbấr aw dawlát žë́ba në ši, wáda ye ham nấšwëne da. 
+# translit = tër háġa wáxta če pax̌tó dë daftár aw rasmí idâró, darbấr aw dawlát žë́ba në ši, wáda ye ham nấšwëne da.
 # text_en = As long as Pashto does not become the language of the office and official institutions, court and government, its development is also impossible.
 1	تر	تر	ADP	_	Case=Abl	3	case	_	Translit=tër|LTranslit=tër|Gloss=until
 2	هغه	هغه	DET	_	Case=Abl|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
@@ -1982,7 +1982,7 @@
 
 # sent_id = pnt-40-19.2
 # text = ښه دا ده چې خپله اّر (اصله) سکالو (موضوع) له څو اړخونو وڅېړو او وګورو چې جفاکارو کومې نادودې ورسره کړي، همدغه راز يې د ژباړې له اړخه يې د ودې او پراختیا کومې لارې چارې اوارولاى شو؟
-# translit = x̌a dâ da če xpë́la âr ( ásla ) skâló ( mawzó ) la co aṛxúno wë́ceṛu aw wë́goru če ǰafâkấro kúme nấdode warsará kë́ṛi , hamdáġa râz ye dë žbấṛe la áṛxa ye dë wáde aw prâxtyấ kúme lấre čâré awârawë́lây šu ? 
+# translit = x̌a dâ da če xpë́la âr ( ásla ) skâló ( mawzó ) la co aṛxúno wë́ceṛu aw wë́goru če ǰafâkấro kúme nấdode warsará kë́ṛi , hamdáġa râz ye dë žbấṛe la áṛxa ye dë wáde aw prâxtyấ kúme lấre čâré awârawë́lây šu ?
 # text_en = It is good to examine our ar (principle) scala (subject) from several aspects and see what mistakes the oppressors have made with it, as well as what ways of its growth and development can be found in terms of translation?
 1	ښه	ښه	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=x̌a|LTranslit=x̌a|Gloss=good
 2	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	1	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
@@ -2025,7 +2025,7 @@
 38	او	او	CCONJ	_	_	39	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 39	پراختیا	پراختیا	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	37	conj	_	Translit=prâxtyấ|LTranslit=prâxtyấ|Gloss=development
 40	کومې	کوم	DET	_	Case=Nom|Gender=Fem|Number=Plur	41	det	_	Translit=kúme|LTranslit=kum|Gloss=which
-41	لارې	لار	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	43	nsubj	_	Translit=lấre|LTranslit=lâr|Gloss=ways
+41	لارې	لار	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Plur	43	nsubj	_	Translit=lấre|LTranslit=lâr|Gloss=ways
 42	چارې	چاره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	41	fixed	_	Translit=čâré|LTranslit=čârá|Gloss=options
 43	اوارولاى	اوارول	VERB	_	Aspect=Imp|Mood=Pot|VerbForm=Fin	26	conj	_	Translit=awârawë́lây|LTranslit=awârawë́l|Gloss=smooth
 44	شو	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	43	aux	_	Translit=šu|LTranslit=kedë́l|Gloss=become
@@ -2033,7 +2033,7 @@
 
 # sent_id = pnt-41-20.1
 # text = په ټولنیز ډګر کې:
-# translit = pë ṭolaníz ḍëgë́r ke: 
+# translit = pë ṭolaníz ḍëgë́r ke:
 # text_en = In the social field:
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	ټولنیز	ټولنیز	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
@@ -2043,7 +2043,7 @@
 
 # sent_id = pnt-42-21.1
 # text = ټولنیز ژوند د انساني اړيکو یوه واحد بهیر ته اړتیا لري، په یوه ټولنه کې انسانان یو بل ته لازم او ملزوم دي، چې همدغه اړتوب او يا یو بل ته ضرورت، انساني ټولنه پالي.
-# translit = ṭolaníz žwand dë insâní aṛíko yawë́ wâhíd bahír ta aṛtyấ larí, pë yawá ṭolë́na ke insânấn yaw bël ta lâzím aw malzúm di, če hamdáġa aṛtób aw yâ yaw bël ta zarurát, insâní ṭolë́na pâlí. 
+# translit = ṭolaníz žwand dë insâní aṛíko yawë́ wâhíd bahír ta aṛtyấ larí, pë yawá ṭolë́na ke insânấn yaw bël ta lâzím aw malzúm di, če hamdáġa aṛtób aw yâ yaw bël ta zarurát, insâní ṭolë́na pâlí.
 # text_en = Social life requires a single process of human relations. Humans in a society are necessary and bound to each other, and this need or need for each other sustains human society.
 1	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
 2	ژوند	ژوند	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Translit=žwand|LTranslit=žwand|Gloss=life
@@ -2061,7 +2061,7 @@
 14	یوه	یو	NUM	_	Case=Loc|Gender=Fem|NumType=Card	15	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 15	ټولنه	ټولنه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	21	obl	_	Translit=ṭolë́na|LTranslit=ṭolë́na|Gloss=society
 16	کې	کې	ADP	_	Case=Loc	15	case	_	Translit=ke|LTranslit=ke|Gloss=in
-17	انسانان	انسان	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	Translit=insânấn|LTranslit=insấn|Gloss=human 
+17	انسانان	انسان	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	Translit=insânấn|LTranslit=insấn|Gloss=human
 18	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	21	???	_	Translit=yaw|LTranslit=yaw|Gloss=one
 19	بل	بل	PRON	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Translit=bël|LTranslit=bël|Gloss=another
 20	ته	ته	ADP	_	Case=Acc	19	case	_	Translit=ta|LTranslit=ta|Gloss=to
@@ -2087,7 +2087,7 @@
 
 # sent_id = pnt-43-21.2
 # text = له ورکاوي او ړنګېدو څخه يې ساتي.
-# translit = la wrëkấwi aw ṛëngedó cë́xa ye sâtí. 
+# translit = la wrëkấwi aw ṛëngedó cë́xa ye sâtí.
 # text_en = Protects it from loss and collapse.
 1	له	له	ADP	_	Case=Acc	2	case	_	Translit=la|LTranslit=la|Gloss=from
 2	ورکاوي	ورکاوی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=wrëkấwi|LTranslit=wrëkấway|Gloss=loss
@@ -2100,7 +2100,7 @@
 
 # sent_id = pnt-44-22.1
 # text = کله چې موږ د ژبې اړخ ته پام کوو، نو په دې برخه کې که څوک غواړي، هراړخیزه هڅه پیل کړي، لومړى بايد د نورو ژبو، ملتونو، توکمونو او دودونو له څرنګوالي څخه ځان خبر کړي، که چېرې په یوه ژبه کې د نورو ملتونو، د دودونو، کلتور او پوهنیزو هـڅو په اړه لیکنې او مواد نه وي موجود.
-# translit = kë́la če muǧ dë žë́be aṛx ta pâm kawú, no pë de bárxa ke kë cok ġwâṛí, haraṛxíza háca payl kṛi, lumṛáy bâyád dë nóro žë́bo, milatúno, tukamúno aw dodúno la carangwấli cë́xa żân xabár kṛi, kë čére pë yawá žë́ba ke dë nóro milatúno, dë dodúno, kultúr aw pohanízo háco pë áṛa likë́ne aw mawấd në wi mawǰúd. 
+# translit = kë́la če muǧ dë žë́be aṛx ta pâm kawú, no pë de bárxa ke kë cok ġwâṛí, haraṛxíza háca payl kṛi, lumṛáy bâyád dë nóro žë́bo, milatúno, tukamúno aw dodúno la carangwấli cë́xa żân xabár kṛi, kë čére pë yawá žë́ba ke dë nóro milatúno, dë dodúno, kultúr aw pohanízo háco pë áṛa likë́ne aw mawấd në wi mawǰúd.
 # text_en = When we pay attention to the aspect of language, if anyone wants to start a comprehensive effort in this area, he should first inform himself about the variabilities of other languages, nations, tribes and traditions. If there are no material about the traditions, culture and educational efforts of a language.
 1	کله	کله	ADV	_	_	9	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
 2	چې	چې	SCONJ	_	_	9	mark	_	Translit=če|LTranslit=če|Gloss=that
@@ -2173,7 +2173,7 @@
 
 # sent_id = pnt-45-22.2
 # text = نو په دغسې بېخبرۍ کې هر فعالیت، کار و زيار بشپړه پايله نه ورکوي.
-# translit = no pë dáġase bexabarë́y ke har faâlyát, kâr wë zyâr bëšpë́ṛa pấyla në warkawí. 
+# translit = no pë dáġase bexabarë́y ke har faâlyát, kâr wë zyâr bëšpë́ṛa pấyla në warkawí.
 # text_en = Therefore, in such ignorance, every activity, work and effort does not give full results.
 1	نو	نو	ADV	_	_	15	advmod	_	Translit=no|LTranslit=no|Gloss=so
 2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -2194,7 +2194,7 @@
 
 # sent_id = pnt-46-22.3
 # text = ځکه په داسې بېخبرۍ کې قضاوتونه او اټکلونه ناسم خېژي.
-# translit = żë́ka pë dấse bexabarë́y ke qazâwatúna aw aṭkalúna nâsám xeží. 
+# translit = żë́ka pë dấse bexabarë́y ke qazâwatúna aw aṭkalúna nâsám xeží.
 # text_en = Because judgments and assumptions are wrong in such ignorance.
 # transliter = żkh ph dase bexbrý ke qŹawtwnh aw aṭklwnh nasm xeži.				_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
 # transcript =				_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
@@ -2212,7 +2212,7 @@
 
 # sent_id = pnt-47-23.1
 # text = په پښتو کې هم بايد د نورو هېوادونو د ټولنیزو اړيکو او ټولنیزو دودونو اړوند کتابونه راوژباړل شي.
-# translit = pë pax̌tó ke ham bâyád dë nóro hewâdúno dë ṭolanízo aṛíko aw ṭolanízo dodúno aṛúnd kitâbúna râwë́žbâṛël ši. 
+# translit = pë pax̌tó ke ham bâyád dë nóro hewâdúno dë ṭolanízo aṛíko aw ṭolanízo dodúno aṛúnd kitâbúna râwë́žbâṛël ši.
 # text_en = Books related to social relations and social traditions of other countries should also be translated into Pashto.
 1	په	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	17	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
@@ -2236,7 +2236,7 @@
 
 # sent_id = pnt-48-23.2
 # text = په دې توګه به هم د نورو هېوادونو له ټولنیزو تجربو څخه ګټه اخیستلاى شو، هم به د یوې داسې نوې ټولنې بنسټ ايښوولاى شو، چې د نېکمرغۍ او سعادت لپاره يې په خپله هڅه کوو.
-# translit = pë de tóga bë ham dë nóro hewâdúno la ṭolanízo taǰrúbo cë́xa gáṭa axistë́lây šu, ham bë dë yawé dấse në́we ṭolë́ne bansë́ṭ ix̌owë́lây šu, če dë nekmërġë́y aw saâdát lapấra ye pë xpë́la háca kawú. 
+# translit = pë de tóga bë ham dë nóro hewâdúno la ṭolanízo taǰrúbo cë́xa gáṭa axistë́lây šu, ham bë dë yawé dấse në́we ṭolë́ne bansë́ṭ ix̌owë́lây šu, če dë nekmërġë́y aw saâdát lapấra ye pë xpë́la háca kawú.
 # text_en = In this way, we will be able to benefit from the social experiences of other countries, and we will be able to lay the foundation of a new society, for whose happiness and prosperity we will try our best.
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	دې	دا	DET	_	Case=Loc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	3	det	_	Translit=de|LTranslit=dâ|Gloss=this
@@ -2280,7 +2280,7 @@
 
 # sent_id = pnt-49-24.1
 # text = دا چې پښتو دومره وروسته پاتې ده او په نړۍ، يا نورو ملتونو کې دومره مطرح نه ده، وجه يې همدا ده چې ټولنیزې اړيکې يې کمزورې دي، تر اوسه د پښتنو د ټولنیزو چارو کوم اړوند کتاب په انګرېزۍ نه دى ژباړل شوى، چې نړۍ يې ولولي او ځان پرې خبر کړي.
-# translit = dâ če pax̌tó dúmra wrústa pấte da aw pë naṛë́y, yâ nóro milatúno ke dúmra matráh në da, wáǰa ye hamdấ da če ṭolaníze aṛíke ye kamzóre di, tër ósa dë pëx̌táno dë ṭolanízo čâró kum aṛúnd kitấb pë angrezë́y në dëy žbâṛë́l šë́way, če naṛë́y ye wë́lwali aw żân pre xabár kṛi. 
+# translit = dâ če pax̌tó dúmra wrústa pấte da aw pë naṛë́y, yâ nóro milatúno ke dúmra matráh në da, wáǰa ye hamdấ da če ṭolaníze aṛíke ye kamzóre di, tër ósa dë pëx̌táno dë ṭolanízo čâró kum aṛúnd kitấb pë angrezë́y në dëy žbâṛë́l šë́way, če naṛë́y ye wë́lwali aw żân pre xabár kṛi.
 # text_en = The reason that Pashto is so backward and is not discussed in the world or other nations is because its social relations are weak. So far, no book related to Pashtun social affairs has been translated into English for the world to read and inform itself about.
 1	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Short	21	det	_	Translit=dâ|LTranslit=dâ|Gloss=this
 2	چې	چې	SCONJ	_	_	6	mark	_	Translit=če|LTranslit=če|Gloss=that
@@ -2345,7 +2345,7 @@
 
 # sent_id = pnt-50-24.2
 # text = له همدې کبله زيات پښتوضد او پښتون ضد کسان چې یوه موخه يې د پیسو ګټل وي، د افغاني ټولنې ارزښتونو، دود او روايتونو ته پام نه کړي، راولاړېږي او داسې فلمونه جوړوي، يا داسې مطبوعاتي خپرونې کوي، چې په افغانستان کې نه وېشل کېږي، بلکې امريکا يا نورو هېوادونو ته لېږل کېږي او هلته خپرېږي.
-# translit = la hamdé kabála zyât pax̌tózid aw pax̌tún zid kasấn če yawá móxa ye dë paysó gaṭë́l wi, dë afġâní ṭolë́ne arzëx̌túno, dod aw rawâyatúno ta pâm në kṛi, râwalâṛeǧí aw dấse filmúna ǰoṛawí, yâ dấse matboâtí xpërawë́ne kawí, če pë afġânistấn ke në wešë́l keǧí, balké amrikấ yâ nóro hewâdúno ta leǧë́l keǧí aw hálta xpareǧí. 
+# translit = la hamdé kabála zyât pax̌tózid aw pax̌tún zid kasấn če yawá móxa ye dë paysó gaṭë́l wi, dë afġâní ṭolë́ne arzëx̌túno, dod aw rawâyatúno ta pâm në kṛi, râwalâṛeǧí aw dấse filmúna ǰoṛawí, yâ dấse matboâtí xpërawë́ne kawí, če pë afġânistấn ke në wešë́l keǧí, balké amrikấ yâ nóro hewâdúno ta leǧë́l keǧí aw hálta xpareǧí.
 # text_en = For this reason, many anti-Pashto and anti-Pashtun people, whose one goal is to make money, without paying attention to the values, traditions and narratives of the Afghan society, come up and make such films, or make such press releases, which are not distributed in Afghanistan, but are sent to America or other countries and spread there.
 1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
 2	همدې	همدې	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Translit=hamdé|LTranslit=hamdé|Gloss=this
@@ -2417,7 +2417,7 @@
 
 # sent_id = pnt-51-24.3
 # text = دغسې یو فلم په کابل کې د ايینې دفتر له خوا جوړ شوى و، دغه مرکز د فرانسويانو له خوا حمايه کېږي، لويه موخه يې همدا ده چې غیردولتي خپرونو ته مالي لګښت ورکړي او نورې هنري چارې ترسره کړي.
-# translit = dáġase yaw film pë kâbë́l ke dë âyiné daftár la xwâ ǰoṛ šë́way wë, dáġa markáz dë frânswyấno la xwâ himâyá keǧí, lóya móxa ye hamdấ da  če ġayridawlatí xpërawë́no ta mâlí lagë́x̌t wárkṛi aw nóre hunarí čâré tërsára kṛi. 
+# translit = dáġase yaw film pë kâbë́l ke dë âyiné daftár la xwâ ǰoṛ šë́way wë, dáġa markáz dë frânswyấno la xwâ himâyá keǧí, lóya móxa ye hamdấ da  če ġayridawlatí xpërawë́no ta mâlí lagë́x̌t wárkṛi aw nóre hunarí čâré tërsára kṛi.
 # text_en = Such a film was made by Aina Office in Kabul. This center is supported by the French. Its main purpose is to provide financial expenses to non-governmental broadcasts and to carry out other artistic activities.
 1	دغسې	دغسې	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=like-that
 2	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	3	nummod	_	Translit=yaw|LTranslit=yaw|Gloss=one
@@ -2465,7 +2465,7 @@
 
 # sent_id = pnt-52-24.4
 # text = دوى د اسامه په نامه یو فلم جوړ کړى، چې یوه افغانه ماشومه يې په کې انځور کړې ده، منفي کرکټرونه يې ټول پښتانه دي، چې په پښتو خبرې کوي.
-# translit = duy dë usấma pë nâmë́ yaw film ǰoṛ kë́ṛay, če yawá afġấna mâšúma ye pë ke anżúr kë́ṛe da, manfí karëkṭarúna ye ṭol pëx̌tânë́ di, če pë pax̌tó xabë́re kawí. 
+# translit = duy dë usấma pë nâmë́ yaw film ǰoṛ kë́ṛay, če yawá afġấna mâšúma ye pë ke anżúr kë́ṛe da, manfí karëkṭarúna ye ṭol pëx̌tânë́ di, če pë pax̌tó xabë́re kawí.
 # text_en = They made a movie called Osama, in which an Afghan girl was portrayed. The negative characters are all Pashtuns who speak Pashto.
 1	دوى	دوى	PRON	_	Case=Nom|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Translit=duy|LTranslit=duy|Gloss=they
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -2504,7 +2504,7 @@
 
 # sent_id = pnt-53-24.5
 # text = سم او په اصطلاح ملايکې وروڼه ټول د نورو ژبو ویونکي دي.
-# translit = sam aw pë istilấh malấyike wrúṇa ṭol dë nóro žë́bo wayúnki di. 
+# translit = sam aw pë istilấh malấyike wrúṇa ṭol dë nóro žë́bo wayúnki di.
 # text_en = The right and the so-called angelic brothers are all speakers of other languages.
 1	سم	سم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	amod	_	Translit=sam|LTranslit=sam|Gloss=right
 2	او	او	CCONJ	_	_	5	cc	_	Translit=aw|LTranslit=aw|Gloss=and
@@ -2522,7 +2522,7 @@
 
 # sent_id = pnt-54-25.1
 # text = دغسې یوه بله بېلګه Escape from Taliban [له طالبانو تېښته] نومى هندى فلم دى، چې په دې وروستیو کې خپور شو، په دې فلم کې هم د پښتنو پر ټولنیزو ارزښتونو ملنډې وهل شوي، د دوى ټولنیزو ارزښتونه او دودونه منفي معرفي شوي، حال دا چې زيات پښتني-کلتوري ارزښتونه له اسلامي ارزښتونو سره غاړه غړۍ دي.
-# translit = dáġase yawá bë́la bélga Escape from Taliban [la tâlibấno téx̌ta] númay hindí film dëy, če pë de wrustë́yo ke xpor šu, pë de film ke ham dë pëx̌tanó për ṭolanízo arzëx̌túno malánḍe wahë́l šë́wi, dë duy ṭolanízo arzëx̌túna aw dodúna manfí marefí šë́wi, hâl dâ če zyât pëx̌taní-kulturí arzëx̌túna la islâmí arzëx̌túno sará ġấṛa ġëṛë́y di. 
+# translit = dáġase yawá bë́la bélga Escape from Taliban [la tâlibấno téx̌ta] númay hindí film dëy, če pë de wrustë́yo ke xpor šu, pë de film ke ham dë pëx̌tanó për ṭolanízo arzëx̌túno malánḍe wahë́l šë́wi, dë duy ṭolanízo arzëx̌túna aw dodúna manfí marefí šë́wi, hâl dâ če zyât pëx̌taní-kulturí arzëx̌túna la islâmí arzëx̌túno sará ġấṛa ġëṛë́y di.
 # text_en = Another example is the Indian movie called Escape from Taliban, which was released recently. In this movie, the social values ​​of the Pashtuns were mocked, and their social values ​​and traditions were negatively introduced, in fact, many Pashtun-cultural values ​​are closely related to Islamic values
 1	دغسې	دغسې	DET	_	Dexis=Prox|PronType=Dem	4	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=similar
 2	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	4	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
@@ -2592,7 +2592,7 @@
 
 # sent_id = pnt-55-25.2
 # text = که چېرې پښتنو د خپلو ټولنیزو ارزښتونو د ځلولو او خپرولو وسیلې لرلاى، يا يې لږ تر لږه د نورو هېوادونو ټولنیز ارزښتونه په پښتو يا د پښتنو ټولنیزو ارزښتونه په نورو ژبو ژباړلاى، نن به د دغسې خرافاتو او لارورکوونکو هنرونو مخه هم نیول کېداى شواى.
-# translit = kë čére pëx̌tanó dë xpë́lo ṭolanízo arzëx̌túno dë żëlawë́lo aw xparawë́lo wasilé larë́lây, yâ ye lëǧ tër lë́ǧa dë nóro hewâdúno ṭolaníz arzëx̌túna pë pax̌tó yâ dë pëx̌tanó ṭolanízo arzëx̌túna pë nóro žë́bo žbâṛë́lây, nën bë dë dáġase xirâfấto aw lârwrëkawúnko hunarúno më́xa ham niwë́l kedấy šwây. 
+# translit = kë čére pëx̌tanó dë xpë́lo ṭolanízo arzëx̌túno dë żëlawë́lo aw xparawë́lo wasilé larë́lây, yâ ye lëǧ tër lë́ǧa dë nóro hewâdúno ṭolaníz arzëx̌túna pë pax̌tó yâ dë pëx̌tanó ṭolanízo arzëx̌túna pë nóro žë́bo žbâṛë́lây, nën bë dë dáġase xirâfấto aw lârwrëkawúnko hunarúno më́xa ham niwë́l kedấy šwây.
 # text_en = If Pashtuns had the tools to emphasize and spread their social values ​​or at least translate the social values ​​of other countries into Pashto or the social values ​​of Pashtuns into other languages, it would be possible to prevent such myths and deceptive arts today.
 1	که	کۀ	SCONJ	_	_	14	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 2	چېرې	چېرې	ADV	_	_	14	advmod	_	Translit=čére|LTranslit=čére|Gloss=where
@@ -2612,7 +2612,7 @@
 15	،		PUNCT	_	_	25	punct	_	Translit=,|LTranslit=|Gloss=,
 16	يا	يا	CCONJ	_	_	25	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	25	nsubj	_	Translit=ye|LTranslit=ye|Gloss=it
-18	لږ	لږ	ADV	_	Case=Nom|Gender=Masc|Number=Sing	25	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
+18	لږ	لږ	ADV	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	25	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
 19	تر	تر	ADP	_	Case=Abl	20	case	_	Translit=tër|LTranslit=tër|Gloss=until
 20	لږه	لږه	ADV	_	Case=Abl|Gender=Masc|Number=Sing	18	fixed	_	Translit=lë́ǧa|LTranslit=lë́ǧa|Gloss=little
 21	د	د	ADP	_	Case=Acc	23	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -2643,13 +2643,13 @@
 46	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	48	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
 47	هم	هم	ADV	_	_	48	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 48	نیول	نیول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=niwë́l|LTranslit=niwë́l|Gloss=catch
-49	کېداى	کېدل	AUX	_	Aspect=Imp|Mood=Pot|Variant=Short|VerbForm=Fin	48	aux:pass	_	Translit=kedấy|LTranslit=kedë́l|Gloss=could 
+49	کېداى	کېدل	AUX	_	Aspect=Imp|Mood=Pot|Variant=Short|VerbForm=Fin	48	aux:pass	_	Translit=kedấy|LTranslit=kedë́l|Gloss=could
 50	شواى	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	48	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=happen|SpaceAfter=No
 51	.		PUNCT	_	_	48	punct	_	Translit=.|LTranslit=|Gloss=.
 
 # sent_id = pnt-56-26.1
 # text = د دې لپاره چې ايرانیان په خپل ټولنیز ژوند کې له کومې ممکنه ستونزې او ورکاوي سره مخ نه شي، نو اکثره بروشرونه، خبري پاڼې او اعلانونه د هغوى په خپله ژبه ژباړل شوي، ان پر داروګانو، تولیدي توکو او نورو محصولاتو هم په ايرانۍ ژبې لیکنې شته، چې د هغوى یو ماشوم هم پرې پوهېږي، ايرانیان دې ته نه مجبورېږي چې ويیپانګه ورپسې راواخلي، يا هم بله ژبه ورپسې زده کړي.
-# translit = dë de lapấra če irânyấn pë xpël ṭolaníz žwand ke la kúme mumkína stúnze aw wrëkấwi sará mëx në ši, no aksára brošërúna, xabërí pấṇe aw ilânúna dë haġúy pë xpë́la žë́ba žbâṛë́l šë́wi, ân për dârugấno, tawlidí tóko aw nóro mahsulấto ham pë irânë́y žë́be likë́ne šta, če dë haġúy yaw mâšúm ham pre poheǧí, irânyấn de ta në maǰbureǧí če wëyípânga warpësé râwấxli, yâ ham bë́la žë́ba warpësé zda kṛi. 
+# translit = dë de lapấra če irânyấn pë xpël ṭolaníz žwand ke la kúme mumkína stúnze aw wrëkấwi sará mëx në ši, no aksára brošërúna, xabërí pấṇe aw ilânúna dë haġúy pë xpë́la žë́ba žbâṛë́l šë́wi, ân për dârugấno, tawlidí tóko aw nóro mahsulấto ham pë irânë́y žë́be likë́ne šta, če dë haġúy yaw mâšúm ham pre poheǧí, irânyấn de ta në maǰbureǧí če wëyípânga warpësé râwấxli, yâ ham bë́la žë́ba warpësé zda kṛi.
 # text_en = In order for Iranians not to face any possible problems or shortcomings in their social life, most brochures, newspapers, and advertisements are translated into their own language. Even medicines, manufactured goods, and other products have inscriptions in Iranian, which even their child can understand. Iranians are not forced to take a dictunary for it or learn another language.
 1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
 2	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem|Variant=Short	35	obl	_	Translit=de|LTranslit=dâ|Gloss=this
@@ -2740,7 +2740,7 @@
 
 # sent_id = pnt-57-26.2
 # text = ټلويزیون، راډیو او ځینې نور ټلويزیوني چینلونه هم په پاړسۍ ژبه دي، چې د ايران لپاره خپرونې کوي.
-# translit = ṭëlwizyún, râḍyó aw żíne nor ṭëlwizyuní čaynalúna ham pë pâṛsë́y žë́ba di, če dë irấn lapấra xpërawë́ne kawí. 
+# translit = ṭëlwizyún, râḍyó aw żíne nor ṭëlwizyuní čaynalúna ham pë pâṛsë́y žë́ba di, če dë irấn lapấra xpërawë́ne kawí.
 # text_en = Television, radio and some other television channels are also in Farsi language, which broadcast for Iran.
 1	ټلويزیون	ټلويزیون	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Translit=ṭëlwizyún|LTranslit=ṭëlwizyún|Gloss=television|SpaceAfter=No
 2	،	،	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -2766,7 +2766,7 @@
 
 # sent_id = pnt-58-26.3
 # text = له دې کبله نه ايرانى ولس په دې برخه کې کومه ستونزه لري، نه يې هم ماشومان خپله ملي او رسمي ژبه هېروي، بلکې د ملت جوړونې پروسه يې هم په ښه روانه ده او برياوې يې هم خورا زياتې دي.
-# translit = la de kabála në irânáy wulë́s pë de bárxa ke kúma stúnza larí, në ye ham mâšumấn xpë́la milí aw rasmí žë́ba herawí, balké dë milát ǰoṛawë́ne përosá ye ham pë x̌a rawấna da aw baryấwe ye ham xwarấ zyấte di. 
+# translit = la de kabála në irânáy wulë́s pë de bárxa ke kúma stúnza larí, në ye ham mâšumấn xpë́la milí aw rasmí žë́ba herawí, balké dë milát ǰoṛawë́ne përosá ye ham pë x̌a rawấna da aw baryấwe ye ham xwarấ zyấte di.
 # text_en = For this reason, the Iranian people do not have any problem in this regard, nor do their children forget their national and official language, rather, the process of nation building is going on well and its successes are many.
 1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
 2	دې	دا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	3	det	_	Translit=de|LTranslit=dâ|Gloss=this
@@ -2817,7 +2817,7 @@
 
 # sent_id = pnt-59-27.1
 # text = په ټولنیز ژوند کې ژبه هغه وخت غوره رول او خپل بشپړ مسئولیت ترسره کولاى شي، چې پوهاوى- راپوهاوى پرې اسانه وي.
-# translit = pë ṭolaníz žwand ke žë́ba háġa waxt ġwë́ra rol aw xpël bë́špëṛ mas'ulyát tërsára kawë́lây ši, če pohấway- râpohấway pre âsấna wi. 
+# translit = pë ṭolaníz žwand ke žë́ba háġa waxt ġwë́ra rol aw xpël bë́špëṛ mas'ulyát tërsára kawë́lây ši, če pohấway- râpohấway pre âsấna wi.
 # text_en = Language can reach a great role and full responsibility in social life when it is easy to understand.
 1	په	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	ټولنیز	ټولنیز	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
@@ -2837,7 +2837,7 @@
 16	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 17	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
 18	چې	چې	SCONJ	_	_	24	mark	_	Translit=če|LTranslit=če|Gloss=when
-19	پوهاوى	پوهاوى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	?	???	_	Translit=pohấway|LTranslit=pohấway|Gloss=explanation|SpaceAfter=No
+19	پوهاوى	پوهاوى	NOUN	_	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Sing	?	???	_	Translit=pohấway|LTranslit=pohấway|Gloss=explanation|SpaceAfter=No
 20	-	-	PUNCT	_	_	19	punct	_	Translit=-|LTranslit=-|Gloss=-
 21	راپوهاوى	راپوهاوى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	fixed	_	Translit=râpohấway|LTranslit=râpohấway|Gloss=understanding
 22-23	پرې	_	_	_	_	_	_	_	Lemma=پرې|Translit=pre|LTranslit=pre|Gloss=on-it
@@ -2849,7 +2849,7 @@
 
 # sent_id = pnt-60-27.2
 # text = همدغه راز ښه زېرمه او بنسټ ولري، که چېرې ژبه د ژباړې په برخه کې بهرنى ملاتړ ونه لري او ځواک ورکوونکې سرچینه يې کمزورې وي، امکان لري، خلک د یو بل د پوهونې لپاره د نورو ژبو له ادبي، هنري او ټولنیزو ويیونو څخه کار واخلي، خو که چېرې یوه ژبه د خلکو ټولې ژبنۍ اړتیاوې ځوابولاى شي، خلکو ته هم هوسايي وربخښي، د دې ترڅنګ د ټولنیز ژوند نظام هم روغ او رمټ پاتېږي.
-# translit = hamdáġa râz x̌a zérma aw bansë́ṭ wë́lari, kë čére žë́ba dë žbấṛe pë bárxa ke bahranáy mlâtáṛ wënë́ larí aw żwâk wërkawúnke sarčiná ye kamzóre wi, imkấn larí, xalk dë yaw bël dë pohawë́ne lapấra dë nóro žë́bo la adabí, hunarí aw ṭolanízo wiyúno cë́xa kâr wấxli, xo kë čére yawá žë́ba dë xálko ṭóle žëbanë́y aṛtyấwe żawâbawë́lây ši, xálko ta ham hosâyí wërbaxx̌í, dë de tërcáng dë ṭolaníz žwand nizấm ham roġ aw ramë́ṭ pâteǧí. 
+# translit = hamdáġa râz x̌a zérma aw bansë́ṭ wë́lari, kë čére žë́ba dë žbấṛe pë bárxa ke bahranáy mlâtáṛ wënë́ larí aw żwâk wërkawúnke sarčiná ye kamzóre wi, imkấn larí, xalk dë yaw bël dë pohawë́ne lapấra dë nóro žë́bo la adabí, hunarí aw ṭolanízo wiyúno cë́xa kâr wấxli, xo kë čére yawá žë́ba dë xálko ṭóle žëbanë́y aṛtyấwe żawâbawë́lây ši, xálko ta ham hosâyí wërbaxx̌í, dë de tërcáng dë ṭolaníz žwand nizấm ham roġ aw ramë́ṭ pâteǧí.
 # text_en = Similarly, when it has good resource and foundation, if the language does not have external support in terms of translation and its source of strength is weak, it is possible for people to use literary, artistic and social expressions of other languages ​​to educate each other. But if a language can meet all the linguistic needs of the people, it provides comfort to the people, besides this, the social life system will also remain healthy and stable.
 1	همدغه	همدغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem	2	det	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=same
 2	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	Translit=râz|LTranslit=râz|Gloss=way
