@@ -600,8 +600,8 @@
 # text = که څه هم د اردو ژبې تاريخي قدامت ډېر لږ دى، خو اوس د انټرنټ او کمپیوټر ژبه ده، ګڼ شمېر ویونکي لري او د نړۍ له مهمو ژبو څخه ګڼل کېږي.
 # translit = kë cë ham dë urdú žë́be târixí qadâmát ḍer lëǧ dëy, xo os dë inṭernéṭ aw kampyuṭár žë́ba da, gaṇ šmer wayúnki larí aw dë naṛë́y la muhímo žë́bo cë́xa gaṇë́l keǧí.
 # text_en = Although the ancient works in Urdu are very few, now it is the language of the Internet and computers, it has many speakers and is considered as one of the important languages ​​of the world.
-1	که	کۀ	SCONJ	_	_	10	mark	_	Translit=kë|LTranslit=kë|Gloss=if
-2	څه	څۀ	PRON	_	Animacy=Nhum|ExtPos=SCONJ|PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
+1	که	کۀ	SCONJ	_	ExtPos=SCONJ	10	mark	_	Translit=kë|LTranslit=kë|Gloss=if
+2	څه	څۀ	PRON	_	Animacy=Nhum|PronType=Int	1	fixed	_	Translit=cë|LTranslit=cë|Gloss=what
 3	هم	هم	ADV	_	_	1	fixed	_	Translit=ham|LTranslit=ham|Gloss=also
 4	د	د	ADP	_	Case=Acc	6	case	_	Translit=dë|LTranslit=dë|Gloss=of
 5	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
@@ -1612,15 +1612,15 @@
 19	دې	دې	PART	_	_	20	advmod	_	Translit=de|LTranslit=de|Gloss=should
 20	وکولاى	کول	VERB	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	15	conj	_	Translit=wë́kawëlây|LTranslit=kawë́l|Gloss=could
 21	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	20	aux	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-22	،	،	PUNCT	_	_	41	punct	_	Translit=,|LTranslit=,|Gloss=,
-23	بلکې	بلکې	CCONJ	_	_	41	cc	_	Translit=bálke|LTranslit=bálke|Gloss=but
+22	،	،	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,|Gloss=,
+23	بلکې	بلکې	CCONJ	_	_	42	cc	_	Translit=bálke|LTranslit=bálke|Gloss=but
 24	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	30	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 25	که	کۀ	SCONJ	_	_	30	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 26	په	پۀ	ADP	_	Case=Loc	28	case	_	Translit=pë|LTranslit=pë|Gloss=at
 27	هره	هر	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	28	det	_	Translit=hára|LTranslit=har|Gloss=every
 28	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	30	obl	_	Translit=tóga|LTranslit=tóga|Gloss=manner
 29	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	30	obj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
-30	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	advcl	_	Translit=kawí|LTranslit=kawë́l|Gloss=does
+30	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	Translit=kawí|LTranslit=kawë́l|Gloss=does
 31	او	او	CCONJ	_	_	38	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 32	د	د	ADP	_	Case=Acc	33	case	_	Translit=dë|LTranslit=dë|Gloss=of
 33	ودې	وده	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=wáde|LTranslit=wáda|Gloss=growth
@@ -1972,7 +1972,7 @@
 15	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	17	xcomp	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 16	نه	نۀ	PART	_	Polarity=Neg	17	advmod	_	Translit=në|LTranslit=në|Gloss=not
 17	شي	کېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	acl	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-18	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
+18	،	،	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,|Gloss=,
 19	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
 20	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	19	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
 21	هم	هم	ADV	_	_	22	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
@@ -2377,7 +2377,7 @@
 28	پام	پام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	obj	_	Translit=pâm|LTranslit=pâm|Gloss=attention
 29	نه	نۀ	PART	_	Polarity=Neg	30	advmod	_	Translit=në|LTranslit=në|Gloss=not
 30	کړي	کول	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-31	،	،	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,|Gloss=,
+31	،	،	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,|Gloss=,
 32	راولاړېږي	راولاړېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=râwalâṛeǧí|LTranslit=râwalâṛedë́l|Gloss=comes-up
 33	او	او	CCONJ	_	_	37	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 34	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	35	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
