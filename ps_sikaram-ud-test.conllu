@@ -108,12 +108,12 @@
 # text = مریم برونز، پیتر سپین زر او جانې سرۀ زر وګټله.
 # translit = maryám bronz, pitr spin zar aw jấne srë zar wë́gaṭëla.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
-1	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root:orphannsubj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
-2	برونز	برونز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	orphan:obj	_	Translit=bronz|LTranslit=bronz|Gloss=bronze|SpaceAfter=No
+1	مریم	مریم	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
+2	برونز	برونز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	orphan:nsubjobj	_	Translit=bronz|LTranslit=bronz|Gloss=bronze|SpaceAfter=No
 3	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
-4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	conj:orphannsubj	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
+4	پیتر	پیتر	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
 5	سپین	سپین	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Translit=spin|LTranslit=spin|Gloss=white
-6	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	orphan:obj	_	Translit=zar|LTranslit=zar|Gloss=metal
+6	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	orphan:nsubjobj	_	Translit=zar|LTranslit=zar|Gloss=metal
 7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 8	جانې	جانه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nsubj	_	Translit=jấne|LTranslit=ǰấna|Gloss=Jane
 9	سرۀ	سرۀ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Translit=srë|LTranslit=srë|Gloss=yellow
@@ -198,10 +198,10 @@
 2	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car
 3	واخيستۀ	اخيستل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wấxistë|LTranslit=axistë́l|Gloss=bought
 4	مګر	مګر	CCONJ	_	_	5	cc	_	Translit=magár|LTranslit=magár|Gloss=but
-5	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj:orphannsubj	_	Translit=wror|LTranslit=wror|Gloss=brother
+5	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Translit=wror|LTranslit=wror|Gloss=brother
 6	یې	یې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	5	nmod	_	Translit=ye|LTranslit=ye|Gloss=his
 7	یوازې	یوازې	ADV	_	_	8	advmod	_	Translit=yawấze|LTranslit=yawấze|Gloss=only
-8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:obj	_	Translit=bâysíkl|LTranslit=bâysíkl|Gloss=bicycle|SpaceAfter=No
+8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:nsubjobj	_	Translit=bâysíkl|LTranslit=bâysíkl|Gloss=bicycle|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 # sent_id = cairo-16
@@ -326,7 +326,7 @@
 6	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
 7	یوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	9	nummod	_	Translit=yawé|LTranslit=yaw|Gloss=one
 8	سترې	ستر	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	Translit=stë́re|LTranslit=stër|Gloss=great
-9	روزونکې	روزول	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	13	nmod	_	Translit=rozawúnke|LTranslit=rozawë́l|Gloss=trainer
+9	روزونکې	روزول	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	Translit=rozawúnke|LTranslit=rozawë́l|Gloss=trainer
 10	او	او	CCONJ	_	_	9	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 11	مرستیالې	مرستیالی	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	Translit=mrastyấle|LTranslit=mrastyấlay|Gloss=helper
 12	په	پۀ	ADP	_	Case=Loc	13	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -1304,7 +1304,7 @@
 # transcript =				_	_			_	Translit=:|LTranslit=:|Gloss=|SpaceAfter=No
 1	نو	نو	ADV	_	_	6	advmod	_	Translit=no|LTranslit=no|Gloss=then
 2	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-3	به	بۀ	AUX	_	Mood=Fut	6	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=will
+3	به	بۀ	AUX	_	Tense=Fut	6	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=will
 4	څنګه	څنګه	ADV	_	_	6	advmod	_	Translit=cë́nga|LTranslit=cë́nga|Gloss=how
 5	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
 6	وکړي	کول	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Long|VerbForm=Fin	0	root	_	Translit=wë́kṛi|LTranslit=kawë́l|Gloss=does|SpaceAfter=No
@@ -1495,7 +1495,7 @@
 11	دي	ول	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=di|LTranslit=wël|Gloss=are|SpaceAfter=No
 12	،	،	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,|Gloss=,
 13	غوره	غوره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=ġwë́ra|LTranslit=ġwë́ra|Gloss=great
-14	به	بۀ	AUX	_	Mood=Fut	13	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=would
+14	به	بۀ	AUX	_	Tense=Fut	13	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=would
 15	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	13	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
 16	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	13	cop	_	Translit=wi|LTranslit=wël|Gloss=be|SpaceAfter=No
 17	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -2147,14 +2147,14 @@
 
 # sent_id = pnt-45-22.2
 # text = که چېرې په یوه ژبه کې د نورو ملتونو، د دودونو، کلتور او پوهنیزو هـڅو په اړه لیکنې او مواد نه وي موجود. نو په دغسې بېخبرۍ کې هر فعالیت، کار و زيار بشپړه پايله نه ورکوي.
-# translit = kë čére pë yawá žë́ba ke dë nóro milatúno, dë dodúno, kultúr aw pohanízo háco pë áṛa likë́ne aw mawấd në wi mawǰúd. no pë dáġase bexabarë́y ke har faâlyát, kâr wë zyâr bëšpë́ṛa pấyla në warkawí.
+# translit = kë čére pë yawá žë́ba ke dë nóro milatúno, dë dodúno, kultúr aw pohanízo háco pë áṛa likë́ne aw mawấd në wi mawǰúd. no pë dáġase bexabarë́y ke har faâlyát , kâr wë zyâr bëšpë́ṛa pấyla në warkawí .
 # text_en = If there is no material about the traditions, culture and educational efforts of other nations in a language, then, in such ignorance, every activity, work and effort does not give full results.
 1	که	کۀ	SCONJ	_	_	25	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 2	چېرې	چېرې	ADV	_	_	25	advmod	_	Translit=čére|LTranslit=čére|Gloss=somewhere
-3	په	پۀ	ADP	_	Case=Loc	6	case	_	Translit=pë|LTranslit=pë|Gloss=at
-4	یوه	یو	NUM	_	Case=Loc|Gender=Fem|NumType=Card	6	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
+3	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
+4	یوه	یو	NUM	_	Case=Loc|Gender=Fem|NumType=Card	5	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 5	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	25	obl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-6	کې	کې	ADP	_	Case=Loc	6	case	_	Translit=ke|LTranslit=ke|Gloss=in
+6	کې	کې	ADP	_	Case=Loc	5	case	_	Translit=ke|LTranslit=ke|Gloss=in
 7	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
 8	نورو	نور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
 9	ملتونو	ملت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	Translit=milatúno|LTranslit=milát|Gloss=nations|SpaceAfter=No
@@ -2181,7 +2181,7 @@
 30	بېخبرۍ	بېخبري	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	41	obl	_	Translit=bexabarë́y|LTranslit=bexabarí|Gloss=ignorance
 31	کې	کې	ADP	_	Case=Loc	30	case	_	Translit=ke|LTranslit=ke|Gloss=in
 32	هر	هر	DET	_	Case=Nom|Gender=Masc|PronType=Tot	33	det	_	Translit=har|LTranslit=har|Gloss=every
-33	فعالیت	فعالیت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	Translit=faâlyát|LTranslit=faâlyát|Gloss=activity|SpaceAfter=No
+33	فعالیت	فعالیت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	Translit=faâlyát|LTranslit=faâlyát|Gloss=activity
 34	،	،	PUNCT	_	_	35	punct	_	Translit=,|LTranslit=,|Gloss=,
 35	کار	کار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	conj	_	Translit=kâr|LTranslit=kâr|Gloss=work
 36	و	و	CCONJ	_	_	37	cc	_	Translit=wë|LTranslit=wë|Gloss=and
@@ -2189,7 +2189,7 @@
 38	بشپړه	بشپړ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	39	amod	_	Translit=bëšpë́ṛa|LTranslit=bëšpë́ṛ|Gloss=complete
 39	پايله	پايله	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	41	obj	_	Translit=pấyla|LTranslit=pấyla|Gloss=result
 40	نه	نۀ	PART	_	Polarity=Neg	41	advmod	_	Translit=në|LTranslit=në|Gloss=not
-41	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
+41	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=gives
 42	.	.	PUNCT	_	_	41	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 # sent_id = pnt-46-22.3
@@ -2352,9 +2352,9 @@
 3	کبله	کبله	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	32	obl	_	Translit=kabála|LTranslit=kabála|Gloss=reason
 4	زيات	زيات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=zyât|LTranslit=zyât|Gloss=many
 5	پښتوضد	پښتوضد	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=pax̌tózid|LTranslit=pax̌tózid|Gloss=anti-Pashto
-6	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-7	پښتون	پښتون‌ضد	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Translit=pax̌tún|LTranslit=pax̌túnzid|Gloss=anti-Pashtun
-8	ضد		X	_	Typo=Yes	7	goeswith	_	Translit=zid|LTranslit=|Gloss=
+6	او	او	CCONJ	_	_	7	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+7	پښتون	پښتون‌ضد	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	5	conj	_	Translit=pax̌tún|LTranslit=pax̌túnzid|Gloss=anti-Pashtun
+8	ضد		X	_	_	7	goeswith	_	Translit=zid|LTranslit=|Gloss=
 9	کسان	کس	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	32	nsubj	_	Translit=kasấn|LTranslit=kas|Gloss=people
 10	چې	چې	PRON	_	PronType=Rel	12	nmod	_	Translit=če|LTranslit=če|Gloss=who
 11	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	12	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
@@ -2613,15 +2613,15 @@
 16	يا	يا	CCONJ	_	_	25	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	25	nsubj	_	Translit=ye|LTranslit=ye|Gloss=it
 18	لږ	لږ	ADJ	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	25	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
-19	تر	تر	ADP	_	Case=Abl	20	case	_	Translit=tër|LTranslit=tër|Gloss=until
+19	تر	تر	ADP	_	Case=Abl	20	fixed	_	Translit=tër|LTranslit=tër|Gloss=until
 20	لږه	لږه	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	18	fixed	_	Translit=lë́ǧa|LTranslit=lë́ǧa|Gloss=little
 21	د	د	ADP	_	Case=Acc	23	case	_	Translit=dë|LTranslit=dë|Gloss=of
 22	نورو	نور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	23	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
 23	هېوادونو	هېواد	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	Translit=hewâdúno|LTranslit=hewấd|Gloss=countries
 24	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	25	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
-25	ارزښتونه	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	conj:orphanobj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
+25	ارزښتونه	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	conj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
 26	په	پۀ	ADP	_	Case=Loc	27	case	_	Translit=pë|LTranslit=pë|Gloss=to
-27	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	25	orphan:obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
+27	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	25	orphan:objobl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 28	يا	يا	CCONJ	_	_	36	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 29	د	د	ADP	_	Case=Acc	30	case	_	Translit=dë|LTranslit=dë|Gloss=of
 30	پښتنو	پښتون	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	32	nmod	_	Translit=pëx̌tanó|LTranslit=pax̌tún|Gloss=Pashtuns
