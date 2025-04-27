@@ -57,7 +57,7 @@
 1	سامه	سام	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Translit=sấma|LTranslit=sâm|Gloss=Sam|SpaceAfter=No
 2	،	،	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,|Gloss=,
 3	کړکۍ	کړکۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	Translit=këṛkë́y|LTranslit=këṛkë́y|Gloss=window
-4	وازه	واز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	compound:lcv	_	Translit=wấza|LTranslit=wâz|Gloss=open
+4	وازه	واز	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	compound:lvc	_	Translit=wấza|LTranslit=wâz|Gloss=open
 5	کړه	کول	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kṛa|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	_	Translit=!|LTranslit=!|Gloss=!|SpaceAfter=No
 
@@ -68,7 +68,7 @@
 1	هغې	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she
 2	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
 3	مېړۀ	مېړۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=meṛë́|LTranslit=meṛë́|Gloss=husband
-4	اړ	اړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	compound:lcv	_	Translit=aṛ|LTranslit=aṛ|Gloss=necessary
+4	اړ	اړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	compound:lvc	_	Translit=aṛ|LTranslit=aṛ|Gloss=necessary
 5	کړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=këṛ|LTranslit=kawë́l|Gloss=did
 6	چې	چې	SCONJ	_	_	8	mark	_	Translit=če|LTranslit=če|Gloss=that
 7	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car
@@ -160,7 +160,7 @@
 4	هیڅوک	هیڅوک	PRON	_	Animacy=Hum|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
 6-7	پوهېږي	_	_	_	_	_	_	_	Lemma=پوهېدل|Translit=poheǧí|LTranslit=pohedë́l|Gloss=understands
-6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lcv	_	Translit=póha|LTranslit=póha|Gloss=knowledge
+6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=póha|LTranslit=póha|Gloss=knowledge
 7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes
 8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
 9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
@@ -232,7 +232,7 @@
 2	باید	باید	PART	_	_	6	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=must
 3	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
 4	وېښتان	وېښتۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
-5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	compound:lcv	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
+5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
 6	کړي	کول	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=kë́ṛi|LTranslit=kawë́l|Gloss=did
 7	وای	ول	AUX	_	Mood=Pot|VerbForm=Fin	6	aux:past	_	Translit=wây|LTranslit=wël|Gloss=would
 8	مګر	مګر	CCONJ	_	_	19	cc	_	Translit=magár|LTranslit=magár|Gloss=but
@@ -244,7 +244,7 @@
 14	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	19	nsubj	_	Translit=ye|LTranslit=ye|Gloss=she
 15	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	16	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 16	ورځ	ورځ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	Translit=wraż|LTranslit=wraż|Gloss=day
-17	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	compound:lcv	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
+17	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
 18	نۀ	نۀ	PART	_	Polarity=Neg	19	advmod	_	Translit=në|LTranslit=në|Gloss=not
 19	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
@@ -296,7 +296,7 @@
 1	پۀ	پۀ	ADP	_	Case=Loc	2	case	_	Translit=pë|LTranslit=pë|Gloss=at
 2	پاریس	پاریس	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=pârís|LTranslit=pârís|Gloss=Paris
 3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
-4	لویه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	compound:lcv	_	Translit=lóya|LTranslit=loy|Gloss=big
+4	لویه	لوی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	compound:lvc	_	Translit=lóya|LTranslit=loy|Gloss=big
 5	شوې	کېدل	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become
 6	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:perf	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
 7	،	،	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -377,7 +377,7 @@
 8	له	له	ADP	_	Case=Abl	9	case	_	Translit=la|LTranslit=la|Gloss=from
 9	مخې	مخه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	Translit=më́xe|LTranslit=më́xa|Gloss=side
 10	دومره	دومره	ADV	_	_	11	advmod	_	Translit=dúmra|LTranslit=dúmra|Gloss=so-much
-11	ويښ	ويښ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	14	compound:lcv	_	Translit=wix̌|LTranslit=wix̌|Gloss=awake
+11	ويښ	ويښ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	14	compound:lvc	_	Translit=wix̌|LTranslit=wix̌|Gloss=awake
 12	او	او	CCONJ	_	_	13	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 13	هڅاند	هڅاند	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	Translit=hacấnd|LTranslit=hacấnd|Gloss=encouraged
 14	شوي	کېدل	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
@@ -443,7 +443,7 @@
 18	مسوده	مسوده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	Translit=musawída|LTranslit=musawída|Gloss=draft
 19	نه	نۀ	PART	_	Polarity=Neg	21	advmod	_	Translit=në́|LTranslit=në|Gloss=not
 20	وه	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	_	Translit=wa|LTranslit=wël|Gloss=was
-21	چاپ	چاپ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	compound:lcv	_	Translit=čâp|LTranslit=čâp|Gloss=print
+21	چاپ	چاپ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	compound:lvc	_	Translit=čâp|LTranslit=čâp|Gloss=print
 22	شوې	کېدل	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	Translit=šë́we|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 23	،	،	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,|Gloss=,
 24	چې	چې	PRON	_	PronType=Rel	27	nmod	_	Translit=če|LTranslit=če|Gloss=which
