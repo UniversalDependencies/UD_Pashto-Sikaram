@@ -234,7 +234,7 @@
 4	وېښتان	وېښتۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
 5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
 6	کړي	کول	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=kë́ṛi|LTranslit=kawë́l|Gloss=did
-7	وای	ول	AUX	_	Mood=Pot|VerbForm=Fin	6	aux:past	_	Translit=wây|LTranslit=wël|Gloss=would
+7	وای	ول	AUX	_	Mood=Pot|VerbForm=Fin	6	aux	_	Translit=wây|LTranslit=wël|Gloss=would
 8	مګر	مګر	CCONJ	_	_	19	cc	_	Translit=magár|LTranslit=magár|Gloss=but
 9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of
 10	کوم	کوم	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Translit=kum|LTranslit=kum|Gloss=some
@@ -2613,7 +2613,7 @@
 16	يا	يا	CCONJ	_	_	25	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	25	nsubj	_	Translit=ye|LTranslit=ye|Gloss=it
 18	لږ	لږ	ADJ	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	25	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
-19	تر	تر	ADP	_	Case=Abl	20	fixed	_	Translit=tër|LTranslit=tër|Gloss=until
+19	تر	تر	ADP	_	Case=Abl	18	fixed	_	Translit=tër|LTranslit=tër|Gloss=until
 20	لږه	لږه	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	18	fixed	_	Translit=lë́ǧa|LTranslit=lë́ǧa|Gloss=little
 21	د	د	ADP	_	Case=Acc	23	case	_	Translit=dë|LTranslit=dë|Gloss=of
 22	نورو	نور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	23	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
