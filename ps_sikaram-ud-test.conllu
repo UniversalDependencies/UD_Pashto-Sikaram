@@ -1300,8 +1300,8 @@
 # text = نو پښتو به څنګه وده وکړي؟
 # translit = saríza:no pax̌tó bë cë́nga wáda wë́kṛi?
 # text_en = How then will Pashto develop?
-# transliter = nw px̌tw bh cngh wdh wkṛi?				_	_			_	Translit=saríza|LTranslit=saríza|Gloss=|SpaceAfter=No
-# transcript =				_	_			_	Translit=:|LTranslit=:|Gloss=|SpaceAfter=No
+# transliter = nw px̌tw bh cngh wdh wkṛi?		_		_	_			_	Translit=saríza|LTranslit=saríza|Gloss=|SpaceAfter=No
+# transcript =		_		_	_			_	Translit=:|LTranslit=:|Gloss=|SpaceAfter=No
 1	نو	نو	ADV	_	_	6	advmod	_	Translit=no|LTranslit=no|Gloss=then
 2	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 3	به	بۀ	AUX	_	Tense=Fut	6	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=will
@@ -1717,7 +1717,7 @@
 56-57	ورباندې	_	_	_	_	_	_	_	Lemma=ورباندې|Translit=warbấnde|LTranslit=warbấnde|Gloss=on-it
 56	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	59	obl	_	Translit=war|LTranslit=war|Gloss=it
 57	باندې	باندې	ADP	_	Case=Loc	56	case	_	Translit=bấnde|LTranslit=bấnde|Gloss=on
-58	پلې	پلې	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	59	comound:lvc	_	Translit=pále|LTranslit=pále|Gloss=implemented
+58	پلې	پلې	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	59	compound:lvc	_	Translit=pále|LTranslit=pále|Gloss=implemented
 59	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	50	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 60	،	،	PUNCT	_	_	70	punct	_	Translit=,|LTranslit=,|Gloss=,
 61	چې	چې	PRON	_	PronType=Rel	70	nsubj	_	Translit=če|LTranslit=če|Gloss=which
@@ -2196,8 +2196,8 @@
 # text = ځکه په داسې بېخبرۍ کې قضاوتونه او اټکلونه ناسم خېژي.
 # translit = żë́ka pë dấse bexabarë́y ke qazâwatúna aw aṭkalúna nâsám xeží.
 # text_en = Because judgments and assumptions are wrong in such ignorance.
-# transliter = żkh ph dase bexbrý ke qŹawtwnh aw aṭklwnh nasm xeži.				_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
-# transcript =				_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
+# transliter = żkh ph dase bexbrý ke qŹawtwnh aw aṭklwnh nasm xeži.		_		_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
+# transcript =		_		_	_			_	Translit=|LTranslit=|Gloss=|SpaceAfter=No
 1	ځکه	ځکه	SCONJ	_	_	10	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=therefore
 2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
 3	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	4	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
