@@ -93,9 +93,9 @@
 # text = زما پلار ستا له پلار څخه ساعت تېره دﺉ.
 # translit = zmâ plâr stâ la plâr cë́xa sâát téra dëy.
 # text_en = My dad is cooler than yours.
-1	زما	زما	DET	_	Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
+1	زما	زما	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
 2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	ستا	DET	_	Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Translit=stâ|LTranslit=stâ|Gloss=your
+3	ستا	ستا	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=stâ|Gloss=your
 4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
 5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
 6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
@@ -182,7 +182,7 @@
 # text = ستا پۀ نظر کله راتلای شې؟
 # translit = stâ pë nazár kë́la rấtlây še?
 # text_en = When do you think you can come?
-1	ستا	ستا	DET	_	Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Translit=stâ|LTranslit=stâ|Gloss=your
+1	ستا	ستا	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Translit=stâ|LTranslit=stâ|Gloss=your
 2	پۀ	پۀ	ADP	_	Case=Loc	3	case	_	Translit=pë|LTranslit=pë|Gloss=at
 3	نظر	نظر	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=nazár|LTranslit=nazár|Gloss=opinion
 4	کله	کله	ADV	_	_	5	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
@@ -1481,7 +1481,7 @@
 # text = زموږ موخه د ژباړې له اړخه د پښتو پیاوړي کول دي، غوره به دا وي، چې پر نورو خواوو زياتې څرګندونې ونه کړو.
 # translit = zmuǧ múxa dë žbấṛe la áṛxa dë pax̌tó pyâwë́ṛi kawë́l di, ġwë́ra bë dâ wi, če për nóro xwấwo zyấte cërgandawë́ne wënë́ kṛu.
 # text_en = Our aim is to strengthen Pashto in terms of translation, it would be better not to comment on other parties.
-1	زموږ	زموږ	DET	_	Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmuǧ|LTranslit=zmuǧ|Gloss=our
+1	زموږ	زموږ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod	_	Translit=zmuǧ|LTranslit=zmuǧ|Gloss=our
 2	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=múxa|LTranslit=múxa|Gloss=purpose
 3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
 4	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
