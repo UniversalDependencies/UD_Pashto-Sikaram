@@ -303,7 +303,7 @@
 8	فرانسې	فرانسه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	Translit=frânsé|LTranslit=frânsá|Gloss=France
 9	پۀ	پۀ	ADP	_	Case=Loc	10	case	_	Translit=pë|LTranslit=pë|Gloss=at
 10	پلازمېنه	پلازمېنه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	appos	_	Translit=plâzmená|LTranslit=plâzmená|Gloss=capital
-11	کې	کې	ADP	_	Case=Loc	11	case	_	Translit=ke|LTranslit=ke|Gloss=in|SpaceAfter=No
+11	کې	کې	ADP	_	Case=Loc	10	case	_	Translit=ke|LTranslit=ke|Gloss=in|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 # sent_id = pnt-1-1.1
