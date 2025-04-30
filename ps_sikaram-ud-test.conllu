@@ -476,7 +476,7 @@
 12	یوې	یو	NUM	_	Case=Acc|Gender=Fem|NumType=Card	13	nummod	_	Translit=yawé|LTranslit=yaw|Gloss=one
 13	خوا	خوا	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Translit=xwâ|LTranslit=xwâ|Gloss=side
 14	ته	ته	ADP	_	Case=Acc	13	case	_	Translit=ta|LTranslit=ta|Gloss=to
-15	کړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	27	advcl	_	Translit=kṛu|LTranslit=kawë́l|Gloss=we-do|SpaceAfter=No
+15	کړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	advcl	_	Translit=kṛu|LTranslit=kawë́l|Gloss=we-do|SpaceAfter=No
 16	،	،	PUNCT	_	_	27	punct	_	Translit=,|LTranslit=,|Gloss=,
 17	نو	نو	ADV	_	_	27	advmod	_	Translit=no|LTranslit=no|Gloss=then
 18	له	له	ADP	_	Case=Abl	19	case	_	Translit=la|LTranslit=la|Gloss=from
@@ -558,7 +558,7 @@
 4	،	،	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,|Gloss=,
 5	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem	6	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
 6	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-7	نژدې	نژدې	ADJ	_	_	10	advmod	_	Translit=niždé|LTranslit=niždé|Gloss=nearly
+7	نژدې	نژدې	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	advmod	_	Translit=niždé|LTranslit=niždé|Gloss=nearly
 8	په	پۀ	ADP	_	Case=Loc	10	case	_	Translit=pë|LTranslit=pë|Gloss=at
 9	ټوله	ټول	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	10	det	_	Translit=ṭóla|LTranslit=ṭol|Gloss=whole
 10	نړۍ	نړۍ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	Translit=naṛë́y|LTranslit=naṛë́y|Gloss=world
@@ -2286,7 +2286,7 @@
 3	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 4	دومره	دومره	ADV	_	_	6	advmod	_	Translit=dúmra|LTranslit=dúmra|Gloss=so-much
 5	وروسته	وروسته	ADV	_	_	6	advmod	_	Translit=wrústa|LTranslit=wrústa|Gloss=later
-6	پاتې	پاتې	ADJ	_	_	1	acl	_	Translit=pấte|LTranslit=pấte|Gloss=backward
+6	پاتې	پاتې	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	acl	_	Translit=pấte|LTranslit=pấte|Gloss=backward
 7	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=da|LTranslit=wël|Gloss=is
 8	او	او	CCONJ	_	_	17	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 9	په	پۀ	ADP	_	Case=Loc	10	case	_	Translit=pë|LTranslit=pë|Gloss=at
