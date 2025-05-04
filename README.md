@@ -15,7 +15,8 @@ the Pashto-Sikaram treebank contains transliteration of forms and lemmas into La
 
 # Acknowledgments
 
-We thank Salih Mohammad Salih for providing the texts to the treebank and Shah Wali Faryad for helping with the manual annotation.
+We thank Salih Mohammad Salih and Asmatullah Sarwan for providing the texts for the treebank and language consultations.
+We also thank Shah Wali Faryad for helping with the manual annotation.
 
 
 # Changelog
