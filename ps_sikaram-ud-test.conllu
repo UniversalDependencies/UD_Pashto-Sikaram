@@ -4068,8 +4068,8 @@
 # text_en = – In the remote parts of the city, it was visible that people had gathered with each other.
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–|Gloss=–
 2	در	در	X	_	Foreign=Yes	0	root	_	Translit=dar|LTranslit=dar|Gloss=in
-3	قسمت	قسمت‌های	X	_	Foreign=Yes	2	flat:foreign	_	Translit=qesmat|LTranslit=qesmathâye|Gloss=parts
-4	های	_	X	_	_	3	goeswith	_	Translit=hâye|LTranslit=|Gloss=
+3	قسمت	قسمت	X	_	Foreign=Yes	2	flat:foreign	_	Translit=qesmat|LTranslit=qesmat|Gloss=parts
+4	های	های	X	_	Foreign=Yes	2	flat:foreign	_	Translit=hâye|LTranslit=hâye|Gloss=
 5	اخیر	اخیر	X	_	Foreign=Yes	2	flat:foreign	_	Translit=axire|LTranslit=axire|Gloss=remote
 6	شهر	شهر	X	_	Foreign=Yes	2	flat:foreign	_	Translit=šahr|LTranslit=šahr|Gloss=city
 7	ديده	ديده	X	_	Foreign=Yes	2	flat:foreign	_	Translit=dida|LTranslit=dida|Gloss=seen
