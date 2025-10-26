@@ -332,7 +332,7 @@
 13	کچه	کچه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	Translit=káča|LTranslit=káča|Gloss=form
 14	ارزښت	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obj	_	Translit=arzë́x̌t|LTranslit=arzë́x̌t|Gloss=value
 15	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=larí|LTranslit=larë́l|Gloss=has|SpaceAfter=No
-16	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
+16	،	،	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,|Gloss=,
 17	هره	هر	DET	_	Case=Nom|Gender=Fem|PronType=Tot	18	det	_	Translit=hára|LTranslit=har|Gloss=every
 18	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 19	د	د	ADP	_	Case=Acc	20	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -1113,7 +1113,7 @@
 2	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
 3	هېوادونه	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Translit=hewâdúna|LTranslit=hewấd|Gloss=countries
 4	هم	هم	ADV	_	_	5	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-5	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are
+5	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are
 6	چې	چې	PRON	_	PronType=Rel	12	obl	_	Translit=če|LTranslit=če|Gloss=which
 7	څو	څو	DET	_	PronType=Ind	9	det	_	Translit=co|LTranslit=co|Gloss=several
 8	ژوندۍ	ژوندی	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	9	amod	_	Translit=žwandë́y|LTranslit=žwandáy|Gloss=alive
@@ -1272,7 +1272,7 @@
 24	شوې	کېدل	AUX	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	aux:pass	_	Translit=šë́we|LTranslit=kedë́l|Gloss=done|SpaceAfter=No
 25	،	،	PUNCT	_	_	35	punct	_	Translit=,|LTranslit=,|Gloss=,
 26	که	کۀ	SCONJ	_	_	27	mark	_	Translit=kë|LTranslit=kë|Gloss=if
-27	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	Translit=šta|LTranslit=šta|Gloss=there-is|SpaceAfter=No
+27	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	Translit=šta|LTranslit=šta|Gloss=there-is|SpaceAfter=No
 28	،	،	PUNCT	_	_	27	punct	_	Translit=,|LTranslit=,|Gloss=,
 29	هم	هم	ADV	_	_	35	advmod	_	Translit=ham|LTranslit=ham|Gloss=too
 30	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -1575,7 +1575,7 @@
 10	هم	هم	ADV	_	_	12	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 11	زياتې	زيات	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	12	amod	_	Translit=zyấte|LTranslit=zyât|Gloss=more
 12	ستونزې	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	Translit=stúnze|LTranslit=stúnza|Gloss=problems
-13	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are|SpaceAfter=No
+13	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are|SpaceAfter=No
 14	،	،	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,|Gloss=,
 15	چې	چې	SCONJ	_	_	22	mark	_	Translit=če|LTranslit=če|Gloss=that
 16	وروسته	وروسته	ADV	_	_	22	advmod	_	Translit=wrústa|LTranslit=wrústa|Gloss=later
@@ -1692,7 +1692,7 @@
 30	اقدام	اقدام	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	obl	_	Translit=iqdấm|LTranslit=iqdấm|Gloss=action
 31	ته	ته	ADP	_	Case=Acc	30	case	_	Translit=ta|LTranslit=ta|Gloss=to
 32	ضرورت	ضرورت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	Translit=zarurát|LTranslit=zarurát|Gloss=necessity
-33	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Translit=šta|LTranslit=šta|Gloss=there-is|SpaceAfter=No
+33	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Translit=šta|LTranslit=šta|Gloss=there-is|SpaceAfter=No
 34	،	،	PUNCT	_	_	50	punct	_	Translit=,|LTranslit=,|Gloss=,
 35	چې	چې	PRON	_	PronType=Rel	50	nsubj	_	Translit=če|LTranslit=če|Gloss=which
 36	وکولای	کول	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Long|VerbForm=Fin	50	aux:pot	_	Translit=wë́kawëlây|LTranslit=kawë́l|Gloss=could
@@ -2705,7 +2705,7 @@
 49	ايرانۍ	ايرانی	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	50	amod	_	Translit=irânë́y|LTranslit=irânáy|Gloss=Iranian
 50	ژبې	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	51	nmod	_	Translit=žë́be|LTranslit=žë́ba|Gloss=languages
 51	لیکنې	لیکنه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	52	nsubj	_	Translit=likë́ne|LTranslit=likë́na|Gloss=writing
-52	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	35	conj	_	Translit=šta|LTranslit=šta|Gloss=exist|SpaceAfter=No
+52	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	35	conj	_	Translit=šta|LTranslit=šta|Gloss=exist|SpaceAfter=No
 53	،	،	PUNCT	_	_	62	punct	_	Translit=,|LTranslit=,|Gloss=,
 54	چې	چې	SCONJ	_	_	62	mark	_	Translit=če|LTranslit=če|Gloss=that
 55	د	د	ADP	_	Case=Acc	56	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -2997,7 +2997,7 @@
 28	ګام	ګام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=gâm|LTranslit=gâm|Gloss=step
 29	هم	هم	ADV	_	_	28	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 30	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
-31	.	.	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+31	.	.	PUNCT	_	_	28	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 # sent_id = pnt-63-29.2
 # text = په دې برخه کې که کتابونه ژباړل کېږي، نو یوه ستونزه چې زموږ لیکوال ورسره مخ کېږي، هغه په پښتو کې د ځینو پوهنیزو اصطلاحاتو نشتوالی دی.
@@ -3209,12 +3209,12 @@
 42	څخه	څخه	ADP	_	Case=Acc	41	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
 43	هیله	هیله	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	44	obj	_	Translit=híla|LTranslit=híla|Gloss=request
 44	کوو	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	35	conj	_	Translit=kawú|LTranslit=kawë́l|Gloss=we-do
-45	چې	چې	SCONJ	_	_	66	mark	_	Translit=če|LTranslit=če|Gloss=that
+45	چې	چې	SCONJ	_	_	64	mark	_	Translit=če|LTranslit=če|Gloss=that
 46	د	د	ADP	_	Case=Acc	48	case	_	Translit=dë|LTranslit=dë|Gloss=of
 47	مسلکي	مسلکي	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	48	amod	_	Translit=maslakí|LTranslit=maslakí|Gloss=professional
 48	کتابونو	کتاب	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	50	nmod	_	Translit=kitâbúno|LTranslit=kitấb|Gloss=books
 49	د	د	ADP	_	Case=Acc	50	case	_	Translit=dë|LTranslit=dë|Gloss=of
-50	زياتوالي	زياتوالی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	66	obl	_	Translit=zyâtwấli|LTranslit=zyâtwấlay|Gloss=increase
+50	زياتوالي	زياتوالی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	64	obl	_	Translit=zyâtwấli|LTranslit=zyâtwấlay|Gloss=increase
 51	او	او	CCONJ	_	_	56	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 52	د	د	ADP	_	Case=Acc	53	case	_	Translit=dë|LTranslit=dë|Gloss=of
 53	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	56	nmod	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translations
@@ -3319,7 +3319,7 @@
 11	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 12	کې	کې	ADP	_	Case=Loc	11	case	_	Translit=ke|LTranslit=ke|Gloss=in
 13	هم	هم	ADV	_	_	14	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-14	شته	شته	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are
+14	شته	شته	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=šta|LTranslit=šta|Gloss=there-are
 15	او	او	CCONJ	_	_	16	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 16	مني	منل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	Translit=maní|LTranslit=manë́l|Gloss=accept
 17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	16	obj	_	Translit=ye|LTranslit=ye|Gloss=it|SpaceAfter=No
@@ -4026,11 +4026,11 @@
 23	نیچآ	نیچآ	X	_	Foreign=Yes	21	flat:foreign	_	Translit=ničâ|LTranslit=ničâ|Gloss=under|SpaceAfter=No
 24	)	)	PUNCT	_	_	21	punct	_	Translit=)|LTranslit=)|Gloss=)
 25	يانې	يانې	CCONJ	_	_	28	cc	_	Translit=yấne|LTranslit=yấne|Gloss=in-other-words
-26	(	(	PUNCT	_	_	29	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+26	(	(	PUNCT	_	_	28	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 27	تر	تر	ADP	_	Case=Acc	28	case	_	Translit=tër|LTranslit=tër|Gloss=until
 28	غويي	غويی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	conj	_	Translit=ġwayí|LTranslit=ġwayáy|Gloss=bull
 29	لاندې	لاندې	ADP	_	Case=Acc	28	case	_	Translit=lấnde|LTranslit=lấnde|Gloss=under|SpaceAfter=No
-30	)	)	PUNCT	_	_	29	punct	_	Translit=)|LTranslit=)|Gloss=)
+30	)	)	PUNCT	_	_	28	punct	_	Translit=)|LTranslit=)|Gloss=)
 31	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	3	acl:relcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
 32	شوی	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	aux:pass	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 33	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
@@ -4053,7 +4053,7 @@
 12	،	،	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,|Gloss=,
 13	موضوع	موضوع	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	Translit=mawzó|LTranslit=mawzó|Gloss=subject
 14	ته	ته	ADP	_	Case=Acc	13	case	_	Translit=ta|LTranslit=ta|Gloss=to
-15	نه	نۀ	PART	_	Polarity=Neg	11	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+15	نه	نۀ	PART	_	Polarity=Neg	16	advmod	_	Translit=në́|LTranslit=në|Gloss=not
 16	ګوري	کتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	Translit=gori|LTranslit=katë́l|Gloss=look|SpaceAfter=No
 17	،	،	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,|Gloss=,
 18	د	د	ADP	_	Case=Acc	19	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -4182,7 +4182,7 @@
 4	کې	کې	ADP	_	Case=Loc	3	case	_	Translit=ke|LTranslit=ke|Gloss=in
 5	ګنګوسی	ګنګوسی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=gangusáy|LTranslit=gangusáy|Gloss=rumor
 6	و	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	Translit=wë|LTranslit=wël|Gloss=was|SpaceAfter=No
-7	،	،	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,|Gloss=,
+7	،	،	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,|Gloss=,
 8	چې	چې	SCONJ	_	_	12	mark	_	Translit=če|LTranslit=če|Gloss=that
 9	ښايي	ښایل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	Translit=x̌âyí|LTranslit=x̌âyë́l|Gloss=it-seems
 10	نن	نن	ADV	_	_	12	advmod	_	Translit=nën|LTranslit=nën|Gloss=today
@@ -4878,4 +4878,3 @@
 16	غوره	غوره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	17	advmod	_	Translit=ġwë́ra|LTranslit=ġwë́ra|Gloss=great
 17	ګڼي	ګڼل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=gaṇí|LTranslit=gaṇë́l|Gloss=preffers|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
-
