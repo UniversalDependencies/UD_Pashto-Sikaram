@@ -3009,10 +3009,10 @@
 4	کې	کې	ADP	_	Case=Loc	3	case	_	Translit=ke|LTranslit=ke|Gloss=in
 5	که	کۀ	SCONJ	_	_	7	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 6	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
-7	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	12	advcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
+7	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	21	advcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
 8	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No
 9	،	،	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|Gloss=,
-10	نو	نو	ADV	_	_	12	advmod	_	Translit=no|LTranslit=no|Gloss=so
+10	نو	نو	ADV	_	_	21	advmod	_	Translit=no|LTranslit=no|Gloss=so
 11	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	12	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 12	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	dislocated	_	Translit=stúnza|LTranslit=stúnza|Gloss=difficulty
 13	چې	چې	PRON	_	PronType=Rel	19	obl	_	Translit=če|LTranslit=če|Gloss=that
@@ -3032,9 +3032,9 @@
 26	ځینو	ځینې	DET	_	Case=Acc|PronType=Ind	28	det	_	Translit=żíno|LTranslit=żíne|Gloss=some
 27	پوهنیزو	پوهنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	28	amod	_	Translit=pohanízo|LTranslit=pohaníz|Gloss=educational
 28	اصطلاحاتو	اصطلاح	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	nmod	_	Translit=istilâhấto|LTranslit=istilấh|Gloss=terminology
-29	نشتوالی	نشتوالی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Translit=nëštwấlay|LTranslit=nëštwấlay|Gloss=absence
-30	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
-31	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+29	نشتوالی	نشتوالی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	Translit=nëštwấlay|LTranslit=nëštwấlay|Gloss=absence
+30	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+31	.	.	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 # sent_id = pnt-64-29.3
 # text = همدا اوس هم زياتې طبي لیکنې پښتو ته راژباړل کېږي، چې اکثره انګرېزي اصطلاحات يې ټکي په ټکي رااخیستل کېږي، په په پښتو کې يې انډول (معادل) نه وي.
@@ -3472,7 +3472,7 @@
 36	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	48	obl	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=recently
 37	کې	کې	ADP	_	Case=Loc	36	case	_	Translit=ke|LTranslit=ke|Gloss=in
 38	ښاغلي	ښاغلی	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	39	amod	_	Translit=x̌âġë́li|LTranslit=x̌âġë́lay|Gloss=Mr.
-39	جان	جان	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	49	nsubj	_	Translit=ǰân|LTranslit=ǰân|Gloss=John
+39	جان	جان	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	48	nsubj	_	Translit=ǰân|LTranslit=ǰân|Gloss=John
 40	محمد	محمد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=muhámad|LTranslit=muhámad|Gloss=Muhammad
 41	کاکړ	کاکړ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=kâkáṛ|LTranslit=kâkáṛ|Gloss=Kakar
 42	قدوري	قدوري	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	48	obj	_	Translit=qudurí|LTranslit=qudurí|Gloss=Quduri
@@ -3518,10 +3518,10 @@
 9	چې	چې	SCONJ	_	_	20	mark	_	Translit=če|LTranslit=če|Gloss=that
 10	پنج	پنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	Translit=panǰ|LTranslit=panǰ|Gloss=Five
 11	کتاب	کتاب	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	flat	_	Translit=kitấb|LTranslit=kitấb|Gloss=Books
-12	(	(	PUNCT	_	_	14	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+12	(	(	PUNCT	_	_	13	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 13	پنج	پنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Translit=panǰ|LTranslit=panǰ|Gloss=Five
 14	ګنج	ګنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat	_	Translit=ganǰ|LTranslit=ganǰ|Gloss=Treasures|SpaceAfter=No
-15	)	)	PUNCT	_	_	14	punct	_	Translit=)|LTranslit=)|Gloss=)
+15	)	)	PUNCT	_	_	13	punct	_	Translit=)|LTranslit=)|Gloss=)
 16	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
 17	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Coll	19	nmod	_	Translit=xálko|LTranslit=xalk|Gloss=people
 18	له	له	ADP	_	Case=Abl	19	case	_	Translit=la|LTranslit=la|Gloss=from
@@ -4068,7 +4068,7 @@
 # text_en = – In the remote parts of the city, it was visible that people had gathered with each other.
 1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–|Gloss=–
 2	در	در	X	_	Foreign=Yes	0	root	_	Translit=dar|LTranslit=dar|Gloss=in
-3	قسمت	قسمت‌های	X	_	Foreign=Yes|Typo=Yes	2	flat:foreign	_	Translit=qesmat|LTranslit=qesmathâye|Gloss=parts
+3	قسمت	قسمت‌های	X	_	Foreign=Yes	2	flat:foreign	_	Translit=qesmat|LTranslit=qesmathâye|Gloss=parts
 4	های	_	X	_	_	3	goeswith	_	Translit=hâye|LTranslit=|Gloss=
 5	اخیر	اخیر	X	_	Foreign=Yes	2	flat:foreign	_	Translit=axire|LTranslit=axire|Gloss=remote
 6	شهر	شهر	X	_	Foreign=Yes	2	flat:foreign	_	Translit=šahr|LTranslit=šahr|Gloss=city
@@ -4554,7 +4554,7 @@
 # translit = – ġamǰána dë aġezmán (mutâsír) lapấra kârawë́l kéǧi.
 # text_en = – "Sad" is used for the affected (affected)
 1	–	–	PUNCT	_	_	9	punct	_	Translit=–|LTranslit=–|Gloss=–
-2	غمجنه	غمجن	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Sing	9	nsubj:pass	_	Translit=ġamǰána|LTranslit=ġamǰán|Gloss=sad
+2	غمجنه	غمجن	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	Translit=ġamǰána|LTranslit=ġamǰán|Gloss=sad
 3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
 4	اغېزمن	اغېزمن	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=aġezmán|LTranslit=aġezmán|Gloss=effective
 5	(	(	PUNCT	_	_	6	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
@@ -4577,11 +4577,11 @@
 # translit = – ġamawúnke, ġamnấka, xwâšinawúnke wë́kârawël ši.
 # text_en = – Sad, pathetic, regrettable should be used.
 1	–	–	PUNCT	_	_	7	punct	_	Translit=–|LTranslit=–|Gloss=–
-2	غموونکې	غموونکی	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	nsubj:pass	_	Translit=ġamawúnke|LTranslit=ġamawúnkay|Gloss=sad-making|SpaceAfter=No
+2	غموونکې	غموونکی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	nsubj:pass	_	Translit=ġamawúnke|LTranslit=ġamawúnkay|Gloss=sad-making|SpaceAfter=No
 3	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
-4	غمناکه	غمناک	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Sing	2	conj	_	Translit=ġamnấka|LTranslit=ġamnấk|Gloss=sad|SpaceAfter=No
+4	غمناکه	غمناک	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=ġamnấka|LTranslit=ġamnấk|Gloss=sad|SpaceAfter=No
 5	،	،	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,|Gloss=,
-6	خواشینوونکې	خواشینوونکی	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	conj	_	Translit=xwâšinawúnke|LTranslit=xwâšinawúnkay|Gloss=sad-making
+6	خواشینوونکې	خواشینوونکی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	conj	_	Translit=xwâšinawúnke|LTranslit=xwâšinawúnkay|Gloss=sad-making
 7	وکارول	_	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́kârawël|LTranslit=|Gloss=used
 8	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	7	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=be|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
@@ -4662,7 +4662,7 @@
 8	)	)	PUNCT	_	_	7	punct	_	Translit=)|LTranslit=)|Gloss=)
 9	او	او	CCONJ	_	_	11	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 10	(	(	PUNCT	_	_	11	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-11	اړوند	اړوند	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Sing	7	conj	_	Translit=aṛwánd|LTranslit=aṛwánd|Gloss=related|SpaceAfter=No
+11	اړوند	اړوند	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	Translit=aṛwánd|LTranslit=aṛwánd|Gloss=related|SpaceAfter=No
 12	)	)	PUNCT	_	_	11	punct	_	Translit=)|LTranslit=)|Gloss=)
 13	توپیر	توپیر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obj	_	Translit=tawpír|LTranslit=tawpír|Gloss=difference
 14	نه	نۀ	PART	_	Polarity=Neg	16	advmod	_	Translit=në́|LTranslit=në|Gloss=not
@@ -4705,7 +4705,7 @@
 # text = اړوند د مربوط مانا لري، چې په جمله کې داسې راځي:
 # translit = aṛwánd dë marbút mânấ larí, če pë ǰumlá ke dấse râżí:
 # text_en = "Related" means related, which in the sentence looks like this:
-1	اړوند	اړوند	ADJ	_	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Sing	5	nsubj	_	Translit=aṛwánd|LTranslit=aṛwánd|Gloss=related
+1	اړوند	اړوند	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=aṛwánd|LTranslit=aṛwánd|Gloss=related
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
 3	مربوط	مربوط	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	Translit=marbút|LTranslit=marbút|Gloss=related
 4	مانا	مانا	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=mânấ|LTranslit=mânấ|Gloss=meaning
