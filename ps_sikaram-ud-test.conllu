@@ -748,13 +748,13 @@
 77	ځکه	ځکه	ADV	_	_	90	advmod	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=therefore
 78	خو	خو	CCONJ	_	_	90	cc	_	Translit=xo|LTranslit=xo|Gloss=but
 79	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	90	nsubj	_	Translit=ye|LTranslit=ye|Gloss=he
-80	د	د	ADP	_	Case=Acc	84	case	_	Translit=dë|LTranslit=dë|Gloss=of
-81	خپلو	خپل	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	84	det	_	Translit=xpë́lo|LTranslit=xpël|Gloss=own
-82	څو	څو	DET	_	PronType=Ind	84	det	_	Translit=co|LTranslit=co|Gloss=several
+80	د	د	ADP	_	Case=Acc	83	case	_	Translit=dë|LTranslit=dë|Gloss=of
+81	خپلو	خپل	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	83	det	_	Translit=xpë́lo|LTranslit=xpël|Gloss=own
+82	څو	څو	DET	_	PronType=Ind	83	det	_	Translit=co|LTranslit=co|Gloss=several
 83	رخه	رخه‌ګر	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Typo=Yes	89	nmod	_	Translit=rëxa|LTranslit=rëxagár|Gloss=envy|CFTranslit=rëxagáro|CorrectForm=رخه‌ګرو
 84	ګرو	_	X	_	_	83	goeswith	_	Translit=gáro|LTranslit=|Gloss=
 85	(	(	PUNCT	_	_	86	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-86	حريفانو	حریف	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	84	appos	_	Translit=harifấno|LTranslit=haríf|Gloss=rivals|SpaceAfter=No
+86	حريفانو	حریف	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	83	appos	_	Translit=harifấno|LTranslit=haríf|Gloss=rivals|SpaceAfter=No
 87	)	)	PUNCT	_	_	86	punct	_	Translit=)|LTranslit=)|Gloss=)
 88	په	پۀ	ADP	_	Case=Loc	89	case	_	Translit=pë|LTranslit=pë|Gloss=at
 89	وړاندې	وړاندې	ADV	_	_	90	advmod	_	Translit=wṛấnde|LTranslit=wṛấnde|Gloss=front
