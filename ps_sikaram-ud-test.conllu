@@ -4112,7 +4112,7 @@
 # sent_id = pnt-96-49.1
 # text = – د ښار په وروستۍ برخه کې د خلکو ګڼه ګوڼه زياته وه. (سمه)
 # translit = – dë x̌âr pë wrustë́y bárxa ke dë xálko gáṇa gúṇa zyấta wa. (sáma)
-# text_en = – In the last part of the city ___ was very crowded. (Correct)
+# text_en = – In the last part of the city, there was a dense crowd. (Correct)
 1	–	–	PUNCT	_	_	12	punct	_	Translit=–|LTranslit=–|Gloss=–
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
 3	ښار	ښار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	Translit=x̌âr|LTranslit=x̌âr|Gloss=city
@@ -4552,7 +4552,7 @@
 # sent_id = pnt-117-64.1
 # text = – غمجنه د اغېزمن (متاثر) لپاره کارول کېږي.
 # translit = – ġamǰána dë aġezmán (mutâsír) lapấra kârawë́l kéǧi.
-# text_en = – "Sad" is used for the affected (affected)
+# text_en = – "Sad" is used for the affected (affected).
 1	–	–	PUNCT	_	_	9	punct	_	Translit=–|LTranslit=–|Gloss=–
 2	غمجنه	غمجن	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	Translit=ġamǰána|LTranslit=ġamǰán|Gloss=sad
 3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
