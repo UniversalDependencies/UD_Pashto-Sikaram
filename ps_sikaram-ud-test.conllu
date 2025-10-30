@@ -667,7 +667,7 @@
 
 # sent_id = pnt-11-5.2
 # text = وايي: ټیګور خپل شهکار اثر ګیتانجلي په بنګالۍ ژبه ولیکه، خو په پیل کې يې یوازې د ګوتو په شمېر مینه وال ځان ته رامات کړل، کله چې ټیګور دغه اثر په انګرېزۍ راوژباړه، نو د نوبل نړیواله ادبي جايزه يې ترلاسه کړه او په دې توګه د نړیوالو نوماندو (مشهورو) لیکوالو په ډله کې وشمېرل شو، هغه هنري متره يې هم په نړیواله کچه مطرح شوه، ځکه خو يې د خپلو څو رخه ګرو (حريفانو) په وړاندې ويلي وو:
-# translit = wâyí: ṭigúr xpël šahkấr asár gitânǰëlí pë bangâlë́y žë́ba wë́likë, xo pë payl ke ye yawấze dë gwë́to pë šmer mína wâl żân ta râmất kṛël, kë́la če ṭigúr dáġa asár pë angrezë́y râwë́žbâṛa, no dë nóbël naṛëywấla adabí ǰâyizá ye tërlấsa kṛa aw pë de tóga dë naṛëywấlo nomấndo (mašhúro) likwấlo pë ḍála ke wë́šmerël šu, háġa hunarí matrá ye ham pë naṛëywấla káča matráh šwa, żë́ka xo ye dë xpë́lo co rë́xa gáro (harifấno) pë wṛấnde wayë́li wu:
+# translit = wâyí: ṭigúr xpël šahkấr asár gitânǰëlí pë bangâlë́y žë́ba wë́likë, xo pë payl ke ye yawấze dë gwë́to pë šmer mína wâl żân ta râmất kṛël, kë́la če ṭigúr dáġa asár pë angrezë́y râwë́žbâṛa, no dë nóbël naṛëywấla adabí ǰâyizá ye tërlấsa kṛa aw pë de tóga dë naṛëywấlo nomấndo (mašhúro) likwấlo pë ḍála ke wë́šmerël šu, háġa hunarí matrá ye ham pë naṛëywấla káča matráh šwa, żë́ka xo ye dë xpë́lo co rëxa gáro (harifấno) pë wṛấnde wayë́li wu:
 # text_en = It is said: Tagore wrote his masterpiece Gitanjali in Bengali, but initially attracted only a handful of fans; when Tagore translated this work into English, he won the Nobel Prize in Literature and thus he was included in the group of well-known international writers; his artistic style was also discussed at the international level, therefore in front of some of his rivals he said:
 1	وايي	ویل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=wâyí|LTranslit=wayë́l|Gloss=they-say|SpaceAfter=No
 2	:	:	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:|Gloss=:
@@ -751,8 +751,8 @@
 80	د	د	ADP	_	Case=Acc	84	case	_	Translit=dë|LTranslit=dë|Gloss=of
 81	خپلو	خپل	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	84	det	_	Translit=xpë́lo|LTranslit=xpël|Gloss=own
 82	څو	څو	DET	_	PronType=Ind	84	det	_	Translit=co|LTranslit=co|Gloss=several
-83	رخه	رخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	84	nmod	_	Translit=rë́xa|LTranslit=rë́xa|Gloss=envy
-84	ګرو	ګر	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	89	nmod	_	Translit=gáro|LTranslit=gar|Gloss=people
+83	رخه	رخه‌ګر	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Typo=Yes	89	nmod	_	Translit=rëxa|LTranslit=rëxagár|Gloss=envy|CFTranslit=rëxagáro|CorrectForm=رخه‌ګرو
+84	ګرو	_	X	_	_	83	goeswith	_	Translit=gáro|LTranslit=|Gloss=
 85	(	(	PUNCT	_	_	86	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 86	حريفانو	حریف	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	84	appos	_	Translit=harifấno|LTranslit=haríf|Gloss=rivals|SpaceAfter=No
 87	)	)	PUNCT	_	_	86	punct	_	Translit=)|LTranslit=)|Gloss=)
@@ -1782,8 +1782,8 @@
 # text_en = There are two types of language: one is a living language, which is spoken, read and written by the people of one or more nations, and everyone should understand it.
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
-3	دوه	دوه	NUM	_	Case=Loc|Gender=Masc|NumType=Card	4	nummod	_	Translit=dwa|LTranslit=dwa|Gloss=two
-4	ډوله	ډول	NOUN	_	Case=Loc|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Translit=ḍáwla|LTranslit=ḍawl|Gloss=kind
+3	دوه	دوه	NUM	_	Case=Nom|Gender=Masc|NumType=Card	4	nummod	_	Translit=dwa|LTranslit=dwa|Gloss=two
+4	ډوله	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Translit=ḍáwla|LTranslit=ḍawl|Gloss=kind
 5	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
 6	:	:	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:|Gloss=:
 7	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	8	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
@@ -1822,7 +1822,7 @@
 
 # sent_id = pnt-36-17.1
 # text = دويم ډول هغه ژبه ده، چې په هغې باندې د خبرو اړتیا نه پېښېږي، دا ژبه مړه ده، نه سم اسلوب او ژبني قوانین لري، نه به هم په ورځني ژوند کې کارول کېږي.
-# translit = dwayám ḍawl háġa žë́ba da, če pë háġe bấnde dë xabë́ro aṛtyấ në́ pex̌éǧi, dâ žë́ba mṛa da, në sam uslúb aw žëbaní qawânín larí, në bë ham pë wrażaní žwand ke kârawë́l kéǧi.
+# translit = dwayám ḍawl háġa žë́ba da, če pë haġé bấnde dë xabë́ro aṛtyấ në́ pex̌éǧi, dâ žë́ba mṛa da, në sam uslúb aw žëbaní qawânín larí, në bë ham pë wrażaní žwand ke kârawë́l kéǧi.
 # text_en = The second type is the language that does not need to be spoken, this language is dead, it does not have proper style and linguistic rules, nor will it be used in daily life.
 1	دويم	دويم	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	Translit=dwayám|LTranslit=dwayám|Gloss=second
 2	ډول	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=type
@@ -1832,7 +1832,7 @@
 6	،	،	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,|Gloss=,
 7	چې	چې	PRON	_	PronType=Rel	12	nmod	_	Translit=če|LTranslit=če|Gloss=which
 8	په	پۀ	ADP	_	Case=Loc	9	case	_	Translit=pë|LTranslit=pë|Gloss=at
-9	هغې	هغه	PRON	_	Case=Loc|Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	7	nmod	_	Translit=háġe|LTranslit=háġa|Gloss=that
+9	هغې	هغه	PRON	_	Case=Loc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Translit=haġé|LTranslit=haġá|Gloss=it
 10	باندې	باندې	ADP	_	Case=Loc	9	case	_	Translit=bấnde|LTranslit=bấnde|Gloss=on
 11	د	د	ADP	_	Case=Acc	12	case	_	Translit=dë|LTranslit=dë|Gloss=of
 12	خبرو	خبره	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	nmod	_	Translit=xabë́ro|LTranslit=xabë́ra|Gloss=talk
@@ -1849,7 +1849,7 @@
 23	سم	سم	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	24	amod	_	Translit=sam|LTranslit=sam|Gloss=correct
 24	اسلوب	اسلوب	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obj	_	Translit=uslúb|LTranslit=uslúb|Gloss=style
 25	او	او	CCONJ	_	_	26	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-26	ژبني	ژبني	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	27	amod	_	Translit=žëbaní|LTranslit=žëbaní|Gloss=linguistic
+26	ژبني	ژبنی	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	27	amod	_	Translit=žëbaní|LTranslit=žëbanáy|Gloss=linguistic
 27	قوانین	قانون	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	conj	_	Translit=qawânín|LTranslit=qânún|Gloss=rules
 28	لري	لرل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	Translit=larí|LTranslit=larë́l|Gloss=have|SpaceAfter=No
 29	،	،	PUNCT	_	_	37	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -1857,7 +1857,7 @@
 31	به	بۀ	AUX	_	_	37	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=will
 32	هم	هم	ADV	_	_	37	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 33	په	پۀ	ADP	_	Case=Loc	35	case	_	Translit=pë|LTranslit=pë|Gloss=at
-34	ورځني	ورځني	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	35	amod	_	Translit=wrażaní|LTranslit=wrażaní|Gloss=daily
+34	ورځني	ورځنی	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	35	amod	_	Translit=wrażaní|LTranslit=wrażanáy|Gloss=daily
 35	ژوند	ژوند	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	37	obl	_	Translit=žwand|LTranslit=žwand|Gloss=life
 36	کې	کې	ADP	_	Case=Loc	35	case	_	Translit=ke|LTranslit=ke|Gloss=in
 37	کارول	کارول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	15	conj	_	Translit=kârawë́l|LTranslit=kârawë́l|Gloss=to-use
@@ -1874,14 +1874,14 @@
 
 # sent_id = pnt-38-18.1
 # text = څرګنده خبره ده چې نه کارېدونکې ژبه پايښت، محبوبیت او پیاوړتیا نه شي موندلای، خامخا به له دوده لوېږي او له کارونې څخه لوېدلې ژبه نه له نورو سیالو ژبو سره سیالي کولای شي، نه هم له پوهنیزو شتو څخه برخمنېدلای شي، له پښتو سره هم همدغه د میرې سلوک شوی، پښتانه په دې ګناه ځپل شوي، سپک شوي او رټل شوي، چې په پښتو خبرې کوي.
-# translit = cargánda xabë́ra da če në kâredúnke žë́ba pâyë́x̌t, mahbubyát aw pyâwëṛtyấ në́ ši mundë́lây, xâmaxấ bë la dóda lwéǧi aw la kârawë́ne cë́xa lwedë́le žë́ba në la nóro syấlo žë́bo sará syâlí kawë́lây ši, në ham la pohanízo što cë́xa barxmanedë́lây ši, la pax̌tó sará ham hamdáġa dë mayré sëlúk šë́way, pëx̌tânë́ pë de gunấh żapë́l šë́wi, spëk šë́wi aw raṭë́l šë́wi, če pë pax̌tó xabë́re kawí.
+# translit = cargánda xabë́ra da če në́ kâredunke žë́ba pâyë́x̌t, mahbubyát aw pyâwëṛtyấ në́ ši mundë́lây, xâmaxấ bë la dóda lwéǧi aw la kârawë́ne cë́xa lwedë́le žë́ba në la nóro syấlo žë́bo sará syâlí kawë́lây ši, në ham la pohanízo što cë́xa barxmanedë́lây ši, la pax̌tó sará ham hamdáġa dë mayré sëlúk šë́way, pëx̌tânë́ pë de gunấh żapë́l šë́wi, spëk šë́wi aw raṭë́l šë́wi, če pë pax̌tó xabë́re kawí.
 # text_en = It is clear that a language that is not used cannot find sustainability, popularity, or strength. It will surely fall into disuse. A language that has fallen into disuse cannot compete with other competing languages, nor can it benefit from educational resources. The same stepmother treatment has been given to Pashto. Pashtuns have been persecuted, humiliated, and abased for the sin of speaking Pashto.
 1	څرګنده	څرګنده	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=cargánda|LTranslit=cargánda|Gloss=obvious
 2	خبره	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=xabë́ra|LTranslit=xabë́ra|Gloss=thing
 3	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=da|LTranslit=wël|Gloss=is
 4	چې	چې	SCONJ	_	_	15	mark	_	Translit=če|LTranslit=če|Gloss=that
-5	نه	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
-6	کارېدونکې	کارېدونکی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	amod	_	Translit=kâredúnke|LTranslit=kâredúnkay|Gloss=used
+5	نه	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+6	کارېدونکې	کارېدونکی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	amod	_	Translit=kâredunke|LTranslit=kâredúnkay|Gloss=used
 7	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 8	پايښت	پايښت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obj	_	Translit=pâyë́x̌t|LTranslit=pâyë́x̌t|Gloss=sustainability|SpaceAfter=No
 9	،	،	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -2015,7 +2015,7 @@
 27	،	،	PUNCT	_	_	43	punct	_	Translit=,|LTranslit=,|Gloss=,
 28	همدغه	همدغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	29	det	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=same
 29	راز	راز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	obl	_	Translit=râz|LTranslit=râz|Gloss=way
-30	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
+30	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	29	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
 31	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of
 32	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translations
 33	له	له	ADP	_	Case=Abl	34	case	_	Translit=la|LTranslit=la|Gloss=from
@@ -2346,7 +2346,7 @@
 
 # sent_id = pnt-50-24.2
 # text = له همدې کبله زيات پښتوضد او پښتون ضد کسان چې یوه موخه يې د پیسو ګټل وي، د افغاني ټولنې ارزښتونو، دود او روايتونو ته پام نه کړي، راولاړېږي او داسې فلمونه جوړوي، يا داسې مطبوعاتي خپرونې کوي، چې په افغانستان کې نه وېشل کېږي، بلکې امريکا يا نورو هېوادونو ته لېږل کېږي او هلته خپرېږي.
-# translit = la hamdé kabála zyât pax̌tózid aw pax̌tún zid kasấn če yawá móxa ye dë paysó gaṭë́l wi, dë afġâní ṭolë́ne arzëx̌túno, dod aw rawâyatúno ta pâm në́ kṛi, râwalâṛéǧi aw dấse filmúna ǰoṛawí, yâ dấse matboâtí xpërawë́ne kawí, če pë afġânistấn ke në wešë́l kéǧi, bálke amrikấ yâ nóro hewâdúno ta leǧë́l kéǧi aw hálta xparéǧi.
+# translit = la hamdé kabála zyât pax̌tózid aw pax̌tún zid kasấn če yawá móxa ye dë paysó gaṭë́l wi, dë afġâní ṭolë́ne arzëx̌túno, dod aw rawâyatúno ta pâm në́ kṛi, râwalâṛéǧi aw dấse filmúna ǰoṛawí, yâ dấse matboâtí xpërawë́ne kawí, če pë afġânistấn ke në́ wešël kéǧi, bálke amrikấ yâ nóro hewâdúno ta leǧë́l kéǧi aw hálta xparéǧi.
 # text_en = For this reason, many anti-Pashto and anti-Pashtun people, whose one goal is to make money, without paying attention to the values, traditions and narratives of the Afghan society, come up and make such films, or make such press releases, which are not distributed in Afghanistan, but are sent to America or other countries and spread there.
 1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
 2	همدې	همدا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Translit=hamdé|LTranslit=hamdấ|Gloss=this
@@ -2399,8 +2399,8 @@
 47	په	پۀ	ADP	_	Case=Loc	48	case	_	Translit=pë|LTranslit=pë|Gloss=at
 48	افغانستان	افغانستان	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	51	obl	_	Translit=afġânistấn|LTranslit=afġânistấn|Gloss=Afghanistan
 49	کې	کې	ADP	_	Case=Loc	48	case	_	Translit=ke|LTranslit=ke|Gloss=in
-50	نه	نۀ	PART	_	Polarity=Neg	51	advmod	_	Translit=në|LTranslit=në|Gloss=not
-51	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	36	acl:relcl	_	Translit=wešë́l|LTranslit=wešë́l|Gloss=distributed
+50	نه	نۀ	PART	_	Polarity=Neg	51	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+51	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	36	acl:relcl	_	Translit=wešël|LTranslit=wešël|Gloss=distributed
 52	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is|SpaceAfter=No
 53	،	،	PUNCT	_	_	60	punct	_	Translit=,|LTranslit=,|Gloss=,
 54	بلکې	بلکې	CCONJ	_	_	60	cc	_	Translit=bálke|LTranslit=bálke|Gloss=but
@@ -2482,7 +2482,7 @@
 10	،	،	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,|Gloss=,
 11	چې	چې	PRON	_	PronType=Rel	19	obl	_	Translit=če|LTranslit=če|Gloss=which
 12	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	14	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
-13	افغانه	افغانه	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	Translit=afġấna|LTranslit=afġấna|Gloss=Afghan
+13	افغانه	افغان	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	Translit=afġấna|LTranslit=afġấn|Gloss=Afghan
 14	ماشومه	ماشومه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	Translit=mâšúma|LTranslit=mâšúma|Gloss=baby-girl
 15	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	19	nsubj	_	Translit=ye|LTranslit=ye|Gloss=they
 16	په	پۀ	ADP	_	Case=Loc	11	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -3170,9 +3170,9 @@
 5	،	،	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,|Gloss=,
 6	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	7	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 7	اصطلاح	اصطلاح	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	Translit=istilấh|LTranslit=istilấh|Gloss=term
-8	کټ	کټ	NOUN	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	13	advmod	_	Translit=këṭ|LTranslit=këṭ|Gloss=exactly|SpaceAfter=No
+8	کټ	کټ	X	_	ExtPos=ADV	13	advmod	_	Translit=këṭ|LTranslit=këṭ|Gloss=exactly|SpaceAfter=No
 9	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|Gloss=-
-10	مټ	مټ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	fixed	_	Translit=mëṭ|LTranslit=mëṭ|Gloss=exactly
+10	مټ	مټ	X	_	_	8	fixed	_	Translit=mëṭ|LTranslit=mëṭ|Gloss=exactly
 11	ذهن	ذهن	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	Translit=zihn|LTranslit=zihn|Gloss=mind
 12	ته	ته	ADP	_	Case=Acc	11	case	_	Translit=ta|LTranslit=ta|Gloss=to
 13	وسپاري	سپارل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=wë́spâri|LTranslit=spârë́l|Gloss=delivers|SpaceAfter=No
@@ -3334,7 +3334,7 @@
 3	لپاره	لپاره	ADP	_	Case=Acc	2	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
 4	چې	چې	SCONJ	_	_	14	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	10	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=these
-6	مانیزې	مانیزې	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	10	amod	_	Translit=mâníze|LTranslit=mâníze|Gloss=mental
+6	مانیزې	مانیز	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	10	amod	_	Translit=mâníze|LTranslit=mâníz|Gloss=mental
 7	(	(	PUNCT	_	_	8	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 8	معنوي	معنوي	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	6	appos	_	Translit=manawí|LTranslit=manawí|Gloss=spiritual|SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	Translit=)|LTranslit=)|Gloss=)
@@ -3450,7 +3450,7 @@
 15	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	19	obl	_	Translit=war|LTranslit=war|Gloss=it
 16	باندې	باندې	ADP	_	Case=Loc	15	case	_	Translit=bấnde|LTranslit=bấnde|Gloss=on
 17	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	19	advmod	_	Translit=x̌ë|LTranslit=x̌ë|Gloss=good
-18	ترا	ترا	X	_	_	19	dep	_	Translit=trâ|LTranslit=trâ|Gloss=???
+18	ترا	ترا	X	_	_	19	dep	_	Translit=trâ|LTranslit=trâ|Gloss=
 19	پوهېږي	پوهېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=pohéǧi|LTranslit=pohedë́l|Gloss=understand|SpaceAfter=No
 20	،	،	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,|Gloss=,
 21	هم	هم	ADV	_	_	28	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
@@ -3532,7 +3532,7 @@
 23	که	کۀ	CCONJ	_	_	27	cc	_	Translit=kë|LTranslit=kë|Gloss=or
 24	نه	نۀ	PART	_	Polarity=Neg	27	advmod	_	Translit=në|LTranslit=në|Gloss=not
 25	د	د	ADP	_	Case=Acc	26	case	_	Translit=dë|LTranslit=dë|Gloss=of
-26	ايتونو	ايت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	27	nmod	_	Translit=ayatúno|LTranslit=ayát|Gloss=verses
+26	ايتونو	ايت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	27	nmod	_	Translit=ayatúno|LTranslit=ayát|Gloss=Quran-verses
 27	ترجمه	ترجمه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	conj	_	Translit=tarǰumá|LTranslit=tarǰumá|Gloss=translation
 28	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
@@ -4529,7 +4529,7 @@
 # text = غمجنیه پېښه. (ناسمه)
 # translit = ġamǰanë́ya péx̌a. (nấsáma)
 # text_en = Tragic incident. (Incorrect)
-1	غمجنیه	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=ġamǰanë́ya|LTranslit=|Gloss=sad
+1	غمجنیه	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Typo=Yes	2	amod	_	Translit=ġamǰanë́ya|LTranslit=|Gloss=sad|CFTranslit=ġamǰë́na|CorrectForm=غمجنه
 2	پېښه	پېښه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=péx̌a|LTranslit=péx̌a|Gloss=event|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=.
 4	(	(	PUNCT	_	_	5	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
