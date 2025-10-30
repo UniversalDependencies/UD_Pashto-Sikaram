@@ -1,0 +1,246 @@
+		X
+		X			Yes
+		PROPN
+		NOUN;PROPN		Nom		Masc		Sing
+		NOUN;PROPN		Loc		Masc		Sing
+		NOUN;PROPN		Acc		Masc		Sing
+		NOUN;PROPN		Abl		Masc		Sing
+		NOUN;PROPN		Voc		Masc		Sing
+		NOUN;PROPN		Nom		Masc		Plur
+و;	o;	NOUN;PROPN		Loc		Masc		Plur
+و;	o;	NOUN;PROPN		Acc		Masc		Plur
+و;	o;	NOUN;PROPN		Abl		Masc		Plur
+و;	o;	NOUN;PROPN		Voc		Masc		Plur
+		NOUN;PROPN		Nom		Fem		Sing
+		NOUN;PROPN		Loc		Fem		Sing
+		NOUN;PROPN		Acc		Fem		Sing
+		NOUN;PROPN		Abl		Fem		Sing
+		NOUN;PROPN		Voc		Fem		Sing
+		NOUN;PROPN		Nom		Fem		Plur
+و;ي;ې	o;i;e	NOUN;PROPN		Loc		Fem		Plur
+و;ي;ې	o;i;e	NOUN;PROPN		Acc		Fem		Plur
+و;ي;ې	o;i;e	NOUN;PROPN		Abl		Fem		Plur
+و;ي;ې	o;i;e	NOUN;PROPN		Voc		Fem		Plur
+		NOUN		Nom		Masc		Coll
+و;	o;	NOUN		Loc		Masc		Coll
+و;	o;	NOUN		Acc		Masc		Coll
+و;	o;	NOUN		Abl		Masc		Coll
+و;	o;	NOUN		Voc		Masc		Coll
+		NOUN		Nom		Fem		Coll
+و;	o;	NOUN		Loc		Fem		Coll
+و;	o;	NOUN		Acc		Fem		Coll
+و;	o;	NOUN		Abl		Fem		Coll
+و;	o;	NOUN		Voc		Fem		Coll
+		NOUN		Nom		Masc		Ptan
+و;	o;	NOUN		Loc		Masc		Ptan
+و;	o;	NOUN		Acc		Masc		Ptan
+و;	o;	NOUN		Abl		Masc		Ptan
+و;	o;	NOUN		Voc		Masc		Ptan
+		NOUN		Nom		Fem		Ptan
+و;	o;	NOUN		Loc		Fem		Ptan
+و;	o;	NOUN		Acc		Fem		Ptan
+و;	o;	NOUN		Abl		Fem		Ptan
+و;	o;	NOUN		Voc		Fem		Ptan
+نه	ëna	NOUN		Nom		Fem		Sing					Vnoun
+نه	ëna	NOUN		Loc		Fem		Sing					Vnoun
+نې	ëne	NOUN		Acc		Fem		Sing					Vnoun
+نې	ëne	NOUN		Abl		Fem		Sing					Vnoun
+نې	ëne	NOUN		Voc		Fem		Sing					Vnoun
+نې	ëne	NOUN		Nom		Fem		Plur					Vnoun
+نو	ëno	NOUN		Loc		Fem		Plur					Vnoun
+نو	ëno	NOUN		Acc		Fem		Plur					Vnoun
+نو	ëno	NOUN		Abl		Fem		Plur					Vnoun
+نو	ëno	NOUN		Voc		Fem		Plur					Vnoun
+		ADJ		Nom		Masc		Sing
+		ADJ		Loc		Masc		Sing
+		ADJ		Acc		Masc		Sing
+		ADJ		Abl		Masc		Sing
+		ADJ		Voc		Masc		Sing
+ي;	i;	ADJ		Nom		Masc		Plur
+و;	o;	ADJ		Loc		Masc		Plur
+و;	o;	ADJ		Acc		Masc		Plur
+و;	o;	ADJ		Abl		Masc		Plur
+و;	o;	ADJ		Voc		Masc		Plur
+		ADJ		Nom		Fem		Sing
+		ADJ		Loc		Fem		Sing
+		ADJ		Acc		Fem		Sing
+		ADJ		Abl		Fem		Sing
+		ADJ		Voc		Fem		Sing
+		ADJ		Nom		Fem		Plur
+و;ي;ې	o;i;e	ADJ		Loc		Fem		Plur
+و;ي;ې	o;i;e	ADJ		Acc		Fem		Plur
+و;ي;ې	o;i;e	ADJ		Abl		Fem		Plur
+و;ي;ې	o;i;e	ADJ		Voc		Fem		Plur
+		ADJ		Nom		Masc		Sing		Neg
+		ADJ		Loc		Masc		Sing		Neg
+		ADJ		Acc		Masc		Sing		Neg
+		ADJ		Abl		Masc		Sing		Neg
+		ADJ		Voc		Masc		Sing		Neg
+ي;	i;	ADJ		Nom		Masc		Plur		Neg
+و;	o;	ADJ		Loc		Masc		Plur		Neg
+و;	o;	ADJ		Acc		Masc		Plur		Neg
+و;	o;	ADJ		Abl		Masc		Plur		Neg
+و;	o;	ADJ		Voc		Masc		Plur		Neg
+		ADJ		Nom		Fem		Sing		Neg
+		ADJ		Loc		Fem		Sing		Neg
+		ADJ		Acc		Fem		Sing		Neg
+		ADJ		Abl		Fem		Sing		Neg
+		ADJ		Voc		Fem		Sing		Neg
+		ADJ		Nom		Fem		Plur		Neg
+و;ي;ې	o;i;e	ADJ		Loc		Fem		Plur		Neg
+و;ي;ې	o;i;e	ADJ		Acc		Fem		Plur		Neg
+و;ي;ې	o;i;e	ADJ		Abl		Fem		Plur		Neg
+و;ي;ې	o;i;e	ADJ		Voc		Fem		Plur		Neg
+		ADJ		Nom		Masc		Sing
+ه	a	ADJ		Abl		Masc		Sing
+ونکی	unkay	ADJ		Nom		Masc		Sing					Part	Act
+ونکي	unki	ADJ		Loc		Masc		Sing					Part	Act
+ونکي	unki	ADJ		Acc		Masc		Sing					Part	Act
+ونکي	unki	ADJ		Abl		Masc		Sing					Part	Act
+ونکي	unki	ADJ		Voc		Masc		Sing					Part	Act
+ونکي	unki	ADJ		Nom		Masc		Plur					Part	Act
+ونکو	unko	ADJ		Loc		Masc		Plur					Part	Act
+ونکو	unko	ADJ		Acc		Masc		Plur					Part	Act
+ونکو	unko	ADJ		Abl		Masc		Plur					Part	Act
+ونکو	unko	ADJ		Voc		Masc		Plur					Part	Act
+ونکې	unke	ADJ		Nom		Fem		Sing					Part	Act
+ونکې	unke	ADJ		Loc		Fem		Sing					Part	Act
+ونکې	unke	ADJ		Acc		Fem		Sing					Part	Act
+ونکې	unke	ADJ		Abl		Fem		Sing					Part	Act
+ونکې	unke	ADJ		Voc		Fem		Sing					Part	Act
+ونکې	unke	ADJ		Nom		Fem		Plur					Part	Act
+ونکو	unko	ADJ		Loc		Fem		Plur					Part	Act
+ونکو	unko	ADJ		Acc		Fem		Plur					Part	Act
+ونکو	unko	ADJ		Abl		Fem		Plur					Part	Act
+ونکو	unko	ADJ		Voc		Fem		Plur					Part	Act
+نی	anay	ADJ		Nom		Masc		Sing					Part	Pass
+ني	ani	ADJ		Loc		Masc		Sing					Part	Pass
+ني	ani	ADJ		Acc		Masc		Sing					Part	Pass
+ني	ani	ADJ		Abl		Masc		Sing					Part	Pass
+ني	ani	ADJ		Voc		Masc		Sing					Part	Pass
+ني	ani	ADJ		Nom		Masc		Plur					Part	Pass
+نو	ano	ADJ		Loc		Masc		Plur					Part	Pass
+نو	ano	ADJ		Acc		Masc		Plur					Part	Pass
+نو	ano	ADJ		Abl		Masc		Plur					Part	Pass
+نو	ano	ADJ		Voc		Masc		Plur					Part	Pass
+نې	ane	ADJ		Nom		Fem		Sing					Part	Pass
+نې	ane	ADJ		Loc		Fem		Sing					Part	Pass
+نې	ane	ADJ		Acc		Fem		Sing					Part	Pass
+نې	ane	ADJ		Abl		Fem		Sing					Part	Pass
+نې	ane	ADJ		Voc		Fem		Sing					Part	Pass
+نې	ane	ADJ		Nom		Fem		Plur					Part	Pass
+نو	ano	ADJ		Loc		Fem		Plur					Part	Pass
+نو	ano	ADJ		Acc		Fem		Plur					Part	Pass
+نو	ano	ADJ		Abl		Fem		Plur					Part	Pass
+نو	ano	ADJ		Voc		Fem		Plur					Part	Pass
+لی	ëlay	VERB		Nom		Masc		Sing			Past		Part
+لي	ëli	VERB		Loc		Masc		Sing			Past		Part
+لي	ëli	VERB		Acc		Masc		Sing			Past		Part
+لي	ëli	VERB		Abl		Masc		Sing			Past		Part
+لي	ëli	VERB		Voc		Masc		Sing			Past		Part
+لي	ëli	VERB		Nom		Masc		Plur			Past		Part
+لو	ëlo	VERB		Loc		Masc		Plur			Past		Part
+لو	ëlo	VERB		Acc		Masc		Plur			Past		Part
+لو	ëlo	VERB		Abl		Masc		Plur			Past		Part
+لو	ëlo	VERB		Voc		Masc		Plur			Past		Part
+لې	ële	VERB		Nom		Fem		Sing			Past		Part
+لې	ële	VERB		Loc		Fem		Sing			Past		Part
+لې	ële	VERB		Acc		Fem		Sing			Past		Part
+لې	ële	VERB		Abl		Fem		Sing			Past		Part
+لې	ële	VERB		Voc		Fem		Sing			Past		Part
+لې	ële	VERB		Nom		Fem		Plur			Past		Part
+لو	ëlo	VERB		Loc		Fem		Plur			Past		Part
+لو	ëlo	VERB		Acc		Fem		Plur			Past		Part
+لو	ëlo	VERB		Abl		Fem		Plur			Past		Part
+لو	ëlo	VERB		Voc		Fem		Plur			Past		Part
+ی	ay	VERB		Nom		Masc		Sing			Past	Short	Part
+ي	i	VERB		Loc		Masc		Sing			Past	Short	Part
+ي	i	VERB		Acc		Masc		Sing			Past	Short	Part
+ي	i	VERB		Abl		Masc		Sing			Past	Short	Part
+ي	i	VERB		Voc		Masc		Sing			Past	Short	Part
+ي	i	VERB		Nom		Masc		Plur			Past	Short	Part
+و	o	VERB		Loc		Masc		Plur			Past	Short	Part
+و	o	VERB		Acc		Masc		Plur			Past	Short	Part
+و	o	VERB		Abl		Masc		Plur			Past	Short	Part
+و	o	VERB		Voc		Masc		Plur			Past	Short	Part
+ې	e	VERB		Nom		Fem		Sing			Past	Short	Part
+ې	e	VERB		Loc		Fem		Sing			Past	Short	Part
+ې	e	VERB		Acc		Fem		Sing			Past	Short	Part
+ې	e	VERB		Abl		Fem		Sing			Past	Short	Part
+ې	e	VERB		Voc		Fem		Sing			Past	Short	Part
+ې	e	VERB		Nom		Fem		Plur			Past	Short	Part
+و	o	VERB		Loc		Fem		Plur			Past	Short	Part
+و	o	VERB		Acc		Fem		Plur			Past	Short	Part
+و	o	VERB		Abl		Fem		Plur			Past	Short	Part
+و	o	VERB		Voc		Fem		Plur			Past	Short	Part
+لی	ëlay	VERB		Nom		Masc		Sing			Past		Part
+لي	ëli	VERB		Nom		Masc		Plur			Past		Part
+لې	ële	VERB		Nom		Fem		Sing			Past		Part
+لې	ële	VERB		Nom		Fem		Plur			Past		Part
+ی	ay	VERB		Nom		Masc		Sing			Past	Short	Part
+ي	i	VERB		Nom		Masc		Plur			Past	Short	Part
+ې	e	VERB		Nom		Fem		Sing			Past	Short	Part
+ې	e	VERB		Nom		Fem		Plur			Past	Short	Part
+ل	ël	VERB	Imp	Nom									Inf
+لو	ëlo	VERB	Imp	Loc									Inf
+لو	ëlo	VERB	Imp	Acc									Inf
+لو	ëlo	VERB	Imp	Abl									Inf
+و	o	VERB	Imp	Loc								Short	Inf
+و	o	VERB	Imp	Acc								Short	Inf
+و	o	VERB	Imp	Abl								Short	Inf
+ل	ël	VERB	Perf	Nom									Inf
+لو	ëlo	VERB	Perf	Loc									Inf
+لو	ëlo	VERB	Perf	Acc									Inf
+لو	ëlo	VERB	Perf	Abl									Inf
+و	o	VERB	Perf	Loc								Short	Inf
+و	o	VERB	Perf	Acc								Short	Inf
+و	o	VERB	Perf	Abl								Short	Inf
+م	ëm	VERB	Imp				Ind	Sing	1		Pres		Fin
+ې	e	VERB	Imp				Ind	Sing	2		Pres		Fin
+ي	i	VERB	Imp				Ind	Sing	3		Pres		Fin
+و	u	VERB	Imp				Ind	Plur	1		Pres		Fin
+ئ	ëy	VERB	Imp				Ind	Plur	2		Pres		Fin
+ي	i	VERB	Imp				Ind	Plur	3		Pres		Fin
+لم	ëlëm	VERB	Imp				Ind	Sing	1		Past		Fin
+لې	ële	VERB	Imp				Ind	Sing	2		Past		Fin
+ۀ;ه;	ë;	VERB	Imp			Masc	Ind	Sing	3		Past		Fin
+له	ëla	VERB	Imp			Fem	Ind	Sing	3		Past		Fin
+لو	ëlu	VERB	Imp				Ind	Plur	1		Past		Fin
+لئ	ëlëy	VERB	Imp				Ind	Plur	2		Past		Fin
+لۀ;له;ل	ëlë;ël	VERB	Imp			Masc	Ind	Plur	3		Past		Fin
+لې	ële	VERB	Imp			Fem	Ind	Plur	3		Past		Fin
+م	ëlëm	VERB	Imp				Ind	Sing	1		Past	Short	Fin
+ې	ële	VERB	Imp				Ind	Sing	2		Past	Short	Fin
+ه	a	VERB	Imp			Fem	Ind	Sing	3		Past	Short	Fin
+و	u	VERB	Imp				Ind	Plur	1		Past	Short	Fin
+لئ	ëy	VERB	Imp				Ind	Plur	2		Past	Short	Fin
+ې	e	VERB	Imp			Fem	Ind	Plur	3		Past	Short	Fin
+لم	ëlëm	VERB	Perf				Ind	Sing	1		Past		Fin
+لې	ële	VERB	Perf				Ind	Sing	2		Past		Fin
+ۀ;ه;	ë;	VERB	Perf			Masc	Ind	Sing	3		Past		Fin
+له	ëla	VERB	Perf			Fem	Ind	Sing	3		Past		Fin
+لو	ëlu	VERB	Perf				Ind	Plur	1		Past		Fin
+لئ	ëlëy	VERB	Perf				Ind	Plur	2		Past		Fin
+لۀ;له;ل	ëlë;ël	VERB	Perf			Masc	Ind	Plur	3		Past		Fin
+لې	ële	VERB	Perf			Fem	Ind	Plur	3		Past		Fin
+م	ëlëm	VERB	Perf				Ind	Sing	1		Past	Short	Fin
+ې	ële	VERB	Perf				Ind	Sing	2		Past	Short	Fin
+ه	a	VERB	Perf			Fem	Ind	Sing	3		Past	Short	Fin
+و	u	VERB	Perf				Ind	Plur	1		Past	Short	Fin
+لئ	ëy	VERB	Perf				Ind	Plur	2		Past	Short	Fin
+ې	e	VERB	Perf			Fem	Ind	Plur	3		Past	Short	Fin
+م	ëm	VERB					Sub	Sing	1				Fin
+ې	e	VERB					Sub	Sing	2				Fin
+ي	i	VERB					Sub	Sing	3				Fin
+و	u	VERB					Sub	Plur	1				Fin
+ئ	ëy	VERB					Sub	Plur	2				Fin
+ي	i	VERB					Sub	Plur	3				Fin
+ه	a	VERB	Imp				Imp	Sing	2				Fin
+ئ	ëy	VERB	Imp				Imp	Plur	2				Fin
+ه	a	VERB	Perf				Imp	Sing	2				Fin
+ئ	ëy	VERB	Perf				Imp	Plur	2				Fin
+لای	ëlây	VERB	Imp				Cnd						Fin
+ای	ây	VERB	Imp				Cnd					Short	Fin
+لای	ëlây	VERB	Perf				Cnd						Fin
+ای	ây	VERB	Perf				Cnd					Short	Fin
+شته	šta	VERB					Ind		3		Pres		Fin

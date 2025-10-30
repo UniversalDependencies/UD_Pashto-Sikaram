@@ -1,0 +1,221 @@
+بۀ;به	bë	بۀ	bë
+ونۀ;ونه	wënë́	ونۀ	wënë́	Perf						Neg
+کوونکی	kawúnkay	کول	kawë́l		Nom	Masc		Sing					Part	Act
+کوونکي	kawúnki	کول	kawë́l		Loc	Masc		Sing					Part	Act
+کوونکي	kawúnki	کول	kawë́l		Acc	Masc		Sing					Part	Act
+کوونکي	kawúnki	کول	kawë́l		Abl	Masc		Sing					Part	Act
+کوونکي	kawúnki	کول	kawë́l		Voc	Masc		Sing					Part	Act
+کوونکي	kawúnki	کول	kawë́l		Nom	Masc		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Loc	Masc		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Acc	Masc		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Abl	Masc		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Voc	Masc		Plur					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Nom	Fem		Sing					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Loc	Fem		Sing					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Acc	Fem		Sing					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Abl	Fem		Sing					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Voc	Fem		Sing					Part	Act
+کوونکې	kawúnke	کول	kawë́l		Nom	Fem		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Loc	Fem		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Acc	Fem		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Abl	Fem		Plur					Part	Act
+کوونکو	kawúnko	کول	kawë́l		Voc	Fem		Plur					Part	Act
+کړی	kë́ṛay	کول	kawë́l		Nom	Masc		Sing			Past		Part
+کړي	kë́ṛi	کول	kawë́l		Loc	Masc		Sing			Past		Part
+کړي	kë́ṛi	کول	kawë́l		Acc	Masc		Sing			Past		Part
+کړي	kë́ṛi	کول	kawë́l		Abl	Masc		Sing			Past		Part
+کړي	kë́ṛi	کول	kawë́l		Voc	Masc		Sing			Past		Part
+کړي	kë́ṛi	کول	kawë́l		Nom	Masc		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Loc	Masc		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Acc	Masc		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Abl	Masc		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Voc	Masc		Plur			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Nom	Fem		Sing			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Loc	Fem		Sing			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Acc	Fem		Sing			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Abl	Fem		Sing			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Voc	Fem		Sing			Past		Part
+کړې	kë́ṛe	کول	kawë́l		Nom	Fem		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Loc	Fem		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Acc	Fem		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Abl	Fem		Plur			Past		Part
+کړیو	kë́ṛyo	کول	kawë́l		Voc	Fem		Plur			Past		Part
+کول	kawë́l	کول	kawë́l	Imp	Nom								Inf
+کولو	kawë́lo	کول	kawë́l	Imp	Loc								Inf
+کولو	kawë́lo	کول	kawë́l	Imp	Acc								Inf
+کولو	kawë́lo	کول	kawë́l	Imp	Abl								Inf
+کړل	kṛël	کول	kawë́l	Perf	Nom								Inf
+کړلو	kṛë́lo	کول	kawë́l	Perf	Loc								Inf
+کړلو	kṛë́lo	کول	kawë́l	Perf	Acc								Inf
+کړلو	kṛë́lo	کول	kawë́l	Perf	Abl								Inf
+کوم	kawë́m	کول	kawë́l	Imp			Ind	Sing	1		Pres		Fin
+کوې	kawé	کول	kawë́l	Imp			Ind	Sing	2		Pres		Fin
+کوي	kawí	کول	kawë́l	Imp			Ind	Sing	3		Pres		Fin
+کوو	kawú	کول	kawë́l	Imp			Ind	Plur	1		Pres		Fin
+کوئ	kawë́y	کول	kawë́l	Imp			Ind	Plur	2		Pres		Fin
+کوي	kawí	کول	kawë́l	Imp			Ind	Plur	3		Pres		Fin
+کولم	kawë́lëm	کول	kawë́l	Imp			Ind	Sing	1		Past		Fin
+کولې	kawë́le	کول	kawë́l	Imp			Ind	Sing	2		Past		Fin
+کاوۀ;کاوه	kâwë́	کول	kawë́l	Imp		Masc	Ind	Sing	3		Past		Fin
+کوله	kawë́la	کول	kawë́l	Imp		Fem	Ind	Sing	3		Past		Fin
+کولو	kawë́lu	کول	kawë́l	Imp			Ind	Plur	1		Past		Fin
+کولئ	kawë́lëy	کول	kawë́l	Imp			Ind	Plur	2		Past		Fin
+کولۀ;کوله;کول	kawë́lë;kawë́l	کول	kawë́l	Imp		Masc	Ind	Plur	3		Past		Fin
+کولې	kawë́le	کول	kawë́l	Imp		Fem	Ind	Plur	3		Past		Fin
+کړلم	kṛë́lëm	کول	kawë́l	Perf			Ind	Sing	1		Past		Fin
+کړلې	kṛë́le	کول	kawë́l	Perf			Ind	Sing	2		Past		Fin
+کړ	këṛ	کول	kawë́l	Perf		Masc	Ind	Sing	3		Past		Fin
+کړله	kṛë́la	کول	kawë́l	Perf		Fem	Ind	Sing	3		Past		Fin
+کړلو	kṛë́lu	کول	kawë́l	Perf			Ind	Plur	1		Past		Fin
+کړلئ	kṛë́lëy	کول	kawë́l	Perf			Ind	Plur	2		Past		Fin
+کړلۀ;کړله;کړل	kṛë́lë;kṛël	کول	kawë́l	Perf		Masc	Ind	Plur	3		Past		Fin
+کړلې	kṛë́le	کول	kawë́l	Perf		Fem	Ind	Plur	3		Past		Fin
+وکړلم	wë́kṛëlëm	کول	kawë́l	Perf			Ind	Sing	1		Past		Fin
+وکړلې	wë́kṛële	کول	kawë́l	Perf			Ind	Sing	2		Past		Fin
+وکړ	wë́këṛ	کول	kawë́l	Perf		Masc	Ind	Sing	3		Past		Fin
+وکړله	wë́kṛëla	کول	kawë́l	Perf		Fem	Ind	Sing	3		Past		Fin
+وکړلو	wë́kṛëlu	کول	kawë́l	Perf			Ind	Plur	1		Past		Fin
+وکړلئ	wë́kṛëlëy	کول	kawë́l	Perf			Ind	Plur	2		Past		Fin
+وکړلۀ;وکړله;وکړل	wë́kṛëlë;wë́kṛël	کول	kawë́l	Perf		Masc	Ind	Plur	3		Past		Fin
+وکړلې	wë́kṛële	کول	kawë́l	Perf		Fem	Ind	Plur	3		Past		Fin
+کړم	kṛëm	کول	kawë́l	Perf			Ind	Sing	1		Past	Short	Fin
+کړې	kṛe	کول	kawë́l	Perf			Ind	Sing	2		Past	Short	Fin
+کړه	kṛa	کول	kawë́l	Perf		Fem	Ind	Sing	3		Past	Short	Fin
+کړو	kṛu	کول	kawë́l	Perf			Ind	Plur	1		Past	Short	Fin
+کړئ	kṛëy	کول	kawë́l	Perf			Ind	Plur	2		Past	Short	Fin
+کړې	kṛe	کول	kawë́l	Perf		Fem	Ind	Plur	3		Past	Short	Fin
+وکړم	wë́kṛëm	کول	kawë́l	Perf			Ind	Sing	1		Past	Short	Fin
+وکړې	wë́kṛe	کول	kawë́l	Perf			Ind	Sing	2		Past	Short	Fin
+وکړه	wë́kṛa	کول	kawë́l	Perf		Fem	Ind	Sing	3		Past	Short	Fin
+وکړو	wë́kṛu	کول	kawë́l	Perf			Ind	Plur	1		Past	Short	Fin
+وکړئ	wë́kṛëy	کول	kawë́l	Perf			Ind	Plur	2		Past	Short	Fin
+وکړې	wë́kṛe	کول	kawë́l	Perf		Fem	Ind	Plur	3		Past	Short	Fin
+کړم	kṛëm	کول	kawë́l				Sub	Sing	1				Fin
+کړې	kṛe	کول	kawë́l				Sub	Sing	2				Fin
+کړي	kṛi	کول	kawë́l				Sub	Sing	3				Fin
+کړل	kṛu	کول	kawë́l				Sub	Plur	1				Fin
+کړئ	kṛëy	کول	kawë́l				Sub	Plur	2				Fin
+کړي	kṛi	کول	kawë́l				Sub	Plur	3				Fin
+وکړم	wë́kṛëm	کول	kawë́l				Sub	Sing	1				Fin
+وکړې	wë́kṛe	کول	kawë́l				Sub	Sing	2				Fin
+وکړي	wë́kṛi	کول	kawë́l				Sub	Sing	3				Fin
+وکړل	wë́kṛu	کول	kawë́l				Sub	Plur	1				Fin
+وکړئ	wë́kṛëy	کول	kawë́l				Sub	Plur	2				Fin
+وکړي	wë́kṛi	کول	kawë́l				Sub	Plur	3				Fin
+کوه	kawá	کول	kawë́l	Imp			Imp	Sing	2				Fin
+کوئ	kawë́y	کول	kawë́l	Imp			Imp	Plur	2				Fin
+کړه	kṛa	کول	kawë́l	Perf			Imp	Sing	2				Fin
+کړئ	kṛëy	کول	kawë́l	Perf			Imp	Plur	2				Fin
+وکړه	wë́kṛa	کول	kawë́l	Perf			Imp	Sing	2				Fin
+وکړئ	wë́kṛëy	کول	kawë́l	Perf			Imp	Plur	2				Fin
+کولای	kawë́lây	کول	kawë́l	Imp			Cnd						Fin
+کوای	kawấy	کول	kawë́l	Imp			Cnd					Short	Fin
+وکولای	wë́kawëlây	کول	kawë́l	Perf			Cnd						Fin
+کړللای	kṛë́lây	کول	kawë́l	Perf			Cnd						Fin
+کړلای	kṛây	کول	kawë́l	Perf			Cnd					Short	Fin
+کېدونکی	kedúnkay	کېدل	kedë́l		Nom	Masc		Sing					Part	Act
+کېدونکي	kedúnki	کېدل	kedë́l		Loc	Masc		Sing					Part	Act
+کېدونکي	kedúnki	کېدل	kedë́l		Acc	Masc		Sing					Part	Act
+کېدونکي	kedúnki	کېدل	kedë́l		Abl	Masc		Sing					Part	Act
+کېدونکي	kedúnki	کېدل	kedë́l		Voc	Masc		Sing					Part	Act
+کېدونکي	kedúnki	کېدل	kedë́l		Nom	Masc		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Loc	Masc		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Acc	Masc		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Abl	Masc		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Voc	Masc		Plur					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Nom	Fem		Sing					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Loc	Fem		Sing					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Acc	Fem		Sing					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Abl	Fem		Sing					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Voc	Fem		Sing					Part	Act
+کېدونکې	kedúnke	کېدل	kedë́l		Nom	Fem		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Loc	Fem		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Acc	Fem		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Abl	Fem		Plur					Part	Act
+کېدونکو	kedúnko	کېدل	kedë́l		Voc	Fem		Plur					Part	Act
+شوی	šë́way	کېدل	kedë́l		Nom	Masc		Sing			Past		Part
+شوي	šë́wi	کېدل	kedë́l		Loc	Masc		Sing			Past		Part
+شوي	šë́wi	کېدل	kedë́l		Acc	Masc		Sing			Past		Part
+شوي	šë́wi	کېدل	kedë́l		Abl	Masc		Sing			Past		Part
+شوي	šë́wi	کېدل	kedë́l		Voc	Masc		Sing			Past		Part
+شوي	šë́wi	کېدل	kedë́l		Nom	Masc		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Loc	Masc		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Acc	Masc		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Abl	Masc		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Voc	Masc		Plur			Past		Part
+شوې	šë́we	کېدل	kedë́l		Nom	Fem		Sing			Past		Part
+شوې	šë́we	کېدل	kedë́l		Loc	Fem		Sing			Past		Part
+شوې	šë́we	کېدل	kedë́l		Acc	Fem		Sing			Past		Part
+شوې	šë́we	کېدل	kedë́l		Abl	Fem		Sing			Past		Part
+شوې	šë́we	کېدل	kedë́l		Voc	Fem		Sing			Past		Part
+شوې	šë́we	کېدل	kedë́l		Nom	Fem		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Loc	Fem		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Acc	Fem		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Abl	Fem		Plur			Past		Part
+شویو	šë́wyo	کېدل	kedë́l		Voc	Fem		Plur			Past		Part
+کېدل	kedë́l	کېدل	kedë́l	Imp	Nom								Inf
+کېدلو	kedë́lo	کېدل	kedë́l	Imp	Loc								Inf
+کېدلو	kedë́lo	کېدل	kedë́l	Imp	Acc								Inf
+کېدلو	kedë́lo	کېدل	kedë́l	Imp	Abl								Inf
+شول	šwël	کېدل	kedë́l	Perf	Nom								Inf
+شولو	šwë́lo	کېدل	kedë́l	Perf	Loc								Inf
+شولو	šwë́lo	کېدل	kedë́l	Perf	Acc								Inf
+شولو	šwë́lo	کېدل	kedë́l	Perf	Abl								Inf
+کېږم	kéǧëm	کېدل	kedë́l	Imp			Ind	Sing	1		Pres		Fin
+کېږې	kéǧe	کېدل	kedë́l	Imp			Ind	Sing	2		Pres		Fin
+کېږي	kéǧi	کېدل	kedë́l	Imp			Ind	Sing	3		Pres		Fin
+کېږو	kéǧu	کېدل	kedë́l	Imp			Ind	Plur	1		Pres		Fin
+کېږئ	kéǧëy	کېدل	kedë́l	Imp			Ind	Plur	2		Pres		Fin
+کېږي	kéǧi	کېدل	kedë́l	Imp			Ind	Plur	3		Pres		Fin
+کېدلم	kedë́lëm	کېدل	kedë́l	Imp			Ind	Sing	1		Past		Fin
+کېدلې	kedë́le	کېدل	kedë́l	Imp			Ind	Sing	2		Past		Fin
+کېدۀ;کېده	kedë́	کېدل	kedë́l	Imp		Masc	Ind	Sing	3		Past		Fin
+کېدله	kedë́la	کېدل	kedë́l	Imp		Fem	Ind	Sing	3		Past		Fin
+کېدلو	kedë́lu	کېدل	kedë́l	Imp			Ind	Plur	1		Past		Fin
+کېدلئ	kedë́lëy	کېدل	kedë́l	Imp			Ind	Plur	2		Past		Fin
+کېدلۀ;کېدله;کېدل	kedë́lë;kedë́l	کېدل	kedë́l	Imp		Masc	Ind	Plur	3		Past		Fin
+کېدلې	kedë́le	کېدل	kedë́l	Imp		Fem	Ind	Plur	3		Past		Fin
+شوم	šwëm	کېدل	kedë́l	Perf			Ind	Sing	1		Past		Fin
+شوې	šwe	کېدل	kedë́l	Perf			Ind	Sing	2		Past		Fin
+شو	šu	کېدل	kedë́l	Perf		Masc	Ind	Sing	3		Past		Fin
+شوه	šwa	کېدل	kedë́l	Perf		Fem	Ind	Sing	3		Past		Fin
+شوو	šwu	کېدل	kedë́l	Perf			Ind	Plur	1		Past		Fin
+شوئ	šwëy	کېدل	kedë́l	Perf			Ind	Plur	2		Past		Fin
+شولۀ;شوله;شول	šwë́lë;šwël	کېدل	kedë́l	Perf		Masc	Ind	Plur	3		Past		Fin
+شوې	šwe	کېدل	kedë́l	Perf		Fem	Ind	Plur	3		Past		Fin
+شم	šëm	کېدل	kedë́l				Sub	Sing	1				Fin
+شې	še	کېدل	kedë́l				Sub	Sing	2				Fin
+شي	ši	کېدل	kedë́l				Sub	Sing	3				Fin
+شو	šu	کېدل	kedë́l				Sub	Plur	1				Fin
+ښئ	šëy	کېدل	kedë́l				Sub	Plur	2				Fin
+شي	ši	کېدل	kedë́l				Sub	Plur	3				Fin
+کېږه	kéǧa	کېدل	kedë́l	Imp			Imp	Sing	2				Fin
+کېږئ	kéǧëy	کېدل	kedë́l	Imp			Imp	Plur	2				Fin
+شه	ša	کېدل	kedë́l	Perf			Imp	Sing	2				Fin
+شئ	šëy	کېدل	kedë́l	Perf			Imp	Plur	2				Fin
+کېدلای	kedë́lây	کېدل	kedë́l	Imp			Cnd						Fin
+کېدای	kedấy	کېدل	kedë́l	Imp			Cnd					Short	Fin
+شولای	šwë́lây	کېدل	kedë́l	Perf			Cnd						Fin
+شوای	šwây	کېدل	kedë́l	Perf			Cnd					Short	Fin
+یم	yëm	ول	wël				Ind	Sing	1		Pres		Fin
+یې	ye	ول	wël				Ind	Sing	2		Pres		Fin
+دئ;دی	dëy	ول	wël			Masc	Ind	Sing	3		Pres		Fin
+ده	da	ول	wël			Fem	Ind	Sing	3		Pres		Fin
+یو	yu	ول	wël				Ind	Plur	1		Pres		Fin
+یئ;یاست	yëy;yâst	ول	wël				Ind	Plur	2		Pres		Fin
+دي	di	ول	wël				Ind	Plur	3		Pres		Fin
+وم	wëm	ول	wël				Ind	Sing	1		Past		Fin
+وې	we	ول	wël				Ind	Sing	2		Past		Fin
+و	wë	ول	wël			Masc	Ind	Sing	3		Past		Fin
+وه	wa	ول	wël			Fem	Ind	Sing	3		Past		Fin
+وو	wu	ول	wël				Ind	Plur	1		Past		Fin
+وئ	wëy	ول	wël				Ind	Plur	2		Past		Fin
+وو	wu	ول	wël			Masc	Ind	Plur	3		Past		Fin
+وې	we	ول	wël			Fem	Ind	Plur	3		Past		Fin
+وم	wëm	ول	wël				Sub	Sing	1				Fin
+وې	we	ول	wël				Sub	Sing	2				Fin
+وي	wi	ول	wël				Sub	Sing	3				Fin
+وو	wu	ول	wël				Sub	Plur	1				Fin
+وئ	wëy	ول	wël				Sub	Plur	2				Fin
+وي	wi	ول	wël				Sub	Plur	3				Fin
+وای	wây	ول	wël				Cnd						Fin
