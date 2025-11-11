@@ -1,179 +1,270 @@
-پر	për	پر	për	on		ADP	case		Loc											
-پرته	práta	پرته	práta	except	without	ADP	case		Abl											
-په	pë	پۀ	pë	at	with;on	ADP	case		Loc											
-پۀ	pë	پۀ	pë	at	with;on	ADP	case		Loc											
-تر	tër	تر	tër	until	to;from	ADP	case		Abl											
-ترمنځ	tërmánż	ترمنځ	tërmánż	between	among	ADP	case		Acc											
-ته	ta	ته	ta	to		ADP	case		Acc											
-څخه	cë́xa	څخه	cë́xa	from		ADP	case		Acc											
-د	dë	د	dë	of		ADP	case		Acc											
-سره	sará	سره	sará	with		ADP	case		Acc											
-کې	ke	کې	ke	in		ADP	case		Loc											
-لپاره	lapấra	لپاره	lapấra	for		ADP	case		Acc											
-له	la	له	la	from		ADP	case		Abl											
-له	la	له	la	from		ADP	case		Acc											
-ان	ân	ان	ân	even		ADV	advmod													
-اوس	os	اوس	os	now		ADV	advmod
-بیا	byâ	بیا	byâ	then	even	ADV	advmod
-پرون	parún	پرون	parún	yesterday		ADV	advmod
-چېرې	čére	چېرې	čére	where	somewhere	ADV	advmod
-ځکه	żë́ka	ځکه	żë́ka	therefore		ADV	advmod
-څومره	cúmra	څومره	cúmra	how-much		ADV	advmod
-خورا	xwarấ	خورا	xwarấ	too-much		ADV	advmod
-دومره	dúmra	دومره	dúmra	so-much		ADV	advmod
-رامنځته	râmánżta	رامنځته	râmánżta	togather		ADV	advmod
-ژرژر	žëržë́r	ژرژر	žëržë́r	fast		ADV	advmod
-کله	kë́la	کله	kë́la	when		ADV	advmod
-لا	lâ	لا	lâ	yet	still	ADV	advmod
-نژدې	niždé	نژدې	niždé	nearly		ADV	advmod
-نو	no	نو	no	so	then	ADV	advmod
-هلته	hálta	هلته	hálta	there		ADV	advmod
-هم	ham	هم	ham	also		ADV	advmod
-وروسته	wrústa	وروسته	wrústa	later		ADV	advmod											
-وړاندې	wṛấnde	وړاندې	wṛấnde	front		ADV	advmod											
-یوازې	yawấze	یوازې	yawấze	only		ADV	advmod											
-يوازې	yawấze	يوازې	yawấze	only		ADV	advmod											
-او	aw	او	aw	and		CCONJ	cc											
-خو	xo	خو	xo	but		CCONJ	cc											
-کۀ	kë	کۀ	kë	or		CCONJ	cc											
-که	kë	کۀ	kë	or		CCONJ	cc											
-مګر	magár	مګر	magár	but		CCONJ	cc											
-يا	yâ	يا	yâ	or		CCONJ	cc											
-چې	če	چې	če	that	when	SCONJ	mark											
-ځکه	żë́ka	ځکه	żë́ka	since		SCONJ	mark											
-کله	kë́la	کله	kë́la	when		SCONJ	mark											
-که	kë	کۀ	kë	if	when;even	SCONJ	mark											
-کۀ	kë	کۀ	kë	if	when;even	SCONJ	mark											
-څو	co	څو	co	several		DET	det											Ind
-ځینې	żíne	ځینې	żíne	some		DET	det		Nom			Plur						Ind	
-ځینو	żíno	ځینې	żíne	some		DET	det		Loc;Acc;Abl			Plur						Ind	
-خپل	xpël	خپل	xpël	own		DET	det		Nom;Loc;Acc		Masc	Sing					Yes	Prs	Yes
-خپله	xpë́la	خپل	xpël	own		DET	det		Abl		Masc	Sing					Yes	Prs	Yes
-خپله	xpë́la	خپل	xpël	own		DET	det		Nom;Loc		Fem	Sing					Yes	Prs	Yes
-خپلې	xpë́le	خپل	xpël	own		DET	det		Acc;Abl		Fem	Sing					Yes	Prs	Yes
-خپل	xpël	خپل	xpël	own		DET	det		Nom		Masc	Plur					Yes	Prs	Yes
-خپلې	xpë́le	خپل	xpël	own		DET	det		Nom		Fem	Plur					Yes	Prs	Yes
-خپلو	xpë́lo	خپل	xpël	own		DET	det		Loc;Acc;Abl		Masc;Fem	Plur					Yes	Prs	Yes
-زما	zmâ	زما	zmâ	my		DET	det						Sing		1		Yes	Prs	
-ستا	stâ	ستا	stâ	your		DET	det						Sing		2		Yes	Prs	
-کوم	kum	کوم	kum	which		DET	det		Nom;Loc;Acc		Masc	Sing						Int	
-کومه	kúma	کوم	kum	which		DET	det		Abl		Masc	Sing						Int	
-کومه	kúma	کوم	kum	which		DET	det		Nom;Loc		Fem	Sing						Int	
-کومې	kúme	کوم	kum	which		DET	det		Acc;Abl		Fem	Sing						Int	
-کوم	kum	کوم	kum	which		DET	det		Nom		Masc	Plur						Int	
-کومې	kúme	کوم	kum	which		DET	det		Nom		Fem	Plur						Int
-کومو	kúmo	کوم	kum	which		DET	det		Loc;Acc;Abl		Masc;Fem	Plur						Int
-کوم	kum	کوم	kum	some	any	DET	det		Nom;Loc;Acc		Masc	Sing						Ind
-کومه	kúma	کوم	kum	some	any	DET	det		Abl		Masc	Sing						Ind
-کومه	kúma	کوم	kum	some	any	DET	det		Nom;Loc		Fem	Sing						Ind
-کومې	kúme	کوم	kum	some	any	DET	det		Acc;Abl		Fem	Sing						Ind
-کوم	kum	کوم	kum	some	any	DET	det		Nom		Masc	Plur						Ind
-کومې	kúme	کوم	kum	some	any	DET	det		Nom		Fem	Plur						Ind
-کومو	kúmo	کوم	kum	some	any	DET	det		Loc;Acc;Abl		Masc;Fem	Plur						Ind
-هر	har	هر	har	every	each;any	DET	det		Nom;Loc;Acc		Masc							Tot
-هره	hára	هر	har	every	each;any	DET	det		Abl		Masc							Tot
-هره	hára	هر	har	every	each;any	DET	det		Nom;Loc		Fem							Tot
-هرې	háre	هر	har	every	each;any	DET	det		Acc;Abl		Fem							Tot
-یو	yaw	یو	yaw	one		NUM	nummod		Nom;Loc		Masc			Card				
-يوه	yawë́	یو	yaw	one		NUM	nummod		Acc;Abl		Masc			Card				
-يوه	yawá	یو	yaw	one		NUM	nummod		Nom;Loc		Fem			Card				
-يوې	yawé	یو	yaw	one		NUM	nummod		Acc;Abl		Fem			Card				
-باید	bâyád	باید	bâyád	must		PART	advmod											
-نه	në	نۀ	në	not		PART	advmod									Neg		
-نۀ	në	نۀ	në	not		PART	advmod									Neg		
-وای	wây	وای	wây	would		PART	advmod											
-ټول	ṭol	ټول	ṭol	all	whole	DET	det		Nom;Loc;Acc		Masc	Sing						Tot
-ټوله	ṭóla	ټول	ṭol	all	whole	DET	det		Abl		Masc	Sing						Tot
-ټوله	ṭóla	ټول	ṭol	all	whole	DET	det		Nom;Loc		Fem	Sing						Tot
-ټولې	ṭóle	ټول	ṭol	all	whole	DET	det		Acc;Abl		Fem	Sing						Tot
-ټول	ṭol	ټول	ṭol	all	whole	DET	det		Nom		Masc	Plur						Tot
-ټولې	ṭóle	ټول	ṭol	all	whole	DET	det		Nom		Fem	Plur						Tot
-ټولو	ṭólo	ټول	ṭol	all	whole	DET	det		Loc;Acc;Abl		Masc;Fem	Plur						Tot
-ټول	ṭol	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Nom;Loc;Acc		Masc	Sing						Tot
-ټوله	ṭóla	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Abl		Masc	Sing						Tot
-ټوله	ṭóla	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Nom;Loc		Fem	Sing						Tot
-ټولې	ṭóle	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Acc;Abl		Fem	Sing						Tot
-ټول	ṭol	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Nom		Masc	Plur						Tot		
-ټولې	ṭóle	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Nom		Fem	Plur						Tot		
-ټولو	ṭólo	ټول	ṭol	all	whole	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl		Masc;Fem	Plur						Tot		
-څوک	cok	څوک	cok	who	whom	PRON	nsubj;obj;obl;nmod	Hum	Nom									Int		
-چا	čâ	څوک	cok	whom	who	PRON	nsubj;obj;obl;nmod	Hum	Loc;Acc;Abl									Int		
-چې	če	چې	če	which		PRON	nsubj;obj;obl;nmod											Rel		
-ځان	żân	ځان	żân	self		PRON	obl											Prs	Yes	
-څۀ	cë	څۀ	cë	what	somewhat;not-only	PRON	nsubj;obj;obl;nmod	Nhum										Int		
-څه	cë	څۀ	cë	what	somewhat;not-only	PRON	nsubj;obj;obl;nmod	Nhum										Int		
-څۀ	cë	څۀ	cë	what	which	DET	det	Nhum										Int		
-څه	cë	څۀ	cë	what	which	DET	det	Nhum										Int		
-ما	mâ	زۀ	zë	I	me	PRON	nsubj;obj;obl;nmod		Acc			Sing			1			Prs		
-هیڅوک	hicók	هیڅوک	hicók	nobody		PRON	nsubj;obj;obl;nmod	Hum	Nom									Neg		
-هیچا	hičấ	هیڅوک	hicók	nobody		PRON	nsubj;obj;obl;nmod	Hum	Loc;Acc;Abl									Neg		
-ور	war	ور	war	it	him;her	PRON	obl								3			Prs		Dir
-یوبل	yë́wbël	یوبل	yë́wbël	each-other		PRON	nsubj;obj;obl;nmod											Rcp		
-یې	ye	یې	ye	it	he;him;she;her;they;them	PRON	nsubj;obj;obl;nmod								3			Prs		Weak
-یې	ye	یې	ye	its	his;her;their	PRON	nmod								3		Yes	Prs		Weak
-يې	ye	يې	ye	it	he;him;she;her;they;them	PRON	nsubj;obj;obl;nmod								3			Prs		Weak
-يې	ye	يې	ye	its	his;her;their	PRON	nmod								3		Yes	Prs		Weak
-هغه	háġa	هغه	háġa	that	those	DET	det		Nom;Loc	Remt								Dem		
-هغۀ	háġë	هغه	háġa	that		DET	det		Acc;Abl	Remt	Masc	Sing						Dem		
-هغه	háġë	هغه	háġa	that		DET	det		Acc;Abl	Remt	Masc	Sing						Dem		
-هغې	háġe	هغه	háġa	that		DET	det		Acc;Abl	Remt	Fem	Sing						Dem		
-هغو	háġo	هغه	háġa	those		DET	det		Loc;Acc;Abl	Remt		Plur						Dem		
-هغه	háġa	دغه	dáġa	that	those	PRON	nsubj;obj;obl;nmod		Nom;Loc	Remt								Dem		
-هغۀ	háġë	هغه	háġa	that		PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing						Dem		
-هغه	háġë	هغه	háġa	that		PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing						Dem		
-هغې	háġe	هغه	háġa	that		PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Fem	Sing						Dem		
-هغو	háġo	هغه	háġa	those		PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Remt		Plur						Dem		
-هغه	haġá	هغه	haġá	it	he;she;him;her;that	PRON	nsubj;obj;obl;nmod		Nom;Loc	Remt		Sing			3			Prs		
-هغۀ	haġë́	هغه	haġá	he	him;it;that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing			3			Prs		
-هغه	haġë́	هغه	haġá	he	him;it;that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing			3			Prs		
-هغې	haġé	هغه	haġá	she	her;it;that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Fem	Sing			3			Prs		
-هغوى	haġúy	هغوى	haġúy	they	them;those	PRON	nsubj;obj;obl;nmod		Nom;Loc;Acc;Abl	Remt		Plur			3			Prs		
-دغه	dáġa	دغه	dáġa	this	these	DET	det		Nom;Loc	Prox								Dem		
-دغۀ	dáġë	دغه	dáġa	this		DET	det		Acc;Abl	Prox	Masc	Sing						Dem		
-دغه	dáġë	دغه	dáġa	this		DET	det		Acc;Abl	Prox	Masc	Sing						Dem		
-دغې	dáġe	دغه	dáġa	this		DET	det		Acc;Abl	Prox	Fem	Sing						Dem		
-دغو	dáġo	دغه	dáġa	these		DET	det		Loc;Acc;Abl	Prox		Plur						Dem		
-دغه	dáġa	دغه	dáġa	this	these	PRON	nsubj;obj;obl;nmod		Nom;Loc	Prox					3			Prs		
-دغۀ	dáġë	دغه	dáġa	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing			3			Prs		
-دغه	dáġë	دغه	dáġa	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing			3			Prs		
-دغې	dáġe	دغه	dáġa	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Fem	Sing			3			Prs		
-دغو	dáġo	دغه	dáġa	these		PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox		Plur			3			Prs		
-دا	dâ	دا	dâ	this	these	DET	det		Nom;Loc	Prox								Dem		Short
-دۀ	dë	دا	dâ	this		DET	det		Acc;Abl	Prox	Masc	Sing						Dem		Short
-ده	dë	دا	dâ	this		DET	det		Acc;Abl	Prox	Masc	Sing						Dem		Short
-دې	de	دا	dâ	this		DET	det		Acc;Abl	Prox	Fem	Sing						Dem		Short
-دو	do	دا	dâ	these		DET	det		Loc;Acc;Abl	Prox		Plur						Dem		Short
-دا	dâ	دا	dâ	this	these	PRON	nsubj;obj;obl;nmod		Nom;Loc	Prox								Dem		Short
-دۀ	dë	دا	dâ	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing						Dem		Short
-ده	dë	دا	dâ	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing						Dem		Short
-دې	de	دا	dâ	this		PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Fem	Sing						Dem		Short
-دو	do	دا	dâ	these		PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox		Plur						Dem		Short
-دی	day	دی	day	he	him;it;this	PRON	nsubj;obj;obl;nmod		Nom	Prox	Masc	Sing			3			Prs		
-دۀ	dë	دی	day	him	he;it;this	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox	Masc	Sing			3			Prs		
-ده	dë	دی	day	he	him;it;this	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox	Masc	Sing			3			Prs		
-دا	dâ	دا	dâ	she	her;it;this	PRON	nsubj;obj;obl;nmod		Nom;Loc	Prox	Fem	Sing			3			Prs		
-دې	de	دا	dâ	her	she;it;this	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox	Fem	Sing			3			Prs		
-دوی	duy	دوی	duy	they	them;these	PRON	nsubj;obj;obl;nmod		Nom;Loc;Acc;Abl	Prox		Plur			3			Prs		
-هماغه	hamấġa	هماغه	hamấġa	same	that;those	DET	det		Nom;Loc	Remt								Dem		
-هماغۀ	hamấġë	هماغه	hamấġa	same	that	DET	det		Acc;Abl	Remt	Masc	Sing						Dem		
-هماغه	hamấġë	هماغه	hamấġa	same	that	DET	det		Acc;Abl	Remt	Masc	Sing						Dem		
-هماغې	hamấġe	هماغه	hamấġa	same	that	DET	det		Acc;Abl	Remt	Fem	Sing						Dem
-هماغو	hamấġo	هماغه	hamấġa	same	those	DET	det		Loc;Acc;Abl	Remt		Plur						Dem
-هماغه	hamấġa	هماغه	hamấġa	same	that;those	PRON	nsubj;obj;obl;nmod		Nom;Loc	Remt								Dem
-هماغۀ	hamấġë	هماغه	hamấġa	same	that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing						Dem
-هماغه	hamấġë	هماغه	hamấġa	same	that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Masc	Sing						Dem
-هماغې	hamấġe	هماغه	hamấġa	same	that	PRON	nsubj;obj;obl;nmod		Acc;Abl	Remt	Fem	Sing						Dem
-هماغو	hamấġo	هماغه	hamấġa	same	those	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Remt		Plur						Dem
-همدغه	hamdáġa	همدغه	hamdáġa	same	this;these	DET	det		Nom;Loc	Prox								Dem
-همدغۀ	hamdáġë	همدغه	hamdáġa	same	this	DET	det		Acc;Abl	Prox	Masc	Sing						Dem
-همدغه	hamdáġë	همدغه	hamdáġa	same	this	DET	det		Acc;Abl	Prox	Masc	Sing						Dem
-همدغې	hamdáġe	همدغه	hamdáġa	same	this	DET	det		Acc;Abl	Prox	Fem	Sing						Dem
-همدغو	hamdáġo	همدغه	hamdáġa	same	these	DET	det		Loc;Acc;Abl	Prox		Plur						Dem
-همدغه	hamdáġa	همدغه	hamdáġa	same	this;these	PRON	nsubj;obj;obl;nmod		Nom;Loc	Prox								Dem
-همدغۀ	hamdáġë	همدغه	hamdáġa	same	this	PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing						Dem
-همدغه	hamdáġë	همدغه	hamdáġa	same	this	PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Masc	Sing						Dem
-همدغې	hamdáġe	همدغه	hamdáġa	same	this	PRON	nsubj;obj;obl;nmod		Acc;Abl	Prox	Fem	Sing						Dem
-همدغو	hamdáġo	همدغه	hamdáġa	same	these	PRON	nsubj;obj;obl;nmod		Loc;Acc;Abl	Prox		Plur						Dem		
-هماغسې	hamấġase	هماغسې	hamấġase	such	like-that;like-those	DET	det			Remt								Dem		
-همدغسې	hamdáġase	همدغسې	hamdáġase	such	like-this;like-these	DET	det			Remt								Dem		
-داسې	dấse	داسې	dấse	such	like-this;like-these	DET	det			Prox								Dem		Short
+.	.	.	.	.	PUNCT
+,	,	,	,	,	PUNCT
+(	(	(	(	(	PUNCT
+)	)	)	)	)	PUNCT
+[	[	[	[	[	PUNCT
+]	]	]	]	]	PUNCT
+{	{	{	{	{	PUNCT
+}	}	}	}	}	PUNCT
+;	;	;	;	;	PUNCT
+:	:	:	:	:	PUNCT
+?	?	?	?	?	PUNCT
+!	!	!	!	!	PUNCT
+"	"	"	"	"	PUNCT
+					PUNCT
+-	-	-	-	-	PUNCT
+–	–	–	–	–	PUNCT
+؟	?	؟	?	?	PUNCT
+،	,	،	,	,	PUNCT
+...	...	...	...	...	PUNCT
+پر	për	پر	për	on;in	ADP		Loc
+پرته	práta	پرته	práta	except;without	ADP		Abl
+په	pë	پۀ	pë	at;with;on;to;by	ADP		Loc
+پۀ	pë	پۀ	pë	at;with;on;to;by	ADP		Loc
+تر	tër	تر	tër	until;to;from	ADP		Acc;Abl
+ترمنځ	tërmánż	ترمنځ	tërmánż	between;among	ADP		Acc
+ته	ta	ته	ta	to	ADP		Acc
+څخه	cë́xa	څخه	cë́xa	from	ADP		Acc
+د	dë	د	dë	of	ADP		Acc
+سره	sará	سره	sará	with	ADP		Acc
+کې	ke	کې	ke	in;among	ADP		Loc
+لپاره	lapấra	لپاره	lapấra	for	ADP		Acc
+له	la	له	la	from	ADP		Acc;Abl
+وروسته	wrústa	وروسته	wrústa	after	ADP		Acc
+لاندې	lấnde	لاندې	lấnde	under	ADP		Acc
+باندې	bấnde	باندې	bấnde	on	ADP		Loc
+پورې	póre	پورې	póre	up-to	ADP		Loc;Abl
+غوندې	ġwë́nde	غوندې	ġwë́nde	like	ADP		Acc
+ترڅنګ	tërcáng	ترڅنګ	tërcáng	besides	ADP		Acc
+مخکې	më́xke	مخکې	më́xke	before	ADP		Acc
+پرځای	përżấy	پرځای	përżấy	in-place	ADP		Acc
+څنګه	cë́nga	څنګه	cë́nga	how	ADV
+ان	ân	آن	ân	even	ADV
+اوس	os	اوس	os	now	ADV
+اوسه	ósa	اوس	os	now	ADV		Abl
+بیا	byâ	بیا	byâ	then;even	ADV
+پرون	parún	پرون	parún	yesterday	ADV
+چېرې	čére	چېرې	čére	where;somewhere	ADV
+ځکه	żë́ka	ځکه	żë́ka	therefore	ADV
+څومره	cúmra	څومره	cúmra	how-much	ADV
+خورا	xwarấ	خورا	xwarấ	too-much;enough	ADV
+دومره	dúmra	دومره	dúmra	so-much	ADV
+رامنځته	râmánżta	رامنځته	râmánżta	together	ADV
+ژرژر	žëržë́r	ژرژر	žëržë́r	fast	ADV
+کله	kë́la	کله	kë́la	when	ADV
+لا	lâ	لا	lâ	yet;still;more	ADV
+نژدې	niždé	نژدې	niždé	nearly	ADV
+نو	no	نو	no	so;then	ADV
+هلته	hálta	هلته	hálta	there	ADV			Remt
+هم	ham	هم	ham	also;too;more	ADV
+وروسته	wrústa	وروسته	wrústa	later	ADV
+وړاندې	wṛấnde	وړاندې	wṛấnde	front	ADV
+سره	sará	سره	sará	together;with-each-other	ADV
+یوازې	yawấze	یوازې	yawấze	only	ADV
+يوازې	yawấze	يوازې	yawấze	only	ADV
+چې	če	چې	če	where	ADV										Rel
+چې	če	چې	če	therefore	ADV
+همدا	hamdấ	همدا	hamdấ	just	ADV			Prox							Dem
+خامخا	xâmaxấ	خامخا	xâmaxấ	of-course	ADV
+نن	nën	نن	nën	today	ADV
+البته	albatá	البته	albatá	of-course	ADV
+لکه	lë́ka	لکه	lë́ka	like	ADV
+زياتره	zyâtára	زياتره	zyâtára	mostly	ADV
+او	aw	او	aw	and	CCONJ
+خو	xo	خو	xo	but	CCONJ
+کۀ	kë	کۀ	kë	or	CCONJ
+که	kë	کۀ	kë	or	CCONJ
+مګر	magár	مګر	magár	but	CCONJ
+يا	yâ	يا	yâ	or	CCONJ
+بلکې	bálke	بلکې	bálke	but;but-rather	CCONJ
+و	wë	و	wë	and	CCONJ
+يانې	yấne	يانې	yấne	in-other-words	CCONJ
+چې	če	چې	če	that;when;because	SCONJ
+ځکه	żë́ka	ځکه	żë́ka	since	SCONJ
+که	kë	کۀ	kë	if;when;even	SCONJ
+کۀ	kë	کۀ	kë	if;when;even	SCONJ
+یو	yaw	یو	yaw	one	NUM		Nom;Loc		Masc		Card
+يوه	yawë́	یو	yaw	one	NUM		Acc;Abl		Masc		Card
+يوه	yawá	یو	yaw	one	NUM		Nom;Loc		Fem		Card
+يوې	yawé	یو	yaw	one	NUM		Acc;Abl		Fem		Card
+دوه	dwa	دوه	dwa	two	NUM		Nom		Masc		Card
+دوې	dwe	دوه	dwa	two	NUM		Nom		Fem		Card
+دوو	dwo	دوه	dwa	two	NUM		Loc;Acc;Abl				Card
+باید	bâyád	باید	bâyád	must;should	PART
+نه	në	نۀ	në	not	PART								Neg
+نۀ	në	نۀ	në	not	PART								Neg
+نه	në́	نۀ	në	not	PART								Neg
+نۀ	në́	نۀ	në	not	PART								Neg
+دې	de	دې	de	let;should	PART
+چې	če	چې	če	which	DET										Rel
+څو	co	څو	co	several	DET										Ind
+ځینې	żíne	ځینې	żíne	some	DET		Nom								Ind
+ځینو	żíno	ځینې	żíne	some	DET		Loc;Acc;Abl								Ind
+یوشمېر	yawšmér	یوشمېر	yawšmér	a-number	DET
+خپل	xpël	خپل	xpël	own	DET		Nom;Loc;Acc		Masc	Sing				Yes	Prs	Yes
+خپله	xpë́la	خپل	xpël	own	DET		Abl		Masc	Sing				Yes	Prs	Yes
+خپله	xpë́la	خپل	xpël	own	DET		Nom;Loc		Fem	Sing				Yes	Prs	Yes
+خپلې	xpë́le	خپل	xpël	own	DET		Acc;Abl		Fem	Sing				Yes	Prs	Yes
+خپل	xpël	خپل	xpël	own	DET		Nom		Masc	Plur				Yes	Prs	Yes
+خپلې	xpë́le	خپل	xpël	own	DET		Nom		Fem	Plur				Yes	Prs	Yes
+خپلو	xpë́lo	خپل	xpël	own	DET		Loc;Acc;Abl		Masc;Fem	Plur				Yes	Prs	Yes
+زۀ	zë	زۀ	zë	I;me	PRON		Nom			Sing		1			Prs
+تۀ	të	تۀ	të	you	PRON		Nom			Sing		2			Prs
+ما	mâ	زۀ	zë	I;me	PRON		Loc;Acc;Abl			Sing		1			Prs
+تا	tâ	تۀ	të	you	PRON		Loc;Acc;Abl			Sing		2			Prs
+موږ	muǧ	موږ	muǧ	we;us	PRON		Nom;Loc;Acc;Abl			Plur		1			Prs
+مونږ	munǧ	موږ	muǧ	we;us	PRON		Nom;Loc;Acc;Abl			Plur		1			Prs
+تاسو	tấso	تاسو	tấso	you	PRON		Nom;Loc;Acc;Abl			Plur		2			Prs
+تاسې	tấse	تاسو	tấso	you	PRON		Nom;Loc;Acc;Abl			Plur		2			Prs
+زما	zmâ	زۀ	zë	my;mine	PRON		Gen			Sing		1			Prs
+ستا	stâ	تۀ	të	your;yours	PRON		Gen			Sing		2			Prs
+زموږ	zmuǧ	موږ	muǧ	our;ours	PRON		Gen			Plur		1			Prs
+زمونږ	zmunǧ	موږ	muǧ	our;ours	PRON		Gen			Plur		1			Prs
+ستاسو	stấso	تاسو	tấso	your;yours	PRON		Gen			Plur		2			Prs
+ستاسې	stấse	تاسو	tấso	your;yours	PRON		Gen			Plur		2			Prs
+کوم	kum	کوم	kum	which	DET		Nom;Loc;Acc		Masc	Sing					Int
+کومه	kúma	کوم	kum	which	DET		Abl		Masc	Sing					Int
+کومه	kúma	کوم	kum	which	DET		Nom;Loc		Fem	Sing					Int
+کومې	kúme	کوم	kum	which	DET		Acc;Abl		Fem	Sing					Int
+کوم	kum	کوم	kum	which	DET		Nom		Masc	Plur					Int
+کومې	kúme	کوم	kum	which	DET		Nom		Fem	Plur					Int
+کومو	kúmo	کوم	kum	which	DET		Loc;Acc;Abl		Masc;Fem	Plur					Int
+کوم	kum	کوم	kum	some;any	DET		Nom;Loc;Acc		Masc	Sing					Ind
+کومه	kúma	کوم	kum	some;any	DET		Abl		Masc	Sing					Ind
+کومه	kúma	کوم	kum	some;any	DET		Nom;Loc		Fem	Sing					Ind
+کومې	kúme	کوم	kum	some;any	DET		Acc;Abl		Fem	Sing					Ind
+کوم	kum	کوم	kum	some;any	DET		Nom		Masc	Plur					Ind
+کومې	kúme	کوم	kum	some;any	DET		Nom		Fem	Plur					Ind
+کومو	kúmo	کوم	kum	some;any	DET		Loc;Acc;Abl		Masc;Fem	Plur					Ind
+هر	har	هر	har	every;each;any	DET		Nom;Loc;Acc		Masc						Tot
+هره	hára	هر	har	every;each;any	DET		Abl		Masc						Tot
+هره	hára	هر	har	every;each;any	DET		Nom;Loc		Fem						Tot
+هرې	háre	هر	har	every;each;any	DET		Acc;Abl		Fem						Tot
+هرڅه	hárcë	هرڅۀ	hárcë	everything	PRON	Nhum									Tot
+هرڅۀ	hárcë	هرڅۀ	hárcë	everything	PRON	Nhum									Tot
+هرڅوک	hárcok	هرڅوک	hárcok	everybody;everyone	PRON	Hum	Nom								Tot
+هرڅه	hárcë	هرڅۀ	hárcë	whatever	PRON	Nhum									Ind
+هرڅۀ	hárcë	هرڅۀ	hárcë	whatever	PRON	Nhum									Ind
+هرڅوک	hárcok	هرڅوک	hárcok	whoever	PRON	Hum	Nom								Ind
+ټول	ṭol	ټول	ṭol	all;whole	DET		Nom;Loc;Acc		Masc	Sing					Tot
+ټوله	ṭóla	ټول	ṭol	all;whole	DET		Abl		Masc	Sing					Tot
+ټوله	ṭóla	ټول	ṭol	all;whole	DET		Nom;Loc		Fem	Sing					Tot
+ټولې	ṭóle	ټول	ṭol	all;whole	DET		Acc;Abl		Fem	Sing					Tot
+ټول	ṭol	ټول	ṭol	all;whole	DET		Nom		Masc	Plur					Tot
+ټولې	ṭóle	ټول	ṭol	all;whole	DET		Nom		Fem	Plur					Tot
+ټولو	ṭólo	ټول	ṭol	all;whole	DET		Loc;Acc;Abl		Masc;Fem	Plur					Tot
+ټول	ṭol	ټول	ṭol	all;whole	PRON		Nom;Loc;Acc		Masc	Sing					Tot
+ټوله	ṭóla	ټول	ṭol	all;whole	PRON		Abl		Masc	Sing					Tot
+ټوله	ṭóla	ټول	ṭol	all;whole	PRON		Nom;Loc		Fem	Sing					Tot
+ټولې	ṭóle	ټول	ṭol	all;whole	PRON		Acc;Abl		Fem	Sing					Tot
+ټول	ṭol	ټول	ṭol	all;whole	PRON		Nom		Masc	Plur					Tot
+ټولې	ṭóle	ټول	ṭol	all;whole	PRON		Nom		Fem	Plur					Tot
+ټولو	ṭólo	ټول	ṭol	all;whole	PRON		Loc;Acc;Abl		Masc;Fem	Plur					Tot
+څوک	cok	څوک	cok	who;whom	PRON	Hum	Nom								Int
+چا	čâ	څوک	cok	whom;who	PRON	Hum	Loc;Acc;Abl								Int
+څوک	cok	څوک	cok	anyone;anybody;one;body	PRON	Hum	Nom								Ind
+چا	čâ	څوک	cok	anyone;anybody;one;body	PRON	Hum	Loc;Acc;Abl								Ind
+چې	če	چې	če	which;who;whose;whom;that	PRON										Rel
+ځان	żân	ځان	żân	self	PRON					Sing					Prs	Yes
+څۀ	cë	څۀ	cë	what;somewhat;not-only	PRON	Nhum									Int
+څه	cë	څۀ	cë	what;somewhat;not-only	PRON	Nhum									Int
+څۀ	cë	څۀ	cë	anything;thing	PRON	Nhum									Ind
+څه	cë	څۀ	cë	anything;thing	PRON	Nhum									Ind
+څۀ	cë	څۀ	cë	what;which	DET	Nhum									Int
+څه	cë	څۀ	cë	what;which	DET	Nhum									Int
+ما	mâ	زۀ	zë	I;me	PRON		Acc			Sing		1			Prs
+هیڅ	hic	هیڅ	hic	no	DET										Neg
+هېڅ	hec	هېڅ	hec	no	DET										Neg
+هیڅ	hic	هیڅ	hic	nothing	PRON	Nhum									Neg
+هیڅوک	hicók	هیڅوک	hicók	nobody;no-one	PRON	Hum	Nom								Neg
+هیچا	hičấ	هیڅوک	hicók	nobody;no-one	PRON	Hum	Loc;Acc;Abl								Neg
+ور	war	ور	war	it;him;her	PRON							3			Prs		Dir
+یوبل	yáwbël	یوبل	yáwbël	each-other	PRON										Rcp
+یې	ye	یې	ye	it;he;him;she;her;they;them	PRON							3			Prs		Weak
+یې	ye	یې	ye	its;his;her;their	PRON							3		Yes	Prs		Weak
+يې	ye	يې	ye	it;he;him;she;her;they;them	PRON							3			Prs		Weak
+يې	ye	يې	ye	its;his;her;their	PRON							3		Yes	Prs		Weak
+هغه	haġá	هغه	haġá	it;he;she;him;her;that	PRON		Nom	Remt		Sing		3			Prs
+هغۀ	haġë́	هغه	haġá	he;him;it;that	PRON		Loc;Acc;Abl	Remt	Masc	Sing		3			Prs
+هغه	haġë́	هغه	haġá	he;him;it;that	PRON		Loc;Acc;Abl	Remt	Masc	Sing		3			Prs
+هغې	haġé	هغه	haġá	she;her;it;that	PRON		Loc;Acc;Abl	Remt	Fem	Sing		3			Prs
+هغوی	haġúy	هغوی	haġúy	they;them;those	PRON		Nom;Loc;Acc;Abl	Remt		Plur		3			Prs
+دی	day	دی	day	he;him;it;this	PRON		Nom	Prox	Masc	Sing		3			Prs
+دۀ	dë	دی	day	him;he;it;this	PRON		Loc;Acc;Abl	Prox	Masc	Sing		3			Prs
+ده	dë	دی	day	he;him;it;this	PRON		Loc;Acc;Abl	Prox	Masc	Sing		3			Prs
+دا	dâ	دا	dâ	she;her;it;this	PRON		Nom	Prox	Fem	Sing		3			Prs
+دې	de	دا	dâ	her;she;it;this	PRON		Loc;Acc;Abl	Prox	Fem	Sing		3			Prs
+دوی	duy	دوی	duy	they;them;these	PRON		Nom;Loc;Acc;Abl	Prox		Plur		3			Prs
+هغه	háġa	هغه	háġa	that;those	DET		Nom	Remt							Dem
+هغه	háġa	هغه	háġa	that	DET		Loc	Remt	Fem	Sing					Dem
+هغۀ	háġë	هغه	háġa	that	DET		Loc;Acc;Abl	Remt	Masc	Sing					Dem
+هغه	háġë	هغه	háġa	that	DET		Loc;Acc;Abl	Remt	Masc	Sing					Dem
+هغې	háġe	هغه	háġa	that	DET		Acc;Abl	Remt	Fem	Sing					Dem
+هغو	háġo	هغه	háġa	those	DET		Loc;Acc;Abl	Remt		Plur					Dem
+هغه	háġa	هغه	háġa	that;those	PRON		Nom	Remt							Dem
+هغه	háġa	هغه	háġa	that	PRON		Loc	Remt	Fem	Sing					Dem
+هغۀ	háġë	هغه	háġa	that	PRON		Loc;Acc;Abl	Remt	Masc	Sing					Dem
+هغه	háġë	هغه	háġa	that	PRON		Loc;Acc;Abl	Remt	Masc	Sing					Dem
+هغې	háġe	هغه	háġa	that	PRON		Acc;Abl	Remt	Fem	Sing					Dem
+هغو	háġo	هغه	háġa	those	PRON		Loc;Acc;Abl	Remt		Plur					Dem
+دغه	dáġa	دغه	dáġa	this;these	DET		Nom	Prox							Dem		Long
+دغه	dáġa	دغه	dáġa	this	DET		Loc	Prox	Fem	Sing					Dem		Long
+دغۀ	dáġë	دغه	dáġa	this	DET		Loc;Acc;Abl	Prox	Masc	Sing					Dem		Long
+دغه	dáġë	دغه	dáġa	this	DET		Loc;Acc;Abl	Prox	Masc	Sing					Dem		Long
+دغې	dáġe	دغه	dáġa	this	DET		Acc;Abl	Prox	Fem	Sing					Dem		Long
+دغو	dáġo	دغه	dáġa	these	DET		Loc;Acc;Abl	Prox		Plur					Dem		Long
+دغه	dáġa	دغه	dáġa	this;these	PRON		Nom	Prox							Dem		Long
+دغه	dáġa	دغه	dáġa	this	PRON		Loc	Prox	Fem	Sing					Dem		Long
+دغۀ	dáġë	دغه	dáġa	this	PRON		Loc;Acc;Abl	Prox	Masc	Sing					Dem		Long
+دغه	dáġë	دغه	dáġa	this	PRON		Loc;Acc;Abl	Prox	Masc	Sing					Dem		Long
+دغې	dáġe	دغه	dáġa	this	PRON		Acc;Abl	Prox	Fem	Sing					Dem		Long
+دغو	dáġo	دغه	dáġa	these	PRON		Loc;Acc;Abl	Prox		Plur					Dem		Long
+دا	dâ	دا	dâ	this;these	DET		Nom	Prox							Dem
+دې	de	دا	dâ	this;these	DET		Loc;Acc;Abl	Prox							Dem
+دا	dâ	دا	dâ	this;these	PRON		Nom	Prox							Dem
+دې	de	دا	dâ	this;these	PRON		Loc;Acc;Abl	Prox							Dem
+هماغه	hamấġa	هماغه	hamấġa	same;that;those	DET		Nom;Loc	Remt							Dem
+هماغۀ	hamấġë	هماغه	hamấġa	same;that	DET		Acc;Abl	Remt	Masc	Sing					Dem
+هماغه	hamấġë	هماغه	hamấġa	same;that	DET		Acc;Abl	Remt	Masc	Sing					Dem
+هماغې	hamấġe	هماغه	hamấġa	same;that	DET		Acc;Abl	Remt	Fem	Sing					Dem
+هماغو	hamấġo	هماغه	hamấġa	same;those	DET		Loc;Acc;Abl	Remt		Plur					Dem
+هماغه	hamấġa	هماغه	hamấġa	same;that;those	PRON		Nom;Loc	Remt							Dem
+هماغۀ	hamấġë	هماغه	hamấġa	same;that	PRON		Acc;Abl	Remt	Masc	Sing					Dem
+هماغه	hamấġë	هماغه	hamấġa	same;that	PRON		Acc;Abl	Remt	Masc	Sing					Dem
+هماغې	hamấġe	هماغه	hamấġa	same;that	PRON		Acc;Abl	Remt	Fem	Sing					Dem
+هماغو	hamấġo	هماغه	hamấġa	same;those	PRON		Loc;Acc;Abl	Remt		Plur					Dem
+همدغه	hamdáġa	همدغه	hamdáġa	same;this;these	DET		Nom;Loc	Prox							Dem		Long
+همدغۀ	hamdáġë	همدغه	hamdáġa	same;this	DET		Acc;Abl	Prox	Masc	Sing					Dem		Long
+همدغه	hamdáġë	همدغه	hamdáġa	same;this	DET		Acc;Abl	Prox	Masc	Sing					Dem		Long
+همدغې	hamdáġe	همدغه	hamdáġa	same;this	DET		Acc;Abl	Prox	Fem	Sing					Dem		Long
+همدغو	hamdáġo	همدغه	hamdáġa	same;these	DET		Loc;Acc;Abl	Prox		Plur					Dem		Long
+همدغه	hamdáġa	همدغه	hamdáġa	same;this;these	PRON		Nom;Loc	Prox							Dem		Long
+همدغۀ	hamdáġë	همدغه	hamdáġa	same;this	PRON		Acc;Abl	Prox	Masc	Sing					Dem		Long
+همدغه	hamdáġë	همدغه	hamdáġa	same;this	PRON		Acc;Abl	Prox	Masc	Sing					Dem		Long
+همدغې	hamdáġe	همدغه	hamdáġa	same;this	PRON		Acc;Abl	Prox	Fem	Sing					Dem		Long
+همدغو	hamdáġo	همدغه	hamdáġa	same;these	PRON		Loc;Acc;Abl	Prox		Plur					Dem		Long
+همدا	hamdấ	همدا	hamdấ	same;this;these	DET		Nom	Prox							Dem
+همدې	hamdé	همدا	hamdấ	same;this;these	DET		Loc;Acc;Abl	Prox							Dem
+همدا	hamdấ	همدا	hamdấ	same;this;these	PRON		Nom	Prox							Dem
+همدې	hamdé	همدا	hamdấ	same;this;these	PRON		Loc;Acc;Abl	Prox							Dem
+هغسې	háġase	هغسې	háġase	such;like-that;like-those;similar	DET			Remt							Dem
+هسې	háse	هسې	háse	such;like-that;like-those;similar	DET			Remt							Dem		Short
+دغسې	dáġase	دغسې	dáġase	such;like-this;like-these;similar	DET			Prox							Dem		Long
+داسې	dấse	داسې	dấse	such;like-this;like-these;similar	DET			Prox							Dem
+هماغسې	hamấġase	هماغسې	hamấġase	same-like-that;same-like-those;similar	DET			Remt							Dem
+همدغسې	hamdáġase	همدغسې	hamdáġase	same-like-this;same-like-these;similar	DET			Remt							Dem		Long
+همداسې	hamdấse	همداسې	hamdấse	same-like-this;same-like-these;similar	DET			Prox							Dem
+هغسې	háġase	هغسې	háġase	such;like-that;like-those;similar	PRON			Remt							Dem
+هسې	háse	هسې	háse	such;like-that;like-those;similar	PRON			Remt							Dem		Short
+دغسې	dáġase	دغسې	dáġase	such;like-this;like-these;similar	PRON			Prox							Dem		Long
+داسې	dấse	داسې	dấse	such;like-this;like-these;similar	PRON			Prox							Dem
+هماغسې	hamấġase	هماغسې	hamấġase	same-like-that;same-like-those;similar	PRON			Remt							Dem
+همدغسې	hamdáġase	همدغسې	hamdáġase	same-like-this;same-like-these;similar	PRON			Remt							Dem		Long
+همداسې	hamdấse	همداسې	hamdấse	same-like-this;same-like-these;similar	PRON			Prox							Dem
+هغسې	háġase	هغسې	háġase	so;like-that	ADV			Remt							Dem
+هسې	háse	هسې	háse	so;like-that	ADV			Remt							Dem		Short
+دغسې	dáġase	دغسې	dáġase	so;like-this	ADV			Remt							Dem		Long
+داسې	dấse	داسې	dấse	so;like-this	ADV			Prox							Dem
+هماغسې	hamấġase	هماغسې	hamấġase	so;like-that	ADV			Remt							Dem
+همدغسې	hamdáġase	همدغسې	hamdáġase	so;like-this	ADV			Remt							Dem		Long
+همداسې	hamdấse	همداسې	hamdấse	so;like-this	ADV			Prox							Dem

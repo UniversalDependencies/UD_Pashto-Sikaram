@@ -5,131 +5,136 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>80</sentences><tokens>2495</tokens><words>2515</words><fused>20</fused></total>
+    <total><sentences>155</sentences><tokens>4032</tokens><words>4067</words><fused>35</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>80</sentences><tokens>2495</tokens><words>2515</words><fused>20</fused></test>
+    <test><sentences>155</sentences><tokens>4032</tokens><words>4067</words><fused>35</fused></test>
   </size>
-  <lemmas unique="635" /><!-- ،, د, پۀ, او, ., چې, کېدل, ول, ژبه, کې, کول, يې, هم, له, نۀ -->
-  <forms unique="804" /><!-- ،, د, په, او, ., چې, کې, يې, هم, له, نه, ژبه, ته, پښتو, ده -->
-  <fusions unique="11" /><!-- پرې, ورباندې, ورسره, ورپسې, ترې, جوړوي, خپرولو, خپرېږي, هېروي, پوهېږي, ځوابولاى -->
+  <lemmas unique="835" /><!-- ،, د, پۀ, ., کېدل, او, چې, ول, کې, کول, يې, هم, ژبه, نۀ, له -->
+  <forms unique="1076" /><!-- ،, د, په, ., او, چې, کې, يې, هم, نه, له, پښتو, ته, شي, ده -->
+  <fusions unique="18" /><!-- پرې, ورسره, ورباندې, ترې, ورپسې, پاتېږي, اوچتېږي, جوړوي, جوړېدی, خپرولو, خپرېږي, راولاړوي, راولاړېږي, هېروي, ورته -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
-    <tag name="ADJ">262</tag><!-- نور, ټولنیز, زيات, پوهنیز, جوړ, خپور, لږ, هنري, بل, سم -->
-    <tag name="ADP">392</tag><!-- د, پۀ, کې, له, ته, تر, څخه, لپاره, پر, سره -->
-    <tag name="ADV">102</tag><!-- هم, نو, کله, چېرې, اوس, آن, بیا, وروسته, یوازې, دومره -->
-    <tag name="AUX">130</tag><!-- ول, کېدل, بۀ, ونۀ, کول -->
-    <tag name="CCONJ">124</tag><!-- او, خو, يا, بلکې, مګر, و, کۀ -->
-    <tag name="DET">106</tag><!-- خپل, دا, هر, هغه, کوم, داسې, ټول, دغه, همدغه, څو -->
-    <tag name="NOUN">563</tag><!-- ژبه, ارزښت, خبره, ژباړه, کتاب, دود, خلک, هېواد, وده, خوا -->
-    <tag name="NUM">31</tag><!-- یو, دوه, 1 -->
-    <tag name="PART">49</tag><!-- نۀ, دې, بايد, باید -->
-    <tag name="PRON">138</tag><!-- يې, چې, دا, ور, هغه, څوک, ځان, هغوى, همدا, څۀ -->
-    <tag name="PROPN">89</tag><!-- پښتو, پښتون, پیتر, اردو, مریم, امريکا, انګرېزۍ, ايران, ټیګور, پاړسي -->
-    <tag name="PUNCT">259</tag><!-- ،, ., -, (, ), ؟, :, !, [, ] -->
-    <tag name="SCONJ">61</tag><!-- چې, کۀ, ځکه -->
-    <tag name="VERB">205</tag><!-- کول, کېدل, لرل, ورکول, شته, لیکل, نیول, ژباړل, راتلل, راژباړل -->
-    <tag name="X">4</tag><!-- Escape, Taliban, _, from -->
+  <tags unique="16">
+    <tag name="ADJ">435</tag><!-- نور, زيات, سم, ټولنیز, _, بل, پوهنیز, زده, ښۀ, اړوند -->
+    <tag name="ADP">588</tag><!-- د, پۀ, کې, له, ته, تر, پر, سره, لپاره, څخه -->
+    <tag name="ADV">175</tag><!-- هم, اوس, نو, کله, چېرې, بیا, یوازې, دومره, لا, وروسته -->
+    <tag name="AUX">216</tag><!-- ول, کېدل, بۀ, ونۀ, کول -->
+    <tag name="CCONJ">169</tag><!-- او, يا, خو, بلکې, مګر, و, يانې, کۀ -->
+    <tag name="DET">158</tag><!-- خپل, دا, دغه, هغه, هر, کوم, ټول, ځینې, داسې, همدغه -->
+    <tag name="NOUN">870</tag><!-- ژبه, ژباړه, کتاب, خلک, خبره, ارزښت, خوا, ستونزه, کار, توګه -->
+    <tag name="NUM">46</tag><!-- یو, دوه, _, 1 -->
+    <tag name="PART">79</tag><!-- نۀ, بايد, دې, باید -->
+    <tag name="PRON">196</tag><!-- يې, چې, دا, ور, هغه, څوک, دوی, هغوی, یې, موږ -->
+    <tag name="PROPN">147</tag><!-- پښتو, پښتون, اردو, پاړسي, احمد, وحید, پیتر, پنج, مریم, کتاب -->
+    <tag name="PUNCT">517</tag><!-- ،, ., (, ), :, –, -, ؟, !, ... -->
+    <tag name="SCONJ">94</tag><!-- چې, کۀ, ځکه -->
+    <tag name="SYM">1</tag><!-- _ -->
+    <tag name="VERB">327</tag><!-- کول, کېدل, لرل, ورکول, ژباړل, لیکل, وهل, ویل, راتلل, شته -->
+    <tag name="X">49</tag><!-- _, که, در, Escape, Taliban, from, ،, اخیر, استیم, اسیر -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="52">
-    <feat name="Animacy" value="Hum" upos="PRON">7</feat><!-- چا, څوک, هرڅوک, هیڅوک -->
-    <feat name="Animacy" value="Nhum" upos="DET,PRON">5</feat><!-- څه, هرڅه, څۀ -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">123</feat><!-- کېږي, لري, کوي, ورکوي, کولاى, ژباړل, ګڼل, راځي, نیول, پاتېږي -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">47</feat><!-- شو, کړه, ونه, شوای, شوه, وڅېړو, وکولاى, کړل, راواخلي, راوغزول -->
-    <feat name="Case" value="Abl" upos="ADJ,ADP,ADV,DET,NOUN,PRON,PROPN">66</feat><!-- له, تر, خوا, دې, مخې, اړخه, پرته, کبله, امله, اوسه -->
-    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">508</feat><!-- د, ته, له, څخه, لپاره, ژباړې, ژبې, سره, نورو, پښتو -->
-    <feat name="Case" value="Gen" upos="PRON">4</feat><!-- ستا, زما, زموږ -->
-    <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">328</feat><!-- په, کې, دې, پر, ژبه, پښتو, نورو, پۀ, باندې, برخه -->
-    <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">630</feat><!-- ژبه, هغه, پښتو, دا, یو, یوه, شوي, خبرې, خپل, دغه -->
+  <feats unique="53">
+    <feat name="Animacy" value="Hum" upos="PRON">8</feat><!-- څوک, چا, هرڅوک, هیڅوک -->
+    <feat name="Animacy" value="Nhum" upos="DET,PRON">7</feat><!-- څه, هرڅه, څۀ -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">203</feat><!-- کېږي, کوي, لري, کولای, ژباړل, ورکوي, وايي, کارول, راځي, پوهېږي -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">58</feat><!-- شو, کړه, ونه, وواهه, شوای, شوه, واړول, ولیکل, وکارول, وکولای -->
+    <feat name="Case" value="Abl" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PRON,PROPN">84</feat><!-- له, تر, خوا, دې, مخې, کبله, اړخه, پرته, اصولو, امله -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN,VERB">718</feat><!-- د, ته, له, سره, لپاره, څخه, نورو, پښتو, ژباړې, ژبې -->
+    <feat name="Case" value="Gen" upos="PRON">6</feat><!-- زموږ, ستا, زما -->
+    <feat name="Case" value="Loc" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">501</feat><!-- په, کې, دې, پښتو, پر, ژبه, توګه, برخه, باندې, نورو -->
+    <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1071</feat><!-- ژبه, هغه, دغه, پښتو, یو, شوی, یوه, دا, زيات, شوي -->
     <feat name="Case" value="Voc" upos="PROPN">1</feat><!-- سامه -->
-    <feat name="Deixis" value="Prox" upos="DET,PRON">56</feat><!-- دې, دا, داسې, دغه, همدغه, دغسې, همدا, دوى, دوی, همدغو -->
-    <feat name="Deixis" value="Remt" upos="ADV,DET,PRON">27</feat><!-- هغه, هغوى, هغۀ, هغې, هماغه, هلته, هسې, هماغسې -->
-    <feat name="ExtPos" value="ADV" upos="ADJ,ADV">4</feat><!-- لږ, کله -->
+    <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">89</feat><!-- دې, دغه, دا, داسې, همدا, همدغه, دوی, دغسې, دغو, همدغو -->
+    <feat name="Deixis" value="Remt" upos="ADV,DET,PRON">40</feat><!-- هغه, هغوی, هماغه, هغۀ, هغې, هلته, هسې, هماغسې -->
+    <feat name="ExtPos" value="ADV" upos="ADJ,ADV,NOUN,X">8</feat><!-- کله, لږ, ټکي, کټ -->
     <feat name="ExtPos" value="SCONJ" upos="ADV,SCONJ">5</feat><!-- کله, ځکه, که -->
-    <feat name="Foreign" value="Yes" upos="X">3</feat><!-- Escape, Taliban, from -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">498</feat><!-- ژبه, پښتو, ده, ژبې, ژباړې, یوه, دې, ژبو, خبرې, خوا -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">615</feat><!-- خپل, یو, شوي, نورو, ټولنیز, دى, شوى, ټولنیزو, پښتانه, ژوند -->
-    <feat name="Mood" value="Cnd" upos="AUX,VERB">22</feat><!-- کولاى, شوای, وکولاى, اخیستلاى, اوارولاى, ايښوولاى, برخمنېدلاى, راتلای, شواى, لرلاى -->
+    <feat name="Foreign" value="Yes" upos="X">42</feat><!-- که, در, Escape, Taliban, from, ،, اخیر, استیم, اسیر, افغان -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">766</feat><!-- پښتو, ده, ژبه, ژبې, دې, یوه, ژباړې, ژباړه, ژبو, توګه -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">974</feat><!-- خپل, دی, یو, زيات, شوی, شوي, کار, خلکو, نورو, کتابونه -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">29</feat><!-- کولای, اخیستلای, شوای, وکولای, اوارولای, ايښوولای, برخمنېدلای, راتلای, لرلای, لوستلای -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- کړه -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">159</feat><!-- ده, کېږي, دي, لري, کوي, دى, ورکوي, دﺉ, شو, کړه -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">61</feat><!-- شي, وي, کړي, شو, شې, ورکړي, کړو, راوباسي, واخلي, ولري -->
-    <feat name="Number" value="Coll" upos="NOUN">10</feat><!-- خلکو, خلک, شتو, مواد -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">394</feat><!-- نورو, دي, کوي, ټولنیزو, شوي, ژبو, خبرې, کېږي, پښتانه, شي -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">837</feat><!-- ژبه, پښتو, ده, شي, وي, خپل, ژباړې, ژبې, لري, دې -->
-    <feat name="NumType" value="Card" upos="NUM">30</feat><!-- یوه, یو, یوې, دوه, دوو -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">18</feat><!-- شو, وڅېړو, ما, کوو, کړو, زما, زموږ, موږ, وګورو, کوم -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">263</feat><!-- ده, کېږي, کوي, دي, لري, دی, ورکوي, شته, شو, وايي -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">110</feat><!-- شي, وي, کړي, شو, ولري, وڅېړو, شې, ورکړي, وشي, وکړي -->
+    <feat name="Number" value="Coll" upos="NOUN">21</feat><!-- خلکو, خلک, سلنه, شتو, مواد -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">589</feat><!-- کوي, دي, نورو, شوي, ژبو, کېږي, زيات, شي, کتابونه, ټولنیزو -->
+    <feat name="Number" value="Ptan" upos="NOUN">1</feat><!-- معلومات -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">1359</feat><!-- پښتو, ده, ژبه, شي, کېږي, وي, لري, دی, دې, خپل -->
+    <feat name="NumType" value="Card" upos="DET,NUM">49</feat><!-- یوه, یو, یوې, یوشمېر, دوو, 1, 30, 40, دوه, دوې -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">21</feat><!-- شو, زموږ, وڅېړو, کوو, ما, کړو, زما, موږ, وګورو, کوم -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">7</feat><!-- ستا, شې, غواړې, کړه, ګورې -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">277</feat><!-- يې, ده, شي, وي, کېږي, دي, لري, کوي, ور, کړي -->
-    <feat name="Polarity" value="Neg" upos="ADJ,AUX,PART">41</feat><!-- نه, نۀ, ونه, ناشونې, ونۀ -->
-    <feat name="Poss" value="Yes" upos="DET,PRON">43</feat><!-- يې, خپل, خپله, خپلو, یې -->
-    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">70</feat><!-- دې, هغه, دا, داسې, دغه, همدغه, دغسې, هماغه, همدا, هسې -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">16</feat><!-- څو, ځینو, ځینې, کوم, کومه, څوک, چا, کومې -->
-    <feat name="PronType" value="Int" upos="DET,PRON">10</feat><!-- څه, چا, کومې, څوک, څۀ, کوم -->
-    <feat name="PronType" value="Neg" upos="PRON">1</feat><!-- هیڅوک -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">101</feat><!-- يې, خپل, ور, خپله, ځان, هغوى, هغۀ, یې, خپلو, دوى -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">457</feat><!-- يې, ده, شي, کېږي, وي, کوي, دي, لري, دی, کړي -->
+    <feat name="Polarity" value="Neg" upos="ADJ,AUX,PART">72</feat><!-- نه, ناسمه, نۀ, ونه, ناخبره, ناسم, ناشونې, ونۀ -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">60</feat><!-- يې, خپل, خپله, خپلو, یې -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">111</feat><!-- دې, هغه, دغه, دا, داسې, همدا, همدغه, دغسې, هماغه, دغو -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">31</feat><!-- ځینې, څو, کوم, ځینو, کومه, یوشمېر, څوک, هرڅه, چا, چېرې -->
+    <feat name="PronType" value="Int" upos="DET,PRON">10</feat><!-- څه, چا, کومې, څوک, څۀ -->
+    <feat name="PronType" value="Neg" upos="DET,PRON">2</feat><!-- هیڅوک, هېڅ -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">138</feat><!-- يې, خپل, ور, خپله, دوی, هغوی, یې, ځان, زموږ, هغۀ -->
     <feat name="PronType" value="Rcp" upos="PRON">1</feat><!-- یوبل -->
-    <feat name="PronType" value="Rel" upos="ADV,PRON">22</feat><!-- چې -->
-    <feat name="PronType" value="Tot" upos="DET,PRON">20</feat><!-- هر, هرې, ټوله, هره, ټول, ټولې, هرڅه, هرڅوک, ټولو -->
-    <feat name="Reflex" value="Yes" upos="DET,PRON">24</feat><!-- خپل, خپله, ځان, خپلو -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">68</feat><!-- شوي, شوى, شو, شوې, کړه, شوه, وه, کړل, کړى, کړي -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">128</feat><!-- ده, کېږي, دي, لري, کوي, دى, شته, ورکوي, دﺉ, راځي -->
-    <feat name="Typo" value="Yes" upos="ADJ,NOUN">9</feat><!-- ټولنیزو, اّر, زېري, لاره, ممکنه, ولايتونو, پښتون, ګنې -->
-    <feat name="Variant" value="Dir" upos="PRON">9</feat><!-- ور -->
-    <feat name="Variant" value="Long" upos="AUX,DET,VERB">15</feat><!-- همدغه, دغسې, دغه, وکولاى, همدغو, وکړ, وکړه, وکړي -->
-    <feat name="Variant" value="Short" upos="ADV,AUX,DET,NOUN,VERB">22</feat><!-- دې, داسې, شوای, دا, راتلای, شواى, لاړ, لوستى, هسې, ډوله -->
-    <feat name="Variant" value="Weak" upos="PRON">50</feat><!-- يې, یې -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">248</feat><!-- ده, شي, وي, کېږي, دي, لري, کوي, شو, کړي, دى -->
-    <feat name="VerbForm" value="Inf" upos="VERB">35</feat><!-- ژباړل, ګڼل, نیول, ويل, کولو, راوژباړل, راژباړل, رټل, لاړ, لیکل -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">35</feat><!-- شوي, شوى, شوې, لیکنۍ, کړى, کړي, کړې, رسولې, رسېدلی, شویو -->
-    <feat name="VerbForm" value="Vnoun" upos="NOUN">11</feat><!-- خپرونې, لیکنې, پوهونې, جوړونې, خپرونو, راپوهونې, څرګندونې, کارونې -->
-    <feat name="Voice" value="Act" upos="ADJ">3</feat><!-- لارورکوونکو, ورکوونکې, کارېدونکې -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">47</feat><!-- چې -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">25</feat><!-- هر, هرې, هره, ټول, ټوله, ټولې, هرڅه, هرڅوک, ټولو -->
+    <feat name="Reflex" value="Yes" upos="DET,PRON">26</feat><!-- خپل, خپله, ځان, خپلو -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">103</feat><!-- شوی, شوي, شو, کړی, و, وه, وواهه, کړه, کړې, شوې -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">212</feat><!-- ده, کېږي, کوي, دي, لري, دی, ورکوي, شته, وايي, راځي -->
+    <feat name="Typo" value="Yes" upos="ADJ,NOUN">13</feat><!-- ټولنیزو, اّر, رخه, زېري, سوچه, غمجنیه, لاره, ممکنه, ولايتونو, پښتون -->
+    <feat name="Variant" value="Dir" upos="PRON">13</feat><!-- ور -->
+    <feat name="Variant" value="Long" upos="AUX,DET,PRON,VERB">37</feat><!-- دغه, همدغه, دغسې, وشي, وکولای, وکړي, دغو, همدغو, وکړ -->
+    <feat name="Variant" value="Short" upos="ADV,AUX,DET,NOUN,VERB">35</feat><!-- دې, داسې, کړه, شوای, دا, درلوده, راتلای, شوه, شوی, لاړ -->
+    <feat name="Variant" value="Weak" upos="PRON">74</feat><!-- يې, یې -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">403</feat><!-- ده, شي, کېږي, وي, کوي, دي, لري, دی, کړي, شو -->
+    <feat name="VerbForm" value="Inf" upos="VERB">58</feat><!-- ژباړل, کارول, لیکل, ګڼل, رااخیستل, راژباړل, لیدل, نیول, واړول, ويل -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">58</feat><!-- شوی, شوي, کړی, کړې, شوې, شویو, لیکنۍ, کړي, تدريسېدونکي, تړلي -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN">17</feat><!-- لیکنې, جوړونې, خپرونې, پوهونې, جوړونه, خپرونو, راپوهونې, رغونه, غزونې, پوهونه -->
+    <feat name="Voice" value="Act" upos="ADJ">6</feat><!-- تدريسېدونکي, خواشینوونکې, غموونکې, لارورکوونکو, ورکوونکې, کارېدونکې -->
     <feat name="Voice" value="Pass" upos="ADJ">2</feat><!-- لیکنۍ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
-    <dep name="acl">21</dep>
-    <dep name="acl:relcl">21</dep>
-    <dep name="advcl">29</dep>
-    <dep name="advmod">149</dep>
-    <dep name="amod">176</dep>
-    <dep name="appos">8</dep>
-    <dep name="aux">6</dep>
+  <deps unique="46">
+    <dep name="acl">33</dep>
+    <dep name="acl:relcl">42</dep>
+    <dep name="advcl">55</dep>
+    <dep name="advcl:relcl">2</dep>
+    <dep name="advmod">257</dep>
+    <dep name="amod">257</dep>
+    <dep name="appos">19</dep>
+    <dep name="aux">7</dep>
     <dep name="aux:cnd">1</dep>
-    <dep name="aux:fut">11</dep>
+    <dep name="aux:fut">20</dep>
     <dep name="aux:hab">6</dep>
-    <dep name="aux:pass">25</dep>
-    <dep name="aux:perf">11</dep>
-    <dep name="aux:pot">18</dep>
-    <dep name="case">391</dep>
-    <dep name="cc">124</dep>
-    <dep name="ccomp">10</dep>
-    <dep name="compound">12</dep>
-    <dep name="compound:lvc">44</dep>
-    <dep name="conj">186</dep>
-    <dep name="cop">52</dep>
-    <dep name="csubj">1</dep>
-    <dep name="det">105</dep>
-    <dep name="dislocated">1</dep>
-    <dep name="fixed">11</dep>
-    <dep name="flat">4</dep>
-    <dep name="flat:foreign">2</dep>
-    <dep name="goeswith">1</dep>
-    <dep name="mark">60</dep>
-    <dep name="nmod">189</dep>
-    <dep name="nsubj">154</dep>
-    <dep name="nsubj:pass">16</dep>
-    <dep name="nummod">30</dep>
-    <dep name="obj">108</dep>
-    <dep name="obl">173</dep>
+    <dep name="aux:pass">48</dep>
+    <dep name="aux:perf">20</dep>
+    <dep name="aux:pot">26</dep>
+    <dep name="case">584</dep>
+    <dep name="cc">168</dep>
+    <dep name="ccomp">15</dep>
+    <dep name="compound">14</dep>
+    <dep name="compound:lvc">75</dep>
+    <dep name="conj">251</dep>
+    <dep name="cop">88</dep>
+    <dep name="csubj">4</dep>
+    <dep name="dep">2</dep>
+    <dep name="det">157</dep>
+    <dep name="dislocated">2</dep>
+    <dep name="fixed">17</dep>
+    <dep name="flat">12</dep>
+    <dep name="flat:foreign">35</dep>
+    <dep name="goeswith">4</dep>
+    <dep name="mark">93</dep>
+    <dep name="nmod">283</dep>
+    <dep name="nsubj">255</dep>
+    <dep name="nsubj:pass">35</dep>
+    <dep name="nummod">45</dep>
+    <dep name="obj">164</dep>
+    <dep name="obl">254</dep>
     <dep name="obl:agent">1</dep>
     <dep name="obl:arg">3</dep>
     <dep name="orphan:nsubjobj">3</dep>
     <dep name="orphan:objobl">1</dep>
-    <dep name="parataxis">2</dep>
-    <dep name="punct">259</dep>
-    <dep name="root">80</dep>
+    <dep name="parataxis">15</dep>
+    <dep name="punct">517</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">155</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">9</dep>
+    <dep name="xcomp">20</dep>
   </deps>
 </treebank>
