@@ -30,7 +30,7 @@ We also thank Shah Wali Faryad for helping with the manual annotation.
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: cairo
 Genre: grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
