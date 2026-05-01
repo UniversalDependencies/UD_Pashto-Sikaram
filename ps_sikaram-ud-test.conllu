@@ -5263,14 +5263,14 @@
 
 # sent_id = pnt-148-81.5
 # text = [د انسانانو په ژبه خبرې وکړه!؟؟].
-# translit = [dëinsânấnopëžë́baxabë́rewë́kṛa!??].
+# translit = [dë insânấno pë žë́ba xabë́re wë́kṛa!??].
 # text_en = [Speak in human language!??].
 1	[	[	PUNCT	_	_	7	punct	_	Translit=[|LTranslit=[|Gloss=[|SpaceAfter=No
-2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of|SpaceAfter=No
-3	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	Translit=insânấno|LTranslit=insấn|Gloss=humans|SpaceAfter=No
-4	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at|SpaceAfter=No
-5	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language|SpaceAfter=No
-6	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk|SpaceAfter=No
+2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
+3	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	Translit=insânấno|LTranslit=insấn|Gloss=humans
+4	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
+5	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
+6	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk
 7	وکړه	کول	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Variant=Long|VerbForm=Fin	0	root	_	Translit=wë́kṛa|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 8	!	!	PUNCT	_	_	7	punct	_	Translit=!|LTranslit=!|Gloss=!|SpaceAfter=No
 9	؟	؟	PUNCT	_	_	7	punct	_	Translit=?|LTranslit=?|Gloss=?|SpaceAfter=No
