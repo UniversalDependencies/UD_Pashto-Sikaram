@@ -5687,7 +5687,7 @@
 7	پورې	پورې	ADP	_	Case=Abl	6	case	_	Translit=póre|LTranslit=póre|Gloss=up-to
 8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
 9	وخت	وخت	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	Translit=waxt|LTranslit=waxt|Gloss=time
-10	دربارونو	دربار	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obl	_	Translit=darbârúno|LTranslit=darbấr|Gloss=courts
+10	دربارونو	دربار	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	Translit=darbârúno|LTranslit=darbấr|Gloss=courts
 11	ته	ته	ADP	_	Case=Acc	10	case	_	Translit=ta|LTranslit=ta|Gloss=to
 12	لازمه	لازم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	Translit=lâzíma|LTranslit=lâzím|Gloss=necessary
 13	لار	لار	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=lâr|LTranslit=lâr|Gloss=way
@@ -5996,7 +5996,7 @@
 11	ته	ته	ADP	_	Case=Acc	10	case	_	Translit=ta|LTranslit=ta|Gloss=to
 12	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	13	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 13	کتنه	کتنه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Vnoun	14	obj	_	Translit=katë́na|LTranslit=katë́na|Gloss=look|LDeriv=کتنل|LDTranslit=katë́l
-14	وکړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Variant=??|VerbForm=Fin	4	conj	_	Translit=wë́kṛu|LTranslit=kawë́l|Gloss=we-do|SpaceAfter=No
+14	وکړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Past|Variant=Long|VerbForm=Fin	4	conj	_	Translit=wë́kṛu|LTranslit=kawë́l|Gloss=we-do|SpaceAfter=No
 15	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
 16	ښايي	ښایل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=x̌âyí|LTranslit=x̌âyë́l|Gloss=it-seems
 17-18	راته	_	_	_	_	_	_	_	Lemma=|Translit=rấta|LTranslit=|Gloss=to-us
