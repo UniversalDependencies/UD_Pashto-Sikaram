@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Pashto-Sikaram:
-commit d10e1ce137adf8c082e136a94bd0e0e1bdb8a584
-Merge: 74eb51f fb4c932
+commit f4546bb102b677bf3f07b9c88203bf13e80d7e8c
+Merge: 0fdb631 8aa516f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ps_sikaram'
 Language code (from CoNLL-U file name) = 'ps'
 Found the following data files: ps_sikaram-ud-test.conllu
-Size: counted 4067 of 4067 words (nodes).
-Size: min(0, log((N/1000)**2)) = 2.80581125385017.
+Size: counted 5467 of 5467 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.39746003982572.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,9 +19,9 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 3078 out of 4067 total words have one or more features.
+Features: 4125 out of 5467 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 32 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ps --max-err=10 UD_Pashto-Sikaram/ps_sikaram-ud-test.conllu
@@ -30,10 +30,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.203091390801529) = 0.075219033630196
+(weight=0.37037037037037) * (score{size}=0.245916357963852) = 0.0910801325792046
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
-(weight=0.111111111111111) * (score{udeprels}=0.864864864864865) = 0.0960960960960961
-(TOTAL score=0.511198935100293) * (availability=1) * (validity=1) = 0.511198935100293
+(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
+(TOTAL score=0.530063037052305) * (availability=1) * (validity=1) = 0.530063037052305
 STARS = 2.5
-UD_Pashto-Sikaram	0.511198935100293	2.5
+UD_Pashto-Sikaram	0.530063037052305	2.5
