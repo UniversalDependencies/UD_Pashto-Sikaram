@@ -6798,7 +6798,7 @@
 # text_en = Such as Sirat al-Mustaqim, Khayr al-Bayan, Halnamah, Maqsud al-Mu'minin, Makhz al-Talibin, and Maktubat, of which Khayr al-Bayan is the most nominated work.
 1	لکه	لکه	SCONJ	_	_	2	mark	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
 2	صراط	صراط​المستقیم	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	_	Translit=sirất|LTranslit=sirâtalmustaqím|Gloss=Sirat
-3	المستقیم	المستقیم	X	_	_	2	goeswith	_	Translit=almustaqím|LTranslit=almustaqím|Gloss=al-Mustaqim|SpaceAfter=No
+3	المستقیم	_	X	_	_	2	goeswith	_	Translit=almustaqím|LTranslit=|Gloss=al-Mustaqim|SpaceAfter=No
 4	،	،	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|Gloss=,
 5	خیرالبیان	خیرالبیان	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=xayralbayấn|LTranslit=xayralbayấn|Gloss=Khayr-al-Bayan|SpaceAfter=No
 6	،	،	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -7673,7 +7673,7 @@
 63	وروسته	وروسته	ADV	_	_	64	advmod	_	Translit=wrústa|LTranslit=wrústa|Gloss=backwards
 64	والي	والی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	65	nmod	_	Translit=wâlí|LTranslit=wâláy|Gloss=being
 65	لامل	لامل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	66	xcomp	_	Translit=lâmál|LTranslit=lâmál|Gloss=cause
-66	ګرځي	ګرځيدل	VEBR	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	41	conj	_	Translit=gërżí|LTranslit=gërżedë́l|Gloss=turns|SpaceAfter=No
+66	ګرځي	ګرځيدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Variant=Short|VerbForm=Fin	41	conj	_	Translit=gërżí|LTranslit=gërżedë́l|Gloss=turns|SpaceAfter=No
 67	.	.	PUNCT	_	_	41	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 # sent_id = pnt-204-106.2
