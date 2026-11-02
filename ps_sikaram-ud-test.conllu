@@ -6797,7 +6797,7 @@
 # translit = lë́ka sirất almustaqím, xayralbayấn, hâlnấma, maqsudalmuminín, maxzaltâlibín aw maktubất, če xayralbayấn ye tër ṭólo zyât nomấnd asár dëy.
 # text_en = Such as Sirat al-Mustaqim, Khayr al-Bayan, Halnamah, Maqsud al-Mu'minin, Makhz al-Talibin, and Maktubat, of which Khayr al-Bayan is the most nominated work.
 1	لکه	لکه	SCONJ	_	_	2	mark	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
-2	صراط	_	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	_	Translit=sirất|LTranslit=|Gloss=Sirat
+2	صراط	صراط​المستقیم	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	_	Translit=sirất|LTranslit=sirâtalmustaqím|Gloss=Sirat
 3	المستقیم	المستقیم	X	_	_	2	goeswith	_	Translit=almustaqím|LTranslit=almustaqím|Gloss=al-Mustaqim|SpaceAfter=No
 4	،	،	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|Gloss=,
 5	خیرالبیان	خیرالبیان	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=xayralbayấn|LTranslit=xayralbayấn|Gloss=Khayr-al-Bayan|SpaceAfter=No
@@ -7527,10 +7527,10 @@
 83	ناسمو	سم	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Neg	84	amod	_	Translit=nâsámo|LTranslit=sam|Gloss=uncorrect
 84	حالاتو	حالات	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	85	nmod	_	Translit=hâlấto|LTranslit=hâlát|Gloss=states
 85	څپو	څپه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	88	obl	_	Translit=capó|LTranslit=capá|Gloss=waves
-86	سره	سره	ADV	_	Case=Acc	85	advmod	_	Translit=sará|LTranslit=sará|Gloss=each-other
+86	سره	سره	ADP	_	Case=Acc	85	case	_	Translit=sará|LTranslit=sará|Gloss=with
 87	بېل	بېل	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	88	compound:lvc	_	Translit=bel|LTranslit=bel|Gloss=separated
-88	کړي	کول	VERB	_	Number=Sing|Person=3|VerbForm=Fin	78	acl	_	Translit=këṛi|LTranslit=kawë́l|Gloss=done|SpaceAfter=No
-89	،	،	PUNCT	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	108	punct	_	Translit=,|LTranslit=,|Gloss=,
+88	کړي	کول	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	78	acl	_	Translit=këṛi|LTranslit=kawë́l|Gloss=done|SpaceAfter=No
+89	،	،	PUNCT	_	_	108	punct	_	Translit=,|LTranslit=,|Gloss=,
 90	که	کۀ	SCONJ	_	_	108	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 91	چېرې	چېرې	ADV	_	_	108	advmod	_	Translit=čére|LTranslit=čére|Gloss=somewhere
 92	د	د	ADP	_	Case=Acc	95	case	_	Translit=dë|LTranslit=dë|Gloss=of
@@ -7627,7 +7627,7 @@
 19	سالم	سالم	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	20	amod	_	Translit=sâlím|LTranslit=sâlím|Gloss=heathy
 20	بهیر	بهیر	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	25	obl	_	Translit=bahír|LTranslit=bahír|Gloss=process
 21	کې	کې	ADP	_	Case=Loc	20	case	_	Translit=ke|LTranslit=ke|Gloss=in
-22	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	22	compound	_	Translit=zda|LTranslit=zda|Gloss=learn
+22	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	23	compound	_	Translit=zda|LTranslit=zda|Gloss=learn
 23	کړه	کړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	25	obj	_	Translit=kṛa|LTranslit=kṛa|Gloss=doing
 24-25	وکړي	_	_	_	_	_	_	_	Lemma=None|Translit=wë́kṛi|LTranslit=wë́kṛi|Gloss=does|SpaceAfter=No
 24	و	و	AUX	_	Aspect=Perf	25	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
@@ -8067,7 +8067,7 @@
 9	پوهنتونونو	پوهنتون	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	Translit=pohantunúno|LTranslit=pohantún|Gloss=universities
 10	ته	ته	ADP	_	Case=Acc	9	case	_	Translit=ta|LTranslit=ta|Gloss=to
 11-12	ولېږدول	_	_	_	_	_	_	_	Lemma=None|Translit=wë́leǧdawël|LTranslit=wë́leǧdawël|Gloss=sent
-11	و	و	AUX	_	Aspect=Perf	13	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+11	و	و	AUX	_	Aspect=Perf	12	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
 12	لېږدول	لېږدول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=leǧdawë́l|LTranslit=leǧdawë́l|Gloss=sent
 13	شول	کېدل	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	Translit=šwël|LTranslit=kedë́l|Gloss=were|SpaceAfter=No
 14	،	،	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,|Gloss=,
@@ -8122,7 +8122,7 @@
 63	پاتې	پاتې	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	64	compound:lvc	_	Translit=pấte|LTranslit=pấte|Gloss=backward
 64	شول	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	Translit=šwël|LTranslit=kedë́l|Gloss=were|SpaceAfter=No
 65	،	،	PUNCT	_	_	75	punct	_	Translit=,|LTranslit=,|Gloss=,
-66	پرځای	پرځای	ADV	_	Case=Acc	75	advmod	_	Translit=përżấy|LTranslit=përżấy|Gloss=in-place
+66	پرځای	پرځای	ADV	_	_	75	advmod	_	Translit=përżấy|LTranslit=përżấy|Gloss=in-place
 67	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	66	nmod	_	Translit=ye|LTranslit=ye|Gloss=their
 68	ايراني	ايراني	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	73	amod	_	Translit=irâní|LTranslit=irâní|Gloss=Iranian
 69	او	او	CCONJ	_	_	72	cc	_	Translit=aw|LTranslit=aw|Gloss=and
