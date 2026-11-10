@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Pashto-Sikaram:
-commit f4546bb102b677bf3f07b9c88203bf13e80d7e8c
-Merge: 0fdb631 8aa516f
+commit debff8021a1b3a88bd2388a9fc55f1f17a54951f
+Merge: 803c2fb 694ef08
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ps_sikaram'
 Language code (from CoNLL-U file name) = 'ps'
 Found the following data files: ps_sikaram-ud-test.conllu
-Size: counted 5467 of 5467 words (nodes).
-Size: min(0, log((N/1000)**2)) = 3.39746003982572.
+Size: counted 6932 of 6932 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.87229674370672.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 4125 out of 5467 total words have one or more features.
+Features: 5272 out of 6932 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -30,10 +30,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.245916357963852) = 0.0910801325792046
+(weight=0.37037037037037) * (score{size}=0.280286184680626) = 0.103809698029862
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
-(TOTAL score=0.530063037052305) * (availability=1) * (validity=1) = 0.530063037052305
+(TOTAL score=0.542792602502962) * (availability=1) * (validity=1) = 0.542792602502962
 STARS = 2.5
-UD_Pashto-Sikaram	0.530063037052305	2.5
+UD_Pashto-Sikaram	0.542792602502962	2.5
